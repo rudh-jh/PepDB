@@ -1,0 +1,26 @@
+AHTPDB 原始来源说明
+============================================================
+记录时间: 2026-03-24 13:59:20
+source_id: ace_db_ahtpdb_001
+task: ace
+source_type: database
+source_name: AHTPDB
+evidence_level: curated_db
+
+官方页面 URL:
+- home: https://webs.iiitd.edu.in/raghava/ahtpdb/cp_index.php
+- information: https://webs.iiitd.edu.in/raghava/ahtpdb/info2.php
+- download: https://webs.iiitd.edu.in/raghava/ahtpdb/download.php
+- guide: https://webs.iiitd.edu.in/raghava/ahtpdb/main_help.php
+- publications: https://webs.iiitd.edu.in/raghava/ahtpdb/pub1.php
+
+官方下载数据 URL:
+- ahtpdb_small_peptides_2_5_residues.txt: https://webs.iiitd.edu.in/raghava/ahtpdb/downloads/small.txt
+- ahtpdb_long_peptides_6_plus_residues.txt: https://webs.iiitd.edu.in/raghava/ahtpdb/downloads/long.txt
+- ahtpdb_peptides_with_ic50.txt: https://webs.iiitd.edu.in/raghava/ahtpdb/downloads/pepic50.txt
+
+当前说明:
+1. 本目录保存的是 AHTPDB 原始页面与官方下载文本。
+2. 当前脚本不对下载文本做字段解析与标准化。
+3. 后续 standardized / worksets / analysis 层应基于本目录另行生成。
+4. screenshots 目录默认留空，建议后续手工补充页面结构截图。

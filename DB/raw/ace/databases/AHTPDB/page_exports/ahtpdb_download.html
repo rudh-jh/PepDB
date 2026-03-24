@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>AHTPDB: Anti-hypertensive peptide database</title>
+<meta name="keywords" content="hypetensive,inhibitors, blood pressure, peptide,structure" />
+<meta name="description" content="A database of antihypertenvie peptides" />
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<script type='text/javascript' src='menu_jquery.js'></script>
+<link href="default.css" rel="stylesheet" type="text/css" />
+<link href="stylelft.css" rel="stylesheet" type="text/css" />
+<link href="stylehor.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="logo">
+      <div id="nav">
+        <ul>
+          <li><a href="index.php">HOME </a></li>
+          <li><a href="info2.php">INFORMATION</a></li>
+          <li><a href="stat.php">STATISTICS</a></li>
+          <li><a href="download.php">DOWNLOAD</a></li>
+          <li><a href="main_help.php">GUIDE TOUR</a></li>
+          <li><a href="team.php">DEVELOPERS</a></li>
+          <li><a href="contact.php">CONTACT</a></li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+</div>
+<br>
+	<div id="colB">
+<div id='cssmenu'>
+<ul>
+   <li class='active'><a href='index.php'><span>Home</span></a></li>
+   <li class='has-sub'><a href='#'><span>Query</span></a>
+      <ul>
+         <li class='last'><a href='basic2.php'><span>Basic Search</span></a>
+         <li class='last'><a href='cond.php'><span>Advanced Search</span></a></li>
+         <li class='last'><a href='pep.php'><span>Peptide Search</span></a></li>
+         <li class='last'><a href='smiles.php'><span>SMILES Search</span></a></li>
+         <!--li class='last'><a href='iden.php'><span>IDENTICAL RESIDUES</span></a></li-->
+      </ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Explore</span></a>
+	<ul>
+         <!--li class='last'><a href='pepbr.php'><span>Peptide Based</span></a-->
+
+         <li class='last'><a href='srcbr.php'><span>Source Based</span></a></li>
+         <li class='last'><a href='lenbr.php'><span>Length Based</span></a></li>
+         <li class='last'><a href='ic50br.php'><span>IC50 Based</span></a></li>
+         <!--li class='last'><a href='bitterbr.php'><span>Bitterness Based</span></a></li-->
+         <li class='last'><a href='physico.php'><span>Physico-chemical properties based</span></a></li>
+         <!--li class='last'><a href='strbr.php'><span>Structure Based</span></a></li-->
+         <!--li class='last'><a href='propbr.php'><span>Property Based</span></a></li-->
+	</ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Facility</span></a>
+        <ul>
+         <!--li class='last'><a href='blast.php'><span>BLAST</span></a-->
+         <li class='last'><a href='sw.php'><span>SMITH-WATERMAN</span></a></li>
+         <li class='last'><a href='align.php'><span>Sequence Alignment</span></a></li>
+         <!--li class='last'><a href='muscle.php'><span>MUSCLE</span></a></li>
+         <li class='last'><a href='helical.php'><span>HELICAL WHEEL</span></a></li-->
+         <li class='last'><a href='pepmapp2.php'><span>PEPTIDE MAPPING</span></a></li>
+         <!--li class='last'><a href='ppv.php'><span>PP VALUES</span></a></li-->
+        </ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Property</span></a>
+        <ul>
+         <li class='last'><a href='aaf2.php'><span>AA Frequency</span></a>
+         <li class='last'><a href='aac2.php'><span>AA Composition</span></a></li>
+         <li class='last'><a href='ppf2.php'><span>PP Frequency</span></a></li>
+         <li class='last'><a href='ppc2.php'><span>PP Composition</span></a></li>
+         <!--li class='last'><a href='ppv.php'><span>PP Values</span></a></li-->
+         <!--li class='last'><a href='pepmap.php'><span>PEPTIDE MAPPING</span></a></li-->
+        </ul>
+   </li>   <li class='has-sub'><a href='#'><span>Structure</span></a>
+        <ul>
+         <li class='last'><a href='ssc.php'><span>SS Composition</span></a>
+         <li class='last'><a href='sss.php'><span>SS Search</span></a></li>
+         <li class='last'><a href='str_align.php'><span>Structure Alignment</span></a></li>
+        </ul>
+   </li>
+   <!--li class='has-sub'><a href='#'><span>Matrix</span></a>
+        <ul>
+         <li class='last'><a href='monomat.php'><span>MONOPEP</span></a>
+         <li class='last'><a href='dimat.php'><span>DIPEP</span></a></li>
+         <li class='last'><a href='propmat.php'><span>PROPERTY BASED</span></a></li>
+         <li class='last'><a href='qms.php'><span>QMSCal</span></a></li>
+        </ul>
+   </li--> 
+   <li class='has-sub'><a href='#'><span>Important</span></a>
+	<ul>
+         <li class='last'><a href='submit.php'><span>SUBMISSION</span></a>
+         <li class='last'><a href='pub1.php'><span>PUBLICATIONS</span></a></li>
+         <li class='last'><a href='latest.php'><span>RECENT PAPERS</span></a></li>
+         <li class='last'><a href='links.php'><span>IMPORTANT LINKS</span></a></li>
+        </ul>
+
+   </li>
+</ul>
+</div>
+	</div>
+<div id="content"><div id="colA"> <div id="welcome" class="boxedA">
+<table border=0  width=800 align="center" bgcolor="#F8F8F8" cellpadding=10><tr><td align=center><h1>Download Datasets</h1></td></tr></table>
+<br><br>
+<table border=1 cellpadding=5>
+<!--tr><th colspan=4><h2><font color="black">Datasets</font></h2> <marquee behavior="alternate" scrollamount="5"><font color=blue> Manuscript is under review. Datasets will be available soon !! </font></marquee></th></tr-->
+<tr><th>Dataset</th><th>Description</th>
+<tr>
+<!--td><h3><font color="black"><a href="">Main</a></font> </h3></td><td>It contains about 5978 experimentally validated Antihypertensive peptides which are collected and complied from literature, from various natural resources.</td></td></tr-->
+<tr><td><h3><font color="black"><a href="downloads/small.txt">Small Peptides (2 - 5 residues)</a></font> </h3></td><td>It contains about 4445 experimentally validated small Antihypertensive peptides which are 2-5 amino acids in length & collected and complied from literature, from various natural resources.</td>
+<tr><td><h3><font color="black"><a href="downloads/long.txt">Long Peptides (6 - 16 residues)</a></font> </h3></td><td>It contains about 1533 experimentally validated Antihypertensive peptides which are of 6 to 16 or more in length size & collected and complied from literature, from various natural resources.</td>
+<tr><td><h3><font color="black"><a href="downloads/pepic50.txt">Peptides with IC50</a></font> </h3></td><td>It contains about 3364 experimentally validated Antihypertensive peptides which have IC50 (ACE inhibitory concentration) is given & which are collected and complied from literature, from various natural resources.</td>
+</tr>
+</table>
+</div>
+</div></div>
+
+<br><br>
+<div id="footer">
+<p><a href="/raghava/ahtpdb/" target="_self"> AHTPDB</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/raghava/" target="_blank"> Raghava's Group</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://webs.iiitd.edu.in/" target="_blank"> IMTECH</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.csir.res.in/" target="_blank"> CSIR</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://webs.iiitd.edu.in/" target="_blank"> CRDD</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/raghava/gpsr/" target="_blank"> GPSR Package</a></p>   
+</div>
+
+</body>
+</html>

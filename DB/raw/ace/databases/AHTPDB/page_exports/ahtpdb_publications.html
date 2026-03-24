@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>AHTPDB: Anti-hypertensive peptide database</title>
+<meta name="keywords" content="hypetensive,inhibitors, blood pressure, peptide,structure" />
+<meta name="description" content="A database of antihypertenvie peptides" />
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<script type='text/javascript' src='menu_jquery.js'></script>
+<link href="default.css" rel="stylesheet" type="text/css" />
+<link href="stylelft.css" rel="stylesheet" type="text/css" />
+<link href="stylehor.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="logo">
+      <div id="nav">
+        <ul>
+          <li><a href="index.php">HOME </a></li>
+          <li><a href="info2.php">INFORMATION</a></li>
+          <li><a href="stat.php">STATISTICS</a></li>
+          <li><a href="download.php">DOWNLOAD</a></li>
+          <li><a href="main_help.php">GUIDE TOUR</a></li>
+          <li><a href="team.php">DEVELOPERS</a></li>
+          <li><a href="contact.php">CONTACT</a></li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+</div>
+<br>
+	<div id="colB">
+<div id='cssmenu'>
+<ul>
+   <li class='active'><a href='index.php'><span>Home</span></a></li>
+   <li class='has-sub'><a href='#'><span>Query</span></a>
+      <ul>
+         <li class='last'><a href='basic2.php'><span>Basic Search</span></a>
+         <li class='last'><a href='cond.php'><span>Advanced Search</span></a></li>
+         <li class='last'><a href='pep.php'><span>Peptide Search</span></a></li>
+         <li class='last'><a href='smiles.php'><span>SMILES Search</span></a></li>
+         <!--li class='last'><a href='iden.php'><span>IDENTICAL RESIDUES</span></a></li-->
+      </ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Explore</span></a>
+	<ul>
+         <!--li class='last'><a href='pepbr.php'><span>Peptide Based</span></a-->
+
+         <li class='last'><a href='srcbr.php'><span>Source Based</span></a></li>
+         <li class='last'><a href='lenbr.php'><span>Length Based</span></a></li>
+         <li class='last'><a href='ic50br.php'><span>IC50 Based</span></a></li>
+         <!--li class='last'><a href='bitterbr.php'><span>Bitterness Based</span></a></li-->
+         <li class='last'><a href='physico.php'><span>Physico-chemical properties based</span></a></li>
+         <!--li class='last'><a href='strbr.php'><span>Structure Based</span></a></li-->
+         <!--li class='last'><a href='propbr.php'><span>Property Based</span></a></li-->
+	</ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Facility</span></a>
+        <ul>
+         <!--li class='last'><a href='blast.php'><span>BLAST</span></a-->
+         <li class='last'><a href='sw.php'><span>SMITH-WATERMAN</span></a></li>
+         <li class='last'><a href='align.php'><span>Sequence Alignment</span></a></li>
+         <!--li class='last'><a href='muscle.php'><span>MUSCLE</span></a></li>
+         <li class='last'><a href='helical.php'><span>HELICAL WHEEL</span></a></li-->
+         <li class='last'><a href='pepmapp2.php'><span>PEPTIDE MAPPING</span></a></li>
+         <!--li class='last'><a href='ppv.php'><span>PP VALUES</span></a></li-->
+        </ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Property</span></a>
+        <ul>
+         <li class='last'><a href='aaf2.php'><span>AA Frequency</span></a>
+         <li class='last'><a href='aac2.php'><span>AA Composition</span></a></li>
+         <li class='last'><a href='ppf2.php'><span>PP Frequency</span></a></li>
+         <li class='last'><a href='ppc2.php'><span>PP Composition</span></a></li>
+         <!--li class='last'><a href='ppv.php'><span>PP Values</span></a></li-->
+         <!--li class='last'><a href='pepmap.php'><span>PEPTIDE MAPPING</span></a></li-->
+        </ul>
+   </li>   <li class='has-sub'><a href='#'><span>Structure</span></a>
+        <ul>
+         <li class='last'><a href='ssc.php'><span>SS Composition</span></a>
+         <li class='last'><a href='sss.php'><span>SS Search</span></a></li>
+         <li class='last'><a href='str_align.php'><span>Structure Alignment</span></a></li>
+        </ul>
+   </li>
+   <!--li class='has-sub'><a href='#'><span>Matrix</span></a>
+        <ul>
+         <li class='last'><a href='monomat.php'><span>MONOPEP</span></a>
+         <li class='last'><a href='dimat.php'><span>DIPEP</span></a></li>
+         <li class='last'><a href='propmat.php'><span>PROPERTY BASED</span></a></li>
+         <li class='last'><a href='qms.php'><span>QMSCal</span></a></li>
+        </ul>
+   </li--> 
+   <li class='has-sub'><a href='#'><span>Important</span></a>
+	<ul>
+         <li class='last'><a href='submit.php'><span>SUBMISSION</span></a>
+         <li class='last'><a href='pub1.php'><span>PUBLICATIONS</span></a></li>
+         <li class='last'><a href='latest.php'><span>RECENT PAPERS</span></a></li>
+         <li class='last'><a href='links.php'><span>IMPORTANT LINKS</span></a></li>
+        </ul>
+
+   </li>
+</ul>
+</div>
+	</div>
+<div id="content"><div id="colA"> <div id="welcome" class="boxedA">
+<div class="text_area" align="justify">
+<!--li> <g:plusone size=medium></g:plusone>
+<div class="fb-like" data-href="http://info.csir.res.in/" data-send="true" data-layout="button_count" data-width="100" data-show-faces="true" data-font="arial"></div></li-->
+<!--scrolling starts-->
+
+<table border=0  width=800 align="center" bgcolor="#F8F8F8" cellpadding=10><tr><td align=center><h1>References of AHTPDB</h1></td></tr></table>
+<table border=1 width=800 cellpadding=5><tr><td align=justify>
+This page gives the option to the users to the list of the articles related to ACEIP peptides. For more information related to the articles, user can goto the link to get its abstract.
+For more information see <a href="pub_help.php"><font color=red>HELP</font></a> page.
+</div></td></tr>
+</table>
+<table border ="1" width=800 cellpadding=0px align="left" >
+
+<!--tr bgcolor="#F5F6CE"><td colspan="3"><br><a name="Open Access Article(PMC)"></a><b><u><div id="flip3">Open access article</div></u></b><br><div id="panel3">User can search the query sequence against whole database. Search result will
+ provide user either with exactly identical peptide or matching peptides with the given query sequence.</div><br/><br/></td></tr-->
+<th colspan=3>From Year 2011 to 2013</th>
+<tr><td>Design of potent, non-toxic anticancer peptides based on the structure of the antimicrobial peptide, temporin-1CEa.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23609760"/>23609760</a></td></tr>
+<tr><td>Angiotensin I-converting enzyme (ACE) inhibitory peptides derived from arachin by simulated gastric digestion</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I-converting enzyme inhibitory activity in a hydrolysate of proteins from Northern shrimp (Pandalus borealis) and identification of two novel inhibitory tri-peptides</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I-converting enzyme inhibitory activity of low-molecular-weight peptides from Atlantic salmon (Salmo salar L.) skin</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Antihypertensive peptides: Production, bioavailability and incorporation into foods</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21185549"/>21185549</a></td></tr>
+<tr><td>Characterisation of a new antihypertensive angiotensin I-converting enzyme inhibitory peptide from Pleurotuscornucopiae.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23140680"/>23140680</a></td></tr>
+<tr><td>Angiotensin I converting enzyme inhibitory peptides purified from bovine skin gelatin hydrolysate.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/11409999"/>11409999</a></td></tr>
+<tr><td>Effect of angiotensin I-converting enzyme (ACE) inhibitory peptide purified from enzymatic hydrolysates of Styela plicata</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Effect of angiotensin I-converting enzyme (ACE) inhibitory peptide purified from enzymatic hydrolysates of Styela plicata</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Evaluation of Angiotensin I-Converting Enzyme (ACE) Inhibitory Activities of Hydrolysates Generated from Byproducts of FreshwaterClam</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Free radical scavenging and angiotensin-I converting enzyme inhibitory peptides from Pacific cod (Gadus macrocephalus) skin gelatin</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21945677"/>21945677</a></td></tr>
+<tr><td>One-Week Antihypertensive Effect of Ile-Gln-Pro in Spontaneously Hypertensive Rats</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21182294"/>21182294</a></td></tr>
+<tr><td>Purification and identification of antihypertensive peptides from seaweed pipefish (Syngnathus schlegeli) muscle protein hydrolysate</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>QSAR-aided in silico approach in evaluation of food proteins as precursors of ACE inhibitory peptides</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Release of Angiotensin I-Converting Enzyme Inhibitory Peptides from Flaxseed (Linum usitatissimum L.) Protein under Simulated Gastrointestinal Digestion</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21776963"/>21776963</a></td></tr>
+<tr><td>Antihypertensive peptides: Production, bioavailability and incorporation into foods</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Sweet potato storage root thioredoxin h2 and their peptic hydrolysates exhibited angiotensin converting enzyme inhibitory activity in vitro</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>ACE-Inhibitory Properties of Proteolytic Hydrolysates from Giant Jellyfish Nemopilema nomurai</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>The potential role of milk-derived peptides in cardiovascular disease</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21779574"/>21779574</a></td></tr>
+<tr><td>QSAR-aided in silico approach in evaluation of food proteins as precursors of ACE inhibitory peptides</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Bioactive Peptides: A Review</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Antihypertensive effect of insect cells: In vitro and in vivo evaluation</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20800635"/>20800635</a></td></tr>
+<tr><td>A novel angiotensin I-converting enzyme (ACE) inhibitory peptide from a marine Chlorella ellipsoidea and its antihypertensive effect in spontaneously hypertensive rats</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>ACE inhibitory activity of pangasius catfish (Pangasius sutchi) skin and bone gelatin hydrolysate</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>An active peptide purified from gastrointestinal enzyme hydrolysate of Pacific cod skin gelatin attenuates angiotensin-1 converting enzyme (ACE) activity and cellular oxidative stress</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I converting enzyme (ACE) inhibitory peptides from salmon byproduct protein hydrolysate by Alcalase hydrolysis</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Antihypertensive effect of a bovine lactoferrin pepsin hydrolysate: Identification of novel active peptides</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Assessment of the angiotensin-I-converting enzyme (ACE-I) inhibitory and antioxidant activities of hydrolysates of bovine brisket sarcoplasmic proteins produced by papain and characterisation of associated bioactive peptidic fractions</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21880436"/>21880436</a></td></tr>
+<tr><td>Changes in arterial blood pressure after single oral administration of cuttlefish (Sepia officinalis) muscle derived peptides in spontaneously hypertensive rats</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Development of a reversed-phase high-performance liquid chromatography analytical methodology for the determination of antihypertensive peptides in maize crops</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22281504"/>22281504</a></td></tr>
+<tr><td>Hypotensive effect of a sweetpotato protein digest in spontaneously hypertensive rats and purification of angiotensin I-converting enzyme inhibitory peptides</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Low molecular weight flaxseed protein-derived arginine-containing peptides reduced blood pressure of spontaneously hypertensive rats faster than amino acid form of arginine and native flaxseed protein </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Purification and characterization of a novel angiotensin-I converting enzyme (ACE) inhibitory peptide derived from enzymatic hydrolysate of grass carp protein</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22100519"/>22100519</a></td></tr>
+<tr><td>Isolation and analysis of novel compounds from shrimp waste</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>The Novel Angiotensin I Converting Enzyme Inhibitory Peptide from Rainbow Trout Muscle Hydrolysate</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Chemical characterisation and determination of sensory attributes of hydrolysates produced by enzymatic hydrolysis of whey proteins following a novel integrative process</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23442643"/>23442643</a></td></tr>
+<tr><td>Modeling the QSAR of ACE-Inhibitory Peptides with ANN and Its Applied Illustration</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21822439"/>21822439</a></td></tr>
+<tr><td>Yeasts from Colombian Kumis as source of peptides with Angiotensin I converting enzyme (ACE) inhibitory activity in milk</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22938834"/>22938834</a></td></tr>
+<tr><td>ANGIOTENSIN CONVERTING ENZYME INHIBITORY PEPTIDES FROM AQUATIC AND THEIR PROCESSING BY-PRODUCTS: A REVIEW</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Development of a reversed-phase high-performance liquid chromatography analytical methodology for the determination of antihypertensive peptides in maize crops</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22281504"/>22281504</a></td></tr>
+<tr><td>Farm animal milk proteomics</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22641156"/>22641156</a></td></tr>
+<tr><td>Purification and Identification of antihypertensive peptides in Spanish dry-cured ham</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23117181"/>23117181</a></td></tr>
+<tr><td>Mass spectrometry for nutritional peptidomics: How to analyze food bioactives and their health effects</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22227401"/>22227401</a></td></tr>
+<tr><td>Quantitative structureeactivity relationship based screening of bioactive peptides identified in ripened cheese</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>What are the ideal properties for functional food peptides with antihypertensive effect? A computational peptidology approach</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23871047"/>23871047</a></td></tr>
+<tr><td>Review on the Angiotensin-I-Converting Enzyme (ACE) Inhibitor Peptides from Marine Proteins</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23271625"/>23271625</a></td></tr>
+<tr><td>Preparation of Antihypertensive Peptide from Hydrolyzing Peanut Protein by Trypsin Covalently Immobilized on Chemically Modified Chitosan-coated Fe3O4 Particles</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Novel angiotensin I-converting enzyme inhibitory peptides derived from an edible mushroom, Pleurotus cystidiosus O.K. Miller identified by LC-MS/MS</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/24215325"/>24215325</a></td></tr>
+<tr><td>Characterization of an Antihypertensive Angiotensin I-Converting Enzyme Inhibitory Peptide from the Edible Mushroom Hypsizygus marmoreus</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/24380081"/>24380081</a></td></tr>
+<tr><td>QSBR study of bitter taste of peptides: application of GA-PLS in combination with MLR, SVM, and ANNapproaches.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/24371826"/>24371826</a></td></tr>
+<tr><td>Characterization of an antihypertensive angiotensin I-converting enzyme inhibitory peptide from the ediblemushroom Hypsizygus marmoreus.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/24380081"/>24380081</a></td></tr>
+<tr><td>Effect of Jatropha curcas peptide fractions on the angiotensin I-converting enzyme inhibitory activity.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/24224169"/>24224169</a></td></tr>
+<tr><td>Identification of Bioactive Peptides from Cereal Storage Proteins and Their Potential Role in Prevention of Chronic Diseases.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>ISOLATION AND CHARACTERIZATION OF PEPTIDES WITH ANTIHYPERTENSIVE ACTIVITY IN FOODSTUFFS.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>A new QSAR model, for angiotensin I-converting enzyme inhibitory oligopeptides.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23194537"/>23194537</a></td></tr>
+<tr><td>Angiotensin-converting enzyme inhibitory effects of dairy- and soy-derived peptides in pre-hypertensive overweight men and women.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I-Converting Enzyme Inhibitory Peptides of Chia (Salvia hispanica) Produced by Enzymatic Hydrolysis</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>ENZYMATIC METHOD FOR ACE INHIBITORY PEPTIDE DERIVED FROM AQUATIC RESOURCES: A REVIEW.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I-Converting Enzyme Inhibitory Peptides of Chia (Salvia hispanica) Produced by Enzymatic Hydrolysis. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Antihypertensive Property of Yak Milk Caseinates Hydrolyzed with Different Proteases. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Glycinyl-Histidinyl-Serine (GHS), a Novel Rapeseed Protein-Derived Peptide Has Blood Pressure-Lowering Effect in Spontaneously Hypertensive Rats.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23919612"/>23919612</a></td></tr>
+<tr><td> HomoSAR: Bridging Comparative Protein Modeling with Quantitative Structural Activity Relationship to Design New Peptides.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin-I-Converting Enzyme Inhibitory and Antioxidant Activities of Protein Hydrolysate from Muscle of Barbel (Barbus callensis).</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Analysis of the Endogenous Peptide Profile of Milk: Identification of 248 Mainly Casein-Derived Peptides. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/24245561"/>24245561</a></td></tr>
+<tr><td>Angiotensin-I converting enzyme (ACE) inhibitory activity of aqueous extract prepared from fermented brown rice: A potential functional food for management of hypertension.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Contribution of non-peptide substances to inhibition of angiotensin Iconverting enzyme (ACE) by aqueous extract of brown seaweed Undaria pinnatifida.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Egg-derived tri-peptide IRW exerts antihypertensive effects in spontaneously hypertensive rats.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/24312436"/>24312436</a></td></tr>
+<tr><td>VPPIPP and IPPVPP: two hexapeptides innovated to exert antihypertensive activity.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23638059"/>23638059</a></td></tr>
+<tr><td>Peptides with angiotensin I converting enzyme (ACE) inhibitory activity generated from porcine skeletalmuscle proteins by the action of meat-borne Lactobacillus.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23806758"/>23806758</a></td></tr>
+<tr><td>Vegetable foods: a cheap source of proteins and peptides with antihypertensive, antioxidant, and other lessoccurrence bioactivities.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23598136"/>23598136</a></td></tr>
+<tr><td>Bioactive Food Proteins and Peptides: Applications in Humans. Book Chapter</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Predictive modelling of angiotensin converting enzyme inhibitory dipeptides.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Anticancer Effect in HL-60 Human Leukemia Cells and Other Helath-Beneficial Functions of Cheese.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+
+<th colspan=3>From Year 2006 to 2010</th>
+<tr><td>Correlation of charge, hydrophobicity, and structure with antimicrobial activity of S1 and MIRIAM peptides.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20873868"/>20873868</a></td></tr>
+<tr><td>Angiotensin I-converting enzyme inhibitory peptide from yellowfin sole (Limanda aspera) frame protein and its antihypertensive effect in spontaneously hypertensive rats.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Bioactivity of beta-lactoglobulin and alpha-lactalbumin—Technological implications for processing.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Characterization of an antihypertensive peptide from an Alfalfa white protein hydrolysate by mixed ion-exchange centrifugal partition chromatography.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22939269"/>22939269</a></td></tr>
+<tr><td>Effect of beta-lactoglobulin hydrolysis with thermolysin under denaturing temperatures on the release of bioactive peptides.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/16580004"/>16580004</a></td></tr>
+<tr><td>Effect of Simulated Gastrointestinal Digestion on the Antihypertensive Properties of ACE-Inhibitory Peptides Derived from Ovalbumin.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/16448175"/>16448175</a></td></tr>
+<tr><td>Identification and Characterization of Novel Angiotensin-Converting Enzyme Inhibitors Obtained from Goat Milk.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/16899665"/>16899665</a></td></tr>
+<tr><td>Identification of ACE-inhibitory peptides in different Spanish cheeses by tandem mass spectrometry. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Isolation and characterization of angiotensin I-converting enzyme inhibitory peptides derived from porcine hemoglobin.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/16875758"/>16875758</a></td></tr>
+<tr><td>Production kinetics of angiotensin-I converting enzyme inhibitory peptides from bonito meat in artificial gastric juice.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Purification and identification of angiotensin I-converting enzyme inhibitory peptide from buckwheat (Fagopyrum esculentum Moench). </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Structural Requirements of Angiotensin I-Converting Enzyme Inhibitory Peptides: Quantitative Structure-Activity Relationship Study of Di- and Tripeptides. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/16448176"/>16448176</a></td></tr>
+<tr><td>The inhibitory effects of freshwater clam (Corbicula fluminea, Muller) muscle protein hydrolysates on angiotensin I converting enzyme. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Tyr-Pro-Lys, an angiotensin I-converting enzyme inhibitory peptide derived from broccoli (Brassica oleracea Italica). </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Blood Pressure-Depressing Activity of a Peptide Derived from Silkworm Fibroin in Spontaneously Hypertensive Rats.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/16495671"/>16495671</a></td></tr>
+<tr><td>Characterization of an antihypertensive peptide from an Alfalfa white protein hydrolysate produced by a continuous enzymatic membrane reactor. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22939269"/>22939269</a></td></tr>
+<tr><td>Structural Requirements of Angiotensin I-Converting Enzyme Inhibitory Peptides: Quantitative Structure-Activity Relationship Modeling of Peptides Containing 4-10 Amino Acid Residues. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>ACE-inhibitory and radical-scavenging activity of peptides derived from beta-lactoglobulin f(19-25).Interactions with ascorbic acid.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/17411066"/>17411066</a></td></tr>
+<tr><td>Antihypertensive effect and purification of an ACE inhibitory peptide from sea cucumber gelatin hydrolysate. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Fractionation and identification of ACE-inhibitory peptides from a-lactalbumin and b-casein produced by thermolysin-catalysed hydrolysis.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Identification of peptides in traditional and probiotic sheep milk yoghurt with angiotensin I-converting enzyme (ACE)-inhibitory activity. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Physicochemical characterization and in vitro digestibility of b-lactoglobulin/b-Lg f142-148 complexes. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Purification of angiotensin I-converting enzyme inhibitory peptides and antihypertensive effect of milk produced by protease-facilitated lactic fermentation. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Value-added utilization of yak milk casein for the production of angiotensin-I-converting enzyme inhibitory peptides. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Antihypertensive effect of rice protein hydrolysate with in vitro angiotensin I-converting enzyme inhibitory activity in spontaneously hypertensive rats. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/17392118"/>17392118</a></td></tr>
+<tr><td>Evaluation of ACE inhibitory activity of dipeptides generated by the action of porcine muscle dipeptidyl peptidases. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Effect of simulated gastrointestinal digestion on the antihypertensive properties of synthetic b-lactoglobulin peptide sequences. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/17466121"/>17466121</a></td></tr>
+<tr><td>Vascular effects and antihypertensive properties of k-casein macropeptide.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Peptide with Angiotensin I-Converting Enzyme Inhibitory Activity from Hydrolyzed Corn Gluten Meal. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/17715987"/>17715987</a></td></tr>
+<tr><td>Milk Peptides and Blood Pressure.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Identification of novel angiotensinconverting enzyme-inhibitory peptides from ovine milk proteins by CE-MS and chromatographic techniques. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/17948260"/>17948260</a></td></tr>
+<tr><td>ACE-inhibitory peptides identified from the muscle protein hydrolysate of hard clam (Meretrix lusoria).</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Antihypertensive effect of an angiotensin converting enzyme inhibitory peptide from enzyme modified cheese. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/18620614"/>18620614</a></td></tr>
+<tr><td>Identification of ACE-inhibitory peptides in salt-free soy sauce that are transportable across caco-2 cell monolayers.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/18160180"/>18160180</a></td></tr>
+<tr><td>Porcine Skeletal Muscle Troponin Is a Good Source of Peptides with Angiotensin-I Converting Enzyme Inhibitory Activity and Antihypertensive Effects in Spontaneously Hypertensive Rats. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/18163567"/>18163567</a></td></tr>
+<tr><td>Purification and identification of a ACE inhibitory peptide from oyster proteins hydrolysate and the antihypertensive effect of hydrolysate in spontaneously hypertensive rats. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Purification and identification of novel angiotensin-I-converting enzyme inhibitory peptides from shark meat hydrolysate. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Purification of angiotensin I-converting enzyme-inhibitory peptides from the enzymatic hydrolysate of defatted canola meal.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Sweet potato storage root trypsin inhibitor and their peptic hydrolysates exhibited angiotensin converting enzyme inhibitory activity in vitro.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>BIOLOGICALLY ACTIVE PEPTIDES DERIVED FROM PROTEINS – A REVIEW.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>A novel ACE inhibitory peptide isolated from Acaudina molpadioidea hydrolysate. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19463733"/>19463733</a></td></tr>
+<tr><td>Angiotensin I-converting enzyme inhibitory peptides in red-mold rice made by Monascus purpureus. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Identification of pro-drug type ACE inhibitory peptide sourced from porcine myosin B: Evaluation of its antihypertensive effects in vivo. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Isolation and characterisation of a novel angiotensin I-converting enzyme (ACE) inhibitory peptide from the algae protein waste. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Novel casein-derived peptides with antihypertensive activity.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Production of novel ACE inhibitory peptides from b-lactoglobulin using Protease N Amano.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Purification and characterization of angiotensin I converting enzyme inhibitory peptides from the rotifer, Brachionus rotundiformis. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19540110"/>19540110</a></td></tr>
+<tr><td>MILK PROTEINS AS PRECURSORS OF BIOACTIVE PEPTIDES.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>MOTIFS WITH POTENTIAL PHYSIOLOGICAL ACTIVITY IN FOOD PROTEINS – BIOPEP DATABASE. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Novel casein-derived peptides with antihypertensive activity. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I-converting enzyme inhibitory peptides in red-mold rice made by Monascus purpureus. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Purification and identification of an angiotensin I-converting enzyme inhibitory peptide from fermented soybean extract. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Critical evaluation of the use of bioinformatics as a theoretical tool to find high-potential sources of ACE inhibitory peptides. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/18655819"/>18655819</a></td></tr>
+<tr><td>Animal and Plant Proteins as Precursors of Peptides with ACE Inhibitory Activity – An in silico Strategy of Protein Evaluation.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Analysis of Novel Angiotensin I-Converting Enzyme Inhibitory Peptides from Enzymatic Hydrolysates of Cuttlefish (Sepia officinalis) Muscle Proteins.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20180574"/>20180574</a></td></tr>
+<tr><td>A novel angiotensin I converting enzyme inhibitory peptide from tuna frame protein hydrolysate and its antihypertensive effect in spontaneously hypertensive rats. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I converting enzyme (ACE) inhibitory activity and antihypertensive effect of fermented milk. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/16476177"/>16476177</a></td></tr>
+<tr><td>Antihypertensive Effect of Peptide-Enriched Soy Sauce-Like Seasoning and Identification of Its Angiotensin I-Converting Enzyme Inhibitory Substances. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19994857"/>19994857</a></td></tr>
+<tr><td>Antihypertensive Effects of Silk Fibroin Hydrolysate by Alcalase and Purification of an ACE Inhibitory Dipeptide. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20481470"/>20481470</a></td></tr>
+<tr><td>Arachin derived peptides as selective angiotensin I-converting enzyme (ACE) inhibitors: Structure–activity relationship. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20214946"/>20214946</a></td></tr>
+<tr><td>Isolation and identification of angiotensin-converting enzyme inhibitory peptides from egg white protein hydrolysates. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Three novel angiotensin I-converting enzyme (ACE) inhibitory peptides from cuttlefish (Sepia officinalis) using digestive proteases. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20180574"/>20180574</a></td></tr>
+<tr><td>Isolation and identification of angiotensin-converting enzyme inhibitory peptides from egg white protein hydrolysates. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>A new approach for identification of novel antihypertensive peptides from egg proteins by QSAR and bioinformatics. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I-Converting Enzyme Inhibitory Peptides Generated from in Vitro Gastrointestinal Digestion of Pork Meat. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20151679"/>20151679</a></td></tr>
+<tr><td>Angiotensin-I-Converting Enzyme (ACE) Inhibitors from Marine Resources: Prospects in the Pharmaceutical Industry. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20479968"/>20479968</a></td></tr>
+<tr><td>Changes in arterial blood pressure after single oral administration of milk-casein-derived peptides in spontaneously hypertensive rats. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20397194"/>20397194</a></td></tr>
+<tr><td>Ala-Val-Phe and Val-Phe: ACE inhibitory peptides derived from insect protein with antihypertensive activity in spontaneously hypertensive rats.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19524628"/>19524628</a></td></tr>
+<tr><td>Antihypertensive Peptides from Milk Proteins. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Pharmaceutical applications of bioactive peptides. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+
+
+
+<th colspan=3>From Year 2001 to 2005</th>
+<tr><td>Structural and biological characterization of two novel peptides from the venom of the neotropical social wasp Agelaia pallipes pallipes.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15225564"/>15225564</a></td></tr>
+<tr><td>ALPHA-LACTORPHIN LOWERS BLOOD PRESSURE MEASURED BY RADIOTELEMETRY IN NORMOTENSIVE AND SPONTANEOUSLY HYPERTENSIVE RATS. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/10794501"/>10794501</a></td></tr>
+<tr><td>Antihypertensive effect of Valyl-Tyrosine, a short chain peptide derived from sardine muscle hydrolyzate, on mild hypertensive subjects. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/10962520"/>10962520</a></td></tr>
+<tr><td>Bioactive peptides derived from food proteins preventing lifestyle-related diseases. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/11216476"/>11216476</a></td></tr>
+<tr><td>Camel (camelus dromedarius) milk PP3: evidence for an insertion in the amino-terminal sequence of the camel milk whey protein.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/10735560"/>10735560</a></td></tr>
+<tr><td>Classification and Antihypertensive Activity of Angiotensin I-Converting Enzyme Inhibitory Peptides Derived from Food Proteins. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Identification of an antihypertensive peptide from peptic digest of wakame (Undaria pinnatifida).</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/11091100"/>11091100</a></td></tr>
+<tr><td>Angiotensin I Converting Enzyme Inhibitory Peptides Purified from Bovine Skin Gelatin Hydrolysate. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/11409999"/>11409999</a></td></tr>
+<tr><td>Angiotensin I-converting enzyme inhibitor from grifola frondosa.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>His-His-Leu, an Angiotensin I Converting Enzyme Inhibitory Peptide Derived from Korean Soybean Paste, Exerts Antihypertensive Activity in Vivo. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/11410001"/>11410001</a></td></tr>
+<tr><td>Identification of Antihypertensive Peptides from Peptic Digest of Two Microalgae, Chlorella vulgaris and Spirulina platensis. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/14961345"/>14961345</a></td></tr>
+<tr><td>Peptide inhibitors for angiotensin I-converting enzyme from enzymatic hydrolysates of porcine skeletal muscle proteins. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22061507"/>22061507</a></td></tr>
+<tr><td>Purification and characterization of angiotensin I converting enzyme (ACE) inhibitory peptides from Alaska pollack (Theragra chalcogramma) skin.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin-converting enzyme-inhibitory peptides in Manchego cheeses manufactured with different starter cultures. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Characterization of inhibition and stability of soy-protein-derived angiotensin I-converting enzyme inhibitory peptides.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Gastrointestinal enzyme production of bioactive peptides from royal jelly protein and their antihypertensive ability in SHR. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/11834223"/>11834223</a></td></tr>
+<tr><td>Latent Production of Angiotensin I-Converting Enzyme Inhibitors from Buckwheat Protein. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/12093003"/>12093003</a></td></tr>
+<tr><td>Preparation of ovine and caprine b-lactoglobulin hydrolysates with ACE-inhibitory activity. Identification of active peptides from caprine b-lactoglobulin hydrolysed with thermolysin. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Isolation and Antihypertensive Effect of Angiotensin I-Converting Enzyme (ACE) Inhibitory Peptides from Spinach Rubisco. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/12903942"/>12903942</a></td></tr>
+<tr><td>Isolation and characterization of angiotensin I-converting enzyme inhibitory peptides from wheat gliadin hydrolysate. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/14609094"/>14609094</a></td></tr>
+<tr><td>New antihypertensive peptides isolated from rapeseed. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/12948830"/>12948830</a></td></tr>
+<tr><td>Production of ace inhibitory peptides by digestion of chickpea legumin with alcalase. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin converting enzyme-inhibitory activity of peptides isolated from Manchego cheese. Stability under simulated gastrointestinal digestion.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Antihypertensive effects of Undaria pinnatifida (wakame) peptide on blood pressure in spontaneously hypertensive rats.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15135150"/>15135150</a></td></tr>
+<tr><td>Isolation and characterization of a novel angiotensin I-converting enzyme inhibitory peptide derived from the edible mushroom Tricholoma giganteum.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15165718"/>15165718</a></td></tr>
+<tr><td>Production of angiotensin I converting enzyme inhibitory peptides from sea bream scales.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I converting enzyme (ACE) inhibitory peptide derived from the sauce of fermented blue mussel, Mytilus edulis.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15978996"/>15978996</a></td></tr>
+<tr><td>Antihypertensive peptides from skimmed milk hydrolysate digested by cell-free extract of Lactobacillus helveticus JCM1004.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Direct spectrophotometric measurement of angiotensin I-converting enzyme inhibitory activity for screening bioactive peptides.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15708660"/>15708660</a></td></tr>
+<tr><td>Purification and identification of angiotensin converting enzyme inhibitory peptides from beef hydrolysates.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22063143"/>22063143</a></td></tr>
+<tr><td>BIOINFORMATIC-AIDED PREDICTION FOR RELEASE POSSIBILITIES OF BIOACTIVE PEPTIDES FROM PLANT PROTEINS.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/NA"/>NA</a></td></tr>
+<tr><td>Angiotensin I-converting enzyme inhibitory peptides isolated from tofuyo fermented soybean food.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/12843654"/>12843654</a></td></tr>
+<tr><td>Bioavailability of angiotensin I converting enzyme inhibitory peptides.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15469639"/>15469639</a></td></tr>
+<tr><td>Angiotensin I-Converting Enzyme Inhibitory Peptides Derived from Wakame (Undaria pinnatifida) and Their Antihypertensive Effect in Spontaneously Hypertensive Rats.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/12358510"/>12358510</a></td></tr>
+<tr><td>Antihypertensive effects of Undaria pinnatifida (wakame) peptide on blood pressure in spontaneously hypertensive rats. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15135150"/>15135150</a></td></tr>
+<tr><td>New antihypertensive peptides isolated from rapeseed.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/12948830"/>12948830</a></td></tr>
+<tr><td>Characterisation of Novel Antihypertensive Angiotensin I-converting Enzyme Inhibitory Peptidesfrom Edible Mushrooms. </td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15165718"/>15165718</a></td></tr>
+
+
+
+<th colspan=3>From Year 2000 and before</th>
+<tr><td>CRAMP analogues having potent antibiotic activity against bacterial, fungal, and tumor cells without ACEIP activity.</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/10973820"/>10973820</a></td><td></tr>
+
+
+</table>
+</div>
+
+
+</div>
+</div></div>
+
+<br><br>
+<div id="footer">
+<p><a href="/raghava/ahtpdb/" target="_self"> AHTPDB</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/raghava/" target="_blank"> Raghava's Group</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://webs.iiitd.edu.in/" target="_blank"> IMTECH</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.csir.res.in/" target="_blank"> CSIR</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://webs.iiitd.edu.in/" target="_blank"> CRDD</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/raghava/gpsr/" target="_blank"> GPSR Package</a></p>   
+</div>
+
+</body>
+</html>
+</div>
+</div>
+

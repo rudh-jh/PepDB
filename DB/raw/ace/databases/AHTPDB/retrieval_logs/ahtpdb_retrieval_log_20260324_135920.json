@@ -1,0 +1,87 @@
+{
+  "script": "init_ahtpdb_raw_archive.py",
+  "source_id": "ace_db_ahtpdb_001",
+  "task": "ace",
+  "source_name": "AHTPDB",
+  "run_at": "2026-03-24 13:59:20",
+  "project_root": "E:\\MYS\\PepDB",
+  "overwrite": false,
+  "log_records": [
+    {
+      "step": "write_text",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\README.md",
+      "status": "written",
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "write_text",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\source_note.txt",
+      "status": "written",
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "download_page",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/cp_index.php",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\page_exports\\ahtpdb_home.html",
+      "status": "downloaded",
+      "size_bytes": 10116,
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "download_page",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/info2.php",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\page_exports\\ahtpdb_information.html",
+      "status": "downloaded",
+      "size_bytes": 12846,
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "download_page",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/download.php",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\page_exports\\ahtpdb_download.html",
+      "status": "downloaded",
+      "size_bytes": 7559,
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "download_page",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/main_help.php",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\page_exports\\ahtpdb_guide.html",
+      "status": "downloaded",
+      "size_bytes": 8196,
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "download_page",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/pub1.php",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\page_exports\\ahtpdb_publications.html",
+      "status": "downloaded",
+      "size_bytes": 44784,
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "download_dataset",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/downloads/small.txt",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\raw_tables\\ahtpdb_small_peptides_2_5_residues.txt",
+      "status": "error",
+      "error": "<urlopen error _ssl.c:1000: The handshake operation timed out>",
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "download_dataset",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/downloads/long.txt",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\raw_tables\\ahtpdb_long_peptides_6_plus_residues.txt",
+      "status": "downloaded",
+      "size_bytes": 133431,
+      "timestamp": "2026-03-24 13:59:20"
+    },
+    {
+      "step": "download_dataset",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/downloads/pepic50.txt",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\raw_tables\\ahtpdb_peptides_with_ic50.txt",
+      "status": "downloaded",
+      "size_bytes": 279404,
+      "timestamp": "2026-03-24 13:59:20"
+    }
+  ]
+}

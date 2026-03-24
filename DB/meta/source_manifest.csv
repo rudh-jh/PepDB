@@ -1,0 +1,2 @@
+source_id,task,source_type,source_name,source_url_or_reference,evidence_level,access_date,raw_storage_path,notes
+ace_db_ahtpdb_001,ace,database,AHTPDB,https://webs.iiitd.edu.in/raghava/ahtpdb/cp_index.php,curated_db,2026/3/24,DB/raw/ace/databases/AHTPDB,AHTPDB 试点归档来源；当前阶段仅完成原始页面与官方下载文本归档，尚未进入标准化与工作集构建。

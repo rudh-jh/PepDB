@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>AHTPDB: Anti-hypertensive peptide database</title>
+<meta name="keywords" content="hypetensive,inhibitors, blood pressure, peptide,structure" />
+<meta name="description" content="A database of antihypertenvie peptides" />
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<script type='text/javascript' src='menu_jquery.js'></script>
+<link href="default.css" rel="stylesheet" type="text/css" />
+<link href="stylelft.css" rel="stylesheet" type="text/css" />
+<link href="stylehor.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="logo">
+      <div id="nav">
+        <ul>
+          <li><a href="index.php">HOME </a></li>
+          <li><a href="info2.php">INFORMATION</a></li>
+          <li><a href="stat.php">STATISTICS</a></li>
+          <li><a href="download.php">DOWNLOAD</a></li>
+          <li><a href="main_help.php">GUIDE TOUR</a></li>
+          <li><a href="team.php">DEVELOPERS</a></li>
+          <li><a href="contact.php">CONTACT</a></li>
+        </ul>
+        <div class="clear"></div>
+      </div>
+</div>
+<br>
+	<div id="colB">
+<div id='cssmenu'>
+<ul>
+   <li class='active'><a href='index.php'><span>Home</span></a></li>
+   <li class='has-sub'><a href='#'><span>Query</span></a>
+      <ul>
+         <li class='last'><a href='basic2.php'><span>Basic Search</span></a>
+         <li class='last'><a href='cond.php'><span>Advanced Search</span></a></li>
+         <li class='last'><a href='pep.php'><span>Peptide Search</span></a></li>
+         <li class='last'><a href='smiles.php'><span>SMILES Search</span></a></li>
+         <!--li class='last'><a href='iden.php'><span>IDENTICAL RESIDUES</span></a></li-->
+      </ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Explore</span></a>
+	<ul>
+         <!--li class='last'><a href='pepbr.php'><span>Peptide Based</span></a-->
+
+         <li class='last'><a href='srcbr.php'><span>Source Based</span></a></li>
+         <li class='last'><a href='lenbr.php'><span>Length Based</span></a></li>
+         <li class='last'><a href='ic50br.php'><span>IC50 Based</span></a></li>
+         <!--li class='last'><a href='bitterbr.php'><span>Bitterness Based</span></a></li-->
+         <li class='last'><a href='physico.php'><span>Physico-chemical properties based</span></a></li>
+         <!--li class='last'><a href='strbr.php'><span>Structure Based</span></a></li-->
+         <!--li class='last'><a href='propbr.php'><span>Property Based</span></a></li-->
+	</ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Facility</span></a>
+        <ul>
+         <!--li class='last'><a href='blast.php'><span>BLAST</span></a-->
+         <li class='last'><a href='sw.php'><span>SMITH-WATERMAN</span></a></li>
+         <li class='last'><a href='align.php'><span>Sequence Alignment</span></a></li>
+         <!--li class='last'><a href='muscle.php'><span>MUSCLE</span></a></li>
+         <li class='last'><a href='helical.php'><span>HELICAL WHEEL</span></a></li-->
+         <li class='last'><a href='pepmapp2.php'><span>PEPTIDE MAPPING</span></a></li>
+         <!--li class='last'><a href='ppv.php'><span>PP VALUES</span></a></li-->
+        </ul>
+   </li>
+   <li class='has-sub'><a href='#'><span>Property</span></a>
+        <ul>
+         <li class='last'><a href='aaf2.php'><span>AA Frequency</span></a>
+         <li class='last'><a href='aac2.php'><span>AA Composition</span></a></li>
+         <li class='last'><a href='ppf2.php'><span>PP Frequency</span></a></li>
+         <li class='last'><a href='ppc2.php'><span>PP Composition</span></a></li>
+         <!--li class='last'><a href='ppv.php'><span>PP Values</span></a></li-->
+         <!--li class='last'><a href='pepmap.php'><span>PEPTIDE MAPPING</span></a></li-->
+        </ul>
+   </li>   <li class='has-sub'><a href='#'><span>Structure</span></a>
+        <ul>
+         <li class='last'><a href='ssc.php'><span>SS Composition</span></a>
+         <li class='last'><a href='sss.php'><span>SS Search</span></a></li>
+         <li class='last'><a href='str_align.php'><span>Structure Alignment</span></a></li>
+        </ul>
+   </li>
+   <!--li class='has-sub'><a href='#'><span>Matrix</span></a>
+        <ul>
+         <li class='last'><a href='monomat.php'><span>MONOPEP</span></a>
+         <li class='last'><a href='dimat.php'><span>DIPEP</span></a></li>
+         <li class='last'><a href='propmat.php'><span>PROPERTY BASED</span></a></li>
+         <li class='last'><a href='qms.php'><span>QMSCal</span></a></li>
+        </ul>
+   </li--> 
+   <li class='has-sub'><a href='#'><span>Important</span></a>
+	<ul>
+         <li class='last'><a href='submit.php'><span>SUBMISSION</span></a>
+         <li class='last'><a href='pub1.php'><span>PUBLICATIONS</span></a></li>
+         <li class='last'><a href='latest.php'><span>RECENT PAPERS</span></a></li>
+         <li class='last'><a href='links.php'><span>IMPORTANT LINKS</span></a></li>
+        </ul>
+
+   </li>
+</ul>
+</div>
+	</div>
+<div id="content"><div id="colA"> <div id="welcome" class="boxedA">
+
+<table border ="1" >
+<tr bgcolor=#CACACA ><td colspan="2" width=95% align=center><font><h1>Information about AHTPDB</h1></font></td></tr>
+</table>
+
+<!--table width=100%-->
+<br>
+<table width=870px bgcolor="#FEEDEC"><tr>
+<td><a href="#aim">Introduction to AHTPDB</a></td>
+<td><a href="#app">Applications</a></td>
+<td><a href="#cur">Data Compilation</a><td></tr>
+<tr><td><a href="#arc">AHTPDB Architecture</a></td>
+<td><a href="#sub">Procedure of Updations</a></td>
+<td><a href="#data">Data Management</a></td></tr>
+<tr><td><a href="#user">User Interface</a></td>
+<td><a href="#disc">Access Conditons</a></td>
+<td><a href="#cop">Copyrights</a></td></tr>
+</table>
+
+
+<br>
+<a name="aim"><h2>Introduction to AHTPDB</h2></a>
+   <p align=justify> There are a number of chemical drugs to treat high blood pressure or hypertension e.g. captopril, perindopril, enalapril etc. All these drugs are effective but also have adverse side effects. Hence, it is imperative to search for alternate sources of antihypertensive agents, esp. from natural sources. In order to collect, compile and present antihypertensive peptides (AHTPs) from all known natural & other sources this database is developed. Thus, AHTPDB is a platform which provide the systematic information about antihypertensive peptides, which are majorily from natural resources.</p>
+
+<hr>
+
+<a name="app"><h2>Applications</h2></a><br>
+AHTPDB is an ideal platform for complete & relevant information for large number of antihypertensive peptides. It has following applications.<br>
+
+   <p align =justify>AHTPDB provides information about 5978 peptides, out of which 3364 are with IC50 value provided and  total number of unique antihypertensive peptides were 1694. Hence, it is comprehensive platform for large antihypertensive peptides with all the relevant information associated with them e.g. sequence, source, IC50, pIC50, molecular mass, purification method and therapeutic value etc.</p>
+
+   <p align =justify>AHTPDB also provides information of bitterness/toxicity of the peptides, this is important as many antihypertensive agents have been discovered and used as food additives e.g. FDA has approved 'VPP' & 'IPP' as antihypertensive food additives. If the given peptides have been known with their bitterness/toxicity value, it would be of great use for identification of all those antihypertensive peptides which can be exploited as food additives.</p>
+
+   <p align =justify>AHTPDB provide also provide the therapeutic potenstial of antihypertensive peptides by showing their effect in decrease in systolic  blood pressure (SBP). This shows the real therapeutic effect of a peptide & important in clical significance value of the peptide.</p>
+
+<hr>
+<a name="cur"><h2>Data Compilation</h2></a>
+
+   <p align=justify>Aim of the AHTPDB is to collect and compile all the relevant information of all the antihypertensive peptide known in the literature with all the relevant information about them. ACEpepDB, BIOPEP & EROP-Moscow database are major platform with antihypertensive information but their number of peptides are limited and sources are mainly natural. We collected major informations regarding AHTPs from these platform and updated that with existing literature knowledge. About 300-400 reserach articles have been searched for 5978 peptides and 1694 peptides were unique in their sequence.<p>
+<img src="images/curation.png" width= 870px height=770px alt='Curation.jpg'/></p>
+
+
+<br><hr>
+<a name="arc"><h2> AHTPDB Architecture</h2></a><br>
+<p align=justify>AHTPDB provides the user with a comprehensive information of the antihypertensive peptides giving details like their sequence, length, source, bitterness, mol.mass, IC50 etc.This information has been compiled from various research articles and available databases. Also, various tools like BLAST, SMITH-WATERMAN, Mapping and alignment have been integrated to make it more user friendly.
+<p><img src="images/arch1.jpg" width= 870px height=770px alt='ahtpdb.png'/></p>
+
+
+<br><hr>
+
+<a name="sub">
+<h2>Procedure of Updation</h2></a><br>
+<p align=justify>The AHTPDB web server allows users to submit their data online by filling out a HTML form. Before inclusion in AHTPDB we will confirm the validity of the supplied data, in order to maintain quality. We continue to search the literature and will add antihypertensive peptides with their IC50 values. In order to maintain the consistency we will release database time to time. All entries thus obtained will be available as new submissions. The success of this database is highly dependent upon contributors: users are requested to submit data.</p> 
+
+<hr>
+<a name="data">
+<h2> Data Management</h2></a><br>
+<p align=justify>AHTPDB has been three main tables named drug_table, target_table and cell_table. Drug_table contain detail information about each drug; target_table contains information about target of drugs particularly sequence; cell_table provides information about various types of cancer cell lines. All tables are maintained in Relational Database Management System (RDBMS) called MySQL which is a public domain software freely available to public.
+<br>Structures of cancer drug targets are stored in Protein DataBank (PDB) format. All structures are downloadable from our web site. In order to provide updates and easy download we are providing rsync facility.</p>  
+<hr>
+
+<a name="user"><h2>User Interface</h2></a><br>
+<p align=justify>AHTPDB web server is developed in a Linux environment on Red Hat Linux. This server is designed to provide easy access to the user. Methods for searching the databases and displaying the selected objects were built with a combination of Java Scripts, PHP and PERL. It may be run on any modern browser, we have checked on Firefox, Google Chrome. Some page may require java plugin, particularly for viewing structure (Jmol) and alignment (Jalview).</p> 
+<hr><br>
+
+<a name="disc"><h2> Access Conditons</h2></a><br>
+<p align=justify>Data, information, e-mail addresses, hyperlinks (URLs) and data analysis tools provided by BIC, IMTECH New Delhi are on an "as is" basis, without any warranties. IMTECH and the developers of AHTPDB give no warranty, including without limitation to the quality, accuracy or completeness of data or information, or that the use of data or information or data analysis tools will not infringe any patent, or intellectual property rights of any party. IMTECH shall not be liable for any claim, including without limitation, for any kind of loss, harm, illness, damage, injury originating from access to or use of data, information, e-mail addresses, hyperlinks (URLs) and data analysis tools, even if IMTECH advises of the possibility of such damages.</p>
+<hr><br>
+<a name="cop"><h2>Copyrights</h2></a><br>
+Copyright 2014; AHTPDB: Antihypertensive peptide database
+</td></tr></table></div>
+</div></div>
+
+<br><br>
+<div id="footer">
+<p><a href="/raghava/ahtpdb/" target="_self"> AHTPDB</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/raghava/" target="_blank"> Raghava's Group</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://webs.iiitd.edu.in/" target="_blank"> IMTECH</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.csir.res.in/" target="_blank"> CSIR</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://webs.iiitd.edu.in/" target="_blank"> CRDD</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/raghava/gpsr/" target="_blank"> GPSR Package</a></p>   
+</div>
+
+</body>
+</html>

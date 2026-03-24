@@ -1,0 +1,57 @@
+{
+  "script": "init_ahtpdb_raw_archive.py",
+  "mode": "retry_enhanced",
+  "source_id": "ace_db_ahtpdb_001",
+  "task": "ace",
+  "source_name": "AHTPDB",
+  "run_at": "2026-03-24 14:23:07",
+  "project_root": "E:\\MYS\\PepDB",
+  "overwrite": false,
+  "timeout": 60,
+  "retry_count": 4,
+  "retry_delay": 3.0,
+  "backoff": 1.8,
+  "insecure": false,
+  "skip_pages": true,
+  "skip_datasets": false,
+  "page_key": "all",
+  "dataset_key": "small",
+  "summary": {
+    "page_success": 0,
+    "page_skip": 0,
+    "page_error": 0,
+    "dataset_success": 1,
+    "dataset_skip": 0,
+    "dataset_error": 0
+  },
+  "log_records": [
+    {
+      "step": "write_text",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\README.md",
+      "status": "skip_exists",
+      "timestamp": "2026-03-24 14:23:07"
+    },
+    {
+      "step": "write_text",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\source_note.txt",
+      "status": "skip_exists",
+      "timestamp": "2026-03-24 14:23:07"
+    },
+    {
+      "step": "download_dataset",
+      "dataset_key": "small",
+      "url": "https://webs.iiitd.edu.in/raghava/ahtpdb/downloads/small.txt",
+      "path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\AHTPDB\\raw_tables\\ahtpdb_small_peptides_2_5_residues.txt",
+      "status": "downloaded",
+      "size_bytes": 322499,
+      "attempt_logs": [
+        {
+          "attempt": 1,
+          "status": "downloaded",
+          "size_bytes": 322499
+        }
+      ],
+      "timestamp": "2026-03-24 14:23:07"
+    }
+  ]
+}
