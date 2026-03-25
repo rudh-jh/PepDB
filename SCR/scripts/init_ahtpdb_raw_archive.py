@@ -12,6 +12,7 @@
     3. 支持只补下载某一个数据文件，例如只补 small peptides
     4. 支持跳过页面或跳过数据集，避免每次整包重跑
     5. 检索日志中记录每次重试尝试的细节，便于后续排查
+    6. 对官方下载的 txt 原始表，自动额外生成 csv 版本，便于后续查看和处理
 
 当前设计目标：
     先把 AHTPDB 的 raw 层归档尽量补完整，不在 raw 层做字段标准化。
@@ -32,6 +33,8 @@
 重要原则：
     - 原始数据永不覆盖（默认不覆盖已存在文件）
     - raw 层只做原始保存，不做标准化
+    - 官方原始 txt 需要保留
+    - csv 只是为了后续查看和处理方便而额外生成，不替代原始 txt
     - 失败会记录到检索日志中，便于人工检查
     - Windows 兼容优先，同时兼容命令行和 PyCharm
 """
@@ -104,21 +107,24 @@ def build_ahtpdb_readme(now_str: str) -> str:
 
 ## 当前脚本做了什么
 1. 保存 AHTPDB 官方页面原始 HTML
-2. 保存 AHTPDB 官方下载文本文件
-3. 记录获取时间与来源 URL
-4. 更新 PepDB 的 meta 清单文件
+2. 保存 AHTPDB 官方下载文本文件（txt）
+3. 将官方下载的 txt 额外转换为 csv，便于后续查看与处理
+4. 记录获取时间与来源 URL
+5. 更新 PepDB 的 meta 清单文件
 
 ## 子目录说明
 - page_exports/: 页面原始导出内容（HTML 等）
-- raw_tables/: 官方下载的原始文本表格
+- raw_tables/: 官方下载的原始文本表格（txt）
+- raw_tables_csv/: 由官方 txt 自动转换生成的 csv
 - screenshots/: 页面截图（需后续手动补充）
 - retrieval_logs/: 获取过程日志、URL 清单、运行摘要
 
 ## 当前归档原则
-1. 原始文件不覆盖（除非脚本显式开启覆盖）
+1. 原始 txt 文件不覆盖（除非脚本显式开启覆盖）
 2. 原始字段不改写
-3. 后续清洗、去重、标准化结果不得回写本目录
-4. 本目录内容应可追溯到来源页面或来源说明
+3. csv 只是对原始 txt 的格式转换，不替代原始 txt
+4. 后续清洗、去重、标准化结果不得回写本目录
+5. 本目录内容应可追溯到来源页面或来源说明
 
 ## 当前不应直接做什么
 - 不应把本目录文件直接当作最终分析输入
@@ -133,7 +139,8 @@ def build_ahtpdb_readme(now_str: str) -> str:
 - archived_by: 当前脚本运行者
 
 ## 备注
-AHTPDB 当前 raw_tables 目录中的文件，只是原始保存版本。
+AHTPDB 当前 raw_tables 目录中的文件，是官方原始保存版本。
+raw_tables_csv 目录中的文件，是由 txt 自动转换生成的 csv。
 后续 standardized / worksets / analysis 层，应另行生成新文件。
 """
 
@@ -165,10 +172,11 @@ def build_source_note(now_str: str) -> str:
             "",
             "当前说明:",
             "1. 本目录保存的是 AHTPDB 原始页面与官方下载文本。",
-            "2. 当前脚本不对下载文本做字段解析与标准化。",
-            "3. 后续 standardized / worksets / analysis 层应基于本目录另行生成。",
-            "4. screenshots 目录默认留空，建议后续手工补充页面结构截图。",
-            "5. 本版脚本支持对失败文件进行重试与单文件补下载。",
+            "2. 当前脚本不会在 raw 层做字段标准化。",
+            "3. 当前脚本会保留官方 txt，并额外生成 csv。",
+            "4. 后续 standardized / worksets / analysis 层应基于本目录另行生成。",
+            "5. screenshots 目录默认留空，建议后续手工补充页面结构截图。",
+            "6. 本版脚本支持对失败文件进行重试与单文件补下载。",
         ]
     )
     return "\n".join(lines) + "\n"
@@ -305,6 +313,56 @@ def download_file_with_retry(
                 return False, "error", 0, attempt_logs
 
     return False, "error", 0, attempt_logs
+
+
+def convert_tab_txt_to_csv(
+    txt_path: Path,
+    csv_path: Path,
+    overwrite: bool = False,
+) -> Tuple[bool, str, int]:
+    """
+    将以 Tab 为主分隔的 txt 表格转换为 csv。
+
+    参数：
+        txt_path: 原始 txt 文件路径
+        csv_path: 输出 csv 文件路径
+        overwrite: 是否覆盖已存在 csv
+
+    返回：
+        (是否成功, 状态, 写入总行数)
+
+    状态含义：
+        - written: 成功写入
+        - skip_exists: csv 已存在且未要求覆盖
+        - missing_txt: txt 文件不存在
+    """
+    if not txt_path.exists():
+        return False, "missing_txt", 0
+
+    if csv_path.exists() and not overwrite:
+        return True, "skip_exists", 0
+
+    ensure_dir(csv_path.parent)
+
+    row_count = 0
+    with txt_path.open("r", encoding="utf-8", errors="replace", newline="") as fin, \
+         csv_path.open("w", encoding="utf-8-sig", newline="") as fout:
+        reader = csv.reader(fin, delimiter="\t")
+        writer = csv.writer(fout)
+
+        for raw_row in reader:
+            if not raw_row:
+                continue
+
+            cleaned = [cell.strip() for cell in raw_row]
+
+            if all(cell == "" for cell in cleaned):
+                continue
+
+            writer.writerow(cleaned)
+            row_count += 1
+
+    return True, "written", row_count
 
 
 def read_csv_rows(path: Path) -> List[dict]:
@@ -461,6 +519,7 @@ def run_ahtpdb_raw_archive(
     ahtpdb_dir = db_dir / "raw" / "ace" / "databases" / "AHTPDB"
     page_exports_dir = ahtpdb_dir / "page_exports"
     raw_tables_dir = ahtpdb_dir / "raw_tables"
+    raw_tables_csv_dir = ahtpdb_dir / "raw_tables_csv"
     screenshots_dir = ahtpdb_dir / "screenshots"
     retrieval_logs_dir = ahtpdb_dir / "retrieval_logs"
 
@@ -470,6 +529,7 @@ def run_ahtpdb_raw_archive(
         ahtpdb_dir,
         page_exports_dir,
         raw_tables_dir,
+        raw_tables_csv_dir,
         screenshots_dir,
         retrieval_logs_dir,
     ]:
@@ -492,6 +552,9 @@ def run_ahtpdb_raw_archive(
         "dataset_success": 0,
         "dataset_skip": 0,
         "dataset_error": 0,
+        "csv_success": 0,
+        "csv_skip": 0,
+        "csv_error": 0,
     }
 
     # 1) README 与来源说明
@@ -589,12 +652,13 @@ def run_ahtpdb_raw_archive(
                     )
                 )
 
-    # 3) 数据集下载
+    # 3) 数据集下载 + 自动生成 csv
     if not skip_datasets:
         selected_dataset_items = AHTPDB_DATASET_URLS.items() if dataset_key == "all" else [(dataset_key, AHTPDB_DATASET_URLS[dataset_key])]
         for cur_dataset_key, url in selected_dataset_items:
             filename = AHTPDB_DATASET_FILENAMES[cur_dataset_key]
             save_path = raw_tables_dir / filename
+
             ok, status, size, attempt_logs = download_file_with_retry(
                 url=url,
                 save_path=save_path,
@@ -605,6 +669,7 @@ def run_ahtpdb_raw_archive(
                 backoff=backoff,
                 insecure=insecure,
             )
+
             if ok and status != "skip_exists":
                 summary["dataset_success"] += 1
                 print(f"[{status}] {save_path} ({size} bytes)")
@@ -630,6 +695,7 @@ def run_ahtpdb_raw_archive(
             )
 
             if ok:
+                # 记录 txt 文件
                 file_rows_to_add.append(
                     make_file_row(
                         root_dir=root_dir,
@@ -641,6 +707,69 @@ def run_ahtpdb_raw_archive(
                         notes=f"AHTPDB 官方下载文本（dataset_key={cur_dataset_key}），来源 URL: {url}",
                     )
                 )
+
+                # ===== 新增：txt 下载成功/已存在后，自动生成 csv =====
+                csv_save_path = raw_tables_csv_dir / (Path(filename).stem + ".csv")
+
+                try:
+                    csv_ok, csv_status, csv_row_count = convert_tab_txt_to_csv(
+                        txt_path=save_path,
+                        csv_path=csv_save_path,
+                        overwrite=overwrite,
+                    )
+
+                    if csv_ok and csv_status == "written":
+                        summary["csv_success"] += 1
+                        print(f"[csv_written] {csv_save_path} | rows={csv_row_count}")
+                    elif csv_ok and csv_status == "skip_exists":
+                        summary["csv_skip"] += 1
+                        print(f"[csv_skip_exists] {csv_save_path}")
+                    else:
+                        summary["csv_error"] += 1
+                        print(f"[csv_error] {csv_save_path} | status={csv_status}")
+
+                    log_records.append(
+                        {
+                            "step": "convert_dataset_txt_to_csv",
+                            "dataset_key": cur_dataset_key,
+                            "source_txt_path": str(save_path),
+                            "csv_path": str(csv_save_path),
+                            "status": csv_status,
+                            "row_count": csv_row_count,
+                            "timestamp": now_str,
+                        }
+                    )
+
+                    if csv_ok:
+                        file_rows_to_add.append(
+                            make_file_row(
+                                root_dir=root_dir,
+                                file_path=csv_save_path,
+                                file_type="csv",
+                                content_role="raw_table_csv",
+                                created_or_downloaded_at=now_str,
+                                generated_by="script:txt_to_csv_after_download",
+                                notes=(
+                                    f"AHTPDB 原始 txt 自动转换生成的 csv（dataset_key={cur_dataset_key}），"
+                                    f"对应原文件: {save_path.name}"
+                                ),
+                            )
+                        )
+
+                except Exception as exc:  # noqa: BLE001
+                    summary["csv_error"] += 1
+                    print(f"[csv_error] {csv_save_path} | reason={exc}")
+                    log_records.append(
+                        {
+                            "step": "convert_dataset_txt_to_csv",
+                            "dataset_key": cur_dataset_key,
+                            "source_txt_path": str(save_path),
+                            "csv_path": str(csv_save_path),
+                            "status": "error",
+                            "error": str(exc),
+                            "timestamp": now_str,
+                        }
+                    )
 
     # 4) 检索日志
     retrieval_log_path = retrieval_logs_dir / f"ahtpdb_retrieval_log_{timestamp_tag}.json"
@@ -694,7 +823,7 @@ def run_ahtpdb_raw_archive(
             "access_date": access_date,
             "raw_storage_path": relative_to_root(root_dir, ahtpdb_dir),
             "notes": (
-                "AHTPDB 试点归档来源；当前阶段仅完成原始页面与官方下载文本归档，"
+                "AHTPDB 试点归档来源；当前阶段完成原始页面、官方下载 txt 与自动转换 csv 的归档，"
                 "尚未进入标准化与工作集构建。"
             ),
         },
@@ -711,10 +840,11 @@ def run_ahtpdb_raw_archive(
     print("运行摘要：")
     print(f"- 页面：success={summary['page_success']}, skip={summary['page_skip']}, error={summary['page_error']}")
     print(f"- 数据集：success={summary['dataset_success']}, skip={summary['dataset_skip']}, error={summary['dataset_error']}")
+    print(f"- CSV：success={summary['csv_success']}, skip={summary['csv_skip']}, error={summary['csv_error']}")
     print("下一步建议：")
-    print("1. 若只是补 small 文件，优先检查 raw_tables 下是否已出现 ahtpdb_small_peptides_2_5_residues.txt")
-    print("2. 再检查最新 retrieval_log JSON 中 small 数据集的 attempt_logs")
-    print("3. 然后把相关文件发给我，我帮你核查 raw 层状态与 meta 口径")
+    print("1. 检查 raw_tables 下是否保留原始 txt")
+    print("2. 检查 raw_tables_csv 下是否已自动生成对应 csv")
+    print("3. 再检查 file_catalog.csv 中是否出现 raw_table_csv 类型记录")
     print("=" * 80)
 
 
