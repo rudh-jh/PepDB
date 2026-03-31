@@ -1,0 +1,9 @@
+﻿IC50类型,样本数,占比
+missing,2614,43.73%
+exact,2433,40.70%
+threshold,571,9.55%
+mass_unit,149,2.49%
+dirty,80,1.34%
+suspicious_unit,62,1.04%
+range,48,0.80%
+percent,21,0.35%
