@@ -1,0 +1,289 @@
+﻿序列,短肽类型,肽长,N端氨基酸,C端氨基酸,精确IC50中位数_uM,log10_中位数IC50_uM,精确IC50几何均值_uM,精确IC50唯一值个数,记录数,最大最小倍数,活性分层建议,来源种类数,Assay种类数,来源列表,Assay列表,是否存在反向序列,反向序列,稳定性判定说明
+FL,二肽,2,F,L,1.33,0.123852,1.33,1,2,1,强活性,1,1,Rapeseed (Canola meal defatted),"HPLC method by Wu,Aluko and Muir",是,LF,仅有1个精确IC50值
+FE,二肽,2,F,E,1.45,0.161368,1.45,1,3,1,强活性,2,2,Fish (Shark meat) | Fish (Shark),Cushman and Cheung (1971) | He et al.,否,EF,仅有1个精确IC50值
+CF,二肽,2,C,F,1.97,0.294466,1.96997,2,4,1.0102,强活性,3,2,Fish (Shark meat hydrolysate) | Fish (Shark meat) | Fish (Shark),Cushman and Cheung (1971) | He et al.,否,FC,多个精确IC50值，但最大最小倍数<=3
+DP,二肽,2,D,P,2.15,0.332438,2.15,1,1,1,强活性,1,1,Marine shrimp (acetes chinensis),He et al.,否,PD,仅有1个精确IC50值
+EY,二肽,2,E,Y,2.68,0.428135,2.68,1,4,1,强活性,3,2,Fish (Shark meat hydrolysate) | Fish (Shark meat) | Fish (Shark),Cushman and Cheung (1971) | He et al.,是,YE,仅有1个精确IC50值
+ST,二肽,2,S,T,4.03,0.605305,4.03,1,2,1,强活性,2,1,Marine shrimp (acetes chinensis) | Shrimp,He et al.,否,TS,仅有1个精确IC50值
+PR,二肽,2,P,R,4.1,0.612784,4.1,1,1,1,强活性,1,0,Sake and sake lees,,是,RP,仅有1个精确IC50值
+FW,二肽,2,F,W,4.9,0.690196,4.79687,2,3,1.51282,强活性,3,1,Cereals (Barley protein B-Hordein) | Egg proteins | Legume (Pea proteins),Cushman and Cheung (1971),否,WF,多个精确IC50值，但最大最小倍数<=3
+WH,二肽,2,W,H,5.1,0.70757,5.1,1,1,1,强活性,1,0,Wakame (Undaria pinnatifida),,否,HW,仅有1个精确IC50值
+YH,二肽,2,Y,H,5.1,0.70757,5.1,1,4,1,强活性,2,1,Wakame (Undaria pinnatifida) | Wakame Seaweed,Cushman and Cheung (1971),是,HY,仅有1个精确IC50值
+MW,二肽,2,M,W,9.9,0.995635,9.9,1,4,1,强活性,3,2,Fish (Salmon (Oncorhynchus keta)) | Fish (Salmon) | Fish (Sardine),"Cushman and Cheung (1971) | Cushman and Cheung (1971), Yamamoto and others",是,WM,仅有1个精确IC50值
+VK,二肽,2,V,K,13,1.11394,13,1,1,1,强活性,1,0,Soybean (Soy bioactive),,否,KV,仅有1个精确IC50值
+VL,二肽,2,V,L,13,1.11394,13,1,1,1,强活性,1,1,Cereals (Buckwheat),Modified Lieberman’s method,是,LV,仅有1个精确IC50值
+AW,二肽,2,A,W,14.4,1.15836,13.7113,2,6,1.88,强活性,5,2,Cereals (Finnish) | Soybean | Synthesized | Wakame | Wakame (Undaria pinnatifida),Cushman and Cheung (1971) | Kasahara and Ashihara (1981),是,WA,多个精确IC50值，但最大最小倍数<=3
+RW,二肽,2,R,W,16,1.20412,16,1,2,1,强活性,1,0,Synthesized,,否,WR,仅有1个精确IC50值
+KP,二肽,2,K,P,22,1.34242,22,1,3,1,强活性,2,1,Anchovy (sauce) | Fish (Fermented fish sauce),Cushman and Cheung (1971),是,PK,仅有1个精确IC50值
+HY,二肽,2,H,Y,26.1,1.41664,26.1,1,4,1,强活性,3,1,Cereals (Sake (Japanese alcoholic beverage made from rice)) | Legume (Mung bean sprout sake) | Sake and sake lees,Cushman and Cheung (1971),是,YH,仅有1个精确IC50值
+GW,二肽,2,G,W,30,1.47712,30,1,3,1,强活性,2,1,Soybean | Synthesized,Kasahara and Ashihara (1981),是,WG,仅有1个精确IC50值
+KA,二肽,2,K,A,31.5,1.49831,31.5,1,3,1,强活性,2,1,Porcine muscle | Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),否,AK,仅有1个精确IC50值
+NY,二肽,2,N,Y,32.6,1.51322,32.6,1,5,1,强活性,3,1,Garlic | Garlic (Allium sativum L) | Garlic (Allium sativum),Cushman and Cheung (1971),是,YN,仅有1个精确IC50值
+WY,二肽,2,W,Y,38.3,1.5832,38.3,1,1,1,强活性,1,0,Bovine (Bos taurus),,是,YW,仅有1个精确IC50值
+NF,二肽,2,N,F,46.3,1.66558,46.3,1,5,1,强活性,3,1,Garlic | Garlic (Allium sativum L) | Garlic (Allium sativum),Cushman and Cheung (1971),否,FN,仅有1个精确IC50值
+WL,二肽,2,W,L,47.45,1.67624,44.0851,2,5,2.17391,强活性,4,2,"Soybean (Glycine max fermented food, tofuyo) | Soybean (Glycine max) | Soybean (Tofoyu) | Soybean (tofuyo fermented soybean food)",Cushman and Cheung (1971) | Lieberman's method,是,LW,多个精确IC50值，但最大最小倍数<=3
+KL,二肽,2,K,L,50.2,1.7007,50.2,1,1,1,中等活性,0,0,,,否,LK,仅有1个精确IC50值
+YN,二肽,2,Y,N,51,1.70757,51,1,3,1,中等活性,2,2,Hard clam | Hard clam (Meretrix lusoria),"Cushman and Cheung (1971) | Cushman and Cheung (1971), Wu and Ding (2002)",是,NY,仅有1个精确IC50值
+RS,二肽,2,R,S,61.5,1.78888,61.5,1,1,1,中等活性,1,0,Hydrolysate (dipeptidyl peptidase),,否,SR,仅有1个精确IC50值
+QP,二肽,2,Q,P,65.8,1.81823,65.8,1,1,1,中等活性,1,0,Chemically Synthesized,,是,PQ,仅有1个精确IC50值
+SY,二肽,2,S,Y,66.65,1.8238,66.6491,2,6,1.01056,中等活性,4,2,Garlic | Garlic (Allium sativum L) | Garlic (Allium sativum) | Soybean,Cushman and Cheung (1971) | Kasahara and Ashihara (1981),是,YS,多个精确IC50值，但最大最小倍数<=3
+QN,二肽,2,Q,N,89,1.94939,89,1,1,1,中等活性,1,1,Milk (Fermented Milk),Holmquist et al. (1979),否,NQ,仅有1个精确IC50值
+AR,二肽,2,A,R,95.5,1.98,95.5,1,3,1,中等活性,2,1,Porcine muscle | Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),是,RA,仅有1个精确IC50值
+WM,二肽,2,W,M,96.6,1.98498,96.6,1,3,1,中等活性,2,2,Fish (Salmon (Oncorhynchus keta)) | Fish (Salmon),"Cushman and Cheung (1971) | Cushman and Cheung (1971), Yamamoto and others",是,MW,仅有1个精确IC50值
+YL,二肽,2,Y,L,102,2.0086,100.02,2,5,1.4878,中等活性,4,2,Alpha-lactalbumin and Beta Lactoglobulin | Fish (Sardine (Sardina pilchardus muscle)) | Fish (Sardine) | Whey protein (Beta Lactoglobulin),"2,4,6-trinitrobenzene sulfonate(TNBS) method | Cushman and Cheung (1971)",是,LY,多个精确IC50值，但最大最小倍数<=3
+IP,二肽,2,I,P,130,2.11394,130,1,1,1,中等活性,0,0,,,是,PI,仅有1个精确IC50值
+SF,二肽,2,S,F,130.2,2.11461,130.2,1,5,1,中等活性,3,1,Garlic | Garlic (Allium sativum L) | Garlic (Allium sativum),Cushman and Cheung (1971),否,FS,仅有1个精确IC50值
+MP,二肽,2,M,P,135.3,2.1313,135.3,1,1,1,中等活性,1,0,Prince-of-Wales feather (Amaranthus hypochondriacus),,否,PM,仅有1个精确IC50值
+MA,二肽,2,M,A,152,2.18184,152,1,1,1,中等活性,1,0,Prince-of-Wales feather (Amaranthus hypochondriacus),,否,AM,仅有1个精确IC50值
+IA,二肽,2,I,A,153,2.18469,153,1,3,1,中等活性,2,1,Soybean | Soybean (Soy bioactive),Cushman and Cheung (1971),是,AI,仅有1个精确IC50值
+AF,二肽,2,A,F,177.65,2.24957,177.22,2,3,1.14943,中等活性,2,1,Soybean | Soybean Sauce,Kasahara and Ashihara (1981),否,FA,多个精确IC50值，但最大最小倍数<=3
+MY,二肽,2,M,Y,193.99,2.28778,193.987,2,5,1.01026,中等活性,3,2,Fish (Sardine (Sardina pilchardus muscle)) | Fish (Sardine muscle) | Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method | Cushman and Cheung (1971)",否,YM,多个精确IC50值，但最大最小倍数<=3
+WP,二肽,2,W,P,217.27,2.337,217.27,1,1,1,较弱活性,0,0,,,否,PW,仅有1个精确IC50值
+FK,二肽,2,F,K,265.43,2.42395,265.43,1,1,1,较弱活性,1,1,Sweet-potato tuber defensin,"TLC (Holmquist et al., 1979)",是,KF,仅有1个精确IC50值
+RR,二肽,2,R,R,267.1,2.42667,267.1,1,3,1,较弱活性,2,1,Porcine muscle | Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),是,RR,仅有1个精确IC50值
+WA,二肽,2,W,A,277.3,2.44295,277.3,1,3,1,较弱活性,2,2,Fish (Salmon (Oncorhynchus keta)) | Fish (Salmon),"Cushman and Cheung (1971) | Cushman and Cheung (1971), Yamamoto and others",是,AW,仅有1个精确IC50值
+TP,二肽,2,T,P,290,2.4624,290,1,3,1,较弱活性,2,1,Anchovy (sauce) | Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),是,PT,仅有1个精确IC50值
+LA,二肽,2,L,A,310,2.49136,310,1,1,1,较弱活性,0,0,,,是,AL,仅有1个精确IC50值
+FP,二肽,2,F,P,315,2.49831,315,1,8,1,较弱活性,6,2,Beta Casein albumin | Bovine Serum Albumin | Casein albumin | Cheese whey protein | Milk (cheese whey) | Whey protein,Cushman and Cheung (1971) | Yamamoto et al.,是,PF,仅有1个精确IC50值
+PL,二肽,2,P,L,337.32,2.52804,337.32,1,1,1,较弱活性,1,0,Fish (Alaska pollack (Theragra chalcogramma)),,是,LP,仅有1个精确IC50值
+LF,二肽,2,L,F,349,2.54283,349,1,2,1,较弱活性,2,0,Alpha-Lactoglobulin | Milk,,是,FL,仅有1个精确IC50值
+DF,二肽,2,D,F,360,2.5563,360,1,2,1,较弱活性,1,1,Anchovy (sauce),Cushman and Cheung (1971),否,FD,仅有1个精确IC50值
+KR,二肽,2,K,R,380,2.57978,380,1,1,1,较弱活性,0,0,,,否,RK,仅有1个精确IC50值
+YS,二肽,2,Y,S,412,2.6149,412,1,1,1,较弱活性,1,0,Chemically Synthesized,,是,SY,仅有1个精确IC50值
+GF,二肽,2,G,F,453.95,2.65701,429.848,4,7,2.57062,较弱活性,4,1,Fish (Sea bream scale) | Garlic | Garlic (Allium sativum L) | Garlic (Allium sativum),Cushman and Cheung (1971),是,FG,多个精确IC50值，但最大最小倍数<=3
+RA,二肽,2,R,A,460,2.66276,460,1,1,1,较弱活性,0,0,,,是,AR,仅有1个精确IC50值
+YA,二肽,2,Y,A,460,2.66276,460,1,1,1,较弱活性,0,0,,,是,AY,仅有1个精确IC50值
+VP,二肽,2,V,P,480,2.68124,486.17,3,5,1.35714,较弱活性,3,2,Anchovy (sauce) | Fish (Sardine (Sardina pilchardus fermented sauce)) | Soybean,Cushman and Cheung (1971) | Kasahara and Ashihara (1981),否,PV,多个精确IC50值，但最大最小倍数<=3
+WV,二肽,2,W,V,500.5,2.6994,500.5,1,1,1,较弱活性,1,0,Chemically Synthesized,,是,VW,仅有1个精确IC50值
+DK,二肽,2,D,K,510,2.70757,510,1,1,1,较弱活性,1,0,Chemically Synthesized,,否,KD,仅有1个精确IC50值
+AH,二肽,2,A,H,523.5,2.71892,523.5,1,1,1,较弱活性,1,1,Sweet-potato tuber trypsin inhibitor,"TLC (Holmquist et al., 1979)",否,HA,仅有1个精确IC50值
+DM,二肽,2,D,M,600,2.77815,600,1,2,1,较弱活性,1,1,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),否,MD,仅有1个精确IC50值
+YK,二肽,2,Y,K,610,2.78533,610,1,1,1,较弱活性,0,0,,,是,KY,仅有1个精确IC50值
+WT,二肽,2,W,T,632,2.80072,632,1,1,1,较弱活性,1,0,Chemically Synthesized,,否,TW,仅有1个精确IC50值
+ER,二肽,2,E,R,667,2.82413,667,1,2,1,较弱活性,1,1,Pork (Sus domesticus),Sentandreu and Toldra (2006),否,RE,仅有1个精确IC50值
+YP,二肽,2,Y,P,720,2.85733,720,1,7,1,较弱活性,5,1,Casein | Fermentation with L. helveticus CPN4 | Hemorfin | Milk (Fermented Milk) | Yoghurt-like product,Cushman and Cheung (1971),是,PY,仅有1个精确IC50值
+RL,二肽,2,R,L,746.4,2.87297,746.4,1,1,1,较弱活性,1,1,Sweet-potato tuber trypsin inhibitor,"TLC (Holmquist et al., 1979)",否,LR,仅有1个精确IC50值
+NK,二肽,2,N,K,810,2.90849,810,1,1,1,较弱活性,0,0,,,否,KN,仅有1个精确IC50值
+QK,二肽,2,Q,K,885,2.94694,885,1,1,1,较弱活性,0,0,,,否,KQ,仅有1个精确IC50值
+FR,二肽,2,F,R,920,2.96379,920,1,1,1,较弱活性,0,0,,,是,RF,仅有1个精确IC50值
+VG,二肽,2,V,G,1100,3.04139,1100,1,2,1,较弱活性,1,1,Soybean,Kasahara and Ashihara (1981),是,GV,仅有1个精确IC50值
+EP,二肽,2,E,P,1200,3.07918,1200,1,2,1,较弱活性,1,1,Anchovy (sauce),Cushman and Cheung (1971),否,PE,仅有1个精确IC50值
+IG,二肽,2,I,G,1200,3.07918,1200,1,1,1,较弱活性,0,0,,,是,GI,仅有1个精确IC50值
+GI,二肽,2,G,I,1250,3.09691,1249,2,3,1.08333,较弱活性,1,1,Anchovy (sauce),Cushman and Cheung (1971),是,IG,多个精确IC50值，但最大最小倍数<=3
+GM,二肽,2,G,M,1400,3.14613,1400,1,1,1,较弱活性,0,0,,,是,MG,仅有1个精确IC50值
+YG,二肽,2,Y,G,1522.5,3.18256,1522.5,2,2,1.00066,较弱活性,2,0,Alpha-Lactoglobulin | Alpha-lactalbumin and Beta Lactoglobulin,,是,GY,多个精确IC50值，但最大最小倍数<=3
+DL,二肽,2,D,L,2000,3.30103,2000,1,1,1,较弱活性,1,1,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),是,LD,仅有1个精确IC50值
+GA,二肽,2,G,A,2000,3.30103,2000,1,1,1,较弱活性,0,0,,,是,AG,仅有1个精确IC50值
+NP,二肽,2,N,P,2300,3.36173,2300,1,2,1,较弱活性,1,1,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),否,PN,仅有1个精确IC50值
+AG,二肽,2,A,G,2500,3.39794,2500,1,1,1,较弱活性,0,0,,,是,GA,仅有1个精确IC50值
+GL,二肽,2,G,L,2500,3.39794,2500,1,1,1,较弱活性,0,0,,,是,LG,仅有1个精确IC50值
+GH,二肽,2,G,H,3100,3.49136,3100,1,1,1,较弱活性,0,0,,,是,HG,仅有1个精确IC50值
+HL,二肽,2,H,L,3200,3.50515,3200,1,1,1,较弱活性,0,0,,,否,LH,仅有1个精确IC50值
+KG,二肽,2,K,G,3200,3.50515,3200,1,1,1,较弱活性,0,0,,,是,GK,仅有1个精确IC50值
+FG,二肽,2,F,G,3700,3.5682,3700,1,1,1,较弱活性,0,0,,,是,GF,仅有1个精确IC50值
+DA,二肽,2,D,A,3800,3.57978,3800,1,1,1,较弱活性,0,0,,,是,AD,仅有1个精确IC50值
+GS,二肽,2,G,S,3800,3.57978,3800,1,1,1,较弱活性,0,0,,,是,SG,仅有1个精确IC50值
+GV,二肽,2,G,V,4600,3.66276,4600,1,1,1,较弱活性,0,0,,,是,VG,仅有1个精确IC50值
+MG,二肽,2,M,G,4800,3.68124,4800,1,1,1,较弱活性,0,0,,,是,GM,仅有1个精确IC50值
+GE,二肽,2,G,E,5400,3.73239,5400,1,1,1,较弱活性,0,0,,,是,EG,仅有1个精确IC50值
+GK,二肽,2,G,K,5400,3.73239,5400,1,1,1,较弱活性,0,0,,,是,KG,仅有1个精确IC50值
+GT,二肽,2,G,T,5700,3.75587,5700,1,1,1,较弱活性,0,0,,,是,TG,仅有1个精确IC50值
+WG,二肽,2,W,G,5900,3.77085,5900,1,1,1,较弱活性,0,0,,,是,GW,仅有1个精确IC50值
+HG,二肽,2,H,G,6300,3.79934,6300,1,1,1,较弱活性,0,0,,,是,GH,仅有1个精确IC50值
+GG,二肽,2,G,G,7200,3.85733,7200,1,1,1,较弱活性,0,0,,,是,GG,仅有1个精确IC50值
+QG,二肽,2,Q,G,7400,3.86923,7400,1,1,1,较弱活性,0,0,,,是,GQ,仅有1个精确IC50值
+SG,二肽,2,S,G,8500,3.92942,8500,1,1,1,较弱活性,0,0,,,是,GS,仅有1个精确IC50值
+LG,二肽,2,L,G,8800,3.94448,8800,1,1,1,较弱活性,0,0,,,是,GL,仅有1个精确IC50值
+GD,二肽,2,G,D,9200,3.96379,9200,1,1,1,较弱活性,0,0,,,是,DG,仅有1个精确IC50值
+TG,二肽,2,T,G,9900,3.99564,9900,1,1,1,较弱活性,0,0,,,是,GT,仅有1个精确IC50值
+EA,二肽,2,E,A,10000,4,10000,1,1,1,较弱活性,0,0,,,否,AE,仅有1个精确IC50值
+EG,二肽,2,E,G,10000,4,10000,1,1,1,较弱活性,0,0,,,是,GE,仅有1个精确IC50值
+NG,二肽,2,N,G,12000,4.07918,12000,1,1,1,较弱活性,0,0,,,否,GN,仅有1个精确IC50值
+PG,二肽,2,P,G,17000,4.23045,17000,1,1,1,较弱活性,0,0,,,是,GP,仅有1个精确IC50值
+VPK,三肽,3,V,K,0,,,1,1,1,强活性,1,0,Whey protein,,否,KPV,仅有1个精确IC50值
+VSV,三肽,3,V,V,0.15,-0.823909,0.15,1,3,1,强活性,1,1,Rapeseed (Canola meal defatted),"HPLC method by Wu,Aluko and Muir",是,VSV,仅有1个精确IC50值
+IKW,三肽,3,I,W,0.21,-0.677781,0.21,1,7,1,强活性,4,2,Chicken muscle | Chicken muscle proteins | Food-protein | Synthesized,"Cushman and Cheung (1971) | Cushman and Cheung (1971), Yamamoto and others",否,WKI,仅有1个精确IC50值
+IRY,三肽,3,I,Y,0.595,-0.225483,0.594979,2,2,1.01695,强活性,1,1,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",否,YRI,多个精确IC50值，但最大最小倍数<=3
+IRW,三肽,3,I,W,0.6,-0.221849,0.6,1,1,1,强活性,1,0,Egg proteins,,否,WRI,仅有1个精确IC50值
+LGP,三肽,3,L,P,0.72,-0.142668,0.72,1,2,1,强活性,2,1,Fish (Alaska pollack (Theragra chalcogramma)) | Synthesized,Cushman and Cheung (1971),是,PGL,仅有1个精确IC50值
+MAP,三肽,3,M,P,0.8,-0.09691,0.8,1,1,1,强活性,1,1,Cheese,Cushman and Cheung (1971),否,PAM,仅有1个精确IC50值
+LIY,三肽,3,L,Y,0.81,-0.091515,0.809938,2,3,1.025,强活性,2,1,Human α2-macroglobulin | Synthesized,Cushman and Cheung (1971),否,YIL,多个精确IC50值，但最大最小倍数<=3
+GGY,三肽,3,G,Y,1.3,0.113943,1.3,1,1,1,强活性,1,0,Sake and sake lees,,是,YGG,仅有1个精确IC50值
+VRF,三肽,3,V,F,1.3,0.113943,1.3,1,1,1,强活性,1,0,Soybean proteins,,否,FRV,仅有1个精确IC50值
+IQW,三肽,3,I,W,1.4,0.146128,1.4,1,1,1,强活性,1,0,Egg proteins,,否,WQI,仅有1个精确IC50值
+IEP,三肽,3,I,P,1.6,0.20412,1.6,1,1,1,强活性,0,0,,,否,PEI,仅有1个精确IC50值
+GLP,三肽,3,G,P,1.62,0.209515,1.62,1,2,1,强活性,2,1,Fish (Alaska pollack (Theragra chalcogramma)) | Synthesized,Cushman and Cheung (1971),是,PLG,仅有1个精确IC50值
+LSP,三肽,3,L,P,1.7,0.230449,1.7,1,8,1,强活性,6,1,Cereals (Corn endosperm) | Cereals (Maize (Zea mays)) | Cereals (Maize Standard (Native alpha-zein)) | Cereals (Maize alpha-zein) | Cereals (Maize lines) | Α-zein,Cushman and Cheung (1971),否,PSL,仅有1个精确IC50值
+LVY,三肽,3,L,Y,1.8,0.255273,1.8,1,4,1,强活性,3,2,Milk (Fermented Milk) | Sesame | Sesame (Sesamum indicum),"Cushman and Cheung (1971), Gonzalez-Gonzalez et al | Friedland and Silverstein (1976)",否,YVL,仅有1个精确IC50值
+IRP,三肽,3,I,P,1.85,0.267172,1.84932,2,6,1.05556,强活性,4,2,Cereals (Finnish) | Egg proteins | Fish (Bonito (Sarda bowel autolysate)) | Fish (Bonito bowel),"Cushman and Cheung (1971) | Cushman and Cheung (1971), Maruyama and Suzuki",否,PRI,多个精确IC50值，但最大最小倍数<=3
+FSY,三肽,3,F,Y,2.2,0.342423,2.2,1,1,1,强活性,1,1,Shrimp heads and Scales,Vermeirssen et al.,否,YSF,仅有1个精确IC50值
+VRP,三肽,3,V,P,2.2,0.342423,2.2,1,7,1,强活性,5,3,Casein (Beta Casein) | Fish (Bonito (Sarda bowel autolysate)) | Fish (Bonito bowel) | Milk (human casein) | Milk derived,"Cushman and Cheung (1971) | Cushman and Cheung (1971), Maruyama and Suzuki | Kasahara and Ashihara (1981)",否,PRV,仅有1个精确IC50值
+TKY,三肽,3,T,Y,2.3,0.361728,2.3,1,1,1,强活性,1,0,Synthesized,,否,YKT,仅有1个精确IC50值
+PRY,三肽,3,P,Y,2.5,0.39794,2.5,1,1,1,强活性,1,0,Sake and sake lees,,否,YRP,仅有1个精确IC50值
+GPL,三肽,3,G,L,2.6,0.414973,2.59968,3,9,1.03922,强活性,4,2,Bovine skin gelatin | Fish (Alaska pollack (Theragra chalcogramma)) | Fish skin | Gelatin hydrolysate,Cushman and Cheung (1971) | He et al.,是,LPG,多个精确IC50值，但最大最小倍数<=3
+IQY,三肽,3,I,Y,2.85,0.454845,2.84956,2,2,1.03571,强活性,1,1,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",否,YQI,多个精确IC50值，但最大最小倍数<=3
+VAW,三肽,3,V,W,2.86,0.456366,2.86,1,1,1,强活性,1,1,Egg (Hen egg white),Cushman and Cheung (1971),否,WAV,仅有1个精确IC50值
+ARF,三肽,3,A,F,3,0.477121,3,1,1,1,强活性,1,0,Soybean proteins,,否,FRA,仅有1个精确IC50值
+AKK,三肽,3,A,K,3.13,0.495544,3.14306,3,6,1.03226,强活性,4,2,Fish (Sardine (Sardina pilchardus muscle)) | Fish (Sardine muscle) | Fish (Sardine) | Synthesized,"2,4,6-trinitrobenzene sulfonate(TNBS) method | Cushman and Cheung (1971)",否,KKA,多个精确IC50值，但最大最小倍数<=3
+IWH,三肽,3,I,H,3.5,0.544068,3.5,1,4,1,强活性,4,1,Actin | Cereals (Finnish) | Fish (Bonito muscle) | Fish (Dried Bonito),"Cushman and Cheung (1971), Yamamoto and others",否,HWI,仅有1个精确IC50值
+LAP,三肽,3,L,P,3.5,0.544068,3.5,1,4,1,强活性,2,2,Chicken muscle | Food-protein,"Cushman and Cheung (1971) | Cushman and Cheung (1971), Yamamoto and others",否,PAL,仅有1个精确IC50值
+TAP,三肽,3,T,P,3.5,0.544068,3.5,1,4,1,强活性,3,1,Casein (Beta Casein) | Milk (human casein) | Milk derived,Kasahara and Ashihara (1981),否,PAT,仅有1个精确IC50值
+FAP,三肽,3,F,P,3.8,0.579784,3.8,1,4,1,强活性,3,1,Casein | Casein (Αs1-casein) | Milk (bovine casein),Cushman and Cheung (1971),否,PAF,仅有1个精确IC50值
+IEF,三肽,3,I,F,3.8,0.579784,3.8,1,1,1,强活性,1,0,Chicken muscle,,否,FEI,仅有1个精确IC50值
+LAY,三肽,3,L,Y,3.9,0.591065,3.9,1,3,1,强活性,2,1,Alpha-zein | Cereals (Maize (Zea mays)),Cushman and Cheung (1971),否,YAL,仅有1个精确IC50值
+YQY,三肽,3,Y,Y,4,0.60206,4,1,3,1,强活性,2,1,Cereals (Buckwheat) | Cereals (Finnish),Modified Lieberman’s method,是,YQY,仅有1个精确IC50值
+VWP,三肽,3,V,P,4.5,0.653213,4.5,1,1,1,强活性,1,1,Cereals (rice),"Chen, J., Wang, Y., Zhong, Q., Wu, Y., & Xia, W. (",否,PWV,仅有1个精确IC50值
+APP,三肽,3,A,P,4.6,0.662758,4.6,1,1,1,强活性,0,0,,,否,PPA,仅有1个精确IC50值
+GPV,三肽,3,G,V,4.685,0.67071,4.68498,2,2,1.00642,强活性,1,1,Bovine skin gelatin,Cushman and Cheung (1971),否,VPG,多个精确IC50值，但最大最小倍数<=3
+PLG,三肽,3,P,G,4.74,0.675778,4.74,1,2,1,强活性,2,1,Fish (Alaska pollack (Theragra chalcogramma)) | Synthesized,Cushman and Cheung (1971),是,GLP,仅有1个精确IC50值
+IQP,三肽,3,I,P,4.785,0.679882,4.68252,2,7,1.51842,强活性,4,2,Algae (Spirulina platensis) | Cereals (Wheat (Triticum aestivum wheat bran)) | Cereals (Wheat bran) | Nori (Porphyra yezoensis),Cushman and Cheung (1971) | Modified Lieberman’s method,否,PQI,多个精确IC50值，但最大最小倍数<=3
+DLP,三肽,3,D,P,4.8,0.681241,4.8,1,8,1,强活性,6,1,Cereals (Finnish) | Soybean | Soybean (Defatted soybean meal) | Soybean (Glycine max) | Soybean Protein | Soybean-derived,Cushman and Cheung (1971),否,PLD,仅有1个精确IC50值
+IPP,三肽,3,I,P,5.075,0.705436,5.07445,2,15,1.03,强活性,12,2,Casein | Casein β-lg f | Cereals (Rye) | Cheese (Swiss) | Fermentation with L. helveticus and S. cerevisiae | Milk | Milk (Skimmed milk) | Milk (human casein) | Milk (sour milk) | Milk derived | Sour milk | Β- and κ-casein,Cushman and Cheung (1971) | Kasahara and Ashihara (1981),否,PPI,多个精确IC50值，但最大最小倍数<=3
+LRY,三肽,3,L,Y,5.1,0.70757,5.1,1,1,1,强活性,0,0,,,否,YRL,仅有1个精确IC50值
+GTG,三肽,3,G,G,5.54,0.74351,5.54,1,3,1,强活性,2,1,Marine shrimp (acetes chinensis) | Shrimp,He et al.,是,GTG,仅有1个精确IC50值
+LPG,三肽,3,L,G,5.73,0.758155,5.73,1,2,1,强活性,2,1,Fish (Alaska pollack (Theragra chalcogramma)) | Synthesized,Cushman and Cheung (1971),是,GPL,仅有1个精确IC50值
+VIY,三肽,3,V,Y,6,0.778151,5.80948,2,4,1.66667,强活性,3,1,Bulfrog (Rana catesbeiana Shaw) muscle protein | Sesame | Sesame (Sesamum indicum),Friedland and Silverstein (1976),否,YIV,多个精确IC50值，但最大最小倍数<=3
+IRA,三肽,3,I,A,6.4,0.80618,6.4,1,4,1,强活性,3,1,Alpha-zein | Cereals (Maize (Zea mays)) | Α-zein,Cushman and Cheung (1971),否,ARI,仅有1个精确IC50值
+VNP,三肽,3,V,P,6.4,0.80618,6.4,1,1,1,强活性,1,1,Cereals (rice),"Chen, J., Wang, Y., Zhong, Q., Wu, Y., & Xia, W. (",否,PNV,仅有1个精确IC50值
+AWW,三肽,3,A,W,6.5,0.812913,6.5,1,1,1,强活性,1,0,Soybean proteins,,否,WWA,仅有1个精确IC50值
+VDF,三肽,3,V,F,6.59,0.818885,6.59,1,1,1,强活性,1,0,Egg (cooked egg protein),,否,FDV,仅有1个精确IC50值
+LYP,三肽,3,L,P,6.6,0.819544,6.6,1,2,1,强活性,2,1,Cereals (Finnish) | Synthesized,"Cushman and Cheung (1971), Yamamoto and others",否,PYL,仅有1个精确IC50值
+FRC,三肽,3,F,C,7,0.845098,7,1,1,1,强活性,1,0,Legume (Pea proteins),,否,CRF,仅有1个精确IC50值
+MKY,三肽,3,M,Y,7.3,0.863323,7.3,1,1,1,强活性,0,0,,,否,YKM,仅有1个精确IC50值
+VIF,三肽,3,V,F,7.5,0.875061,7.5,1,1,1,强活性,1,1,Fish (Sea bream scale),Cushman and Cheung (1971),是,FIV,仅有1个精确IC50值
+LSA,三肽,3,L,A,7.81,0.892651,7.81,1,3,1,强活性,2,1,Sesame | Sesame (Sesamum indicum),Friedland and Silverstein (1976),否,ASL,仅有1个精确IC50值
+LKA,三肽,3,L,A,8.5,0.929419,8.5,1,4,1,强活性,4,2,Chicken muscle proteins | Creatine Kinase | Creatine kinase | Food-protein,"Cushman and Cheung (1971) | Cushman and Cheung (1971), Yamamoto and others",否,AKL,仅有1个精确IC50值
+IPF,三肽,3,I,F,8.78,0.943495,8.78,1,1,1,强活性,1,0,Egg (cooked egg protein),,否,FPI,仅有1个精确IC50值
+VPP,三肽,3,V,P,9.065,0.957368,9.06477,2,14,1.01444,强活性,12,1,Casein | Casein (Beta Casein) | Casein (Β-casein) | Casein β-lg f | Cereals (Rye) | Cheese (Swiss) | Fermentation with L. helveticus and S. cerevisiae | Milk | Milk (Skimmed milk) | Milk (sour milk) | Milk derived | Sour milk,Cushman and Cheung (1971),否,PPV,多个精确IC50值，但最大最小倍数<=3
+VIP,三肽,3,V,P,9.2,0.963788,9.2,1,2,1,强活性,2,0,Legume (Pea proteins) | Soybean proteins,,否,PIV,仅有1个精确IC50值
+GAP,三肽,3,G,P,9.3,0.968483,9.3,1,1,1,强活性,0,0,,,否,PAG,仅有1个精确IC50值
+VWY,三肽,3,V,Y,9.4,0.973128,9.4,1,3,1,强活性,2,1,Cereals (Sake (Japanese alcoholic beverage made from rice)) | Sake and sake lees,Cushman and Cheung (1971),否,YWV,仅有1个精确IC50值
+ITP,三肽,3,I,P,9.5,0.977724,9.5,1,1,1,强活性,1,1,Sweet-potato protein isolate,Cushman and Cheung (1971),否,PTI,仅有1个精确IC50值
+ATF,三肽,3,A,F,9.6,0.982271,9.6,1,1,1,强活性,1,0,Cereals (Barley protein B-Hordein),,否,FTA,仅有1个精确IC50值
+LPP,三肽,3,L,P,9.6,0.982271,9.6,1,4,1,强活性,3,1,Casein | Cereals (Maize (Zea mays)) | Γ-zein,Cushman and Cheung (1971),是,PPL,仅有1个精确IC50值
+MYY,三肽,3,M,Y,9.6,0.982271,9.6,1,4,1,强活性,3,1,Casein (Beta Casein) | Milk (human casein) | Milk derived,Kasahara and Ashihara (1981),否,YYM,仅有1个精确IC50值
+LVP,三肽,3,L,P,9.9,0.995635,9.9,1,1,1,强活性,1,0,Legume (Pea proteins),,否,PVL,仅有1个精确IC50值
+LPF,三肽,3,L,F,10.59,1.0249,10.59,1,1,1,强活性,1,0,Egg (cooked egg protein),,否,FPL,仅有1个精确IC50值
+FCF,三肽,3,F,F,11,1.04139,11,1,2,1,强活性,1,1,Egg (Ovalbumin),"Cushman and Cheung (1971), Yamamoto and others",是,FCF,仅有1个精确IC50值
+MAW,三肽,3,M,W,11.21,1.04961,9.97757,2,4,2.67541,强活性,3,2,Cuttlefish | Cuttlefish (Muscle of cuttlefish) | Cuttlefish (Sepia officinalis),Cushman and Cheung (1971) | Nakamura et al. (1995),否,WAM,多个精确IC50值，但最大最小倍数<=3
+LVL,三肽,3,L,L,12.3,1.08991,12.3,1,1,1,强活性,1,0,Porcine plasma,,是,LVL,仅有1个精确IC50值
+LAA,三肽,3,L,A,13,1.11394,13,1,3,1,强活性,2,1,Alpha-zein | Cereals (Maize (Zea mays)),Cushman and Cheung (1971),否,AAL,仅有1个精确IC50值
+VAA,三肽,3,V,A,13,1.11394,13,1,3,1,强活性,2,1,Alpha-zein | Cereals (Maize (Zea mays)),Cushman and Cheung (1971),否,AAV,仅有1个精确IC50值
+YKW,三肽,3,Y,W,13.3,1.12385,13.3,1,1,1,强活性,1,0,Synthesized,,否,WKY,仅有1个精确IC50值
+PGL,三肽,3,P,L,13.93,1.14395,13.93,1,2,1,强活性,2,1,Fish (Alaska pollack (Theragra chalcogramma)) | Synthesized,Cushman and Cheung (1971),是,LGP,仅有1个精确IC50值
+LVR,三肽,3,L,R,14,1.14613,14,1,1,1,强活性,1,0,Cereals (Maize endosperm),,否,RVL,仅有1个精确IC50值
+LVE,三肽,3,L,E,14.2,1.15229,14.2,1,1,1,强活性,1,0,Bulfrog (Rana catesbeiana Shaw) muscle protein,,否,EVL,仅有1个精确IC50值
+TVY,三肽,3,T,Y,15,1.17609,15,1,4,1,强活性,3,1,Casein | Milk (bovine casein) | Milk derived,Cushman and Cheung (1971),否,YVT,仅有1个精确IC50值
+VSP,三肽,3,V,P,15.9,1.2014,14.7648,2,4,2.18,强活性,3,1,Alpha-zein | Cereals (Maize (Zea mays)) | Milk (bovine lactoglobulin),Cushman and Cheung (1971),否,PSV,多个精确IC50值，但最大最小倍数<=3
+PSY,三肽,3,P,Y,16,1.20412,16,1,3,1,强活性,2,1,Cereals (Buckwheat) | Soybean (Soy bioactive),Modified Lieberman’s method,否,YSP,仅有1个精确IC50值
+VAY,三肽,3,V,Y,16,1.20412,16,1,3,1,强活性,2,1,Alpha-zein | Cereals (Maize (Zea mays)),Cushman and Cheung (1971),否,YAV,仅有1个精确IC50值
+YPR,三肽,3,Y,R,16.5,1.21748,16.5,1,1,1,强活性,1,0,Sake and sake lees,,否,RPY,仅有1个精确IC50值
+GPM,三肽,3,G,M,17.215,1.23591,17.2148,2,6,1.00992,强活性,3,3,Fish (Alaska pollack (Theragra chalcogramma)) | Fish skin | Gelatin hydrolysate,"Cushman and Cheung (1971) | Cushman and Cheung (1971), Yamamoto and others | He et al.",否,MPG,多个精确IC50值，但最大最小倍数<=3
+MPF,三肽,3,M,F,17.98,1.25479,17.98,1,1,1,强活性,1,0,Egg (cooked egg protein),,否,FPM,仅有1个精确IC50值
+FWN,三肽,3,F,N,18.3,1.26245,18.3,1,3,1,强活性,2,1,Cereals (Sake (Japanese alcoholic beverage made from rice)) | Sake and sake lees,Cushman and Cheung (1971),否,NWF,仅有1个精确IC50值
+GRP,三肽,3,G,P,19.95,1.29994,19.9499,2,6,1.00503,强活性,3,2,Fish (Sardine (Sardina pilchardus muscle)) | Fish (Sardine muscle) | Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method | Cushman and Cheung (1971)",否,PRG,多个精确IC50值，但最大最小倍数<=3
+VVW,三肽,3,V,W,22,1.34242,22,1,1,1,强活性,1,1,Cereals (Rice-koji),Cushman and Cheung (1971),否,WVV,仅有1个精确IC50值
+VVY,三肽,3,V,Y,22,1.34242,22,1,3,1,强活性,2,2,Cereals (Rice (Oryza sativa red-mold rice)) | Cereals (rice),Cushman and Cheung (1971) | Modified Lieberman’s method,否,YVV,仅有1个精确IC50值
+HLL,三肽,3,H,L,22.2,1.34635,22.2,1,1,1,强活性,1,0,WIPO,,否,LLH,仅有1个精确IC50值
+GPP,三肽,3,G,P,23.1,1.36361,23.1,1,1,1,强活性,0,0,,,是,PPG,仅有1个精确IC50值
+TTI,三肽,3,T,I,24.94,1.3969,24.94,1,1,1,强活性,1,0,Egg (cooked egg protein),,是,ITT,仅有1个精确IC50值
+MKR,三肽,3,M,R,25.7,1.40993,25.7,1,1,1,强活性,1,1,Egg (Hen egg white),Cushman and Cheung (1971),否,RKM,仅有1个精确IC50值
+FAL,三肽,3,F,L,26.3,1.41996,26.3,1,5,1,强活性,2,1,Algae (Chlorella vulgaris) | Microalgae,Cushman and Cheung (1971),否,LAF,仅有1个精确IC50值
+RIY,三肽,3,R,Y,28,1.44716,28,1,7,1,强活性,4,3,Rapeseed | Rapeseed (Brassica napus) | Rapeseed protein | Rapeseed protein-derived peptides,"Cushman and Cheung (1971) | Cushman and Cheung (1971), Yamamoto and others | Holmquist et al. (1979)",否,YIR,仅有1个精确IC50值
+LGI,三肽,3,L,I,29,1.4624,29,1,1,1,强活性,1,1,Cereals (Buckwheat),Modified Lieberman’s method,否,IGL,仅有1个精确IC50值
+VMP,三肽,3,V,P,29,1.4624,29,1,5,1,强活性,4,1,Human (Human Beta Casein) | Human (Synthetic peptide of Human beta casein) | Human β-casein | Milk (human β casein),Kasahara and Ashihara (1981),否,PMV,仅有1个精确IC50值
+IVF,三肽,3,I,F,33.11,1.51996,33.11,1,1,1,强活性,1,0,Egg (Ovalbumin),,否,FVI,仅有1个精确IC50值
+IKY,三肽,3,I,Y,34,1.53148,34,1,1,1,强活性,1,0,Arachin,,否,YKI,仅有1个精确IC50值
+IAE,三肽,3,I,E,34.7,1.54033,34.7,1,3,1,强活性,1,1,Algae (Spirulina platensis),Cushman and Cheung (1971),否,EAI,仅有1个精确IC50值
+VAF,三肽,3,V,F,35.8,1.55388,35.8,1,2,1,强活性,1,1,Algae (Spirulina platensis),Cushman and Cheung (1971),否,FAV,仅有1个精确IC50值
+PLW,三肽,3,P,W,36,1.5563,36,1,3,1,强活性,3,1,A-casein | Casein (Αs1-Casein) | Milk derived,Kasahara and Ashihara (1981),是,WLP,仅有1个精确IC50值
+RPK,三肽,3,R,K,36.7,1.56467,36.7,1,1,1,强活性,1,1,Milk-Cheese (Sheep milk and cheeses proteins),Vermeirssen et al.,否,KPR,仅有1个精确IC50值
+FFL,三肽,3,F,L,37,1.5682,37,1,4,1,强活性,2,1,Soybean | Soybean (Soy bioactive),Cushman and Cheung (1971),否,LFF,仅有1个精确IC50值
+LNP,三肽,3,L,P,43,1.63347,43,1,3,1,强活性,2,1,Alpha-zein | Cereals (Maize (Zea mays)),Cushman and Cheung (1971),否,PNL,仅有1个精确IC50值
+YKY,三肽,3,Y,Y,43.5,1.63849,43.5,1,1,1,强活性,0,0,,,是,YKY,仅有1个精确IC50值
+KWL,三肽,3,K,L,43.6,1.63949,43.6,1,1,1,强活性,1,0,Synthesized,,否,LWK,仅有1个精确IC50值
+DFG,三肽,3,D,G,44.7,1.65031,44.7,1,3,1,强活性,2,2,Cuttlefish (Muscle of cuttlefish) | Cuttlefish (Sepia officinalis),Cushman and Cheung (1971) | Nakamura et al. (1995),否,GFD,仅有1个精确IC50值
+IFL,三肽,3,I,L,44.8,1.65128,44.8,1,5,1,强活性,4,3,"Soybean | Soybean (Glycine max fermented food, tofuyo) | Soybean (Tofoyu) | Soybean (tofuyo fermented soybean food)",Cushman and Cheung (1971) | Lieberman's method | Modified Lieberman’s method,否,LFI,仅有1个精确IC50值
+KFY,三肽,3,K,Y,45,1.65321,45,1,1,1,强活性,0,0,,,否,YFK,仅有1个精确IC50值
+MKG,三肽,3,M,G,47.9,1.68034,41.5114,2,4,2.99167,强活性,3,0,Casein β-lg f | Milk derived | Whey protein (Beta Lactoglobulin),,否,GKM,多个精确IC50值，但最大最小倍数<=3
+ITF,三肽,3,I,F,49,1.6902,49,1,1,1,强活性,1,1,Cereals (Buckwheat),Modified Lieberman’s method,否,FTI,仅有1个精确IC50值
+GQY,三肽,3,G,Y,52.3,1.7185,52.3,1,1,1,中等活性,1,1,Sweet-potato protein isolate,Cushman and Cheung (1971),否,YQG,仅有1个精确IC50值
+LLP,三肽,3,L,P,57,1.75587,57,1,4,1,中等活性,3,1,Alpha-zein | Cereals (Maize (Zea mays)) | Cereals (Rye),Cushman and Cheung (1971),否,PLL,仅有1个精确IC50值
+AEL,三肽,3,A,L,57.1,1.75664,57.1,1,3,1,中等活性,2,1,Algae (Chlorella vulgaris) | Algae (Spirulina platensis),Cushman and Cheung (1971),否,LEA,仅有1个精确IC50值
+FTY,三肽,3,F,Y,59.3,1.77305,59.3,1,1,1,中等活性,1,1,Shrimp heads and Scales,Vermeirssen et al.,否,YTF,仅有1个精确IC50值
+IYP,三肽,3,I,P,61,1.78533,61,1,6,1,中等活性,4,1,Human (Human Beta Casein) | Human (Synthetic peptide of Human beta casein) | Milk | Milk (human β casein),Kasahara and Ashihara (1981),否,PYI,仅有1个精确IC50值
+RGY,三肽,3,R,Y,61.9,1.79169,61.9,1,1,1,中等活性,1,1,Egg (Hen egg white),Cushman and Cheung (1971),否,YGR,仅有1个精确IC50值
+AFL,三肽,3,A,L,64.5,1.80956,64.4962,2,4,1.02194,中等活性,2,1,Algae (Chlorella vulgaris) | Shrimp (Acetes chinensis),Cushman and Cheung (1971),否,LFA,多个精确IC50值，但最大最小倍数<=3
+AVV,三肽,3,A,V,66.6,1.82347,66.6,1,3,1,中等活性,2,2,Cuttlefish (Muscle of cuttlefish) | Cuttlefish (Sepia officinalis),Cushman and Cheung (1971) | Nakamura et al. (1995),否,VVA,仅有1个精确IC50值
+MNP,三肽,3,M,P,66.6,1.82347,66.6,1,2,1,中等活性,2,1,Porcine skeletal muscle | Porcine skeletal muscle protein,Cushman and Cheung (1971),否,PNM,仅有1个精确IC50值
+KYY,三肽,3,K,Y,79,1.89763,79,1,1,1,中等活性,0,0,,,否,YYK,仅有1个精确IC50值
+IIP,三肽,3,I,P,80.8,1.90741,80.8,1,1,1,中等活性,1,1,Sweet-potato protein isolate,Cushman and Cheung (1971),否,PII,仅有1个精确IC50值
+LNY,三肽,3,L,Y,81,1.90849,81,1,1,1,中等活性,1,1,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",否,YNL,仅有1个精确IC50值
+FGG,三肽,3,F,G,82.5,1.91645,82.5,1,3,1,中等活性,2,2,Cuttlefish (Muscle of cuttlefish) | Cuttlefish (Sepia officinalis),Cushman and Cheung (1971) | Nakamura et al. (1995),是,GGF,仅有1个精确IC50值
+PAP,三肽,3,P,P,87,1.93952,87,1,4,1,中等活性,2,1,Milk (human casein) | Milk derived,Kasahara and Ashihara (1981),是,PAP,仅有1个精确IC50值
+NKL,三肽,3,N,L,88,1.94448,88,1,1,1,中等活性,0,0,,,是,LKN,仅有1个精确IC50值
+GFR,三肽,3,G,R,94.25,1.97428,94.25,1,1,1,中等活性,1,1,Sweet-potato tuber defensin,"TLC (Holmquist et al., 1979)",否,RFG,仅有1个精确IC50值
+LQQ,三肽,3,L,Q,100,2,100,1,3,1,中等活性,2,1,Alpha-zein | Cereals (Maize (Zea mays)),Cushman and Cheung (1971),否,QQL,仅有1个精确IC50值
+IEW,三肽,3,I,W,104,2.01703,104,1,1,1,中等活性,1,0,Arachin,,否,WEI,仅有1个精确IC50值
+GHG,三肽,3,G,G,122,2.08636,122,1,2,1,中等活性,1,1,Cuttlefish (Sepia officinalis),Cushman and Cheung (1971),是,GHG,仅有1个精确IC50值
+GHS,三肽,3,G,S,122,2.08636,122,1,1,1,中等活性,1,1,Cuttlefish (Muscle of cuttlefish),Nakamura et al. (1995),否,SHG,仅有1个精确IC50值
+YNK,三肽,3,Y,K,125,2.09691,125,1,1,1,中等活性,0,0,,,否,KNY,仅有1个精确IC50值
+IPA,三肽,3,I,A,141,2.14922,141,1,9,1,中等活性,8,2,Beta Lactoglobulin | Cheese whey protein | Enzymatic-hydrolysis (Hydrolysis with proteinase K) | Lactogloblin | Milk (cheese whey) | Milk derived | Whey (Whole whey protein) | Whey protein,Cushman and Cheung (1971) | Yamamoto et al.,否,API,仅有1个精确IC50值
+IPN,三肽,3,I,N,141,2.14922,141,1,1,1,中等活性,1,1,Casein β-lg f,Yamamoto et al.,否,NPI,仅有1个精确IC50值
+PFP,三肽,3,P,P,144,2.15836,144,1,1,1,中等活性,1,0,Milk-Cheese (Sheep milk and cheeses proteins),,是,PFP,仅有1个精确IC50值
+IAV,三肽,3,I,V,153.4,2.18583,153.4,1,2,1,中等活性,2,2,Cuttlefish (Muscle of cuttlefish) | Cuttlefish (Sepia officinalis),Cushman and Cheung (1971) | Nakamura et al. (1995),否,VAI,仅有1个精确IC50值
+FGK,三肽,3,F,K,160,2.20412,160,1,4,1,中等活性,3,1,Casein | Milk (bovine casein) | Milk derived,Cushman and Cheung (1971),否,KGF,仅有1个精确IC50值
+GYK,三肽,3,G,K,160,2.20412,160,1,1,1,中等活性,0,0,,,否,KYG,仅有1个精确IC50值
+IYK,三肽,3,I,K,177,2.24797,177,1,1,1,中等活性,0,0,,,否,KYI,仅有1个精确IC50值
+IEY,三肽,3,I,Y,182,2.26007,182,1,3,1,中等活性,2,1,Arachin | Legume (Peanut (Arachis hypogaea)),Jimsheena and Gowda (2009),否,YEI,仅有1个精确IC50值
+LKL,三肽,3,L,L,188,2.27416,188,1,1,1,中等活性,1,0,Fish (Sardine),,是,LKL,仅有1个精确IC50值
+YVP,三肽,3,Y,P,200,2.30103,200,1,4,1,中等活性,2,1,Milk (human casein) | Milk derived,Kasahara and Ashihara (1981),否,PVY,仅有1个精确IC50值
+RVY,三肽,3,R,Y,205.6,2.31302,205.6,1,4,1,较弱活性,3,2,Fish (Sardine (Sardina pilchardus muscle)) | Fish (Sardine muscle) | Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method | Cushman and Cheung (1971)",否,YVR,仅有1个精确IC50值
+IPY,三肽,3,I,Y,206,2.31387,206,1,2,1,较弱活性,1,0,Milk derived,,是,YPI,仅有1个精确IC50值
+TNP,三肽,3,T,P,207.4,2.31681,207.4,1,2,1,较弱活性,2,1,Porcine skeletal muscle | Porcine skeletal muscle protein,Cushman and Cheung (1971),否,PNT,仅有1个精确IC50值
+VRL,三肽,3,V,L,208.6,2.31931,208.6,1,1,1,较弱活性,1,1,Sweet-potato tuber trypsin inhibitor,"TLC (Holmquist et al., 1979)",否,LRV,仅有1个精确IC50值
+PYP,三肽,3,P,P,220,2.34242,220,1,4,1,较弱活性,3,1,Casein | Milk (bovine casein) | Milk derived,Cushman and Cheung (1971),是,PYP,仅有1个精确IC50值
+ALP,三肽,3,A,P,240,2.38021,240,1,1,1,较弱活性,1,1,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",否,PLA,仅有1个精确IC50值
+GAW,三肽,3,G,W,240,2.38021,240,1,1,1,较弱活性,1,0,Casein (Αs1-casein f),,否,WAG,仅有1个精确IC50值
+GVW,三肽,3,G,W,240,2.38021,240,1,4,1,较弱活性,2,1,Milk | Milk (Fermented Milk),Cushman and Cheung (1971),否,WVG,仅有1个精确IC50值
+ASP,三肽,3,A,P,242.3,2.38435,242.3,1,2,1,较弱活性,1,1,Milk (bovine lactoglobulin),Cushman and Cheung (1971),否,PSA,仅有1个精确IC50值
+VAV,三肽,3,V,V,260,2.41497,260,1,3,1,较弱活性,1,1,Milk (human casein),Kasahara and Ashihara (1981),是,VAV,仅有1个精确IC50值
+ILP,三肽,3,I,P,270,2.43136,270,1,4,1,较弱活性,3,1,Human (Human Beta Casein) | Human (Synthetic peptide of Human beta casein) | Milk (human β casein),Kasahara and Ashihara (1981),否,PLI,仅有1个精确IC50值
+SHP,三肽,3,S,P,280,2.44716,280,1,4,1,较弱活性,2,1,Milk (human casein) | Milk derived,Kasahara and Ashihara (1981),否,PHS,仅有1个精确IC50值
+NPP,三肽,3,N,P,290.5,2.46315,290.5,1,2,1,较弱活性,2,1,Porcine skeletal muscle | Porcine skeletal muscle protein,Cushman and Cheung (1971),否,PPN,仅有1个精确IC50值
+VLP,三肽,3,V,P,320,2.50515,320,1,4,1,较弱活性,3,1,Human (Human Beta Casein) | Human (Synthetic peptide of Human beta casein) | Milk (human β casein),Kasahara and Ashihara (1981),否,PLV,仅有1个精确IC50值
+LTF,三肽,3,L,F,330,2.51851,330,1,1,1,较弱活性,0,0,,,否,FTL,仅有1个精确IC50值
+RFH,三肽,3,R,H,330.5,2.51917,330.5,2,5,1.00303,较弱活性,3,2,Fish (Sardine (Sardina pilchardus muscle)) | Fish (Sardine muscle) | Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method | Cushman and Cheung (1971)",否,HFR,多个精确IC50值，但最大最小倍数<=3
+FNQ,三肽,3,F,Q,335,2.52504,335,1,3,1,较弱活性,2,1,Alpha-zein | Cereals (Maize (Zea mays)),Cushman and Cheung (1971),否,QNF,仅有1个精确IC50值
+AVP,三肽,3,A,P,340,2.53148,340,1,4,1,较弱活性,3,1,Casein | Milk (bovine casein) | Milk derived,Cushman and Cheung (1971),否,PVA,仅有1个精确IC50值
+GKP,三肽,3,G,P,352,2.54654,352,1,8,1,较弱活性,7,1,Beta microglobulin | Cheese whey protein | Microglobulin | Milk (cheese whey) | Milk derived | Synthesized | Whey protein,Yamamoto et al.,否,PKG,仅有1个精确IC50值
+RPR,三肽,3,R,R,382,2.58206,382,1,2,1,较弱活性,1,1,Pork (Sus domesticus),Sentandreu and Toldra (2006),是,RPR,仅有1个精确IC50值
+WLP,三肽,3,W,P,400,2.60206,400,1,1,1,较弱活性,1,0,Synthesized,,是,PLW,仅有1个精确IC50值
+PQR,三肽,3,P,R,401,2.60314,401,1,1,1,较弱活性,1,0,Casein,,否,RQP,仅有1个精确IC50值
+GPA,三肽,3,G,A,405,2.60746,405,1,4,1,较弱活性,2,1,Gelatin | Milk derived,"Using the synthetic substrate, benzoyl-Gly-Gly-Gly",否,APG,仅有1个精确IC50值
+YGL,三肽,3,Y,L,409,2.61172,409,1,4,1,较弱活性,4,1,Alpha-Lactoglobulin | Casein α-la f | Milk derived | Whey protein,Vermeirssen et al.,否,LGY,仅有1个精确IC50值
+PLP,三肽,3,P,P,430,2.63347,430,1,5,1,较弱活性,4,2,Human (Human Beta Casein) | Human (Synthetic peptide of Human beta casein) | Milk (Fermented Milk) | Milk (human β casein),"Cushman and Cheung (1971), Gonzalez-Gonzalez et al | Kasahara and Ashihara (1981)",是,PLP,仅有1个精确IC50值
+GTW,三肽,3,G,W,464.4,2.66689,464.333,3,6,1.00129,较弱活性,4,1,Casein β-lg f | Milk | Milk (Fermented Milk) | Whey (Whole whey protein),Cushman and Cheung (1971),否,WTG,多个精确IC50值，但最大最小倍数<=3
+KLP,三肽,3,K,P,500,2.69897,500,1,2,1,较弱活性,1,1,Pork (Sus domesticus),Sentandreu and Toldra (2006),否,PLK,仅有1个精确IC50值
+WYS,三肽,3,W,S,500,2.69897,500,1,1,1,较弱活性,1,1,Casein β-lg f,Cushman and Cheung (1971),否,SYW,仅有1个精确IC50值
+AIP,三肽,3,A,P,510,2.70757,484.252,2,5,1.91429,较弱活性,3,1,Casein (Beta Casein) | Milk (human casein) | Milk derived,Kasahara and Ashihara (1981),否,PIA,多个精确IC50值，但最大最小倍数<=3
+AGS,三肽,3,A,S,527.9,2.72255,527.9,1,3,1,较弱活性,2,2,Cuttlefish (Muscle of cuttlefish) | Cuttlefish (Sepia officinalis),Cushman and Cheung (1971) | Nakamura et al. (1995),否,SGA,仅有1个精确IC50值
+AGP,三肽,3,A,P,560,2.74819,560,1,2,1,较弱活性,1,1,Fish (Bonito (sarda fermented sauce)),Cushman and Cheung (1971),否,PGA,仅有1个精确IC50值
+AFP,三肽,3,A,P,610,2.78533,610,1,1,1,较弱活性,1,0,Milk derived,,否,PFA,仅有1个精确IC50值
+TTN,三肽,3,T,N,672.7,2.82782,672.7,1,2,1,较弱活性,2,1,Porcine skeletal muscle | Porcine skeletal muscle protein,Cushman and Cheung (1971),否,NTT,仅有1个精确IC50值
+ITT,三肽,3,I,T,678.5,2.83155,678.5,1,2,1,较弱活性,2,1,Porcine skeletal muscle | Porcine skeletal muscle protein,Cushman and Cheung (1971),是,TTI,仅有1个精确IC50值
+VRK,三肽,3,V,K,700,2.8451,700,1,2,1,较弱活性,1,1,Hard clam (Meretrix lusoria),Cushman and Cheung (1971),否,KRV,仅有1个精确IC50值
+HQG,三肽,3,H,G,745,2.87216,745,1,1,1,较弱活性,1,1,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",否,GQH,仅有1个精确IC50值
+HHT,三肽,3,H,T,800,2.90309,800,1,1,1,较弱活性,1,1,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",否,THH,仅有1个精确IC50值
+LEK,三肽,3,L,K,800,2.90309,800,1,1,1,较弱活性,1,0,Synthesized,,否,KEL,仅有1个精确IC50值
+HIR,三肽,3,H,R,953,2.97909,953,1,2,1,较弱活性,2,1,Milk derived | Synthetic,Abubakar et al.,否,RIH,仅有1个精确IC50值
+PPK,三肽,3,P,K,1000.5,3.00022,1000.5,2,2,1.001,较弱活性,1,1,Porcine skeletal muscle protein,Cushman and Cheung (1971),否,KPP,多个精确IC50值，但最大最小倍数<=3
+IFG,三肽,3,I,G,1001,3.00043,1001,1,1,1,较弱活性,0,0,,,否,GFI,仅有1个精确IC50值
+YGG,三肽,3,Y,G,1001,3.00043,1001,1,1,1,较弱活性,0,0,,,是,GGY,仅有1个精确IC50值
+VFK,三肽,3,V,K,1029,3.01242,1029,1,3,1,较弱活性,3,1,Casein β-lg f | Milk derived | Whey protein,Vermeirssen et al.,否,KFV,仅有1个精确IC50值
+VKF,三肽,3,V,F,1029,3.01242,1029,1,1,1,较弱活性,1,1,Whey protein (Beta Lactoglobulin),Vermeirssen et al.,否,FKV,仅有1个精确IC50值
+GHF,三肽,3,G,F,1050.5,3.0214,1049.33,2,5,1.0989,较弱活性,2,2,Fish (Bonito (Sarda bowel autolysate)) | Fish (Bonito bowel),"Cushman and Cheung (1971) | Cushman and Cheung (1971), Maruyama and Suzuki",是,FHG,多个精确IC50值，但最大最小倍数<=3
+AQK,三肽,3,A,K,1800,3.25527,1800,1,1,1,较弱活性,1,1,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",否,KQA,仅有1个精确IC50值
+AVF,三肽,3,A,F,2123,3.32695,2123,1,2,1,较弱活性,1,1,Cotton leafworm (Spodoptera littoralis),Cushman and Cheung (1971),否,FVA,仅有1个精确IC50值
+PYK,三肽,3,P,K,2400,3.38021,2400,1,1,1,较弱活性,1,0,Synthesized,,是,KYP,仅有1个精确IC50值
+DYG,三肽,3,D,G,2700,3.43136,2700,1,1,1,较弱活性,1,1,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",否,GYD,仅有1个精确IC50值

@@ -1,0 +1,1056 @@
+﻿原始记录ID,来源原表,序列,短肽类型,肽长,N端氨基酸,C端氨基酸,精确IC50_uM,log10_IC50_uM,来源原文,Assay原文,方法原文,模型原文,原始IC50文本,是否存在反向序列,反向序列,该序列总重复记录数,该序列精确IC50唯一值个数,该序列是否存在精确IC50冲突
+5134,small,AA,二肽,2,A,A,51.4,1.71096,,,,,51.4 μM,是,AA,14,2,是
+6112,small,AA,二肽,2,A,A,51.4,1.71096,Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),,,51.4 μM,是,AA,14,2,是
+6576,small,AA,二肽,2,A,A,620,2.79239,,,,,620 μM,是,AA,14,2,是
+1896,small,AF,二肽,2,A,F,165.3,2.21827,Soybean Sauce,Kasahara and Ashihara (1981),"NMR, LC-MS, GPC","SHR, Dahl salt-sensitive rats (DSSR)",165.3 μM,否,FA,24,2,是
+1271,small,AF,二肽,2,A,F,190,2.27875,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",190 μM,否,FA,24,2,是
+6569,small,AF,二肽,2,A,F,190,2.27875,,,,,190 μM,否,FA,24,2,是
+6586,small,AG,二肽,2,A,G,2500,3.39794,,,,,2500 μM,是,GA,16,1,否
+1253,small,AH,二肽,2,A,H,523.5,2.71892,Sweet-potato tuber trypsin inhibitor,"TLC (Holmquist et al., 1979)",TrypsinSepharose-4B AC,,523.5 μM,否,HA,6,1,否
+6604,small,AI,二肽,2,A,I,3.41,0.532754,Soybean (Soy sauce),,,,3.41 μM,是,IA,9,2,是
+1273,small,AI,二肽,2,A,I,690,2.83885,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",690 μM,是,IA,9,2,是
+5135,small,AP,二肽,2,A,P,29,1.4624,,,,,29 μM,是,PA,21,3,是
+5639,small,AP,二肽,2,A,P,29,1.4624,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,29 μM,是,PA,21,3,是
+5675,small,AP,二肽,2,A,P,29,1.4624,Fish (Bonito (sarda fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,29 μM,是,PA,21,3,是
+6162,small,AP,二肽,2,A,P,29,1.4624,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,29 μM,是,PA,21,3,是
+6570,small,AP,二肽,2,A,P,230,2.36173,,,,,230 μM,是,PA,21,3,是
+1079,small,AP,二肽,2,A,P,322,2.50786,Fish (Atlantic salmon),"Cushman and Cheung (1971), Wang et al.",RP-HPLC,,322 μM,是,PA,21,3,是
+5136,small,AR,二肽,2,A,R,95.5,1.98,,,,,95.5 μM,是,RA,8,1,否
+6110,small,AR,二肽,2,A,R,95.5,1.98,Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),,,95.5 μM,是,RA,8,1,否
+6690,small,AR,二肽,2,A,R,95.5,1.98,Porcine muscle,,,,95.5 μM,是,RA,8,1,否
+1266,small,AW,二肽,2,A,W,10,1,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",10 μM,是,WA,19,2,是
+2844,small,AW,二肽,2,A,W,10,1,Synthesized,,,,10 μM,是,WA,19,2,是
+6530,small,AW,二肽,2,A,W,10,1,Cereals (Finnish),,,,10 μM,是,WA,19,2,是
+1856,small,AW,二肽,2,A,W,18.8,1.27416,Wakame,Cushman and Cheung (1971),"RP-HPLC, LC-MS",SHR,18.8 μM,是,WA,19,2,是
+5137,small,AW,二肽,2,A,W,18.8,1.27416,,,,,18.8 μM,是,WA,19,2,是
+6269,small,AW,二肽,2,A,W,18.8,1.27416,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),RP-HPLC,,18.8 μM,是,WA,19,2,是
+1877,small,AY,二肽,2,A,Y,14.2,1.15229,Cereals (Corn Gluten meal),Cushman and Cheung (1971),"UF, SEC, RPC, LC/MS",SHR,14.2 μM,是,YA,29,3,是
+2650,small,AY,二肽,2,A,Y,14.2,1.15229,Cereals (Corn gluten meal),Cushman and Cheung (1971),HPLC-ESI-MS,SHR,14.2 μM,是,YA,29,3,是
+5138,small,AY,二肽,2,A,Y,14.2,1.15229,,,,,14.2 μM,是,YA,29,3,是
+5719,small,AY,二肽,2,A,Y,14.2,1.15229,Cereals (Corn (Zea mays)),Cushman and Cheung (1971),"GFC, RP-HPLC",,14.2 μM,是,YA,29,3,是
+5782,small,AY,二肽,2,A,Y,19,1.27875,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),RP-HPLC,,19 μM,是,YA,29,3,是
+6472,small,AY,二肽,2,A,Y,19,1.27875,Alpha-zein,,,,19 μM,是,YA,29,3,是
+1268,small,AY,二肽,2,A,Y,48,1.68124,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",48 μM,是,YA,29,3,是
+1114,small,CF,二肽,2,C,F,1.96,0.292256,Fish (Shark meat),He et al.,"UF, GF and RP-HPLC",,1.96 μM,否,FC,7,2,是
+6699,small,CF,二肽,2,C,F,1.96,0.292256,Fish (Shark meat hydrolysate),,,,1.96 μM,否,FC,7,2,是
+5139,small,CF,二肽,2,C,F,1.98,0.296665,,,,,1.98 μM,否,FC,7,2,是
+6192,small,CF,二肽,2,C,F,1.98,0.296665,Fish (Shark),Cushman and Cheung (1971),"GFC, RP-HPLC, UF",,1.98 μM,否,FC,7,2,是
+6592,small,DA,二肽,2,D,A,3800,3.57978,,,,,3800 μM,是,AD,12,1,否
+5140,small,DF,二肽,2,D,F,360,2.5563,,,,,360 μM,否,FD,4,1,否
+5647,small,DF,二肽,2,D,F,360,2.5563,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,360 μM,否,FD,4,1,否
+1042,small,DG,二肽,2,D,G,2.15,0.332438,Shrimp,He et al.,"UF, GFC, RP-HPLC",,2.15 μM,是,GD,20,2,是
+1265,small,DG,二肽,2,D,G,12.3,1.08991,Soybean Protein,RP-HPLC with Cushman and Cheung (1971),"UF, HPLC",,12.3 μM,是,GD,20,2,是
+1830,small,DG,二肽,2,D,G,12.3,1.08991,Soybean,Cushman and Cheung (1971),RP-HPLC,,12.3 μM,是,GD,20,2,是
+2911,small,DG,二肽,2,D,G,12.3,1.08991,Soybean (Defatted soybean meal),RP-HPLC with Cushman and Cheung (1971),"UF, HPLC",,12.3 μM,是,GD,20,2,是
+5141,small,DG,二肽,2,D,G,12.3,1.08991,,,,,12.3 μM,是,GD,20,2,是
+6224,small,DG,二肽,2,D,G,12.3,1.08991,Soybean (Glycine max),Cushman and Cheung (1971),"IEC, UF",,12.3 μM,是,GD,20,2,是
+6667,small,DG,二肽,2,D,G,12.3,1.08991,,,,,12.3 μM,是,GD,20,2,是
+6928,small,DK,二肽,2,D,K,510,2.70757,Chemically Synthesized,,,,510 μM,否,KD,1,1,否
+6168,small,DL,二肽,2,D,L,2000,3.30103,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,2000 μM,是,LD,2,1,否
+5142,small,DM,二肽,2,D,M,600,2.77815,,,,,600 μM,否,MD,4,1,否
+6167,small,DM,二肽,2,D,M,600,2.77815,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,600 μM,否,MD,4,1,否
+2617,small,DP,二肽,2,D,P,2.15,0.332438,Marine shrimp (acetes chinensis),He et al.,ESI-MS/MS,,2.15 μM,否,PD,1,1,否
+2845,small,DW,二肽,2,D,W,13,1.11394,Synthesized,,,,13 μM,否,WD,2,2,是
+2794,small,DW,二肽,2,D,W,257.93,2.4115,,,,,257.93 μM,否,WD,2,2,是
+6610,small,EA,二肽,2,E,A,10000,4,,,,,10000 μM,否,AE,15,1,否
+6609,small,EG,二肽,2,E,G,10000,4,,,,,10000 μM,是,GE,10,1,否
+5143,small,EP,二肽,2,E,P,1200,3.07918,,,,,1200 μM,否,PE,4,1,否
+5643,small,EP,二肽,2,E,P,1200,3.07918,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,1200 μM,否,PE,4,1,否
+5144,small,ER,二肽,2,E,R,667,2.82413,,,,,667 μM,否,RE,4,1,否
+6115,small,ER,二肽,2,E,R,667,2.82413,Pork (Sus domesticus),Sentandreu and Toldra (2006),RP-HPLC,,667 μM,否,RE,4,1,否
+1115,small,EY,二肽,2,E,Y,2.68,0.428135,Fish (Shark meat),He et al.,"UF, GF and RP-HPLC",,2.68 μM,是,YE,10,1,否
+5145,small,EY,二肽,2,E,Y,2.68,0.428135,,,,,2.68 μM,是,YE,10,1,否
+6193,small,EY,二肽,2,E,Y,2.68,0.428135,Fish (Shark),Cushman and Cheung (1971),"GFC, RP-HPLC, UF",,2.68 μM,是,YE,10,1,否
+6700,small,EY,二肽,2,E,Y,2.68,0.428135,Fish (Shark meat hydrolysate),,,,2.68 μM,是,YE,10,1,否
+1117,small,FE,二肽,2,F,E,1.45,0.161368,Fish (Shark meat),He et al.,"UF, GF and RP-HPLC",,1.45 μM,否,EF,5,1,否
+5146,small,FE,二肽,2,F,E,1.45,0.161368,,,,,1.45 μM,否,EF,5,1,否
+6195,small,FE,二肽,2,F,E,1.45,0.161368,Fish (Shark),Cushman and Cheung (1971),"GFC, RP-HPLC, UF",,1.45 μM,否,EF,5,1,否
+6591,small,FG,二肽,2,F,G,3700,3.5682,,,,,3700 μM,是,GF,13,1,否
+1236,small,FK,二肽,2,F,K,265.43,2.42395,Sweet-potato tuber defensin,"TLC (Holmquist et al., 1979)",Ni2+-chelate AC,,265.43 μM,是,KF,1,1,否
+1219,small,FL,二肽,2,F,L,1.33,0.123852,Rapeseed (Canola meal defatted),"HPLC method by Wu,Aluko and Muir",GPC,,1.33 μM,是,LF,6,1,否
+1988,small,FL,二肽,2,F,L,1.33,0.123852,Rapeseed (Canola meal defatted),"HPLC method by Wu,Aluko and Muir",GPC,,1.33 μM,是,LF,6,1,否
+1334,small,FP,二肽,2,F,P,315,2.49831,Bovine Serum Albumin,Yamamoto et al.,"RP-HPLC, GFC",,315 μM,是,PF,25,1,否
+1664,small,FP,二肽,2,F,P,315,2.49831,Casein albumin,,Enzymatic Hydrolysis of milk proteins,SHR,315 μM,是,PF,25,1,否
+1743,small,FP,二肽,2,F,P,315,2.49831,,Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,315 μM,是,PF,25,1,否
+2580,small,FP,二肽,2,F,P,315,2.49831,Cheese whey protein,Yamamoto et al.,"RP-HPLC, GF",SHR,315 μM,是,PF,25,1,否
+5147,small,FP,二肽,2,F,P,315,2.49831,,,,,315 μM,是,PF,25,1,否
+5565,small,FP,二肽,2,F,P,315,2.49831,Beta Casein albumin,,,,315 μM,是,PF,25,1,否
+5948,small,FP,二肽,2,F,P,315,2.49831,Milk (cheese whey),,"GFC, RP-HPLC, HIC",,315 μM,是,PF,25,1,否
+6421,small,FP,二肽,2,F,P,315,2.49831,Whey protein,,,,315 μM,是,PF,25,1,否
+6578,small,FR,二肽,2,F,R,920,2.96379,,,,,920 μM,是,RF,8,1,否
+2005,small,FW,二肽,2,F,W,3.9,0.591065,Cereals (Barley protein B-Hordein),,,,3.9 μM,否,WF,3,2,是
+2037,small,FW,二肽,2,F,W,3.9,0.591065,Egg proteins,,,,3.9 μM,否,WF,3,2,是
+1990,small,FW,二肽,2,F,W,5.9,0.770852,Legume (Pea proteins),Cushman and Cheung (1971),HPLC,,5.9 μM,否,WF,3,2,是
+1817,small,FY,二肽,2,F,Y,3.7,0.568202,Wakame Seaweed,Cushman and Cheung (1971),"IEC, SEC, RPC",SHR,3.7 μM,是,YF,29,4,是
+4258,small,FY,二肽,2,F,Y,3.7,0.568202,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"IEC, SEC, RPC",SHR,3.7 μM,是,YF,29,4,是
+6260,small,FY,二肽,2,F,Y,3.7,0.568202,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,3.7 μM,是,YF,29,4,是
+1810,small,FY,二肽,2,F,Y,3.74,0.572872,Garlic,Cushman and Cheung (1971),"IEC, GFC, RP-HPLC",SHR,3.74 μM,是,YF,29,4,是
+2654,small,FY,二肽,2,F,Y,3.74,0.572872,Garlic (Allium sativum L),Cushman and Cheung (1971),"RP-HPLC, FAB-MS",SHR,3.74 μM,是,YF,29,4,是
+5741,small,FY,二肽,2,F,Y,3.74,0.572872,Garlic (Allium sativum),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,3.74 μM,是,YF,29,4,是
+5808,small,FY,二肽,2,F,Y,25,1.39794,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,25 μM,是,YF,29,4,是
+6469,small,FY,二肽,2,F,Y,25,1.39794,Alpha-zein,,,,25 μM,是,YF,29,4,是
+1857,small,FY,二肽,2,F,Y,42.3,1.62634,Wakame,Cushman and Cheung (1971),"RP-HPLC, LC-MS",SHR,42.3 μM,是,YF,29,4,是
+4254,small,FY,二肽,2,F,Y,42.3,1.62634,Wakame (Undaria pinnatifida),Yamamoto et al.,"RP-HPLC, LC-MS",SHR,42.3 μM,是,YF,29,4,是
+5148,small,FY,二肽,2,F,Y,42.3,1.62634,,,,,42.3 μM,是,YF,29,4,是
+6270,small,FY,二肽,2,F,Y,42.3,1.62634,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),RP-HPLC,,42.3 μM,是,YF,29,4,是
+6584,small,GA,二肽,2,G,A,2000,3.30103,,,,,2000 μM,是,AG,16,1,否
+6607,small,GD,二肽,2,G,D,9200,3.96379,,,,,9200 μM,是,DG,12,1,否
+6601,small,GE,二肽,2,G,E,5400,3.73239,,,,,5400 μM,是,EG,10,1,否
+2791,small,GF,二肽,2,G,F,275.42,2.44,,,,,275.42 μM,是,FG,24,4,是
+1813,small,GF,二肽,2,G,F,277.9,2.44389,Garlic,Cushman and Cheung (1971),"IEC, GFC, RP-HPLC",SHR,277.9 μM,是,FG,24,4,是
+2657,small,GF,二肽,2,G,F,277.9,2.44389,Garlic (Allium sativum L),Cushman and Cheung (1971),"RP-HPLC, FAB-MS",SHR,277.9 μM,是,FG,24,4,是
+5149,small,GF,二肽,2,G,F,277.9,2.44389,,,,,277.9 μM,是,FG,24,4,是
+5744,small,GF,二肽,2,G,F,277.9,2.44389,Garlic (Allium sativum),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,277.9 μM,是,FG,24,4,是
+6577,small,GF,二肽,2,G,F,630,2.79934,,,,,630 μM,是,FG,24,4,是
+1112,small,GF,二肽,2,G,F,708,2.85003,Fish (Sea bream scale),Cushman and Cheung (1971),"GF, IEC, RP-HPLC",SHR,708 μM,是,FG,24,4,是
+6602,small,GG,二肽,2,G,G,7200,3.85733,,,,,7200 μM,是,GG,18,1,否
+6587,small,GH,二肽,2,G,H,3100,3.49136,,,,,3100 μM,是,HG,9,1,否
+6582,small,GI,二肽,2,G,I,1200,3.07918,,,,,1200 μM,是,IG,17,2,是
+5150,small,GI,二肽,2,G,I,1300,3.11394,,,,,1300 μM,是,IG,17,2,是
+5646,small,GI,二肽,2,G,I,1300,3.11394,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,1300 μM,是,IG,17,2,是
+6597,small,GK,二肽,2,G,K,5400,3.73239,,,,,5400 μM,是,KG,19,1,否
+6585,small,GL,二肽,2,G,L,2500,3.39794,,,,,2500 μM,是,LG,13,1,否
+6583,small,GM,二肽,2,G,M,1400,3.14613,,,,,1400 μM,是,MG,13,1,否
+6111,small,GP,二肽,2,G,P,66,1.81954,Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),,,66 μM,是,PG,19,3,是
+6522,small,GP,二肽,2,G,P,252.63,2.40248,Fish (Alaska pollack (Theragra chalcogramma)),,,,252.63 μM,是,PG,19,3,是
+5151,small,GP,二肽,2,G,P,360,2.5563,,,,,360 μM,是,PG,19,3,是
+5642,small,GP,二肽,2,G,P,360,2.5563,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,360 μM,是,PG,19,3,是
+5677,small,GP,二肽,2,G,P,360,2.5563,Fish (Bonito (sarda fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,360 μM,是,PG,19,3,是
+6163,small,GP,二肽,2,G,P,360,2.5563,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,360 μM,是,PG,19,3,是
+1997,small,GQ,二肽,2,G,Q,1910,3.28103,Legumin,,,,1910 μM,是,QG,14,2,是
+6596,small,GQ,二肽,2,G,Q,7000,3.8451,,,,,7000 μM,是,QG,14,2,是
+5152,small,GR,二肽,2,G,R,162.2,2.21005,,,,,162.2 μM,是,RG,17,2,是
+6109,small,GR,二肽,2,G,R,162.2,2.21005,Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),,,162.2 μM,是,RG,17,2,是
+6589,small,GR,二肽,2,G,R,3200,3.50515,,,,,3200 μM,是,RG,17,2,是
+6593,small,GS,二肽,2,G,S,3800,3.57978,,,,,3800 μM,是,SG,12,1,否
+6598,small,GT,二肽,2,G,T,5700,3.75587,,,,,5700 μM,是,TG,11,1,否
+6594,small,GV,二肽,2,G,V,4600,3.66276,,,,,4600 μM,是,VG,20,1,否
+1267,small,GW,二肽,2,G,W,30,1.47712,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",30 μM,是,WG,15,1,否
+2846,small,GW,二肽,2,G,W,30,1.47712,Synthesized,,,,30 μM,是,WG,15,1,否
+6565,small,GW,二肽,2,G,W,30,1.47712,,,,,30 μM,是,WG,15,1,否
+4250,small,GY,二肽,2,G,Y,68,1.83251,Silkworm fibroin,Cushman and Cheung (1971),"HPLC, LC/MS/MS",,68 μM,是,YG,33,6,是
+1809,small,GY,二肽,2,G,Y,72.1,1.85794,Garlic,Cushman and Cheung (1971),"IEC, GFC, RP-HPLC",SHR,72.1 μM,是,YG,33,6,是
+2653,small,GY,二肽,2,G,Y,72.1,1.85794,Garlic (Allium sativum L),Cushman and Cheung (1971),"RP-HPLC, FAB-MS",SHR,72.1 μM,是,YG,33,6,是
+5153,small,GY,二肽,2,G,Y,72.1,1.85794,,,,,72.1 μM,是,YG,33,6,是
+5740,small,GY,二肽,2,G,Y,72.1,1.85794,Garlic (Allium sativum),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,72.1 μM,是,YG,33,6,是
+1270,small,GY,二肽,2,G,Y,97,1.98677,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",97 μM,是,YG,33,6,是
+6450,small,GY,二肽,2,G,Y,210,2.32222,,,,,210 μM,是,YG,33,6,是
+2790,small,GY,二肽,2,G,Y,257.04,2.41,,,,,257.04 μM,是,YG,33,6,是
+1110,small,GY,二肽,2,G,Y,265,2.42325,Fish (Sea bream scale),Cushman and Cheung (1971),"GF, IEC, RP-HPLC",SHR,265 μM,是,YG,33,6,是
+6600,small,HG,二肽,2,H,G,6300,3.79934,,,,,6300 μM,是,GH,10,1,否
+6588,small,HL,二肽,2,H,L,3200,3.50515,,,,,3200 μM,否,LH,9,1,否
+4240,small,HY,二肽,2,H,Y,26.1,1.41664,Legume (Mung bean sprout sake),,,SHR,26.1 μM,是,YH,14,1,否
+5154,small,HY,二肽,2,H,Y,26.1,1.41664,,,,,26.1 μM,是,YH,14,1,否
+6150,small,HY,二肽,2,H,Y,26.1,1.41664,Cereals (Sake (Japanese alcoholic beverage made from rice)),Cushman and Cheung (1971),RP-HPLC,,26.1 μM,是,YH,14,1,否
+6413,small,HY,二肽,2,H,Y,26.1,1.41664,Sake and sake lees,,,,26.1 μM,是,YH,14,1,否
+1848,small,IA,二肽,2,I,A,153,2.18469,Soybean,Cushman and Cheung (1971),"IEC, GFC",SHR,153 μM,是,AI,11,1,否
+2666,small,IA,二肽,2,I,A,153,2.18469,Soybean,Cushman and Cheung (1971),"IEC, GF, HPLC",SHR,153 μM,是,AI,11,1,否
+6548,small,IA,二肽,2,I,A,153,2.18469,Soybean (Soy bioactive),,,,153 μM,是,AI,11,1,否
+1897,small,IF,二肽,2,I,F,65.8,1.81823,Soybean Sauce,Kasahara and Ashihara (1981),"NMR, LC-MS, GPC","SHR, Dahl salt-sensitive rats (DSSR)",65.8 μM,是,FI,17,2,是
+6579,small,IF,二肽,2,I,F,930,2.96848,,,,,930 μM,是,FI,17,2,是
+6581,small,IG,二肽,2,I,G,1200,3.07918,,,,,1200 μM,是,GI,12,1,否
+6567,small,IP,二肽,2,I,P,130,2.11394,,,,,130 μM,是,PI,16,1,否
+1859,small,IW,二肽,2,I,W,1.5,0.176091,Wakame,Cushman and Cheung (1971),"RP-HPLC, LC-MS",SHR,1.5 μM,否,WI,32,5,是
+4255,small,IW,二肽,2,I,W,1.5,0.176091,Wakame (Undaria pinnatifida),Yamamoto et al.,"RP-HPLC, LC-MS",SHR,1.5 μM,否,WI,32,5,是
+6272,small,IW,二肽,2,I,W,1.5,0.176091,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),RP-HPLC,,1.5 μM,否,WI,32,5,是
+2847,small,IW,二肽,2,I,W,2,0.30103,Synthesized,,,,2 μM,否,WI,32,5,是
+1085,small,IW,二肽,2,I,W,4.7,0.672098,Fish (Salmon),"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,4.7 μM,否,WI,32,5,是
+2028,small,IW,二肽,2,I,W,4.7,0.672098,Fish (Sardine),,,,4.7 μM,否,WI,32,5,是
+6160,small,IW,二肽,2,I,W,4.7,0.672098,Fish (Salmon (Oncorhynchus keta)),Cushman and Cheung (1971),"GFC, RP-HPLC, HIC",,4.7 μM,否,WI,32,5,是
+6531,small,IW,二肽,2,I,W,4.7,0.672098,Fish (Salmon muscle),,,,4.7 μM,否,WI,32,5,是
+1074,small,IW,二肽,2,I,W,5.1,0.70757,Fish (Dried Bonito),"Cushman and Cheung (1971), Yamamoto and others","HPLC, RP-HPLC",SHR,5.1 μM,否,WI,32,5,是
+5155,small,IW,二肽,2,I,W,12.4,1.09342,,,,,12.4 μM,否,WI,32,5,是
+6264,small,IW,二肽,2,I,W,12.4,1.09342,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,12.4 μM,否,WI,32,5,是
+6367,small,IY,二肽,2,I,Y,2.1,0.322219,Fish (Sardine muscle),,,,2.1 μM,否,YI,53,8,是
+1818,small,IY,二肽,2,I,Y,2.7,0.431364,Wakame Seaweed,Cushman and Cheung (1971),"IEC, SEC, RPC",SHR,2.7 μM,否,YI,53,8,是
+4259,small,IY,二肽,2,I,Y,2.7,0.431364,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"IEC, SEC, RPC",SHR,2.7 μM,否,YI,53,8,是
+6263,small,IY,二肽,2,I,Y,2.7,0.431364,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,2.7 μM,否,YI,53,8,是
+1934,small,IY,二肽,2,I,Y,3.4,0.531479,Cereals (Wheat bran),Modified Lieberman’s method,"RPC, SEC, RP-HPLC",,3.4 μM,否,YI,53,8,是
+2734,small,IY,二肽,2,I,Y,3.4,0.531479,Cereals (Wheat bran),Modified Lieberman’s method,"MALDI-TOF-MS, HPLC",,3.4 μM,否,YI,53,8,是
+6282,small,IY,二肽,2,I,Y,3.4,0.531479,Cereals (Wheat (Triticum aestivum wheat bran)),Cushman and Cheung (1971),"IEC, RP-HPLC, HIC",,3.4 μM,否,YI,53,8,是
+1070,small,IY,二肽,2,I,Y,3.7,0.568202,Fish (Dried Bonito),Cushman and Cheung (1971),HPLC,,3.7 μM,否,YI,53,8,是
+1948,small,IY,二肽,2,I,Y,3.7,0.568202,Rapeseed,"Cushman and Cheung (1971), Yamamoto and others",CC,SHR,3.7 μM,否,YI,53,8,是
+4248,small,IY,二肽,2,I,Y,3.7,0.568202,Rapeseed protein,Cushman and Cheung (1971),HPLC,SHR,3.7 μM,否,YI,53,8,是
+5661,small,IY,二肽,2,I,Y,3.7,0.568202,Fish (Bonito (Sarda - dried bonito (katsuobusi))),Cushman and Cheung (1971),"RP-HPLC, HIC",,3.7 μM,否,YI,53,8,是
+6140,small,IY,二肽,2,I,Y,3.7,0.568202,Rapeseed (Brassica napus),Cushman and Cheung (1971),RP-HPLC,,3.7 μM,否,YI,53,8,是
+1903,small,IY,二肽,2,I,Y,4,0.60206,Cereals (Rice-koji),Cushman and Cheung (1971),"IEC, SEC, RPC",,4 μM,否,YI,53,8,是
+2583,small,IY,二肽,2,I,Y,4,0.60206,Cereals (rice),Modified Lieberman’s method,RP-HPLC,,4 μM,否,YI,53,8,是
+6143,small,IY,二肽,2,I,Y,4,0.60206,Cereals (Rice (Oryza sativa red-mold rice)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,4 μM,否,YI,53,8,是
+1855,small,IY,二肽,2,I,Y,6.1,0.78533,Wakame,Cushman and Cheung (1971),"RP-HPLC, LC-MS",SHR,6.1 μM,否,YI,53,8,是
+4253,small,IY,二肽,2,I,Y,6.1,0.78533,Wakame (Undaria pinnatifida),Yamamoto et al.,"RP-HPLC, LC-MS",SHR,6.1 μM,否,YI,53,8,是
+6268,small,IY,二肽,2,I,Y,6.1,0.78533,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),RP-HPLC,,6.1 μM,否,YI,53,8,是
+1098,small,IY,二肽,2,I,Y,10.5,1.02119,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,10.5 μM,否,YI,53,8,是
+5156,small,IY,二肽,2,I,Y,10.5,1.02119,,,,,10.5 μM,否,YI,53,8,是
+6176,small,IY,二肽,2,I,Y,10.5,1.02119,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,10.5 μM,否,YI,53,8,是
+2956,small,IY,二肽,2,I,Y,37,1.5682,Rapeseed protein-derived peptides,Holmquist et al. (1979),"GPC, RP-HPLC",SHR,0.037 mM,否,YI,53,8,是
+5157,small,KA,二肽,2,K,A,31.5,1.49831,,,,,31.5 μM,否,AK,19,1,否
+6113,small,KA,二肽,2,K,A,31.5,1.49831,Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),,,31.5 μM,否,AK,19,1,否
+6691,small,KA,二肽,2,K,A,31.5,1.49831,Porcine muscle,,,,31.5 μM,否,AK,19,1,否
+5158,small,KF,二肽,2,K,F,28.3,1.45179,,,,,28.3 μM,是,FK,18,2,是
+6259,small,KF,二肽,2,K,F,28.3,1.45179,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,28.3 μM,是,FK,18,2,是
+6678,small,KF,二肽,2,K,F,28.3,1.45179,,,,,28.3 μM,是,FK,18,2,是
+2850,small,KF,二肽,2,K,F,116,2.06446,Synthesized,,,,116 μM,是,FK,18,2,是
+6590,small,KG,二肽,2,K,G,3200,3.50515,,,,,3200 μM,是,GK,12,1,否
+6679,small,KL,二肽,2,K,L,50.2,1.7007,,,,,50.2 μM,否,LK,9,1,否
+5159,small,KP,二肽,2,K,P,22,1.34242,,,,,22 μM,是,PK,19,1,否
+5640,small,KP,二肽,2,K,P,22,1.34242,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,22 μM,是,PK,19,1,否
+6713,small,KP,二肽,2,K,P,22,1.34242,Fish (Fermented fish sauce),,,,22 μM,是,PK,19,1,否
+6572,small,KR,二肽,2,K,R,380,2.57978,,,,,380 μM,否,RK,4,1,否
+6178,small,KW,二肽,2,K,W,1.63,0.212188,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,1.63 μM,否,WK,15,3,是
+6370,small,KW,二肽,2,K,W,1.63,0.212188,Fish (Sardine muscle),,,,1.63 μM,否,WK,15,3,是
+2834,small,KW,二肽,2,K,W,7.8,0.892095,Synthesized,,,,7.8 μM,否,WK,15,3,是
+5160,small,KW,二肽,2,K,W,10.8,1.03342,,,,,10.8 μM,否,WK,15,3,是
+6257,small,KW,二肽,2,K,W,10.8,1.03342,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,10.8 μM,否,WK,15,3,是
+1105,small,KY,二肽,2,K,Y,1.63,0.212188,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,1.63 μM,是,YK,15,3,是
+1816,small,KY,二肽,2,K,Y,7.7,0.886491,Wakame Seaweed,Cushman and Cheung (1971),"IEC, SEC, RPC",SHR,7.7 μM,是,YK,15,3,是
+4257,small,KY,二肽,2,K,Y,7.7,0.886491,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"IEC, SEC, RPC",SHR,7.7 μM,是,YK,15,3,是
+5161,small,KY,二肽,2,K,Y,7.7,0.886491,,,,,7.7 μM,是,YK,15,3,是
+6258,small,KY,二肽,2,K,Y,7.7,0.886491,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,7.7 μM,是,YK,15,3,是
+6677,small,KY,二肽,2,K,Y,13,1.11394,,,,,13 μM,是,YK,15,3,是
+6571,small,LA,二肽,2,L,A,310,2.49136,,,,,310 μM,是,AL,12,1,否
+1330,small,LF,二肽,2,L,F,349,2.54283,Alpha-Lactoglobulin,,,,349 μM,是,FL,21,1,否
+6466,small,LF,二肽,2,L,F,349,2.54283,Milk,,,,349 μM,是,FL,21,1,否
+6606,small,LG,二肽,2,L,G,8800,3.94448,,,,,8800 μM,是,GL,19,1,否
+2043,small,LW,二肽,2,L,W,4.4,0.643453,Egg proteins,"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,4.4 μM,是,WL,31,4,是
+1086,small,LW,二肽,2,L,W,17.4,1.24055,Fish (Salmon),"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,17.4 μM,是,WL,31,4,是
+6161,small,LW,二肽,2,L,W,17.4,1.24055,Fish (Salmon (Oncorhynchus keta)),Cushman and Cheung (1971),"GFC, RP-HPLC, HIC",,17.4 μM,是,WL,31,4,是
+1860,small,LW,二肽,2,L,W,23.6,1.37291,Wakame,Cushman and Cheung (1971),"RP-HPLC, LC-MS",SHR,23.6 μM,是,WL,31,4,是
+5162,small,LW,二肽,2,L,W,23.6,1.37291,,,,,23.6 μM,是,WL,31,4,是
+6273,small,LW,二肽,2,L,W,23.6,1.37291,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),RP-HPLC,,23.6 μM,是,WL,31,4,是
+6373,small,LW,二肽,2,L,W,50,1.69897,Casein,,,,50 μM,是,WL,31,4,是
+1976,small,LY,二肽,2,L,Y,6.8,0.832509,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",LC-MS/MS,SHR,6.8 μM,是,YL,23,4,是
+6365,small,LY,二肽,2,L,Y,18,1.25527,Fish (Sardine muscle),,,,18 μM,是,YL,23,4,是
+1096,small,LY,二肽,2,L,Y,38.5,1.58546,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,38.5 μM,是,YL,23,4,是
+5163,small,LY,二肽,2,L,Y,38.5,1.58546,,,,,38.5 μM,是,YL,23,4,是
+6174,small,LY,二肽,2,L,Y,38.5,1.58546,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,38.5 μM,是,YL,23,4,是
+2958,small,LY,二肽,2,L,Y,110,2.04139,Rapeseed proteins,Holmquist et al. (1979),"GPC, RP-HPLC",SHR,0.11 mM,是,YL,23,4,是
+5546,small,LY,二肽,2,L,Y,110,2.04139,Rapeseed protein,Holmquist et al. (1979),RP-HPLC,SHR,0.11 mM,是,YL,23,4,是
+6969,small,MA,二肽,2,M,A,152,2.18184,Prince-of-Wales feather (Amaranthus hypochondriacus),,,,152.0 μM,否,AM,1,1,否
+1116,small,MF,二肽,2,M,F,0.92,-0.0362122,Fish (Shark meat),He et al.,"UF, GF and RP-HPLC",,0.92 μM,否,FM,16,3,是
+6194,small,MF,二肽,2,M,F,0.92,-0.0362122,Fish (Shark),Cushman and Cheung (1971),"GFC, RP-HPLC, UF",,0.92 μM,否,FM,16,3,是
+1093,small,MF,二肽,2,M,F,44.7,1.65031,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,44.7 μM,否,FM,16,3,是
+5164,small,MF,二肽,2,M,F,44.7,1.65031,,,,,44.7 μM,否,FM,16,3,是
+6171,small,MF,二肽,2,M,F,44.7,1.65031,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,44.7 μM,否,FM,16,3,是
+6369,small,MF,二肽,2,M,F,45,1.65321,Fish (Sardine muscle),,,,45 μM,否,FM,16,3,是
+6595,small,MG,二肽,2,M,G,4800,3.68124,,,,,4800 μM,是,GM,10,1,否
+6968,small,MP,二肽,2,M,P,135.3,2.1313,Prince-of-Wales feather (Amaranthus hypochondriacus),,,,135.3 μM,否,PM,1,1,否
+1084,small,MW,二肽,2,M,W,9.9,0.995635,Fish (Salmon),"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,9.9 μM,是,WM,10,1,否
+2029,small,MW,二肽,2,M,W,9.9,0.995635,Fish (Sardine),,,,9.9 μM,是,WM,10,1,否
+5165,small,MW,二肽,2,M,W,9.9,0.995635,,,,,9.9 μM,是,WM,10,1,否
+6159,small,MW,二肽,2,M,W,9.9,0.995635,Fish (Salmon (Oncorhynchus keta)),Cushman and Cheung (1971),"GFC, RP-HPLC, HIC",,9.9 μM,是,WM,10,1,否
+1095,small,MY,二肽,2,M,Y,193,2.28556,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,193 μM,否,YM,9,2,是
+5166,small,MY,二肽,2,M,Y,193,2.28556,,,,,193 μM,否,YM,9,2,是
+6173,small,MY,二肽,2,M,Y,193,2.28556,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,193 μM,否,YM,9,2,是
+6372,small,MY,二肽,2,M,Y,193,2.28556,Fish (Sardine muscle),,,,193 μM,否,YM,9,2,是
+2792,small,MY,二肽,2,M,Y,194.98,2.28999,,,,,194.98 μM,否,YM,9,2,是
+1814,small,NF,二肽,2,N,F,46.3,1.66558,Garlic,Cushman and Cheung (1971),"IEC, GFC, RP-HPLC",SHR,46.3 μM,否,FN,12,1,否
+2658,small,NF,二肽,2,N,F,46.3,1.66558,Garlic (Allium sativum L),Cushman and Cheung (1971),"RP-HPLC, FAB-MS",SHR,46.3 μM,否,FN,12,1,否
+5167,small,NF,二肽,2,N,F,46.3,1.66558,,,,,46.3 μM,否,FN,12,1,否
+5745,small,NF,二肽,2,N,F,46.3,1.66558,Garlic (Allium sativum),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,46.3 μM,否,FN,12,1,否
+6669,small,NF,二肽,2,N,F,46.3,1.66558,,,,,46.3 μM,否,FN,12,1,否
+6611,small,NG,二肽,2,N,G,12000,4.07918,,,,,12000 μM,否,GN,5,1,否
+6684,small,NK,二肽,2,N,K,810,2.90849,,,,,810 μM,否,KN,6,1,否
+5168,small,NP,二肽,2,N,P,2300,3.36173,,,,,2300 μM,否,PN,4,1,否
+6166,small,NP,二肽,2,N,P,2300,3.36173,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,2300 μM,否,PN,4,1,否
+1811,small,NY,二肽,2,N,Y,32.6,1.51322,Garlic,Cushman and Cheung (1971),"IEC, GFC, RP-HPLC",SHR,32.6 μM,是,YN,12,1,否
+2655,small,NY,二肽,2,N,Y,32.6,1.51322,Garlic (Allium sativum L),Cushman and Cheung (1971),"RP-HPLC, FAB-MS",SHR,32.6 μM,是,YN,12,1,否
+5169,small,NY,二肽,2,N,Y,32.6,1.51322,,,,,32.6 μM,是,YN,12,1,否
+5742,small,NY,二肽,2,N,Y,32.6,1.51322,Garlic (Allium sativum),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,32.6 μM,是,YN,12,1,否
+6668,small,NY,二肽,2,N,Y,32.6,1.51322,,,,,32.6 μM,是,YN,12,1,否
+6612,small,PG,二肽,2,P,G,17000,4.23045,,,,,17000 μM,是,GP,14,1,否
+6523,small,PL,二肽,2,P,L,337.32,2.52804,Fish (Alaska pollack (Theragra chalcogramma)),,,,337.32 μM,是,LP,11,1,否
+6454,small,PR,二肽,2,P,R,4.1,0.612784,Sake and sake lees,,,,4.1 μM,是,RP,9,1,否
+6603,small,QG,二肽,2,Q,G,7400,3.86923,,,,,7400 μM,是,GQ,11,1,否
+6666,small,QK,二肽,2,Q,K,885,2.94694,,,,,885 μM,否,KQ,8,1,否
+3642,small,QN,二肽,2,Q,N,89,1.94939,Milk (Fermented Milk),Holmquist et al. (1979),RP-HPLC,SHR,89 μM,否,NQ,1,1,否
+6929,small,QP,二肽,2,Q,P,65.8,1.81823,Chemically Synthesized,,,,65.8 μM,是,PQ,1,1,否
+6574,small,RA,二肽,2,R,A,460,2.66276,,,,,460 μM,是,AR,12,1,否
+4242,small,RF,二肽,2,R,F,93,1.96848,Legume (Mung bean sprout sake),,,SHR,93 μM,是,FR,23,2,是
+6155,small,RF,二肽,2,R,F,93,1.96848,Cereals (Sake (Japanese alcoholic beverage made from rice)),Cushman and Cheung (1971),RP-HPLC,,93 μM,是,FR,23,2,是
+6408,small,RF,二肽,2,R,F,93,1.96848,Sake and sake lees,,,,93 μM,是,FR,23,2,是
+1251,small,RF,二肽,2,R,F,392.2,2.59351,Sweet-potato tuber trypsin inhibitor,"TLC (Holmquist et al., 1979)",TrypsinSepharose-4B AC,,392.2 μM,是,FR,23,2,是
+1246,small,RL,二肽,2,R,L,746.4,2.87297,Sweet-potato tuber trypsin inhibitor,"TLC (Holmquist et al., 1979)",TrypsinSepharose-4B AC,,746.4 μM,否,LR,9,1,否
+6114,small,RP,二肽,2,R,P,15.2,1.18184,Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),,,15.2 μM,是,PR,23,4,是
+5641,small,RP,二肽,2,R,P,21,1.32222,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,21 μM,是,PR,23,4,是
+5676,small,RP,二肽,2,R,P,21,1.32222,Fish (Bonito (sarda fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,21 μM,是,PR,23,4,是
+6568,small,RP,二肽,2,R,P,180,2.25527,,,,,180 μM,是,PR,23,4,是
+2793,small,RP,二肽,2,R,P,181.97,2.26,,,,,181.97 μM,是,PR,23,4,是
+5170,small,RR,二肽,2,R,R,267.1,2.42667,,,,,267.1 μM,是,RR,8,1,否
+6108,small,RR,二肽,2,R,R,267.1,2.42667,Pork (Sus domesticus skeletal muscle),Sentandreu and Toldra (2006),,,267.1 μM,是,RR,8,1,否
+6689,small,RR,二肽,2,R,R,267.1,2.42667,Porcine muscle,,,,267.1 μM,是,RR,8,1,否
+6930,small,RS,二肽,2,R,S,61.5,1.78888,Hydrolysate (dipeptidyl peptidase),,,,61.5 μM,否,SR,1,1,否
+2848,small,RW,二肽,2,R,W,16,1.20412,Synthesized,,,,16 μM,否,WR,11,1,否
+6566,small,RW,二肽,2,R,W,16,1.20412,,,,,16 μM,否,WR,11,1,否
+6364,small,RY,二肽,2,R,Y,10.5,1.02119,Fish (Sardine muscle),,,,10.5 μM,否,YR,14,2,是
+1094,small,RY,二肽,2,R,Y,51,1.70757,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,51 μM,否,YR,14,2,是
+5171,small,RY,二肽,2,R,Y,51,1.70757,,,,,51 μM,否,YR,14,2,是
+6172,small,RY,二肽,2,R,Y,51,1.70757,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,51 μM,否,YR,14,2,是
+1812,small,SF,二肽,2,S,F,130.2,2.11461,Garlic,Cushman and Cheung (1971),"IEC, GFC, RP-HPLC",SHR,130.2 μM,否,FS,14,1,否
+2656,small,SF,二肽,2,S,F,130.2,2.11461,Garlic (Allium sativum L),Cushman and Cheung (1971),"RP-HPLC, FAB-MS",SHR,130.2 μM,否,FS,14,1,否
+5172,small,SF,二肽,2,S,F,130.2,2.11461,,,,,130.2 μM,否,FS,14,1,否
+5743,small,SF,二肽,2,S,F,130.2,2.11461,Garlic (Allium sativum),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,130.2 μM,否,FS,14,1,否
+6671,small,SF,二肽,2,S,F,130.2,2.11461,,,,,130.2 μM,否,FS,14,1,否
+6605,small,SG,二肽,2,S,G,8500,3.92942,,,,,8500 μM,是,GS,14,1,否
+1044,small,ST,二肽,2,S,T,4.03,0.605305,Shrimp,He et al.,"UF, GFC, RP-HPLC",,4.03 μM,否,TS,2,1,否
+2619,small,ST,二肽,2,S,T,4.03,0.605305,Marine shrimp (acetes chinensis),He et al.,ESI-MS/MS,,4.03 μM,否,TS,2,1,否
+1808,small,SY,二肽,2,S,Y,66.3,1.82151,Garlic,Cushman and Cheung (1971),"IEC, GFC, RP-HPLC",SHR,66.3 μM,是,YS,15,2,是
+2652,small,SY,二肽,2,S,Y,66.3,1.82151,Garlic (Allium sativum L),Cushman and Cheung (1971),"RP-HPLC, FAB-MS",SHR,66.3 μM,是,YS,15,2,是
+5173,small,SY,二肽,2,S,Y,66.3,1.82151,,,,,66.3 μM,是,YS,15,2,是
+5746,small,SY,二肽,2,S,Y,66.3,1.82151,Garlic (Allium sativum),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,66.3 μM,是,YS,15,2,是
+6670,small,SY,二肽,2,S,Y,66.3,1.82151,,,,,66.3 μM,是,YS,15,2,是
+1269,small,SY,二肽,2,S,Y,67,1.82607,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",67 μM,是,YS,15,2,是
+1935,small,TF,二肽,2,T,F,18,1.25527,Cereals (Wheat bran),Modified Lieberman’s method,"RPC, SEC, RP-HPLC",,18 μM,否,FT,13,2,是
+2735,small,TF,二肽,2,T,F,18,1.25527,Cereals (Wheat bran),Modified Lieberman’s method,"MALDI-TOF-MS, HPLC",,18 μM,否,FT,13,2,是
+5174,small,TF,二肽,2,T,F,18,1.25527,,,,,18 μM,否,FT,13,2,是
+6283,small,TF,二肽,2,T,F,18,1.25527,Cereals (Wheat (Triticum aestivum wheat bran)),Cushman and Cheung (1971),"IEC, RP-HPLC, HIC",,18 μM,否,FT,13,2,是
+6759,small,TF,二肽,2,T,F,18,1.25527,Cereals (Wheat bran),,,,18 μM,否,FT,13,2,是
+2959,small,TF,二肽,2,T,F,810,2.90849,Rapeseed proteins,Holmquist et al. (1979),"GPC, RP-HPLC",SHR,0.81 mM,否,FT,13,2,是
+5547,small,TF,二肽,2,T,F,810,2.90849,Rapeseed protein,Holmquist et al. (1979),RP-HPLC,SHR,0.81 mM,否,FT,13,2,是
+6608,small,TG,二肽,2,T,G,9900,3.99564,,,,,9900 μM,是,GT,11,1,否
+5175,small,TP,二肽,2,T,P,290,2.4624,,,,,290 μM,是,PT,6,1,否
+5644,small,TP,二肽,2,T,P,290,2.4624,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,290 μM,是,PT,6,1,否
+6164,small,TP,二肽,2,T,P,290,2.4624,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,290 μM,是,PT,6,1,否
+6368,small,VF,二肽,2,V,F,9.2,0.963788,Fish (Sardine muscle),,,,9.2 μM,是,FV,29,3,是
+1099,small,VF,二肽,2,V,F,43.7,1.64048,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,43.7 μM,是,FV,29,3,是
+6177,small,VF,二肽,2,V,F,43.7,1.64048,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,43.7 μM,是,FV,29,3,是
+6262,small,VF,二肽,2,V,F,43.7,1.64048,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,43.7 μM,是,FV,29,3,是
+1905,small,VF,二肽,2,V,F,49.7,1.69636,Cereals (Rice-koji),Cushman and Cheung (1971),"IEC, SEC, RPC",,49.7 μM,是,FV,29,3,是
+2585,small,VF,二肽,2,V,F,49.7,1.69636,Cereals (rice),Modified Lieberman’s method,RP-HPLC,,49.7 μM,是,FV,29,3,是
+5176,small,VF,二肽,2,V,F,49.7,1.69636,,,,,49.7 μM,是,FV,29,3,是
+6145,small,VF,二肽,2,V,F,49.7,1.69636,Cereals (Rice (Oryza sativa red-mold rice)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,49.7 μM,是,FV,29,3,是
+1274,small,VG,二肽,2,V,G,1100,3.04139,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",1100 μM,是,GV,25,1,否
+6580,small,VG,二肽,2,V,G,1100,3.04139,,,,,1100 μM,是,GV,25,1,否
+6544,small,VK,二肽,2,V,K,13,1.11394,Soybean (Soy bioactive),,,,13 μM,否,KV,11,1,否
+1927,small,VL,二肽,2,V,L,13,1.11394,Cereals (Buckwheat),Modified Lieberman’s method,"SEC, RPC",SHR,13 μM,是,LV,3,1,否
+6573,small,VP,二肽,2,V,P,420,2.62325,,,,,420 μM,否,PV,21,3,是
+1272,small,VP,二肽,2,V,P,480,2.68124,Soybean,Kasahara and Ashihara (1981),"RPC, LC-MS/MS","SHR, Dahl salt-sensitive rats (DSSR)",480 μM,否,PV,21,3,是
+5177,small,VP,二肽,2,V,P,570,2.75587,,,,,570 μM,否,PV,21,3,是
+5645,small,VP,二肽,2,V,P,570,2.75587,Anchovy (sauce),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,570 μM,否,PV,21,3,是
+6165,small,VP,二肽,2,V,P,570,2.75587,Fish (Sardine (Sardina pilchardus fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,570 μM,否,PV,21,3,是
+1002,small,VR,二肽,2,V,R,52.8,1.72263,Milk (Ovine milk proteins),Cushman and Cheung (1971),"UF, FPLC, RP-HPLC, IT-MS (CE-MS)",,52.8 μM,否,RV,11,3,是
+6615,small,VR,二肽,2,V,R,52.8,1.72263,Milk (Ovine milk product),,,,52.8 μM,否,RV,11,3,是
+1996,small,VR,二肽,2,V,R,98,1.99123,Legumin,,,,98 μM,否,RV,11,3,是
+1080,small,VR,二肽,2,V,R,1214,3.08422,Fish (Atlantic salmon),"Cushman and Cheung (1971), Wang et al.",RP-HPLC,,1214 μM,否,RV,11,3,是
+2703,small,VW,二肽,2,V,W,1.1,0.0413927,Alfalfa (Medicago sativa),,"ESI-MS, ES-FPLC, RP-HPLC",,1.1 μM,是,WV,51,10,是
+1667,small,VW,二肽,2,V,W,1.4,0.146128,Casein,,Enzymatic Hydrolysis of milk proteins,SHR,1.4 μM,是,WV,51,10,是
+4243,small,VW,二肽,2,V,W,1.4,0.146128,Legume (Mung bean sprout sake),,,SHR,1.4 μM,是,WV,51,10,是
+5568,small,VW,二肽,2,V,W,1.4,0.146128,Sake lees,,,,1.4 μM,是,WV,51,10,是
+6147,small,VW,二肽,2,V,W,1.4,0.146128,Cereals (Sake (Japanese alcoholic beverage made from rice)),Cushman and Cheung (1971),RP-HPLC,,1.4 μM,是,WV,51,10,是
+6405,small,VW,二肽,2,V,W,1.4,0.146128,Sake and sake lees,,,,1.4 μM,是,WV,51,10,是
+1950,small,VW,二肽,2,V,W,1.6,0.20412,Rapeseed,"Cushman and Cheung (1971), Yamamoto and others",CC,SHR,1.6 μM,是,WV,51,10,是
+2849,small,VW,二肽,2,V,W,1.6,0.20412,Synthesized,,,,1.6 μM,是,WV,51,10,是
+2954,small,VW,二肽,2,V,W,1.6,0.20412,Rapeseed protein-derived peptides,Holmquist et al. (1979),CE-ESI-IT-MS,SHR,0.0016 mM,是,WV,51,10,是
+4245,small,VW,二肽,2,V,W,1.6,0.20412,Rapeseed protein,Cushman and Cheung (1971),HPLC,SHR,1.6 μM,是,WV,51,10,是
+6139,small,VW,二肽,2,V,W,1.6,0.20412,Rapeseed (Brassica napus),Cushman and Cheung (1971),RP-HPLC,,1.6 μM,是,WV,51,10,是
+1082,small,VW,二肽,2,V,W,2.5,0.39794,Fish (Salmon),"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,2.5 μM,是,WV,51,10,是
+2027,small,VW,二肽,2,V,W,2.5,0.39794,Fish (Sardine),,,,2.5 μM,是,WV,51,10,是
+6157,small,VW,二肽,2,V,W,2.5,0.39794,Fish (Salmon (Oncorhynchus keta)),Cushman and Cheung (1971),"GFC, RP-HPLC, HIC",,2.5 μM,是,WV,51,10,是
+1906,small,VW,二肽,2,V,W,3.1,0.491362,Cereals (Rice-koji),Cushman and Cheung (1971),"IEC, SEC, RPC",,3.1 μM,是,WV,51,10,是
+2586,small,VW,二肽,2,V,W,3.1,0.491362,Cereals (rice),Modified Lieberman’s method,RP-HPLC,,3.1 μM,是,WV,51,10,是
+6146,small,VW,二肽,2,V,W,3.1,0.491362,Cereals (Rice (Oryza sativa red-mold rice)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,3.1 μM,是,WV,51,10,是
+1858,small,VW,二肽,2,V,W,3.3,0.518514,Wakame,Cushman and Cheung (1971),"RP-HPLC, LC-MS",SHR,3.3 μM,是,WV,51,10,是
+6271,small,VW,二肽,2,V,W,3.3,0.518514,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),RP-HPLC,,3.3 μM,是,WV,51,10,是
+1902,small,VW,二肽,2,V,W,3.6,0.556303,Alfalfa (Medicago sativa),Cushman and Cheung (1971),"Fast(FPLC), RP-HPLC, ESI-MS",,3.6 μM,是,WV,51,10,是
+6261,small,VW,二肽,2,V,W,10.8,1.03342,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,10.8 μM,是,WV,51,10,是
+2751,small,VW,二肽,2,V,W,12.9,1.11059,Antarctic krill (Euphausia superba),Holmquist et al. (1979),"SEC, UPLC-ESI-MS",SHR,12.9 μM,是,WV,51,10,是
+5648,small,VW,二肽,2,V,W,12.9,1.11059,Antarctic krill (Euphausia superba),Holmquist et al. (1979),"GFC, IEC, RP-HPLC",,12.9 μM,是,WV,51,10,是
+5178,small,VW,二肽,2,V,W,24,1.38021,,,,,24 μM,是,WV,51,10,是
+5578,small,VW,二肽,2,V,W,24,1.38021,Fish (Alfalfa (Medicago sativa)),Cushman and Cheung (1971),"GFC, RP-HPLC",,24 μM,是,WV,51,10,是
+1669,small,VY,二肽,2,V,Y,7.1,0.851258,Casein,,Enzymatic Hydrolysis of milk proteins,SHR,7.1 μM,是,YV,49,6,是
+4241,small,VY,二肽,2,V,Y,7.1,0.851258,Legume (Mung bean sprout sake),,,SHR,7.1 μM,是,YV,49,6,是
+4456,small,VY,二肽,2,V,Y,7.1,0.851258,Milk (Fermented Milk),"Cushman and Cheung (1971), Gonzalez-Gonzalez et al","RP-HPLC, LC-MS",,7.1 μM,是,YV,49,6,是
+4945,small,VY,二肽,2,V,Y,7.1,0.851258,Sake,,,SHR,7.1 μM,是,YV,49,6,是
+5570,small,VY,二肽,2,V,Y,7.1,0.851258,Sake,,,,7.1 μM,是,YV,49,6,是
+6151,small,VY,二肽,2,V,Y,7.1,0.851258,Cereals (Sake (Japanese alcoholic beverage made from rice)),Cushman and Cheung (1971),RP-HPLC,,7.1 μM,是,YV,49,6,是
+6411,small,VY,二肽,2,V,Y,7.1,0.851258,Sake and sake lees,,,,7.1 μM,是,YV,49,6,是
+1092,small,VY,二肽,2,V,Y,10,1,Fish (Sardine),,,,10 μM,是,YV,49,6,是
+6265,small,VY,二肽,2,V,Y,11.3,1.05308,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,11.3 μM,是,YV,49,6,是
+1111,small,VY,二肽,2,V,Y,16,1.20412,Fish (Sea bream scale),Cushman and Cheung (1971),"GF, IEC, RP-HPLC",SHR,16 μM,是,YV,49,6,是
+1933,small,VY,二肽,2,V,Y,21,1.32222,Cereals (Wheat bran),Modified Lieberman’s method,"RPC, SEC, RP-HPLC",,21 μM,是,YV,49,6,是
+2733,small,VY,二肽,2,V,Y,21,1.32222,Cereals (Wheat bran),Modified Lieberman’s method,"MALDI-TOF-MS, HPLC",,21 μM,是,YV,49,6,是
+6281,small,VY,二肽,2,V,Y,21,1.32222,Cereals (Wheat (Triticum aestivum wheat bran)),Cushman and Cheung (1971),"IEC, RP-HPLC, HIC",,21 μM,是,YV,49,6,是
+1854,small,VY,二肽,2,V,Y,35.2,1.54654,Wakame,Cushman and Cheung (1971),"IEC, GFC, RP-HPLC",SHR,35.2 μM,是,YV,49,6,是
+4252,small,VY,二肽,2,V,Y,35.2,1.54654,Wakame (Undaria pinnatifida),Yamamoto et al.,"RP-HPLC, LC-MS",SHR,35.2 μM,是,YV,49,6,是
+5179,small,VY,二肽,2,V,Y,35.2,1.54654,,,,,35.2 μM,是,YV,49,6,是
+6267,small,VY,二肽,2,V,Y,35.2,1.54654,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),RP-HPLC,,35.2 μM,是,YV,49,6,是
+1081,small,WA,二肽,2,W,A,277.3,2.44295,Fish (Salmon),"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,277.3 μM,是,AW,6,1,否
+5180,small,WA,二肽,2,W,A,277.3,2.44295,,,,,277.3 μM,是,AW,6,1,否
+6156,small,WA,二肽,2,W,A,277.3,2.44295,Fish (Salmon (Oncorhynchus keta)),Cushman and Cheung (1971),"GFC, RP-HPLC, HIC",,277.3 μM,是,AW,6,1,否
+6599,small,WG,二肽,2,W,G,5900,3.77085,,,,,5900 μM,是,GW,8,1,否
+6931,small,WH,二肽,2,W,H,5.1,0.70757,Wakame (Undaria pinnatifida),,,,5.1 μM,否,HW,1,1,否
+1900,small,WL,二肽,2,W,L,29.9,1.47567,Soybean (Tofoyu),Cushman and Cheung (1971),"RPC, IEC, RP-HPLC",,29.9 μM,是,LW,8,2,是
+6216,small,WL,二肽,2,W,L,29.9,1.47567,"Soybean (Glycine max fermented food, tofuyo)",Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,29.9 μM,是,LW,8,2,是
+6862,small,WL,二肽,2,W,L,29.9,1.47567,Soybean (tofuyo fermented soybean food),Lieberman's method,"GFC, RP-HPLC",,29.9 μM,是,LW,8,2,是
+5181,small,WL,二肽,2,W,L,65,1.81291,,,,,65 μM,是,LW,8,2,是
+6220,small,WL,二肽,2,W,L,65,1.81291,Soybean (Glycine max),Cushman and Cheung (1971),"IEC, RP-HPLC, UF",,65 μM,是,LW,8,2,是
+1083,small,WM,二肽,2,W,M,96.6,1.98498,Fish (Salmon),"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,96.6 μM,是,MW,7,1,否
+5182,small,WM,二肽,2,W,M,96.6,1.98498,,,,,96.6 μM,是,MW,7,1,否
+6158,small,WM,二肽,2,W,M,96.6,1.98498,Fish (Salmon (Oncorhynchus keta)),Cushman and Cheung (1971),"GFC, RP-HPLC, HIC",,96.6 μM,是,MW,7,1,否
+2795,small,WP,二肽,2,W,P,217.27,2.337,,,,,217.27 μM,否,PW,1,1,否
+6932,small,WT,二肽,2,W,T,632,2.80072,Chemically Synthesized,,,,632 μM,否,TW,1,1,否
+6933,small,WV,二肽,2,W,V,500.5,2.6994,Chemically Synthesized,,,,500.5 μM,是,VW,1,1,否
+6963,small,WY,二肽,2,W,Y,38.3,1.5832,Bovine (Bos taurus),,,,38.3 μM,是,YW,1,1,否
+6575,small,YA,二肽,2,Y,A,460,2.66276,,,,,460 μM,是,AY,8,1,否
+1327,small,YG,二肽,2,Y,G,1522,3.18241,Alpha-Lactoglobulin,,,,1522 μM,是,GY,18,2,是
+6467,small,YG,二肽,2,Y,G,1523,3.1827,Alpha-lactalbumin and Beta Lactoglobulin,,,,1523 μM,是,GY,18,2,是
+1815,small,YH,二肽,2,Y,H,5.1,0.70757,Wakame Seaweed,Cushman and Cheung (1971),"IEC, SEC, RPC",SHR,5.1 μM,是,HY,8,1,否
+4256,small,YH,二肽,2,Y,H,5.1,0.70757,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"IEC, SEC, RPC",SHR,5.1 μM,是,HY,8,1,否
+5183,small,YH,二肽,2,Y,H,5.1,0.70757,,,,,5.1 μM,是,HY,8,1,否
+6266,small,YH,二肽,2,Y,H,5.1,0.70757,Wakame (Undaria pinnatifida),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,5.1 μM,是,HY,8,1,否
+6683,small,YK,二肽,2,Y,K,610,2.78533,,,,,610 μM,是,KY,12,1,否
+1097,small,YL,二肽,2,Y,L,82,1.91381,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,82 μM,是,LY,20,2,是
+5184,small,YL,二肽,2,Y,L,82,1.91381,,,,,82 μM,是,LY,20,2,是
+6175,small,YL,二肽,2,Y,L,82,1.91381,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,82 μM,是,LY,20,2,是
+1316,small,YL,二肽,2,Y,L,122,2.08636,Whey protein (Beta Lactoglobulin),,LC-MS,,122 μM,是,LY,20,2,是
+6465,small,YL,二肽,2,Y,L,122,2.08636,Alpha-lactalbumin and Beta Lactoglobulin,,,,122 μM,是,LY,20,2,是
+1045,small,YN,二肽,2,Y,N,51,1.70757,Hard clam,"Cushman and Cheung (1971), Wu and Ding (2002)","SEC, RP-HPLC, UC Spectrophotometry",,51 μM,是,NY,4,1,否
+5185,small,YN,二肽,2,Y,N,51,1.70757,,,,,51 μM,是,NY,4,1,否
+5750,small,YN,二肽,2,Y,N,51,1.70757,Hard clam (Meretrix lusoria),Cushman and Cheung (1971),"GFC, RP-HPLC",,51 μM,是,NY,4,1,否
+1344,small,YP,二肽,2,Y,P,720,2.85733,,Cushman and Cheung (1971),RP-HPLC,SHR,720 μM,是,PY,20,1,否
+1673,small,YP,二肽,2,Y,P,720,2.85733,Casein,,Enzymatic Hydrolysis of milk proteins,SHR,720 μM,是,PY,20,1,否
+1706,small,YP,二肽,2,Y,P,720,2.85733,Fermentation with L. helveticus CPN4,Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,720 μM,是,PY,20,1,否
+2683,small,YP,二肽,2,Y,P,720,2.85733,Yoghurt-like product,Cushman and Cheung (1971),RP-HPLC,SHR,720 μM,是,PY,20,1,否
+3638,small,YP,二肽,2,Y,P,720,2.85733,Milk (Fermented Milk),Cushman and Cheung (1971),RP-HPLC,SHR,720 μM,是,PY,20,1,否
+5574,small,YP,二肽,2,Y,P,720,2.85733,Casein,,,,720 μM,是,PY,20,1,否
+6474,small,YP,二肽,2,Y,P,720,2.85733,Hemorfin,,,,720 μM,是,PY,20,1,否
+6934,small,YS,二肽,2,Y,S,412,2.6149,Chemically Synthesized,,,,412 μM,是,SY,1,1,否
+1998,small,YW,二肽,2,Y,W,8.2,0.913814,Legumin,Cushman and Cheung (1971),HPLC,,8.2 μM,是,WY,21,3,是
+1668,small,YW,二肽,2,Y,W,10.5,1.02119,Casein,,Enzymatic Hydrolysis of milk proteins,SHR,10.5 μM,是,WY,21,3,是
+4244,small,YW,二肽,2,Y,W,10.5,1.02119,Legume (Mung bean sprout sake),,,SHR,10.5 μM,是,WY,21,3,是
+4943,small,YW,二肽,2,Y,W,10.5,1.02119,Sake lees,,,SHR,10.5 μM,是,WY,21,3,是
+5186,small,YW,二肽,2,Y,W,10.5,1.02119,,,,,10.5 μM,是,WY,21,3,是
+5569,small,YW,二肽,2,Y,W,10.5,1.02119,Sake lees,,,,10.5 μM,是,WY,21,3,是
+6149,small,YW,二肽,2,Y,W,10.5,1.02119,Cereals (Sake (Japanese alcoholic beverage made from rice)),Cushman and Cheung (1971),RP-HPLC,,10.5 μM,是,WY,21,3,是
+6407,small,YW,二肽,2,Y,W,10.5,1.02119,Sake and sake lees,,,,10.5 μM,是,WY,21,3,是
+1999,small,YW,二肽,2,Y,W,43.6,1.63949,Legumin,Cushman and Cheung (1971),HPLC,,43.6 μM,是,WY,21,3,是
+6360,small,AAP,三肽,3,A,P,0,,Casein,,,,0 μM,否,PAA,6,2,是
+5187,small,AAP,三肽,3,A,P,30,1.47712,,,,,30 μM,否,PAA,6,2,是
+5850,small,AAP,三肽,3,A,P,30,1.47712,Milk (bovine casein),Cushman and Cheung (1971),,,30 μM,否,PAA,6,2,是
+1033,small,AEL,三肽,3,A,L,57.1,1.75664,Algae (Chlorella vulgaris),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,57.1 μM,否,LEA,3,1,否
+1864,small,AEL,三肽,3,A,L,57.1,1.75664,Algae (Chlorella vulgaris),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,57.1 μM,否,LEA,3,1,否
+1868,small,AEL,三肽,3,A,L,57.1,1.75664,Algae (Spirulina platensis),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,57.1 μM,否,LEA,3,1,否
+1031,small,AFL,三肽,3,A,L,63.8,1.80482,Algae (Chlorella vulgaris),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,63.8 μM,否,LFA,6,2,是
+1862,small,AFL,三肽,3,A,L,63.8,1.80482,Algae (Chlorella vulgaris),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,63.8 μM,否,LFA,6,2,是
+5188,small,AFL,三肽,3,A,L,65.2,1.81425,,,,,65.2 μM,否,LFA,6,2,是
+6200,small,AFL,三肽,3,A,L,65.2,1.81425,Shrimp (Acetes chinensis),Cushman and Cheung (1971),"GFC, RP-HPLC, UF",,65.2 μM,否,LFA,6,2,是
+2267,small,AFP,三肽,3,A,P,610,2.78533,Milk derived,,,,610 μM,否,PFA,1,1,否
+5189,small,AGP,三肽,3,A,P,560,2.74819,,,,,560 μM,否,PGA,5,1,否
+5678,small,AGP,三肽,3,A,P,560,2.74819,Fish (Bonito (sarda fermented sauce)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,560 μM,否,PGA,5,1,否
+1055,small,AGS,三肽,3,A,S,527.9,2.72255,Cuttlefish (Muscle of cuttlefish),Nakamura et al. (1995),RP-HPLC,,527.9 μM,否,SGA,4,1,否
+5190,small,AGS,三肽,3,A,S,527.9,2.72255,,,,,527.9 μM,否,SGA,4,1,否
+5724,small,AGS,三肽,3,A,S,527.9,2.72255,Cuttlefish (Sepia officinalis),Cushman and Cheung (1971),"GFC, RP-HPLC",,527.9 μM,否,SGA,4,1,否
+2258,small,AIP,三肽,3,A,P,350,2.54407,Milk derived,,,,350 μM,否,PIA,9,2,是
+5191,small,AIP,三肽,3,A,P,350,2.54407,,,,,350 μM,否,PIA,9,2,是
+6044,small,AIP,三肽,3,A,P,350,2.54407,Milk (human casein),Kasahara and Ashihara (1981),,,350 μM,否,PIA,9,2,是
+2268,small,AIP,三肽,3,A,P,670,2.82607,Milk derived,,,,670 μM,否,PIA,9,2,是
+6473,small,AIP,三肽,3,A,P,670,2.82607,Casein (Beta Casein),,,,670 μM,否,PIA,9,2,是
+2851,small,AKK,三肽,3,A,K,3.1,0.491362,Synthesized,,,,3.1 μM,否,KKA,10,3,是
+1102,small,AKK,三肽,3,A,K,3.13,0.495544,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,3.13 μM,否,KKA,10,3,是
+5083,small,AKK,三肽,3,A,K,3.13,0.495544,Fish (Sardine muscle),"2,4,6-trinitrobenzene sulfonate(TNBS) method","GPC, HPLC",,3.13 μM,否,KKA,10,3,是
+5192,small,AKK,三肽,3,A,K,3.13,0.495544,,,,,3.13 μM,否,KKA,10,3,是
+6181,small,AKK,三肽,3,A,K,3.13,0.495544,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,3.13 μM,否,KKA,10,3,是
+6363,small,AKK,三肽,3,A,K,3.2,0.50515,Fish (Sardine muscle),,,,3.2 μM,否,KKA,10,3,是
+5068,small,ALP,三肽,3,A,P,240,2.38021,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",HPLC,,240 μM,否,PLA,2,1,否
+4640,small,APP,三肽,3,A,P,4.6,0.662758,,,,,4.6 μM,否,PPA,1,1,否
+5071,small,AQK,三肽,3,A,K,1800,3.25527,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",HPLC,,1800 μM,否,KQA,2,1,否
+1986,small,ARF,三肽,3,A,F,3,0.477121,Soybean proteins,,,,3 μM,否,FRA,1,1,否
+5193,small,ASP,三肽,3,A,P,242.3,2.38435,,,,,242.3 μM,否,PSA,3,1,否
+5871,small,ASP,三肽,3,A,P,242.3,2.38435,Milk (bovine lactoglobulin),Cushman and Cheung (1971),,,242.3 μM,否,PSA,3,1,否
+2007,small,ATF,三肽,3,A,F,9.6,0.982271,Cereals (Barley protein B-Hordein),,,,9.6 μM,否,FTA,1,1,否
+5194,small,AVF,三肽,3,A,F,2123,3.32695,,,,,2123 μM,否,FVA,6,1,否
+5720,small,AVF,三肽,3,A,F,2123,3.32695,Cotton leafworm (Spodoptera littoralis),Cushman and Cheung (1971),"GFC, RP-HPLC",,2123 μM,否,FVA,6,1,否
+2249,small,AVP,三肽,3,A,P,340,2.53148,Milk derived,,,,340 μM,否,PVA,11,1,否
+5195,small,AVP,三肽,3,A,P,340,2.53148,,,,,340 μM,否,PVA,11,1,否
+5854,small,AVP,三肽,3,A,P,340,2.53148,Milk (bovine casein),Cushman and Cheung (1971),,,340 μM,否,PVA,11,1,否
+6355,small,AVP,三肽,3,A,P,340,2.53148,Casein,,,,340 μM,否,PVA,11,1,否
+1062,small,AVV,三肽,3,A,V,66.6,1.82347,Cuttlefish (Muscle of cuttlefish),Nakamura et al. (1995),RP-HPLC,,66.6 μM,否,VVA,4,1,否
+5196,small,AVV,三肽,3,A,V,66.6,1.82347,,,,,66.6 μM,否,VVA,4,1,否
+5731,small,AVV,三肽,3,A,V,66.6,1.82347,Cuttlefish (Sepia officinalis),Cushman and Cheung (1971),"GFC, RP-HPLC",,66.6 μM,否,VVA,4,1,否
+1983,small,AWW,三肽,3,A,W,6.5,0.812913,Soybean proteins,,,,6.5 μM,否,WWA,1,1,否
+1060,small,DFG,三肽,3,D,G,44.7,1.65031,Cuttlefish (Muscle of cuttlefish),Nakamura et al. (1995),RP-HPLC,,44.7 μM,否,GFD,5,1,否
+5197,small,DFG,三肽,3,D,G,44.7,1.65031,,,,,44.7 μM,否,GFD,5,1,否
+5729,small,DFG,三肽,3,D,G,44.7,1.65031,Cuttlefish (Sepia officinalis),Cushman and Cheung (1971),"GFC, RP-HPLC",,44.7 μM,否,GFD,5,1,否
+1264,small,DLP,三肽,3,D,P,4.8,0.681241,Soybean Protein,Cushman and Cheung (1971),"UF, HPLC",,4.8 μM,否,PLD,10,1,否
+1829,small,DLP,三肽,3,D,P,4.8,0.681241,Soybean,Cushman and Cheung (1971),RP-HPLC,,4.8 μM,否,PLD,10,1,否
+1979,small,DLP,三肽,3,D,P,4.8,0.681241,Soybean-derived,Cushman and Cheung (1971),"UF, HPLC",,4.8 μM,否,PLD,10,1,否
+2910,small,DLP,三肽,3,D,P,4.8,0.681241,Soybean (Defatted soybean meal),Cushman and Cheung (1971),"UF, HPLC",,4.8 μM,否,PLD,10,1,否
+5116,small,DLP,三肽,3,D,P,4.8,0.681241,Soybean,Cushman and Cheung (1971),"UF, HPLC",,4.8 μM,否,PLD,10,1,否
+5198,small,DLP,三肽,3,D,P,4.8,0.681241,,,,,4.8 μM,否,PLD,10,1,否
+6223,small,DLP,三肽,3,D,P,4.8,0.681241,Soybean (Glycine max),Cushman and Cheung (1971),"IEC, UF",,4.8 μM,否,PLD,10,1,否
+6528,small,DLP,三肽,3,D,P,4.8,0.681241,Cereals (Finnish),,,,4.8 μM,否,PLD,10,1,否
+5070,small,DYG,三肽,3,D,G,2700,3.43136,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",HPLC,,2700 μM,否,GYD,2,1,否
+1032,small,FAL,三肽,3,F,L,26.3,1.41996,Algae (Chlorella vulgaris),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,26.3 μM,否,LAF,8,1,否
+1863,small,FAL,三肽,3,F,L,26.3,1.41996,Algae (Chlorella vulgaris),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,26.3 μM,否,LAF,8,1,否
+1867,small,FAL,三肽,3,F,L,26.3,1.41996,Algae (Chlorella vulgaris),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,26.3 μM,否,LAF,8,1,否
+5100,small,FAL,三肽,3,F,L,26.3,1.41996,Microalgae,Cushman and Cheung (1971),RP-HPLC,SHR,26.3 μM,否,LAF,8,1,否
+6726,small,FAL,三肽,3,F,L,26.3,1.41996,,,,,26.3 μM,否,LAF,8,1,否
+5109,small,FAP,三肽,3,F,P,3.8,0.579784,Casein (Αs1-casein),Cushman and Cheung (1971),"HPLC, TLC, IRRC",Female wistar rat,3.8 μM,否,PAF,8,1,否
+5199,small,FAP,三肽,3,F,P,3.8,0.579784,,,,,3.8 μM,否,PAF,8,1,否
+5849,small,FAP,三肽,3,F,P,3.8,0.579784,Milk (bovine casein),Cushman and Cheung (1971),,,3.8 μM,否,PAF,8,1,否
+6375,small,FAP,三肽,3,F,P,3.8,0.579784,Casein,,,,3.8 μM,否,PAF,8,1,否
+5062,small,FCF,三肽,3,F,F,11,1.04139,Egg (Ovalbumin),"Cushman and Cheung (1971), Yamamoto and others",HPLC,SHR,11 μM,是,FCF,4,1,否
+6635,small,FCF,三肽,3,F,F,11,1.04139,,,,,11 μM,是,FCF,4,1,否
+1845,small,FFL,三肽,3,F,L,37,1.5682,Soybean,Cushman and Cheung (1971),"IEC, GFC",SHR,37 μM,否,LFF,6,1,否
+2668,small,FFL,三肽,3,F,L,37,1.5682,Soybean,Cushman and Cheung (1971),"IEC, GF, HPLC",SHR,37 μM,否,LFF,6,1,否
+5117,small,FFL,三肽,3,F,L,37,1.5682,Soybean,Cushman and Cheung (1971),RP-HPLC,SHR,37 μM,否,LFF,6,1,否
+6546,small,FFL,三肽,3,F,L,37,1.5682,Soybean (Soy bioactive),,,,37 μM,否,LFF,6,1,否
+1061,small,FGG,三肽,3,F,G,82.5,1.91645,Cuttlefish (Muscle of cuttlefish),Nakamura et al. (1995),RP-HPLC,,82.5 μM,是,GGF,6,1,否
+5200,small,FGG,三肽,3,F,G,82.5,1.91645,,,,,82.5 μM,是,GGF,6,1,否
+5730,small,FGG,三肽,3,F,G,82.5,1.91645,Cuttlefish (Sepia officinalis),Cushman and Cheung (1971),"GFC, RP-HPLC",,82.5 μM,是,GGF,6,1,否
+2246,small,FGK,三肽,3,F,K,160,2.20412,Milk derived,,,,160 μM,否,KGF,9,1,否
+5201,small,FGK,三肽,3,F,K,160,2.20412,,,,,160 μM,否,KGF,9,1,否
+5852,small,FGK,三肽,3,F,K,160,2.20412,Milk (bovine casein),Cushman and Cheung (1971),,,160 μM,否,KGF,9,1,否
+6361,small,FGK,三肽,3,F,K,160,2.20412,Casein,,,,160 μM,否,KGF,9,1,否
+5202,small,FNQ,三肽,3,F,Q,335,2.52504,,,,,335 μM,否,QNF,7,1,否
+5767,small,FNQ,三肽,3,F,Q,335,2.52504,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),RP-HPLC,,335 μM,否,QNF,7,1,否
+6470,small,FNQ,三肽,3,F,Q,335,2.52504,Alpha-zein,,,,335 μM,否,QNF,7,1,否
+6338,small,FQP,三肽,3,F,P,0,,Fish (Dried bonito),,,,0 μM,否,PQF,10,2,是
+1069,small,FQP,三肽,3,F,P,12,1.07918,Fish (Dried Bonito),Cushman and Cheung (1971),HPLC,,12 μM,否,PQF,10,2,是
+5064,small,FQP,三肽,3,F,P,12,1.07918,Actin,"Cushman and Cheung (1971), Yamamoto and others",HPLC,,12 μM,否,PQF,10,2,是
+5203,small,FQP,三肽,3,F,P,12,1.07918,,,,,12 μM,否,PQF,10,2,是
+5662,small,FQP,三肽,3,F,P,12,1.07918,Fish (Bonito (Sarda - dried bonito (katsuobusi))),Cushman and Cheung (1971),"RP-HPLC, HIC",,12 μM,否,PQF,10,2,是
+1991,small,FRC,三肽,3,F,C,7,0.845098,Legume (Pea proteins),,,,7 μM,否,CRF,1,1,否
+2942,small,FSY,三肽,3,F,Y,2.2,0.342423,Shrimp heads and Scales,Vermeirssen et al.,"CEC, RPC, LC-MS/MS",SHR,2.2 μM,否,YSF,3,1,否
+2943,small,FTY,三肽,3,F,Y,59.3,1.77305,Shrimp heads and Scales,Vermeirssen et al.,"CEC, RPC, LC-MS/MS",SHR,59.3 μM,否,YTF,3,1,否
+5204,small,FWN,三肽,3,F,N,18.3,1.26245,,,,,18.3 μM,否,NWF,6,1,否
+6153,small,FWN,三肽,3,F,N,18.3,1.26245,Cereals (Sake (Japanese alcoholic beverage made from rice)),Cushman and Cheung (1971),RP-HPLC,,18.3 μM,否,NWF,6,1,否
+6409,small,FWN,三肽,3,F,N,18.3,1.26245,Sake and sake lees,,,,18.3 μM,否,NWF,6,1,否
+4639,small,GAP,三肽,3,G,P,9.3,0.968483,,,,,9.3 μM,否,PAG,1,1,否
+5133,small,GAW,三肽,3,G,W,240,2.38021,Casein (Αs1-casein f),,,,240 μM,否,WAG,3,1,否
+6720,small,GEP,三肽,3,G,P,0.04,-1.39794,,,,,0.04 μM,否,PEG,11,3,是
+6540,small,GEP,三肽,3,G,P,0.31,-0.508638,Fungi (Mushroom Tricholoma Giganteum),,,,0.31 μM,否,PEG,11,3,是
+1821,small,GEP,三肽,3,G,P,3200,3.50515,Fungi (Mushroom (Tricholoma giganteum)),Cushman and Cheung (1971),"UF, SEC, RPC",SHR,3200 μM,否,PEG,11,3,是
+6098,small,GEP,三肽,3,G,P,3200,3.50515,Fungi (Mushroom (Tricholoma giganteum)),Cushman and Cheung (1971),"GFC, RP-HPLC, HIC",,3.2 mM,否,PEG,11,3,是
+1235,small,GFR,三肽,3,G,R,94.25,1.97428,Sweet-potato tuber defensin,"TLC (Holmquist et al., 1979)",Ni2+-chelate AC,,94.25 μM,否,RFG,1,1,否
+6434,small,GGY,三肽,3,G,Y,1.3,0.113943,Sake and sake lees,,,,1.3 μM,是,YGG,9,1,否
+6624,small,GHF,三肽,3,G,F,1001,3.00043,,,,,1001 μM,是,FHG,7,2,是
+2567,small,GHF,三肽,3,G,F,1100,3.04139,Fish (Bonito bowel),"Cushman and Cheung (1971), Maruyama and Suzuki",HPLC,,1100 μM,是,FHG,7,2,是
+5096,small,GHF,三肽,3,G,F,1100,3.04139,Fish (Bonito bowel),Cushman and Cheung (1971),"RP-HPLC, IEC",,1100 μM,是,FHG,7,2,是
+5205,small,GHF,三肽,3,G,F,1100,3.04139,,,,,1100 μM,是,FHG,7,2,是
+5668,small,GHF,三肽,3,G,F,1100,3.04139,Fish (Bonito (Sarda bowel autolysate)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC, HIC",,1100 μM,是,FHG,7,2,是
+5206,small,GHG,三肽,3,G,G,122,2.08636,,,,,122 μM,是,GHG,3,1,否
+5722,small,GHG,三肽,3,G,G,122,2.08636,Cuttlefish (Sepia officinalis),Cushman and Cheung (1971),"GFC, RP-HPLC",,122 μM,是,GHG,3,1,否
+1053,small,GHS,三肽,3,G,S,122,2.08636,Cuttlefish (Muscle of cuttlefish),Nakamura et al. (1995),RP-HPLC,,122 μM,否,SHG,2,1,否
+1663,small,GKP,三肽,3,G,P,352,2.54654,Microglobulin,,Enzymatic Hydrolysis of milk proteins,SHR,352 μM,否,PKG,14,1,否
+2252,small,GKP,三肽,3,G,P,352,2.54654,Milk derived,,,,352 μM,否,PKG,14,1,否
+2578,small,GKP,三肽,3,G,P,352,2.54654,Cheese whey protein,Yamamoto et al.,"RP-HPLC, GF",SHR,352 μM,否,PKG,14,1,否
+2852,small,GKP,三肽,3,G,P,352,2.54654,Synthesized,,,,352 μM,否,PKG,14,1,否
+5207,small,GKP,三肽,3,G,P,352,2.54654,,,,,352 μM,否,PKG,14,1,否
+5564,small,GKP,三肽,3,G,P,352,2.54654,Beta microglobulin,,,,352 μM,否,PKG,14,1,否
+5946,small,GKP,三肽,3,G,P,352,2.54654,Milk (cheese whey),,"GFC, RP-HPLC, HIC",,352 μM,否,PKG,14,1,否
+6425,small,GKP,三肽,3,G,P,352,2.54654,Whey protein,,,,352 μM,否,PKG,14,1,否
+5076,small,GLP,三肽,3,G,P,1.62,0.209515,Synthesized,Cushman and Cheung (1971),HPLC,,1.62 μM,是,PLG,2,1,否
+6519,small,GLP,三肽,3,G,P,1.62,0.209515,Fish (Alaska pollack (Theragra chalcogramma)),,,,1.62 μM,是,PLG,2,1,否
+2253,small,GPA,三肽,3,G,A,405,2.60746,Milk derived,,,,405 μM,否,APG,5,1,否
+5208,small,GPA,三肽,3,G,A,405,2.60746,,,,,405 μM,否,APG,5,1,否
+5748,small,GPA,三肽,3,G,A,405,2.60746,Gelatin,"Using the synthetic substrate, benzoyl-Gly-Gly-Gly","GFC, IEC, AF , PC",,405 μM,否,APG,5,1,否
+6339,small,GPA,三肽,3,G,A,405,2.60746,,,,,405 μM,否,APG,5,1,否
+2015,small,GPL,三肽,3,G,L,2.55,0.40654,Bovine skin gelatin,Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,2.55 μM,是,LPG,12,3,是
+1108,small,GPL,三肽,3,G,L,2.6,0.414973,Fish (Alaska pollack (Theragra chalcogramma)),Cushman and Cheung (1971),"GF, IEC, and RP-HPLC",,2.6 μM,是,LPG,12,3,是
+2757,small,GPL,三肽,3,G,L,2.65,0.423246,Fish (Alaska pollack (Theragra chalcogramma)),Cushman and Cheung (1971),"SEC, RP-HPLC",,2.65 μM,是,LPG,12,3,是
+2963,small,GPL,三肽,3,G,L,2.65,0.423246,Fish skin,He et al.,"GF, IEC, RP-HPLC",,2.65 μM,是,LPG,12,3,是
+4629,small,GPL,三肽,3,G,L,2.65,0.423246,Gelatin hydrolysate,Cushman and Cheung (1971),RP-HPLC,,2.65 μM,是,LPG,12,3,是
+5073,small,GPL,三肽,3,G,L,2.65,0.423246,Gelatin hydrolysate,Cushman and Cheung (1971),HPLC,,2.65 μM,是,LPG,12,3,是
+5209,small,GPL,三肽,3,G,L,2.65,0.423246,,,,,2.65 μM,是,LPG,12,3,是
+5575,small,GPL,三肽,3,G,L,2.65,0.423246,Fish (Alaska pollack (Theragra chalcogramma)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC, UF",,2.65 μM,是,LPG,12,3,是
+6516,small,GPL,三肽,3,G,L,2.65,0.423246,Fish (Alaska pollack (Theragra chalcogramma)),,,,2.65 μM,是,LPG,12,3,是
+1109,small,GPM,三肽,3,G,M,17.13,1.23376,Fish (Alaska pollack (Theragra chalcogramma)),Cushman and Cheung (1971),"GF, IEC, and RP-HPLC",,17.13 μM,否,MPG,8,2,是
+2756,small,GPM,三肽,3,G,M,17.13,1.23376,Fish (Alaska pollack (Theragra chalcogramma)),Cushman and Cheung (1971),"SEC, RP-HPLC",,17.13 μM,否,MPG,8,2,是
+2962,small,GPM,三肽,3,G,M,17.13,1.23376,Fish skin,He et al.,"GF, IEC, RP-HPLC",,17.13 μM,否,MPG,8,2,是
+5210,small,GPM,三肽,3,G,M,17.13,1.23376,,,,,17.13 μM,否,MPG,8,2,是
+5576,small,GPM,三肽,3,G,M,17.13,1.23376,Fish (Alaska pollack (Theragra chalcogramma)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC, UF",,17.13 μM,否,MPG,8,2,是
+5072,small,GPM,三肽,3,G,M,17.3,1.23805,Gelatin hydrolysate,"Cushman and Cheung (1971), Yamamoto and others","GF, IEC, RP-HPLC",,17.3 μM,否,MPG,8,2,是
+6723,small,GPP,三肽,3,G,P,23.1,1.36361,,,,,23.1 μM,是,PPG,4,1,否
+2016,small,GPV,三肽,3,G,V,4.67,0.669317,Bovine skin gelatin,Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,4.67 μM,否,VPG,5,2,是
+6529,small,GPV,三肽,3,G,V,4.7,0.672098,Bovine skin gelatin,,,,4.7 μM,否,VPG,5,2,是
+1233,small,GQY,三肽,3,G,Y,52.3,1.7185,Sweet-potato protein isolate,Cushman and Cheung (1971),"Absorption Chromatography, RP-HPLC",SHR,52.3 μM,否,YQG,2,1,否
+6362,small,GRP,三肽,3,G,P,19.9,1.29885,Fish (Sardine muscle),,,,19.9 μM,否,PRG,15,2,是
+1100,small,GRP,三肽,3,G,P,20,1.30103,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,20 μM,否,PRG,15,2,是
+4630,small,GRP,三肽,3,G,P,20,1.30103,Fish (Sardine muscle),"2,4,6-trinitrobenzene sulfonate(TNBS) method","GPC, HPLC",,20 μM,否,PRG,15,2,是
+5081,small,GRP,三肽,3,G,P,20,1.30103,Fish (Sardine muscle),"2,4,6-trinitrobenzene sulfonate(TNBS) method","GPC, HPLC",,20 μM,否,PRG,15,2,是
+5211,small,GRP,三肽,3,G,P,20,1.30103,,,,,20 μM,否,PRG,15,2,是
+6179,small,GRP,三肽,3,G,P,20,1.30103,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,20 μM,否,PRG,15,2,是
+1043,small,GTG,三肽,3,G,G,5.54,0.74351,Shrimp,He et al.,"UF, GFC, RP-HPLC",,5.54 μM,是,GTG,3,1,否
+2618,small,GTG,三肽,3,G,G,5.54,0.74351,Marine shrimp (acetes chinensis),He et al.,ESI-MS/MS,,5.54 μM,是,GTG,3,1,否
+2961,small,GTG,三肽,3,G,G,5.54,0.74351,Shrimp,He et al.,"GF, IEC, RP-HPLC",,5.54 μM,是,GTG,3,1,否
+5132,small,GTW,三肽,3,G,W,464,2.66652,Casein β-lg f,Cushman and Cheung (1971),"GFC, RP-HPLC",SHR,464 μM,否,WTG,10,3,是
+1298,small,GTW,三肽,3,G,W,464.4,2.66689,Whey (Whole whey protein),Cushman and Cheung (1971),"GFC, RP-HPLC",SHR,464.4 μM,否,WTG,10,3,是
+3650,small,GTW,三肽,3,G,W,464.4,2.66689,Milk (Fermented Milk),Cushman and Cheung (1971),"GFC, RP-HPLC",SHR,464.4 μM,否,WTG,10,3,是
+5212,small,GTW,三肽,3,G,W,464.4,2.66689,,,,,464.4 μM,否,WTG,10,3,是
+5814,small,GTW,三肽,3,G,W,464.4,2.66689,Milk,Cushman and Cheung (1971),"GFC, RP-HPLC",,464.4 μM,否,WTG,10,3,是
+6500,small,GTW,三肽,3,G,W,464.6,2.66708,Milk,,,,464.6 μM,否,WTG,10,3,是
+3651,small,GVW,三肽,3,G,W,240,2.38021,Milk (Fermented Milk),Cushman and Cheung (1971),"GFC, RP-HPLC",SHR,240 μM,否,WVG,7,1,否
+5213,small,GVW,三肽,3,G,W,240,2.38021,,,,,240 μM,否,WVG,7,1,否
+5815,small,GVW,三肽,3,G,W,240,2.38021,Milk,Cushman and Cheung (1971),"GFC, RP-HPLC",,240 μM,否,WVG,7,1,否
+6501,small,GVW,三肽,3,G,W,240,2.38021,Milk,,,,240 μM,否,WVG,7,1,否
+6633,small,GYK,三肽,3,G,K,160,2.20412,,,,,160 μM,否,KYG,2,1,否
+1980,small,HHL,三肽,3,H,L,2.2,0.342423,Soybean-derived,Cushman and Cheung (1971),"SEC, HPLC",SHR,2.2 μM,否,LHH,8,2,是
+6488,small,HHL,三肽,3,H,L,21.8,1.33846,WIPO,,,,21.8 μM,否,LHH,8,2,是
+5067,small,HHT,三肽,3,H,T,800,2.90309,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",HPLC,,800 μM,否,THH,2,1,否
+2248,small,HIR,三肽,3,H,R,953,2.97909,Milk derived,,,,953 μM,否,RIH,5,1,否
+5130,small,HIR,三肽,3,H,R,953,2.97909,Synthetic,Abubakar et al.,"GF, RP-HPLC",SHR,953 μM,否,RIH,5,1,否
+6491,small,HLL,三肽,3,H,L,22.2,1.34635,WIPO,,,,22.2 μM,否,LLH,2,1,否
+5066,small,HQG,三肽,3,H,G,745,2.87216,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",HPLC,,745 μM,否,GQH,2,1,否
+1036,small,IAE,三肽,3,I,E,34.7,1.54033,Algae (Spirulina platensis),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,34.7 μM,否,EAI,3,1,否
+1866,small,IAE,三肽,3,I,E,34.7,1.54033,Algae (Spirulina platensis),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,34.7 μM,否,EAI,3,1,否
+6727,small,IAE,三肽,3,I,E,34.7,1.54033,,,,,34.7 μM,否,EAI,3,1,否
+1001,small,IAK,三肽,3,I,K,15.7,1.1959,Milk (Ovine milk proteins),Cushman and Cheung (1971),"UF, FPLC, RP-HPLC, IT-MS (CE-MS)",,15.7 μM,否,KAI,10,2,是
+1733,small,IAK,三肽,3,I,K,15.7,1.1959,Enzymatic-hydrolysis (Hydrolysis with digestive enzymes),Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,15.7 μM,否,KAI,10,2,是
+4322,small,IAK,三肽,3,I,K,15.7,1.1959,Milk-Cheese (Sheep milk and cheeses proteins),,RP-HPLC,,15.7 μM,否,KAI,10,2,是
+6613,small,IAK,三肽,3,I,K,15.7,1.1959,Milk (Ovine milk product),,,,15.7 μM,否,KAI,10,2,是
+4187,small,IAK,三肽,3,I,K,15700,4.1959,Milk Casein derived,Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,15.7 mM,否,KAI,10,2,是
+1885,small,IAP,三肽,3,I,P,2.7,0.431364,Cereals (Wheat Gliadin),Friedland and Silverstein (1976),"IEC, SEC, RP-HPLC",SHR,2.7 μM,否,PAI,10,3,是
+2671,small,IAP,三肽,3,I,P,2.7,0.431364,Cereals (Wheat gliadin),Friedland and Silverstein (1976),"IEC, SEC, RP-HPLC",SHR,2.7 μM,否,PAI,10,3,是
+5119,small,IAP,三肽,3,I,P,2.7,0.431364,Cereals (Wheat gliadin),Friedland and Silverstein (1976),"IEC, SECC",SHR,2.7 μM,否,PAI,10,3,是
+6722,small,IAP,三肽,3,I,P,2.7,0.431364,Cereals (Wheat gliadin hydrolysate),,,,2.7 μM,否,PAI,10,3,是
+5520,small,IAP,三肽,3,I,P,2692,3.43008,,,,,2.692 mM,否,PAI,10,3,是
+5521,small,IAP,三肽,3,I,P,25120,4.40002,,,,,25.12 mM,否,PAI,10,3,是
+1063,small,IAV,三肽,3,I,V,153.4,2.18583,Cuttlefish (Muscle of cuttlefish),Nakamura et al. (1995),RP-HPLC,,153.4 μM,否,VAI,2,1,否
+5732,small,IAV,三肽,3,I,V,153.4,2.18583,Cuttlefish (Sepia officinalis),Cushman and Cheung (1971),"GFC, RP-HPLC",,153.4 μM,否,VAI,2,1,否
+2023,small,IEF,三肽,3,I,F,3.8,0.579784,Chicken muscle,,,,3.8 μM,否,FEI,1,1,否
+6748,small,IEP,三肽,3,I,P,1.6,0.20412,,,,,1.6 μM,否,PEI,4,1,否
+6765,small,IEW,三肽,3,I,W,104,2.01703,Arachin,,,,104 μM,否,WEI,1,1,否
+5214,small,IEY,三肽,3,I,Y,182,2.26007,,,,,182 μM,否,YEI,5,1,否
+6101,small,IEY,三肽,3,I,Y,182,2.26007,Legume (Peanut (Arachis hypogaea)),Jimsheena and Gowda (2009),RP-HPLC,,182 μM,否,YEI,5,1,否
+6764,small,IEY,三肽,3,I,Y,182,2.26007,Arachin,,,,182 μM,否,YEI,5,1,否
+6626,small,IFG,三肽,3,I,G,1001,3.00043,,,,,1001 μM,否,GFI,2,1,否
+1899,small,IFL,三肽,3,I,L,44.8,1.65128,Soybean (Tofoyu),Cushman and Cheung (1971),"RPC, IEC, RP-HPLC",,44.8 μM,否,LFI,8,1,否
+5118,small,IFL,三肽,3,I,L,44.8,1.65128,Soybean,Modified Lieberman’s method,RP-HPLC,,44.8 μM,否,LFI,8,1,否
+5215,small,IFL,三肽,3,I,L,44.8,1.65128,,,,,44.8 μM,否,LFI,8,1,否
+6215,small,IFL,三肽,3,I,L,44.8,1.65128,"Soybean (Glycine max fermented food, tofuyo)",Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,44.8 μM,否,LFI,8,1,否
+6861,small,IFL,三肽,3,I,L,44.8,1.65128,Soybean (tofuyo fermented soybean food),Lieberman's method,"GFC, RP-HPLC",,44.8 μM,否,LFI,8,1,否
+1232,small,IIP,三肽,3,I,P,80.8,1.90741,Sweet-potato protein isolate,Cushman and Cheung (1971),"Absorption Chromatography, RP-HPLC",SHR,80.8 μM,否,PII,4,1,否
+2854,small,IKP,三肽,3,I,P,1.7,0.230449,Synthesized,,,,1.7 μM,否,PKI,19,5,是
+2032,small,IKP,三肽,3,I,P,2.3,0.361728,Fish (chum salmon fish),,,,2.3 μM,否,PKI,19,5,是
+2569,small,IKP,三肽,3,I,P,2.5,0.39794,Fish (Bonito bowel),"Cushman and Cheung (1971), Maruyama and Suzuki",HPLC,,2.5 μM,否,PKI,19,5,是
+5095,small,IKP,三肽,3,I,P,2.5,0.39794,Fish (Bonito bowel),Cushman and Cheung (1971),"RP-HPLC, IEC",,2.5 μM,否,PKI,19,5,是
+5216,small,IKP,三肽,3,I,P,2.5,0.39794,,,,,2.5 μM,否,PKI,19,5,是
+5666,small,IKP,三肽,3,I,P,2.5,0.39794,Fish (Bonito (Sarda bowel autolysate)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC, HIC",,2.5 μM,否,PKI,19,5,是
+5079,small,IKP,三肽,3,I,P,6.9,0.838849,Fish (Bonito muscle),"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,6.9 μM,否,PKI,19,5,是
+6346,small,IKP,三肽,3,I,P,6.9,0.838849,Fish (Dried bonito),,,,6.9 μM,否,PKI,19,5,是
+5516,small,IKP,三肽,3,I,P,7,0.845098,Legume (Peanut protein),RP-HPLC Assay,,,7 μM,否,PKI,19,5,是
+2021,small,IKW,三肽,3,I,W,0.21,-0.677781,Chicken muscle proteins,"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,0.21 μM,否,WKI,13,1,否
+2855,small,IKW,三肽,3,I,W,0.21,-0.677781,Synthesized,,,,0.21 μM,否,WKI,13,1,否
+2859,small,IKW,三肽,3,I,W,0.21,-0.677781,Synthesized,,,,0.21 μM,否,WKI,13,1,否
+2894,small,IKW,三肽,3,I,W,0.21,-0.677781,,Cushman and Cheung (1971),GFC,SHR,0.21 μM,否,WKI,13,1,否
+5061,small,IKW,三肽,3,I,W,0.21,-0.677781,Chicken muscle,"Cushman and Cheung (1971), Yamamoto and others",HPLC,SHR,0.21 μM,否,WKI,13,1,否
+5718,small,IKW,三肽,3,I,W,0.21,-0.677781,Chicken muscle,Cushman and Cheung (1971),,,0.21 μM,否,WKI,13,1,否
+6532,small,IKW,三肽,3,I,W,0.21,-0.677781,Food-protein,,,,0.21 μM,否,WKI,13,1,否
+6766,small,IKY,三肽,3,I,Y,34,1.53148,Arachin,,,,34 μM,否,YKI,2,1,否
+5217,small,ILP,三肽,3,I,P,270,2.43136,,,,,270 μM,否,PLI,11,1,否
+5982,small,ILP,三肽,3,I,P,270,2.43136,Milk (human β casein),Kasahara and Ashihara (1981),,,270 μM,否,PLI,11,1,否
+6309,small,ILP,三肽,3,I,P,270,2.43136,Human (Human Beta Casein),,,,270 μM,否,PLI,11,1,否
+6807,small,ILP,三肽,3,I,P,270,2.43136,Human (Synthetic peptide of Human beta casein),Kasahara and Ashihara (1981),"RP-HPLC, TLC, FAB-MS",,270 μM,否,PLI,11,1,否
+1300,small,IPA,三肽,3,I,A,141,2.14922,Whey (Whole whey protein),Yamamoto et al.,"HIC, RP-HPLC",SHR,141 μM,否,API,19,1,否
+1661,small,IPA,三肽,3,I,A,141,2.14922,Lactogloblin,,Enzymatic Hydrolysis of milk proteins,SHR,141 μM,否,API,19,1,否
+1740,small,IPA,三肽,3,I,A,141,2.14922,Enzymatic-hydrolysis (Hydrolysis with proteinase K),Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,141 μM,否,API,19,1,否
+2261,small,IPA,三肽,3,I,A,141,2.14922,Milk derived,,,,141 μM,否,API,19,1,否
+2579,small,IPA,三肽,3,I,A,141,2.14922,Cheese whey protein,Yamamoto et al.,"RP-HPLC, GF",SHR,141 μM,否,API,19,1,否
+5218,small,IPA,三肽,3,I,A,141,2.14922,,,,,141 μM,否,API,19,1,否
+5562,small,IPA,三肽,3,I,A,141,2.14922,Beta Lactoglobulin,,,,141 μM,否,API,19,1,否
+5947,small,IPA,三肽,3,I,A,141,2.14922,Milk (cheese whey),,"GFC, RP-HPLC, HIC",,141 μM,否,API,19,1,否
+6426,small,IPA,三肽,3,I,A,141,2.14922,Whey protein,,,,141 μM,否,API,19,1,否
+5106,small,IPF,三肽,3,I,F,8.78,0.943495,Egg (cooked egg protein),,"CEC, GF, LC-MS",,8.78 μM,否,FPI,2,1,否
+5127,small,IPN,三肽,3,I,N,141,2.14922,Casein β-lg f,Yamamoto et al.,RP-HPLC,SHR,141 μM,否,NPI,1,1,否
+1276,small,IPP,三肽,3,I,P,5,0.69897,Cereals (Rye),Cushman and Cheung (1971),"UF, LC-MS",SHR,5 μM,否,PPI,27,2,是
+1672,small,IPP,三肽,3,I,P,5,0.69897,Casein,,Enzymatic Hydrolysis of milk proteins,SHR,5 μM,否,PPI,27,2,是
+1710,small,IPP,三肽,3,I,P,5,0.69897,Fermentation with L. helveticus and S. cerevisiae,Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,5 μM,否,PPI,27,2,是
+2243,small,IPP,三肽,3,I,P,5,0.69897,Milk derived,,,,5 μM,否,PPI,27,2,是
+2970,small,IPP,三肽,3,I,P,5,0.69897,Milk,,,,5 μM,否,PPI,27,2,是
+3629,small,IPP,三肽,3,I,P,5,0.69897,Cheese (Swiss),Cushman and Cheung (1971),"HPLC, LC-MS",,5 μM,否,PPI,27,2,是
+4965,small,IPP,三肽,3,I,P,5,0.69897,Β- and κ-casein,Cushman and Cheung (1971),HPLC,SHR,5 μM,否,PPI,27,2,是
+5126,small,IPP,三肽,3,I,P,5,0.69897,Casein β-lg f,Cushman and Cheung (1971),HPLC,SHR,5 μM,否,PPI,27,2,是
+5219,small,IPP,三肽,3,I,P,5,0.69897,,,,,5 μM,否,PPI,27,2,是
+5514,small,IPP,三肽,3,I,P,5,0.69897,Casein,,,,5 μM,否,PPI,27,2,是
+5573,small,IPP,三肽,3,I,P,5,0.69897,Casein,,,,5 μM,否,PPI,27,2,是
+6046,small,IPP,三肽,3,I,P,5,0.69897,Milk (human casein),Kasahara and Ashihara (1981),,,5.0 μM,否,PPI,27,2,是
+6093,small,IPP,三肽,3,I,P,5,0.69897,Milk (sour milk),Cushman and Cheung (1971),"GFC, RP-HPLC, UF",,5 μM,否,PPI,27,2,是
+6440,small,IPP,三肽,3,I,P,5,0.69897,Sour milk,,,,5 μM,否,PPI,27,2,是
+2741,small,IPP,三肽,3,I,P,5.15,0.711807,Milk (Skimmed milk),Cushman and Cheung (1971),RP-HPLC,SHR,5.15 μM,否,PPI,27,2,是
+2259,small,IPY,三肽,3,I,Y,206,2.31387,Milk derived,,,,206 μM,是,YPI,4,1,否
+6706,small,IPY,三肽,3,I,Y,206,2.31387,,,,,206 μM,是,YPI,4,1,否
+1931,small,IQP,三肽,3,I,P,3.8,0.579784,Cereals (Wheat bran),Modified Lieberman’s method,"RPC, SEC, RP-HPLC",,3.8 μM,否,PQI,12,2,是
+2731,small,IQP,三肽,3,I,P,3.8,0.579784,Cereals (Wheat bran),Modified Lieberman’s method,"MALDI-TOF-MS, HPLC",,3.8 μM,否,PQI,12,2,是
+5220,small,IQP,三肽,3,I,P,3.8,0.579784,,,,,3.8 μM,否,PQI,12,2,是
+6279,small,IQP,三肽,3,I,P,3.8,0.579784,Cereals (Wheat (Triticum aestivum wheat bran)),Cushman and Cheung (1971),"IEC, RP-HPLC, HIC",,3.8 μM,否,PQI,12,2,是
+6758,small,IQP,三肽,3,I,P,3.8,0.579784,Cereals (Wheat bran),,,,3.8 μM,否,PQI,12,2,是
+4261,small,IQP,三肽,3,I,P,5.77,0.761176,Nori (Porphyra yezoensis),,"RP-HPLC, UF",SHR,5.77 μM,否,PQI,12,2,是
+5115,small,IQP,三肽,3,I,P,5.77,0.761176,Algae (Spirulina platensis),,"RP-HPLC, UF",SHR,5.77 μM,否,PQI,12,2,是
+2042,small,IQW,三肽,3,I,W,1.4,0.146128,Egg proteins,,,,1.4 μM,否,WQI,2,1,否
+1970,small,IQY,三肽,3,I,Y,2.8,0.447158,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",LC-MS/MS,,2.8 μM,否,YQI,5,2,是
+1973,small,IQY,三肽,3,I,Y,2.9,0.462398,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",LC-MS/MS,,2.9 μM,否,YQI,5,2,是
+5099,small,IRA,三肽,3,I,A,6.4,0.80618,Α-zein,Cushman and Cheung (1971),HPLC,,6.4 μM,否,ARI,11,1,否
+5221,small,IRA,三肽,3,I,A,6.4,0.80618,,,,,6.4 μM,否,ARI,11,1,否
+5809,small,IRA,三肽,3,I,A,6.4,0.80618,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,6.4 μM,否,ARI,11,1,否
+6464,small,IRA,三肽,3,I,A,6.4,0.80618,Alpha-zein,,,,6.4 μM,否,ARI,11,1,否
+2571,small,IRP,三肽,3,I,P,1.8,0.255273,Fish (Bonito bowel),"Cushman and Cheung (1971), Maruyama and Suzuki",HPLC,,1.8 μM,否,PRI,11,2,是
+5097,small,IRP,三肽,3,I,P,1.8,0.255273,Fish (Bonito bowel),Cushman and Cheung (1971),"RP-HPLC, IEC",,1.8 μM,否,PRI,11,2,是
+5222,small,IRP,三肽,3,I,P,1.8,0.255273,,,,,1.8 μM,否,PRI,11,2,是
+5670,small,IRP,三肽,3,I,P,1.8,0.255273,Fish (Bonito (Sarda bowel autolysate)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC, HIC",,1.8 μM,否,PRI,11,2,是
+6533,small,IRP,三肽,3,I,P,1.8,0.255273,Cereals (Finnish),,,,1.8 μM,否,PRI,11,2,是
+2038,small,IRP,三肽,3,I,P,1.9,0.278754,Egg proteins,,,,1.9 μM,否,PRI,11,2,是
+2041,small,IRW,三肽,3,I,W,0.6,-0.221849,Egg proteins,,,,0.6 μM,否,WRI,3,1,否
+1968,small,IRY,三肽,3,I,Y,0.59,-0.229148,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",LC-MS/MS,,0.59 μM,否,YRI,2,2,是
+1971,small,IRY,三肽,3,I,Y,0.6,-0.221849,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",LC-MS/MS,,0.6 μM,否,YRI,2,2,是
+5123,small,ITF,三肽,3,I,F,49,1.6902,Cereals (Buckwheat),Modified Lieberman’s method,"GPC, HPLC",SHR,49 μM,否,FTI,3,1,否
+1231,small,ITP,三肽,3,I,P,9.5,0.977724,Sweet-potato protein isolate,Cushman and Cheung (1971),"Absorption Chromatography, RP-HPLC",SHR,9.5 μM,否,PTI,3,1,否
+5088,small,ITT,三肽,3,I,T,678.5,2.83155,Porcine skeletal muscle protein,Cushman and Cheung (1971),RP-HPLC,,678.5 μM,是,TTI,4,1,否
+6631,small,ITT,三肽,3,I,T,678.5,2.83155,Porcine skeletal muscle,,,,678.5 μM,是,TTI,4,1,否
+5113,small,IVF,三肽,3,I,F,33.11,1.51996,Egg (Ovalbumin),,,SHR,33.11 μM,否,FVI,4,1,否
+1886,small,IVY,三肽,3,I,Y,0.48,-0.318759,Cereals (Wheat Gliadin),"2,4,6-trinitrobenzene sulfonate(TNBS) method",RP-HPLC,,0.48 μM,否,YVI,17,5,是
+2858,small,IVY,三肽,3,I,Y,0.48,-0.318759,Synthesized,,,,0.48 μM,否,YVI,17,5,是
+5092,small,IVY,三肽,3,I,Y,0.48,-0.318759,Cereals (Wheat germ),"2,4,6-trinitrobenzene sulfonate(TNBS) method",RP-HPLC,,0.48 μM,否,YVI,17,5,是
+6527,small,IVY,三肽,3,I,Y,0.48,-0.318759,,,,,0.48 μM,否,YVI,17,5,是
+1882,small,IVY,三肽,3,I,Y,14.74,1.1685,Sesame,Friedland and Silverstein (1976),"SEC, RPC",SHR,14.74 μM,否,YVI,17,5,是
+5223,small,IVY,三肽,3,I,Y,14.74,1.1685,,,,,14.74 μM,否,YVI,17,5,是
+6189,small,IVY,三肽,3,I,Y,14.74,1.1685,Sesame (Sesamum indicum),Friedland and Silverstein (1976),"GFC, RP-HPLC",,14.74 μM,否,YVI,17,5,是
+5517,small,IVY,三肽,3,I,Y,479,2.68034,,Cushman and Cheung (1971),,SHR,0.479 mM,否,YVI,17,5,是
+5518,small,IVY,三肽,3,I,Y,2399,3.38003,,,,,2.399 mM,否,YVI,17,5,是
+5519,small,IVY,三肽,3,I,Y,14740,4.1685,,,,,14.74 mM,否,YVI,17,5,是
+1075,small,IWH,三肽,3,I,H,3.5,0.544068,Fish (Dried Bonito),"Cushman and Cheung (1971), Yamamoto and others","HPLC, RP-HPLC",SHR,3.5 μM,否,HWI,7,1,否
+5063,small,IWH,三肽,3,I,H,3.5,0.544068,Actin,"Cushman and Cheung (1971), Yamamoto and others",HPLC,SHR,3.5 μM,否,HWI,7,1,否
+5080,small,IWH,三肽,3,I,H,3.5,0.544068,Fish (Bonito muscle),"Cushman and Cheung (1971), Yamamoto and others",HPLC,SHR,3.5 μM,否,HWI,7,1,否
+6534,small,IWH,三肽,3,I,H,3.5,0.544068,Cereals (Finnish),,,,3.5 μM,否,HWI,7,1,否
+6643,small,IYK,三肽,3,I,K,177,2.24797,,,,,177 μM,否,KYI,1,1,否
+3663,small,IYP,三肽,3,I,P,61,1.78533,,Kasahara and Ashihara (1981),"RP-HPLC, TLC, FAB-MS",Rat,61 μM,否,PYI,8,1,否
+5224,small,IYP,三肽,3,I,P,61,1.78533,,,,,61 μM,否,PYI,8,1,否
+5966,small,IYP,三肽,3,I,P,61,1.78533,Milk (human β casein),Kasahara and Ashihara (1981),,,61 μM,否,PYI,8,1,否
+6296,small,IYP,三肽,3,I,P,61,1.78533,Human (Human Beta Casein),,,,61 μM,否,PYI,8,1,否
+6783,small,IYP,三肽,3,I,P,61,1.78533,Milk,,"RP-HPLC, TLC, FAB-MS",,61 μM,否,PYI,8,1,否
+6791,small,IYP,三肽,3,I,P,61,1.78533,Human (Synthetic peptide of Human beta casein),Kasahara and Ashihara (1981),"RP-HPLC, TLC, FAB-MS",,61 μM,否,PYI,8,1,否
+6639,small,KFY,三肽,3,K,Y,45,1.65321,,,,,45 μM,否,YFK,1,1,否
+5225,small,KLP,三肽,3,K,P,500,2.69897,,,,,500 μM,否,PLK,4,1,否
+6118,small,KLP,三肽,3,K,P,500,2.69897,Pork (Sus domesticus),Sentandreu and Toldra (2006),RP-HPLC,,500 μM,否,PLK,4,1,否
+2840,small,KWL,三肽,3,K,L,43.6,1.63949,Synthesized,,,,43.6 μM,否,LWK,1,1,否
+6640,small,KYY,三肽,3,K,Y,79,1.89763,,,,,79 μM,否,YYK,2,1,否
+5226,small,LAA,三肽,3,L,A,13,1.11394,,,,,13 μM,否,AAL,7,1,否
+5810,small,LAA,三肽,3,L,A,13,1.11394,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,13 μM,否,AAL,7,1,否
+6456,small,LAA,三肽,3,L,A,13,1.11394,Alpha-zein,,,,13 μM,否,AAL,7,1,否
+2893,small,LAP,三肽,3,L,P,3.5,0.544068,,Cushman and Cheung (1971),GFC,SHR,3.5 μM,否,PAL,8,1,否
+4627,small,LAP,三肽,3,L,P,3.5,0.544068,Chicken muscle,"Cushman and Cheung (1971), Yamamoto and others",HPLC,SHR,3.5 μM,否,PAL,8,1,否
+5060,small,LAP,三肽,3,L,P,3.5,0.544068,Chicken muscle,"Cushman and Cheung (1971), Yamamoto and others",HPLC,SHR,3.5 μM,否,PAL,8,1,否
+6556,small,LAP,三肽,3,L,P,3.5,0.544068,Food-protein,,,,3.5 μM,否,PAL,8,1,否
+5227,small,LAY,三肽,3,L,Y,3.9,0.591065,,,,,3.9 μM,否,YAL,9,1,否
+5807,small,LAY,三肽,3,L,Y,3.9,0.591065,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,3.9 μM,否,YAL,9,1,否
+6471,small,LAY,三肽,3,L,Y,3.9,0.591065,Alpha-zein,,,,3.9 μM,否,YAL,9,1,否
+2856,small,LEK,三肽,3,L,K,800,2.90309,Synthesized,,,,800 μM,否,KEL,2,1,否
+5122,small,LGI,三肽,3,L,I,29,1.4624,Cereals (Buckwheat),Modified Lieberman’s method,"GPC, HPLC",SHR,29 μM,否,IGL,3,1,否
+5075,small,LGP,三肽,3,L,P,0.72,-0.142668,Synthesized,Cushman and Cheung (1971),HPLC,,0.72 μM,是,PGL,4,1,否
+6518,small,LGP,三肽,3,L,P,0.72,-0.142668,Fish (Alaska pollack (Theragra chalcogramma)),,,,0.72 μM,是,PGL,4,1,否
+6644,small,LIY,三肽,3,L,Y,0.8,-0.09691,,,,,0.8 μM,否,YIL,5,2,是
+2860,small,LIY,三肽,3,L,Y,0.82,-0.0861861,Synthesized,,,,0.82 μM,否,YIL,5,2,是
+5098,small,LIY,三肽,3,L,Y,0.82,-0.0861861,Human α2-macroglobulin,Cushman and Cheung (1971),"GF, CEC, RP-HPLC, iHPLC",,0.82 μM,否,YIL,5,2,是
+2019,small,LKA,三肽,3,L,A,8.5,0.929419,Chicken muscle proteins,"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,8.5 μM,否,AKL,8,1,否
+2891,small,LKA,三肽,3,L,A,8.5,0.929419,Creatine Kinase,Cushman and Cheung (1971),GFC,,8.5 μM,否,AKL,8,1,否
+5058,small,LKA,三肽,3,L,A,8.5,0.929419,Creatine kinase,"Cushman and Cheung (1971), Yamamoto and others",HPLC,SHR,8.5 μM,否,AKL,8,1,否
+6555,small,LKA,三肽,3,L,A,8.5,0.929419,Food-protein,,,,8.5 μM,否,AKL,8,1,否
+6349,small,LKL,三肽,3,L,L,188,2.27416,Fish (Sardine),,,,188 μM,是,LKL,3,1,否
+1073,small,LKP,三肽,3,L,P,0.32,-0.49485,Fish (Dried Bonito),"Cushman and Cheung (1971), Yamamoto and others","HPLC, RP-HPLC",SHR,0.32 μM,否,PKL,32,3,是
+1660,small,LKP,三肽,3,L,P,0.32,-0.49485,Aldolase,,Enzymatic Hydrolysis of milk proteins,SHR,0.32 μM,否,PKL,32,3,是
+1953,small,LKP,三肽,3,L,P,0.32,-0.49485,Fish proteins,,,SHR,0.32 μM,否,PKL,32,3,是
+2002,small,LKP,三肽,3,L,P,0.32,-0.49485,Chicken muscle,"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,0.32 μM,否,PKL,32,3,是
+2020,small,LKP,三肽,3,L,P,0.32,-0.49485,Chicken muscle proteins,"Cushman and Cheung (1971), Yamamoto and others",RP-HPLC,SHR,0.32 μM,否,PKL,32,3,是
+2025,small,LKP,三肽,3,L,P,0.32,-0.49485,Fish,Cushman and Cheung (1971),HPLC,,0.32 μM,否,PKL,32,3,是
+2861,small,LKP,三肽,3,L,P,0.32,-0.49485,Synthesized,,,,0.32 μM,否,PKL,32,3,是
+2892,small,LKP,三肽,3,L,P,0.32,-0.49485,Aldolase,Cushman and Cheung (1971),GFC,SHR,0.32 μM,否,PKL,32,3,是
+2945,small,LKP,三肽,3,L,P,0.32,-0.49485,,"Cushman and Cheung (1971), Yamamoto and others","HPLC, RP-HPLC",SHR,0.32 μM,否,PKL,32,3,是
+5059,small,LKP,三肽,3,L,P,0.32,-0.49485,Aldolase,"Cushman and Cheung (1971), Yamamoto and others",HPLC,SHR,0.32 μM,否,PKL,32,3,是
+5513,small,LKP,三肽,3,L,P,0.32,-0.49485,Fish proteins,"Cushman and Cheung (1971), Yamamoto and others","HPLC, RP-HPLC",SHR,0.32 μM,否,PKL,32,3,是
+5561,small,LKP,三肽,3,L,P,0.32,-0.49485,Aldolase,,,,0.32 μM,否,PKL,32,3,是
+6535,small,LKP,三肽,3,L,P,0.32,-0.49485,Food-protein,,,,0.32 μM,否,PKL,32,3,是
+1969,small,LKP,三肽,3,L,P,1.4,0.146128,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",LC-MS/MS,,1.4 μM,否,PKL,32,3,是
+1972,small,LKP,三肽,3,L,P,1.6,0.20412,Egg proteins,"Cushman and Cheung (1971), Majumder & Wu (2009)",LC-MS/MS,,1.6 μM,否,PKL,32,3,是
+1881,small,LKY,三肽,3,L,Y,0.78,-0.107905,Sesame,Friedland and Silverstein (1976),"SEC, RPC",SHR,0.78 μM,否,YKL,9,2,是
+5229,small,LKY,三肽,3,L,Y,0.78,-0.107905,,,,,0.78 μM,否,YKL,9,2,是
+6188,small,LKY,三肽,3,L,Y,0.78,-0.107905,Sesame (Sesamum indicum),Friedland and Silverstein (1976),"GFC, RP-HPLC",,0.78 μM,否,YKL,9,2,是
+2752,small,LKY,三肽,3,L,Y,10.1,1.00432,Antarctic krill (Euphausia superba),Holmquist et al. (1979),"SEC, UPLC-ESI-MS",SHR,10.1 μM,否,YKL,9,2,是
+5228,small,LKY,三肽,3,L,Y,10.1,1.00432,,,,,10.1 μM,否,YKL,9,2,是
+5649,small,LKY,三肽,3,L,Y,10.1,1.00432,Antarctic krill (Euphausia superba),Holmquist et al. (1979),"GFC, IEC, RP-HPLC",,10.1 μM,否,YKL,9,2,是
+2011,small,LLF,三肽,3,L,F,3.5,0.544068,Βeta-lactoglobulin,Cushman and Cheung (1971),RP-HPLC-MS/MS,SHR,3.5 μM,否,FLL,15,3,是
+1318,small,LLF,三肽,3,L,F,79.8,1.902,Whey protein (Beta Lactoglobulin),,RP-HPLC,,79.8 μM,否,FLL,15,3,是
+1741,small,LLF,三肽,3,L,F,79.8,1.902,Enzymatic-hydrolysis (Hydrolysis with thermolysin),Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,79.8 μM,否,FLL,15,3,是
+5230,small,LLF,三肽,3,L,F,79.8,1.902,,,,,79.8 μM,否,FLL,15,3,是
+5925,small,LLF,三肽,3,L,F,79.8,1.902,Milk (caprine lactoglobulin),Cushman and Cheung (1971),RP-HPLC,,79.8 μM,否,FLL,15,3,是
+6710,small,LLF,三肽,3,L,F,79.8,1.902,,,,,79.8 μM,否,FLL,15,3,是
+4327,small,LLF,三肽,3,L,F,82.4,1.91593,Milk-Cheese (Sheep milk and cheeses proteins),,"SEC, RP-HPLC",,82.4 μM,否,FLL,15,3,是
+1278,small,LLP,三肽,3,L,P,57,1.75587,Cereals (Rye),Cushman and Cheung (1971),"UF, LC-MS",SHR,57 μM,否,PLL,11,1,否
+5231,small,LLP,三肽,3,L,P,57,1.75587,,,,,57 μM,否,PLL,11,1,否
+5805,small,LLP,三肽,3,L,P,57,1.75587,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,57 μM,否,PLL,11,1,否
+6475,small,LLP,三肽,3,L,P,57,1.75587,Alpha-zein,,,,57 μM,否,PLL,11,1,否
+5232,small,LNP,三肽,3,L,P,43,1.63347,,,,,43 μM,否,PNL,10,1,否
+5804,small,LNP,三肽,3,L,P,43,1.63347,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,43 μM,否,PNL,10,1,否
+6461,small,LNP,三肽,3,L,P,43,1.63347,Alpha-zein,,,,43 μM,否,PNL,10,1,否
+5065,small,LNY,三肽,3,L,Y,81,1.90849,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",HPLC,,81 μM,否,YNL,2,1,否
+5104,small,LPF,三肽,3,L,F,10.59,1.0249,Egg (cooked egg protein),,"CEC, GF, LC-MS",,10.59 μM,否,FPL,3,1,否
+5078,small,LPG,三肽,3,L,G,5.73,0.758155,Synthesized,Cushman and Cheung (1971),HPLC,,5.73 μM,是,GPL,4,1,否
+6521,small,LPG,三肽,3,L,G,5.73,0.758155,Fish (Alaska pollack (Theragra chalcogramma)),,,,5.73 μM,是,GPL,4,1,否
+5110,small,LPP,三肽,3,L,P,9.6,0.982271,Γ-zein,Cushman and Cheung (1971),RP-HPLC,,9.6 μM,是,PPL,13,1,否
+5233,small,LPP,三肽,3,L,P,9.6,0.982271,,,,,9.6 μM,是,PPL,13,1,否
+5758,small,LPP,三肽,3,L,P,9.6,0.982271,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC, UF",,9.6 μM,是,PPL,13,1,否
+6374,small,LPP,三肽,3,L,P,9.6,0.982271,Casein,,,,9.6 μM,是,PPL,13,1,否
+1880,small,LQP,三肽,3,L,P,1.04,0.0170333,Sesame,Friedland and Silverstein (1976),"SEC, RPC",SHR,1.04 μM,否,PQL,25,5,是
+5234,small,LQP,三肽,3,L,P,1.04,0.0170333,,,,,1.04 μM,否,PQL,25,5,是
+6187,small,LQP,三肽,3,L,P,1.04,0.0170333,Sesame (Sesamum indicum),Friedland and Silverstein (1976),"GFC, RP-HPLC",,1.04 μM,否,PQL,25,5,是
+1873,small,LQP,三肽,3,L,P,1.9,0.278754,Cereals (Maize Standard (Native alpha-zein)),Cushman and Cheung (1971),"CC, HPLC",,1.9 μM,否,PQL,25,5,是
+5112,small,LQP,三肽,3,L,P,1.9,0.278754,Α-zein,,"GF, TLC, IEC",,1.9 μM,否,PQL,25,5,是
+5803,small,LQP,三肽,3,L,P,1.9,0.278754,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,1.9 μM,否,PQL,25,5,是
+6459,small,LQP,三肽,3,L,P,1.9,0.278754,Alpha-zein,,,,1.9 μM,否,PQL,25,5,是
+1277,small,LQP,三肽,3,L,P,2,0.30103,Cereals (Rye),Cushman and Cheung (1971),"UF, LC-MS",SHR,2 μM,否,PQL,25,5,是
+1282,small,LQP,三肽,3,L,P,2,0.30103,Cereals (Maize alpha-zein),Cushman and Cheung (1971),"CC, HPLC",,2 μM,否,PQL,25,5,是
+1874,small,LQP,三肽,3,L,P,2,0.30103,Cereals (Maize lines),,"UF, RP-HPLC",SHR,2 μM,否,PQL,25,5,是
+2665,small,LQP,三肽,3,L,P,2,0.30103,Α-zein,Cushman and Cheung (1971),"RP-HPLC, FAB-MS",,2 μM,否,PQL,25,5,是
+1930,small,LQP,三肽,3,L,P,2.2,0.342423,Cereals (Wheat bran),Modified Lieberman’s method,"RPC, SEC, RP-HPLC",,2.2 μM,否,PQL,25,5,是
+2730,small,LQP,三肽,3,L,P,2.2,0.342423,Cereals (Wheat bran),Modified Lieberman’s method,"MALDI-TOF-MS, HPLC",,2.2 μM,否,PQL,25,5,是
+6278,small,LQP,三肽,3,L,P,2.2,0.342423,Cereals (Wheat (Triticum aestivum wheat bran)),Cushman and Cheung (1971),"IEC, RP-HPLC, HIC",,2.2 μM,否,PQL,25,5,是
+2758,small,LQP,三肽,3,L,P,3.4,0.531479,Cheese,Cushman and Cheung (1971),"HPLC, LC/MSD",,3.4 μM,否,PQL,25,5,是
+5235,small,LQQ,三肽,3,L,Q,100,2,,,,,100 μM,否,QQL,10,1,否
+5812,small,LQQ,三肽,3,L,Q,100,2,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,100 μM,否,QQL,10,1,否
+6476,small,LQQ,三肽,3,L,Q,100,2,Alpha-zein,,,,100 μM,否,QQL,10,1,否
+1932,small,LRP,三肽,3,L,P,0.21,-0.677781,Cereals (Wheat bran),Modified Lieberman’s method,"RPC, SEC, RP-HPLC",,0.21 μM,否,PRL,23,4,是
+2732,small,LRP,三肽,3,L,P,0.21,-0.677781,Cereals (Wheat bran),Modified Lieberman’s method,"MALDI-TOF-MS, HPLC",,0.21 μM,否,PRL,23,4,是
+5236,small,LRP,三肽,3,L,P,0.21,-0.677781,,,,,0.21 μM,否,PRL,23,4,是
+6280,small,LRP,三肽,3,L,P,0.21,-0.677781,Cereals (Wheat (Triticum aestivum wheat bran)),Cushman and Cheung (1971),"IEC, RP-HPLC, HIC",,0.21 μM,否,PRL,23,4,是
+1871,small,LRP,三肽,3,L,P,0.27,-0.568636,Cereals (Maize Standard (Native alpha-zein)),Cushman and Cheung (1971),"CC, HPLC",SHR,0.27 μM,否,PRL,23,4,是
+2862,small,LRP,三肽,3,L,P,0.27,-0.568636,Synthesized,,,,0.27 μM,否,PRL,23,4,是
+5800,small,LRP,三肽,3,L,P,0.27,-0.568636,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,0.27 μM,否,PRL,23,4,是
+1280,small,LRP,三肽,3,L,P,0.29,-0.537602,Cereals (Maize alpha-zein),Cushman and Cheung (1971),"CC, HPLC",SHR,0.29 μM,否,PRL,23,4,是
+1876,small,LRP,三肽,3,L,P,0.29,-0.537602,Cereals (Maize lines),,"UF, RP-HPLC",SHR,0.29 μM,否,PRL,23,4,是
+2663,small,LRP,三肽,3,L,P,0.29,-0.537602,Α-zein,Cushman and Cheung (1971),"RP-HPLC, FAB-MS",SHR,0.29 μM,否,PRL,23,4,是
+2570,small,LRP,三肽,3,L,P,1,0,Fish (Bonito bowel),"Cushman and Cheung (1971), Maruyama and Suzuki",HPLC,,1 μM,否,PRL,23,4,是
+5094,small,LRP,三肽,3,L,P,1,0,Fish (Bonito bowel),Cushman and Cheung (1971),"RP-HPLC, IEC",,1 μM,否,PRL,23,4,是
+5669,small,LRP,三肽,3,L,P,1,0,Fish (Bonito (Sarda bowel autolysate)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC, HIC",,1.0 μM,否,PRL,23,4,是
+6460,small,LRP,三肽,3,L,P,1,0,Cereals (Corn endosperm),,,,1 μM,否,PRL,23,4,是
+6489,small,LRW,三肽,3,L,W,0,,,,,,0 μM,否,WRL,2,2,是
+1989,small,LRW,三肽,3,L,W,0.23,-0.638272,Legume (Pea proteins),Cushman and Cheung (1971),HPLC,,0.23 μM,否,WRL,2,2,是
+6636,small,LRY,三肽,3,L,Y,5.1,0.70757,,,,,5.1 μM,否,YRL,3,1,否
+1879,small,LSA,三肽,3,L,A,7.81,0.892651,Sesame,Friedland and Silverstein (1976),"SEC, RPC",SHR,7.81 μM,否,ASL,5,1,否
+5237,small,LSA,三肽,3,L,A,7.81,0.892651,,,,,7.81 μM,否,ASL,5,1,否
+6186,small,LSA,三肽,3,L,A,7.81,0.892651,Sesame (Sesamum indicum),Friedland and Silverstein (1976),"GFC, RP-HPLC",,7.81 μM,否,ASL,5,1,否
+1281,small,LSP,三肽,3,L,P,1.7,0.230449,Cereals (Maize alpha-zein),Cushman and Cheung (1971),"CC, HPLC",,1.7 μM,否,PSL,14,1,否
+1872,small,LSP,三肽,3,L,P,1.7,0.230449,Cereals (Maize Standard (Native alpha-zein)),Cushman and Cheung (1971),"CC, HPLC",,1.7 μM,否,PSL,14,1,否
+1875,small,LSP,三肽,3,L,P,1.7,0.230449,Cereals (Maize lines),,"UF, RP-HPLC",SHR,1.7 μM,否,PSL,14,1,否
+2664,small,LSP,三肽,3,L,P,1.7,0.230449,Α-zein,Cushman and Cheung (1971),"RP-HPLC, FAB-MS",,1.7 μM,否,PSL,14,1,否
+5111,small,LSP,三肽,3,L,P,1.7,0.230449,Α-zein,,"GF, TLC, IEC",,1.7 μM,否,PSL,14,1,否
+5238,small,LSP,三肽,3,L,P,1.7,0.230449,,,,,1.7 μM,否,PSL,14,1,否
+5801,small,LSP,三肽,3,L,P,1.7,0.230449,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,1.7 μM,否,PSL,14,1,否
+6458,small,LSP,三肽,3,L,P,1.7,0.230449,Cereals (Corn endosperm),,,,1.7 μM,否,PSL,14,1,否
+6625,small,LTF,三肽,3,L,F,330,2.51851,,,,,330 μM,否,FTL,5,1,否
+6694,small,LVE,三肽,3,L,E,14.2,1.15229,Bulfrog (Rana catesbeiana Shaw) muscle protein,,,,14.2 μM,否,EVL,2,1,否
+6395,small,LVL,三肽,3,L,L,12.3,1.08991,Porcine plasma,,,,12.3 μM,是,LVL,9,1,否
+1992,small,LVP,三肽,3,L,P,9.9,0.995635,Legume (Pea proteins),,,,9.9 μM,否,PVL,3,1,否
+6446,small,LVR,三肽,3,L,R,14,1.14613,Cereals (Maize endosperm),,,,14 μM,否,RVL,5,1,否
+1878,small,LVY,三肽,3,L,Y,1.8,0.255273,Sesame,Friedland and Silverstein (1976),"SEC, RPC",SHR,1.8 μM,否,YVL,6,1,否
+4457,small,LVY,三肽,3,L,Y,1.8,0.255273,Milk (Fermented Milk),"Cushman and Cheung (1971), Gonzalez-Gonzalez et al","RP-HPLC, LC-MS/MS",,1.8 μM,否,YVL,6,1,否
+5239,small,LVY,三肽,3,L,Y,1.8,0.255273,,,,,1.8 μM,否,YVL,6,1,否
+6185,small,LVY,三肽,3,L,Y,1.8,0.255273,Sesame (Sesamum indicum),Friedland and Silverstein (1976),"GFC, RP-HPLC",,1.80 μM,否,YVL,6,1,否
+5069,small,LYP,三肽,3,L,P,6.6,0.819544,Synthesized,"Cushman and Cheung (1971), Yamamoto and others",HPLC,,6.6 μM,否,PYL,4,1,否
+6536,small,LYP,三肽,3,L,P,6.6,0.819544,Cereals (Finnish),,,,6.6 μM,否,PYL,4,1,否
+2759,small,MAP,三肽,3,M,P,0.8,-0.09691,Cheese,Cushman and Cheung (1971),"HPLC, LC/MSD",SHR,0.8 μM,否,PAM,3,1,否
+2920,small,MAW,三肽,3,M,W,6.1,0.78533,Cuttlefish,Cushman and Cheung (1971),"GFC, RP-HPLC",,6.1 μM,否,WAM,9,2,是
+1052,small,MAW,三肽,3,M,W,16.32,1.21272,Cuttlefish (Muscle of cuttlefish),Nakamura et al. (1995),"GFC, RP-HPLC",,16.32 μM,否,WAM,9,2,是
+5240,small,MAW,三肽,3,M,W,16.32,1.21272,,,,,16.32 μM,否,WAM,9,2,是
+5733,small,MAW,三肽,3,M,W,16.32,1.21272,Cuttlefish (Sepia officinalis),Cushman and Cheung (1971),"GFC, RP-HPLC",,16.32 μM,否,WAM,9,2,是
+2263,small,MKG,三肽,3,M,G,24,1.38021,Milk derived,,,,24 μM,否,GKM,4,2,是
+6619,small,MKG,三肽,3,M,G,24,1.38021,,,,,24 μM,否,GKM,4,2,是
+1307,small,MKG,三肽,3,M,G,71.8,1.85612,Whey protein (Beta Lactoglobulin),,,,71.8 μM,否,GKM,4,2,是
+5131,small,MKG,三肽,3,M,G,71.8,1.85612,Casein β-lg f,,,,71.8 μM,否,GKM,4,2,是
+5543,small,MKR,三肽,3,M,R,25.7,1.40993,Egg (Hen egg white),Cushman and Cheung (1971),"RP-HPLC, UPLC–MS/MS",,25.7 μM,否,RKM,1,1,否
+6637,small,MKY,三肽,3,M,Y,7.3,0.863323,,,,,7.3 μM,否,YKM,2,1,否
+5085,small,MNP,三肽,3,M,P,66.6,1.82347,Porcine skeletal muscle protein,Cushman and Cheung (1971),RP-HPLC,,66.6 μM,否,PNM,5,1,否
+6627,small,MNP,三肽,3,M,P,66.6,1.82347,Porcine skeletal muscle,,,,66.6 μM,否,PNM,5,1,否
+5105,small,MPF,三肽,3,M,F,17.98,1.25479,Egg (cooked egg protein),,"CEC, GF, LC-MS",,17.98 μM,否,FPM,2,1,否
+1923,small,MRW,三肽,3,M,W,0.6,-0.221849,Spinach,Cushman and Cheung (1971),"RPC, CC",SHR,0.6 μM,否,WRM,8,2,是
+2574,small,MRW,三肽,3,M,W,0.6,-0.221849,Spinach Rubisco,"Cushman and Cheung (1971), Maruyama and Suzuki",HPLC,SHR,0.6 μM,否,WRM,8,2,是
+5241,small,MRW,三肽,3,M,W,0.6,-0.221849,,,,,0.6 μM,否,WRM,8,2,是
+6226,small,MRW,三肽,3,M,W,0.6,-0.221849,Spinach (Spinacia oleracea),Cushman and Cheung (1971),,,0.6 μM,否,WRM,8,2,是
+6229,small,MRW,三肽,3,M,W,0.6,-0.221849,Spinach (Spinacia oleracea),Cushman and Cheung (1971),"IEC, RP-HPLC",,0.6 μM,否,WRM,8,2,是
+5124,small,MRW,三肽,3,M,W,58,1.76343,Spinach rubisco,"Cushman and Cheung (1971), Maruyama and Suzuki",HPLC,SHR,58 μM,否,WRM,8,2,是
+2254,small,MYY,三肽,3,M,Y,9.6,0.982271,Milk derived,,,,9.6 μM,否,YYM,5,1,否
+5242,small,MYY,三肽,3,M,Y,9.6,0.982271,,,,,9.6 μM,否,YYM,5,1,否
+6051,small,MYY,三肽,3,M,Y,9.6,0.982271,Milk (human casein),Kasahara and Ashihara (1981),,,9.6 μM,否,YYM,5,1,否
+6385,small,MYY,三肽,3,M,Y,9.6,0.982271,Casein (Beta Casein),,,,9.6 μM,否,YYM,5,1,否
+6641,small,NKL,三肽,3,N,L,88,1.94448,,,,,88 μM,是,LKN,2,1,否
+5086,small,NPP,三肽,3,N,P,290.5,2.46315,Porcine skeletal muscle protein,Cushman and Cheung (1971),RP-HPLC,,290.5 μM,否,PPN,4,1,否
+6629,small,NPP,三肽,3,N,P,290.5,2.46315,Porcine skeletal muscle,,,,290.5 μM,否,PPN,4,1,否
+2266,small,PAP,三肽,3,P,P,87,1.93952,Milk derived,,,,87 μM,是,PAP,7,1,否
+5243,small,PAP,三肽,3,P,P,87,1.93952,,,,,87 μM,是,PAP,7,1,否
+6049,small,PAP,三肽,3,P,P,87,1.93952,Milk (human casein),Kasahara and Ashihara (1981),,,87 μM,是,PAP,7,1,否
+6620,small,PAP,三肽,3,P,P,87,1.93952,,,,,87 μM,是,PAP,7,1,否
+4315,small,PFP,三肽,3,P,P,144,2.15836,Milk-Cheese (Sheep milk and cheeses proteins),,HPLC-MS/MS,,144 μM,是,PFP,5,1,否
+5074,small,PGL,三肽,3,P,L,13.93,1.14395,Synthesized,Cushman and Cheung (1971),HPLC,,13.93 μM,是,LGP,3,1,否
+6517,small,PGL,三肽,3,P,L,13.93,1.14395,Fish (Alaska pollack (Theragra chalcogramma)),,,,13.93 μM,是,LGP,3,1,否
+5077,small,PLG,三肽,3,P,G,4.74,0.675778,Synthesized,Cushman and Cheung (1971),HPLC,,4.74 μM,是,GLP,3,1,否
+6520,small,PLG,三肽,3,P,G,4.74,0.675778,Fish (Alaska pollack (Theragra chalcogramma)),,,,4.74 μM,是,GLP,3,1,否
+4455,small,PLP,三肽,3,P,P,430,2.63347,Milk (Fermented Milk),"Cushman and Cheung (1971), Gonzalez-Gonzalez et al","RP-HPLC, LC-MS",,430 μM,是,PLP,15,1,否
+5244,small,PLP,三肽,3,P,P,430,2.63347,,,,,430 μM,是,PLP,15,1,否
+5999,small,PLP,三肽,3,P,P,430,2.63347,Milk (human β casein),Kasahara and Ashihara (1981),,,430 μM,是,PLP,15,1,否
+6327,small,PLP,三肽,3,P,P,430,2.63347,Human (Human Beta Casein),,,,430 μM,是,PLP,15,1,否
+6824,small,PLP,三肽,3,P,P,430,2.63347,Human (Synthetic peptide of Human beta casein),Kasahara and Ashihara (1981),"RP-HPLC, TLC, FAB-MS",,430 μM,是,PLP,15,1,否
+2245,small,PLW,三肽,3,P,W,36,1.5563,Milk derived,,,,36 μM,是,WLP,6,1,否
+5102,small,PLW,三肽,3,P,W,36,1.5563,Casein (Αs1-Casein),Kasahara and Ashihara (1981),"RP-HPLC, TLC",,36 μM,是,WLP,6,1,否
+6449,small,PLW,三肽,3,P,W,36,1.5563,A-casein,,,,36 μM,是,WLP,6,1,否
+5087,small,PPK,三肽,3,P,K,1000,3,Porcine skeletal muscle protein,Cushman and Cheung (1971),RP-HPLC,,1000 μM,否,KPP,7,2,是
+6632,small,PPK,三肽,3,P,K,1001,3.00043,,,,,1001 μM,否,KPP,7,2,是
+6358,small,PQR,三肽,3,P,R,401,2.60314,Casein,,,,401 μM,否,RQP,7,1,否
+6453,small,PRY,三肽,3,P,Y,2.5,0.39794,Sake and sake lees,,,,2.5 μM,否,YRP,3,1,否
+1928,small,PSY,三肽,3,P,Y,16,1.20412,Cereals (Buckwheat),Modified Lieberman’s method,"SEC, RPC",SHR,16 μM,否,YSP,7,1,否
+5121,small,PSY,三肽,3,P,Y,16,1.20412,Cereals (Buckwheat),Modified Lieberman’s method,"GPC, HPLC",SHR,16 μM,否,YSP,7,1,否
+6545,small,PSY,三肽,3,P,Y,16,1.20412,Soybean (Soy bioactive),,,,16 μM,否,YSP,7,1,否
+2835,small,PYK,三肽,3,P,K,2400,3.38021,Synthesized,,,,2400 μM,是,KYP,1,1,否
+2247,small,PYP,三肽,3,P,P,220,2.34242,Milk derived,,,,220 μM,是,PYP,12,1,否
+5245,small,PYP,三肽,3,P,P,220,2.34242,,,,,220 μM,是,PYP,12,1,否
+5855,small,PYP,三肽,3,P,P,220,2.34242,Milk (bovine casein),Cushman and Cheung (1971),,,220 μM,是,PYP,12,1,否
+6357,small,PYP,三肽,3,P,P,220,2.34242,Casein,,,,220 μM,是,PYP,12,1,否
+1101,small,RFH,三肽,3,R,H,330,2.51851,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,330 μM,否,HFR,8,2,是
+5082,small,RFH,三肽,3,R,H,330,2.51851,Fish (Sardine muscle),"2,4,6-trinitrobenzene sulfonate(TNBS) method","GPC, HPLC",,330 μM,否,HFR,8,2,是
+5246,small,RFH,三肽,3,R,H,330,2.51851,,,,,330 μM,否,HFR,8,2,是
+6180,small,RFH,三肽,3,R,H,330,2.51851,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,330 μM,否,HFR,8,2,是
+6371,small,RFH,三肽,3,R,H,331,2.51983,Fish (Sardine muscle),,,,331 μM,否,HFR,8,2,是
+5544,small,RGY,三肽,3,R,Y,61.9,1.79169,Egg (Hen egg white),Cushman and Cheung (1971),"RP-HPLC, UPLC–MS/MS",,61.9 μM,否,YGR,1,1,否
+1949,small,RIY,三肽,3,R,Y,28,1.44716,Rapeseed,"Cushman and Cheung (1971), Yamamoto and others",CC,SHR,28 μM,否,YIR,10,1,否
+2957,small,RIY,三肽,3,R,Y,28,1.44716,Rapeseed protein-derived peptides,Holmquist et al. (1979),"GPC, RP-HPLC",SHR,0.028 mM,否,YIR,10,1,否
+4247,small,RIY,三肽,3,R,Y,28,1.44716,Rapeseed protein,Cushman and Cheung (1971),HPLC,SHR,28 μM,否,YIR,10,1,否
+5114,small,RIY,三肽,3,R,Y,28,1.44716,Rapeseed protein,Cushman and Cheung (1971),HPLC,SHR,28 μM,否,YIR,10,1,否
+5247,small,RIY,三肽,3,R,Y,28,1.44716,,,,,28 μM,否,YIR,10,1,否
+6142,small,RIY,三肽,3,R,Y,28,1.44716,Rapeseed (Brassica napus),Cushman and Cheung (1971),RP-HPLC,,28 μM,否,YIR,10,1,否
+6724,small,RIY,三肽,3,R,Y,28,1.44716,,,,,28 μM,否,YIR,10,1,否
+4309,small,RPK,三肽,3,R,K,36.7,1.56467,Milk-Cheese (Sheep milk and cheeses proteins),Vermeirssen et al.,RP-HPLC,,36.7 μM,否,KPR,3,1,否
+5248,small,RPR,三肽,3,R,R,382,2.58206,,,,,382 μM,是,RPR,4,1,否
+6123,small,RPR,三肽,3,R,R,382,2.58206,Pork (Sus domesticus),Sentandreu and Toldra (2006),RP-HPLC,,382 μM,是,RPR,4,1,否
+1103,small,RVY,三肽,3,R,Y,205.6,2.31302,Fish (Sardine),"2,4,6-trinitrobenzene sulfonate(TNBS) method","RP-GPC, HPLC",,205.6 μM,否,YVR,6,1,否
+5084,small,RVY,三肽,3,R,Y,205.6,2.31302,Fish (Sardine muscle),"2,4,6-trinitrobenzene sulfonate(TNBS) method","GPC, HPLC",,205.6 μM,否,YVR,6,1,否
+5249,small,RVY,三肽,3,R,Y,205.6,2.31302,,,,,205.6 μM,否,YVR,6,1,否
+6182,small,RVY,三肽,3,R,Y,205.6,2.31302,Fish (Sardine (Sardina pilchardus muscle)),Cushman and Cheung (1971),RP-HPLC,,205.6 μM,否,YVR,6,1,否
+2257,small,SHP,三肽,3,S,P,280,2.44716,Milk derived,,,,280 μM,否,PHS,5,1,否
+5250,small,SHP,三肽,3,S,P,280,2.44716,,,,,280 μM,否,PHS,5,1,否
+6042,small,SHP,三肽,3,S,P,280,2.44716,Milk (human casein),Kasahara and Ashihara (1981),,,280 μM,否,PHS,5,1,否
+6623,small,SHP,三肽,3,S,P,280,2.44716,,,,,280 μM,否,PHS,5,1,否
+2265,small,TAP,三肽,3,T,P,3.5,0.544068,Milk derived,,,,3.5 μM,否,PAT,9,1,否
+5251,small,TAP,三肽,3,T,P,3.5,0.544068,,,,,3.5 μM,否,PAT,9,1,否
+6031,small,TAP,三肽,3,T,P,3.5,0.544068,Milk (human casein),Kasahara and Ashihara (1981),,,3.5 μM,否,PAT,9,1,否
+6384,small,TAP,三肽,3,T,P,3.5,0.544068,Casein (Beta Casein),,,,3.5 μM,否,PAT,9,1,否
+2857,small,TKY,三肽,3,T,Y,2.3,0.361728,Synthesized,,,,2.3 μM,否,YKT,3,1,否
+5090,small,TNP,三肽,3,T,P,207.4,2.31681,Porcine skeletal muscle protein,Cushman and Cheung (1971),RP-HPLC,,207.4 μM,否,PNT,5,1,否
+6628,small,TNP,三肽,3,T,P,207.4,2.31681,Porcine skeletal muscle,,,,207.4 μM,否,PNT,5,1,否
+5107,small,TTI,三肽,3,T,I,24.94,1.3969,Egg (cooked egg protein),,"CEC, GF, LC-MS",,24.94 μM,是,ITT,2,1,否
+5089,small,TTN,三肽,3,T,N,672.7,2.82782,Porcine skeletal muscle protein,Cushman and Cheung (1971),RP-HPLC,,672.7 μM,否,NTT,4,1,否
+6630,small,TTN,三肽,3,T,N,672.7,2.82782,Porcine skeletal muscle,,,,672.7 μM,否,NTT,4,1,否
+2250,small,TVY,三肽,3,T,Y,15,1.17609,Milk derived,,,,15 μM,否,YVT,7,1,否
+5252,small,TVY,三肽,3,T,Y,15,1.17609,,,,,15 μM,否,YVT,7,1,否
+5842,small,TVY,三肽,3,T,Y,15,1.17609,Milk (bovine casein),Cushman and Cheung (1971),RP-HPLC,,15 μM,否,YVT,7,1,否
+6508,small,TVY,三肽,3,T,Y,15,1.17609,Casein,,,,15 μM,否,YVT,7,1,否
+5253,small,VAA,三肽,3,V,A,13,1.11394,,,,,13 μM,否,AAV,8,1,否
+5811,small,VAA,三肽,3,V,A,13,1.11394,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,13 μM,否,AAV,8,1,否
+6437,small,VAA,三肽,3,V,A,13,1.11394,Alpha-zein,,,,13 μM,否,AAV,8,1,否
+1038,small,VAF,三肽,3,V,F,35.8,1.55388,Algae (Spirulina platensis),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,35.8 μM,否,FAV,2,1,否
+1870,small,VAF,三肽,3,V,F,35.8,1.55388,Algae (Spirulina platensis),Cushman and Cheung (1971),"IEC, GFC, HPLC",SHR,35.8 μM,否,FAV,2,1,否
+2242,small,VAP,三肽,3,V,P,2,0.30103,Milk derived,,,,2 μM,否,PAV,22,3,是
+2946,small,VAP,三肽,3,V,P,2,0.30103,,,,,2 μM,否,PAV,22,3,是
+5108,small,VAP,三肽,3,V,P,2,0.30103,Casein (Αs1-casein),Cushman and Cheung (1971),"HPLC, TLC, IRRC",Female wistar rat,2 μM,否,PAV,22,3,是
+5254,small,VAP,三肽,3,V,P,2,0.30103,,,,,2 μM,否,PAV,22,3,是
+5847,small,VAP,三肽,3,V,P,2,0.30103,Milk (bovine casein),Cushman and Cheung (1971),,,2 μM,否,PAV,22,3,是
+6439,small,VAP,三肽,3,V,P,2,0.30103,A-casein,,,,2 μM,否,PAV,22,3,是
+3760,small,VAP,三肽,3,V,P,18.6,1.26951,Grass carp,"Wu J et al., 2002","UF, RP-HPLC",,18.6 μM,否,PAV,22,3,是
+2256,small,VAP,三肽,3,V,P,260,2.41497,Milk derived,,,,260 μM,否,PAV,22,3,是
+5255,small,VAV,三肽,3,V,V,260,2.41497,,,,,260 μM,是,VAV,7,1,否
+6052,small,VAV,三肽,3,V,V,260,2.41497,Milk (human casein),Kasahara and Ashihara (1981),,,260 μM,是,VAV,7,1,否
+6622,small,VAV,三肽,3,V,V,260,2.41497,,,,,260 μM,是,VAV,7,1,否
+5545,small,VAW,三肽,3,V,W,2.86,0.456366,Egg (Hen egg white),Cushman and Cheung (1971),"RP-HPLC, UPLC–MS/MS",,2.86 μM,否,WAV,1,1,否
+5256,small,VAY,三肽,3,V,Y,16,1.20412,,,,,16 μM,否,YAV,6,1,否
+5806,small,VAY,三肽,3,V,Y,16,1.20412,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,16 μM,否,YAV,6,1,否
+6463,small,VAY,三肽,3,V,Y,16,1.20412,Alpha-zein,,,,16 μM,否,YAV,6,1,否
+5103,small,VDF,三肽,3,V,F,6.59,0.818885,Egg (cooked egg protein),,"CEC, GF, LC-MS",,6.59 μM,否,FDV,3,1,否
+2262,small,VFK,三肽,3,V,K,1029,3.01242,Milk derived,,,,1029 μM,否,KFV,5,1,否
+5129,small,VFK,三肽,3,V,K,1029,3.01242,Casein β-lg f,Vermeirssen et al.,"SDS-PAGE, RP-HPLC",,1029 μM,否,KFV,5,1,否
+6499,small,VFK,三肽,3,V,K,1029,3.01242,Whey protein,,,,1029 μM,否,KFV,5,1,否
+1113,small,VIF,三肽,3,V,F,7.5,0.875061,Fish (Sea bream scale),Cushman and Cheung (1971),"GF, IEC, RP-HPLC",SHR,7.5 μM,是,FIV,4,1,否
+1982,small,VIP,三肽,3,V,P,9.2,0.963788,Soybean proteins,,,,9.2 μM,否,PIV,4,1,否
+1994,small,VIP,三肽,3,V,P,9.2,0.963788,Legume (Pea proteins),,,,9.2 μM,否,PIV,4,1,否
+1883,small,VIY,三肽,3,V,Y,4.5,0.653213,Sesame,Friedland and Silverstein (1976),"SEC, RPC",SHR,4.5 μM,否,YIV,11,2,是
+5257,small,VIY,三肽,3,V,Y,4.5,0.653213,,,,,4.5 μM,否,YIV,11,2,是
+6190,small,VIY,三肽,3,V,Y,4.5,0.653213,Sesame (Sesamum indicum),Friedland and Silverstein (1976),"GFC, RP-HPLC",,4.50 μM,否,YIV,11,2,是
+6697,small,VIY,三肽,3,V,Y,7.5,0.875061,Bulfrog (Rana catesbeiana Shaw) muscle protein,,,,7.5 μM,否,YIV,11,2,是
+1314,small,VKF,三肽,3,V,F,1029,3.01242,Whey protein (Beta Lactoglobulin),Vermeirssen et al.,"SDS-PAGE, RP-HPLC",,1029 μM,否,FKV,1,1,否
+3697,small,VKK,三肽,3,V,K,58.51,1.76723,Fresh water clam solid wastes,Cushman and Cheung (1971),"SEC, RP-HPLC",SHR,58.51 μM,否,KKV,5,2,是
+5258,small,VKK,三肽,3,V,K,1045,3.01912,,,,,1045 μM,否,KKV,5,2,是
+5739,small,VKK,三肽,3,V,K,1045,3.01912,Fresh water clam (Corbicula fluminea),Cushman and Cheung (1971),"GFC, RP-HPLC",,1045 μM,否,KKV,5,2,是
+5259,small,VKP,三肽,3,V,P,3.7,0.568202,,,,,3.7 μM,否,PKV,6,2,是
+5738,small,VKP,三肽,3,V,P,3.7,0.568202,Fresh water clam (Corbicula fluminea),Cushman and Cheung (1971),"GFC, RP-HPLC",,3.7 μM,否,PKV,6,2,是
+3696,small,VKP,三肽,3,V,P,58.51,1.76723,Fresh water clam solid wastes,Cushman and Cheung (1971),"SEC, RP-HPLC",SHR,58.51 μM,否,PKV,6,2,是
+5260,small,VLP,三肽,3,V,P,320,2.50515,,,,,320 μM,否,PLV,15,1,否
+6015,small,VLP,三肽,3,V,P,320,2.50515,Milk (human β casein),Kasahara and Ashihara (1981),,,320 μM,否,PLV,15,1,否
+6317,small,VLP,三肽,3,V,P,320,2.50515,Human (Human Beta Casein),,,,320 μM,否,PLV,15,1,否
+6840,small,VLP,三肽,3,V,P,320,2.50515,Human (Synthetic peptide of Human beta casein),Kasahara and Ashihara (1981),"RP-HPLC, TLC, FAB-MS",,320 μM,否,PLV,15,1,否
+5101,small,VMP,三肽,3,V,P,29,1.4624,Human β-casein,Kasahara and Ashihara (1981),"RP-HPLC, TLC",,29 μM,否,PMV,6,1,否
+5261,small,VMP,三肽,3,V,P,29,1.4624,,,,,29 μM,否,PMV,6,1,否
+5990,small,VMP,三肽,3,V,P,29,1.4624,Milk (human β casein),Kasahara and Ashihara (1981),,,29 μM,否,PMV,6,1,否
+6286,small,VMP,三肽,3,V,P,29,1.4624,Human (Human Beta Casein),,,,29 μM,否,PMV,6,1,否
+6815,small,VMP,三肽,3,V,P,29,1.4624,Human (Synthetic peptide of Human beta casein),Kasahara and Ashihara (1981),"RP-HPLC, TLC, FAB-MS",,29 μM,否,PMV,6,1,否
+3755,small,VNP,三肽,3,V,P,6.4,0.80618,Cereals (rice),"Chen, J., Wang, Y., Zhong, Q., Wu, Y., & Xia, W. (","UF, RP-HPLC",SHR,6.4 μM,否,PNV,3,1,否
+6482,small,VPK,三肽,3,V,K,0,,Whey protein,,,,0 μM,否,KPV,1,1,否
+1275,small,VPP,三肽,3,V,P,9,0.954243,Cereals (Rye),Cushman and Cheung (1971),"UF, LC-MS",SHR,9 μM,否,PPV,28,2,是
+1671,small,VPP,三肽,3,V,P,9,0.954243,Casein,,Enzymatic Hydrolysis of milk proteins,SHR,9 μM,否,PPV,28,2,是
+1711,small,VPP,三肽,3,V,P,9,0.954243,Fermentation with L. helveticus and S. cerevisiae,Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,9 μM,否,PPV,28,2,是
+2244,small,VPP,三肽,3,V,P,9,0.954243,Milk derived,,,,9 μM,否,PPV,28,2,是
+2971,small,VPP,三肽,3,V,P,9,0.954243,Milk,,,,9 μM,否,PPV,28,2,是
+3628,small,VPP,三肽,3,V,P,9,0.954243,Cheese (Swiss),Cushman and Cheung (1971),"HPLC, LC-MS",,9 μM,否,PPV,28,2,是
+4963,small,VPP,三肽,3,V,P,9,0.954243,Casein (Β-casein),Cushman and Cheung (1971),HPLC,SHR,9 μM,否,PPV,28,2,是
+5125,small,VPP,三肽,3,V,P,9,0.954243,Casein β-lg f,Cushman and Cheung (1971),HPLC,SHR,9 μM,否,PPV,28,2,是
+5262,small,VPP,三肽,3,V,P,9,0.954243,,,,,9 μM,否,PPV,28,2,是
+5515,small,VPP,三肽,3,V,P,9,0.954243,Casein,,,,9 μM,否,PPV,28,2,是
+5572,small,VPP,三肽,3,V,P,9,0.954243,Casein (Beta Casein),,,,9 μM,否,PPV,28,2,是
+6092,small,VPP,三肽,3,V,P,9,0.954243,Milk (sour milk),Cushman and Cheung (1971),"GFC, RP-HPLC, UF",,9 μM,否,PPV,28,2,是
+6442,small,VPP,三肽,3,V,P,9,0.954243,Sour milk,,,,9 μM,否,PPV,28,2,是
+2740,small,VPP,三肽,3,V,P,9.13,0.960471,Milk (Skimmed milk),Cushman and Cheung (1971),RP-HPLC,SHR,9.13 μM,否,PPV,28,2,是
+1985,small,VRF,三肽,3,V,F,1.3,0.113943,Soybean proteins,,,,1.3 μM,否,FRV,1,1,否
+5263,small,VRK,三肽,3,V,K,700,2.8451,,,,,700 μM,否,KRV,3,1,否
+5749,small,VRK,三肽,3,V,K,700,2.8451,Hard clam (Meretrix lusoria),Cushman and Cheung (1971),"GFC, RP-HPLC",,700 μM,否,KRV,3,1,否
+1248,small,VRL,三肽,3,V,L,208.6,2.31931,Sweet-potato tuber trypsin inhibitor,"TLC (Holmquist et al., 1979)",TrypsinSepharose-4B AC,,208.6 μM,否,LRV,2,1,否
+2264,small,VRP,三肽,3,V,P,2.2,0.342423,Milk derived,,,,2.2 μM,否,PRV,13,1,否
+2568,small,VRP,三肽,3,V,P,2.2,0.342423,Fish (Bonito bowel),"Cushman and Cheung (1971), Maruyama and Suzuki",HPLC,,2.2 μM,否,PRV,13,1,否
+5093,small,VRP,三肽,3,V,P,2.2,0.342423,Fish (Bonito bowel),Cushman and Cheung (1971),"RP-HPLC, IEC",,2.2 μM,否,PRV,13,1,否
+5264,small,VRP,三肽,3,V,P,2.2,0.342423,,,,,2.2 μM,否,PRV,13,1,否
+5665,small,VRP,三肽,3,V,P,2.2,0.342423,Fish (Bonito (Sarda bowel autolysate)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC, HIC",,2.2 μM,否,PRV,13,1,否
+6035,small,VRP,三肽,3,V,P,2.2,0.342423,Milk (human casein),Kasahara and Ashihara (1981),,,2.2 μM,否,PRV,13,1,否
+6382,small,VRP,三肽,3,V,P,2.2,0.342423,Casein (Beta Casein),,,,2.2 μM,否,PRV,13,1,否
+5265,small,VSP,三肽,3,V,P,10,1,,,,,10 μM,否,PSV,10,2,是
+5802,small,VSP,三肽,3,V,P,10,1,Cereals (Maize (Zea mays)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,10 μM,否,PSV,10,2,是
+6455,small,VSP,三肽,3,V,P,10,1,Alpha-zein,,,,10 μM,否,PSV,10,2,是
+5872,small,VSP,三肽,3,V,P,21.8,1.33846,Milk (bovine lactoglobulin),Cushman and Cheung (1971),,,21.8 μM,否,PSV,10,2,是
+1218,small,VSV,三肽,3,V,V,0.15,-0.823909,Rapeseed (Canola meal defatted),"HPLC method by Wu,Aluko and Muir",GPC,,0.15 μM,是,VSV,3,1,否
+1987,small,VSV,三肽,3,V,V,0.15,-0.823909,Rapeseed (Canola meal defatted),"HPLC method by Wu,Aluko and Muir",GPC,,0.15 μM,是,VSV,3,1,否
+2912,small,VSV,三肽,3,V,V,0.15,-0.823909,Rapeseed (Canola meal defatted),"HPLC method by Wu,Aluko and Muir",GPC,,0.15 μM,是,VSV,3,1,否
+1904,small,VVW,三肽,3,V,W,22,1.34242,Cereals (Rice-koji),Cushman and Cheung (1971),"IEC, SEC, RPC",,22 μM,否,WVV,1,1,否
+2584,small,VVY,三肽,3,V,Y,22,1.34242,Cereals (rice),Modified Lieberman’s method,RP-HPLC,,22 μM,否,YVV,4,1,否
+5266,small,VVY,三肽,3,V,Y,22,1.34242,,,,,22 μM,否,YVV,4,1,否
+6144,small,VVY,三肽,3,V,Y,22,1.34242,Cereals (Rice (Oryza sativa red-mold rice)),Cushman and Cheung (1971),"GFC, IEC, RP-HPLC",,22 μM,否,YVV,4,1,否
+3756,small,VWP,三肽,3,V,P,4.5,0.653213,Cereals (rice),"Chen, J., Wang, Y., Zhong, Q., Wu, Y., & Xia, W. (","UF, RP-HPLC",SHR,4.5 μM,否,PWV,1,1,否
+5267,small,VWY,三肽,3,V,Y,9.4,0.973128,,,,,9.4 μM,否,YWV,6,1,否
+6148,small,VWY,三肽,3,V,Y,9.4,0.973128,Cereals (Sake (Japanese alcoholic beverage made from rice)),Cushman and Cheung (1971),RP-HPLC,,9.4 μM,否,YWV,6,1,否
+6406,small,VWY,三肽,3,V,Y,9.4,0.973128,Sake and sake lees,,,,9.4 μM,否,YWV,6,1,否
+5268,small,VYP,三肽,3,V,P,44,1.64345,,,,,44 μM,否,PYV,19,3,是
+5908,small,VYP,三肽,3,V,P,44,1.64345,"Milk (bovine, buffalo and ovine β-casein)",Kasahara and Ashihara (1981),,,44 μM,否,PYV,19,3,是
+1726,small,VYP,三肽,3,V,P,288,2.45939,Enzymatic-hydrolysis (Hydrolysis with proteinase K),Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,288 μM,否,PYV,19,3,是
+2260,small,VYP,三肽,3,V,P,288,2.45939,Milk derived,,,,288 μM,否,PYV,19,3,是
+2581,small,VYP,三肽,3,V,P,288,2.45939,Cheese whey protein,Yamamoto et al.,"RP-HPLC, GF",SHR,288 μM,否,PYV,19,3,是
+5949,small,VYP,三肽,3,V,P,288,2.45939,Milk (cheese whey),,"GFC, RP-HPLC, HIC",,288 μM,否,PYV,19,3,是
+6424,small,VYP,三肽,3,V,P,288,2.45939,Whey protein,,,,288 μM,否,PYV,19,3,是
+3759,small,VYP,三肽,3,V,P,288.4,2.46,Cheese,Cushman and Cheung (1971),"Spectrophotometric, HPLC, UPLC",SHR,288.4 μM,否,PYV,19,3,是
+2836,small,WLP,三肽,3,W,P,400,2.60206,Synthesized,,,,400 μM,是,PLW,1,1,否
+5091,small,WYS,三肽,3,W,S,500,2.69897,Casein β-lg f,Cushman and Cheung (1971),,,500 μM,否,SYW,1,1,否
+6634,small,YGG,三肽,3,Y,G,1001,3.00043,,,,,1001 μM,是,GGY,6,1,否
+1328,small,YGL,三肽,3,Y,L,409,2.61172,Alpha-Lactoglobulin,Vermeirssen et al.,"SDS-PAGE, RP-HPLC",,409 μM,否,LGY,7,1,否
+2251,small,YGL,三肽,3,Y,L,409,2.61172,Milk derived,,,,409 μM,否,LGY,7,1,否
+5128,small,YGL,三肽,3,Y,L,409,2.61172,Casein α-la f,Vermeirssen et al.,"SDS-PAGE, RP-HPLC",,409 μM,否,LGY,7,1,否
+6480,small,YGL,三肽,3,Y,L,409,2.61172,Whey protein,,,,409 μM,否,LGY,7,1,否
+2839,small,YKW,三肽,3,Y,W,13.3,1.12385,Synthesized,,,,13.3 μM,否,WKY,1,1,否
+6638,small,YKY,三肽,3,Y,Y,43.5,1.63849,,,,,43.5 μM,是,YKY,1,1,否
+6642,small,YNK,三肽,3,Y,K,125,2.09691,,,,,125 μM,否,KNY,1,1,否
+6452,small,YPR,三肽,3,Y,R,16.5,1.21748,Sake and sake lees,,,,16.5 μM,否,RPY,3,1,否
+1926,small,YQY,三肽,3,Y,Y,4,0.60206,Cereals (Buckwheat),Modified Lieberman’s method,"SEC, RPC",SHR,4 μM,是,YQY,4,1,否
+5120,small,YQY,三肽,3,Y,Y,4,0.60206,Cereals (Buckwheat),Modified Lieberman’s method,"GPC, HPLC",SHR,4 μM,是,YQY,4,1,否
+6537,small,YQY,三肽,3,Y,Y,4,0.60206,Cereals (Finnish),,,,4 μM,是,YQY,4,1,否
+2255,small,YVP,三肽,3,Y,P,200,2.30103,Milk derived,,,,200 μM,否,PVY,7,1,否
+5269,small,YVP,三肽,3,Y,P,200,2.30103,,,,,200 μM,否,PVY,7,1,否
+6034,small,YVP,三肽,3,Y,P,200,2.30103,Milk (human casein),Kasahara and Ashihara (1981),,,200 μM,否,PVY,7,1,否
+6621,small,YVP,三肽,3,Y,P,200,2.30103,,,,,200 μM,否,PVY,7,1,否
