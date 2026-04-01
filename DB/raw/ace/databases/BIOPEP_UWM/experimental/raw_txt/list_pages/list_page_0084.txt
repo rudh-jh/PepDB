@@ -1,0 +1,193 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 84
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=83bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+3966
+VYQHQKAMKPWIQPKTKVIPY
+2584.0820
+2582.4152
+0.00 EC_50
+Peptide
+Data
+3967
+FLSFPTTKTYFPHFDLSHGSAQVKGHGAK
+3206.5566
+3204.6095
+0.00 EC_50
+Peptide
+Data
+3968
+FLSFPTTKTYFPHFDLSHGSAQVKGHGAK
+3206.5566
+3204.6095
+0.00 EC_50
+Peptide
+Data
+3969
+RADHPF
+741.7927
+741.3548
+0.00 EC_50
+Peptide
+Data
+3970
+ACE inhibitor (fragment of alpha-lactalbumin: 104-108)
+WLAHK
+653.7704
+653.3639
+77.00 IC_50
+Peptide
+Data
+3971
+ACE inhibitor (fragment of bovine a-La)
+VGINYWLAHK
+1200.3848
+1199.6432
+327.00 IC_50
+Peptide
+Data
+3973
+ACE inhibitor (from bovine a-La)
+YGL
+351.3965
+351.1788
+409.00 IC_50
+Peptide
+Data
+3974
+ACE inhibitor
+YGLVAGTW
+865.9692
+865.4320
+0.00 IC_50
+Peptide
+Data
+3975
+ACE inhibitor
+VPK
+342.4326
+342.2260
+0.00 IC_50
+Peptide
+Data
+3976
+ACE inhibitor
+LAMA
+404.5246
+404.2086
+1062.00 IC_50
+Peptide
+Data
+3977
+ACE inhibitor
+LDAQSAPLR
+970.0783
+969.5227
+635.00 IC_50
+Peptide
+Data
+3978
+ACE inhibitor
+CMENSA
+653.7267
+653.2140
+788.00 IC_50
+Peptide
+Data
+3979
+ACE inhibitor
+VLDTDYK
+852.9258
+852.4214
+946.00 IC_50
+Peptide
+Data
+3980
+ACE inhibitor
+VAGTW
+532.5879
+532.2637
+534.00 IC_50
+Peptide
+Data
+3982
+fragment 222-230 of bovine lactoferrin
+ADRDQYELL
+1122.1824
+1121.5335
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

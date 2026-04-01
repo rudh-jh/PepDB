@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 163
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=162bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+8168
+peptide derived from κappa-casein (109-111)
+PPK
+340.4168
+340.2104
+0.00 EC_50
+Peptide
+Data
+8169
+ACE inhibitor
+GPVRGPFPII
+1052.2661
+1051.6160
+0.00 IC_50
+Peptide
+Data
+8170
+peptide derived from bovine aS2-casein (1-32)
+KNTMEHVSSSEESIISQETYKQEKNMAINPSK
+3669.0061
+3666.7446
+0.00 EC_50
+Peptide
+Data
+8171
+Isracidin - peptide derived from alphaS1-casein (1-23)
+RPKHPIKHQGLPQEVLNENLLRF
+2764.1833
+2762.5411
+0.00 EC_50
+Peptide
+Data
+8172
+peptide derived from bovine alphaS1-casein (194-199)
+TTMPLW
+747.9008
+747.3613
+0.00 EC_50
+Peptide
+Data
+8173
+peptide derived from bovine b-casein (1-28)
+RELEELNVPGEIVESLSSSEESITRINK
+3158.4179
+3156.6096
+0.00 EC_50
+Peptide
+Data
+8174
+peptide derived from bovine b-casein (1-28)
+LLYQEPVLGPVRGPFPIIV
+2107.5295
+2106.2203
+0.00 EC_50
+Peptide
+Data
+8175
+bovine lactoferricin B
+FKCRRWQWRMKKLGAPSITCVRRAF
+3125.7832
+3123.6738
+0.00 EC_50
+Peptide
+Data
+8176
+peptide derived from ovine colostral whey
+VESYVPLFP
+1050.2008
+1049.5415
+0.00 EC_50
+Peptide
+Data
+8177
+tuftsin (human Fc region of IgG)
+YKPR
+562.6600
+562.3218
+0.00 EC_50
+Peptide
+Data
+8178
+peptide derived from ovine aS2-casein (203–208)
+PYVRYL
+809.9490
+809.4422
+0.00 EC_50
+Peptide
+Data
+8179
+Peptide derived from ovine alpha S2-casein (165–170)
+LKKISQ
+715.8792
+715.4578
+2.60 IC_50
+Peptide
+Data
+8180
+peptide derived from bovine kappa-casein (28-30)
+IQY
+422.4742
+422.2158
+70.40 IC_50
+Peptide
+Data
+8181
+ACE inhibitor
+FSDKIAK
+807.9315
+807.4476
+113.60 IC_50
+Peptide
+Data
+8182
+ACE Inhibitor
+ALEP
+428.4787
+428.2263
+6320.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 163 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

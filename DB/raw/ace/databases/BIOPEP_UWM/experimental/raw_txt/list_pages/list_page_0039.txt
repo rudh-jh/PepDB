@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 39
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=38bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+3194
+Hemolytic peptide
+FLPAIAGILSQLF~
+1388.6909
+1387.8202
+0.00 EC_50
+Peptide
+Data
+3195
+Precursor of hemolytic peptide
+FLPLAIGLLGKLFG
+1458.8234
+1457.8982
+0.00 EC_50
+Peptide
+Data
+3196
+Hemolytic peptide
+FLPLILRKIVTAL~
+1495.9310
+1494.9984
+0.00 EC_50
+Peptide
+Data
+3197
+Precursor of hemolytic peptide
+FLPLILRKIVTALG
+1553.9670
+1553.0038
+0.00 EC_50
+Peptide
+Data
+3198
+Antiviral peptide
+GICACRRRFCPNSERFSGYCRVNGARYVRCCSRR
+4003.6299
+4000.8705
+0.00 EC_50
+Peptide
+Data
+3199
+chymotrypsin inhibitor
+PGVY
+434.4849
+434.2158
+0.00 EC_50
+Peptide
+Data
+3200
+chymotrypsin inhibitor
+PGAY
+406.4319
+406.1846
+0.00 EC_50
+Peptide
+Data
+3201
+chymotrypsin inhibitor
+GAW
+332.3536
+332.1480
+0.00 EC_50
+Peptide
+Data
+3202
+Chymosin inhibitor (fr. 99-105 of bovine kappa-casein)
+TPGVY
+535.5885
+535.2633
+0.00 EC_50
+Peptide
+Data
+3203
+Chymosin inhibitor (fr. 99-105 of bovine kappa-casein)
+PHPHLSF
+833.9308
+833.4172
+0.00 EC_50
+Peptide
+Data
+3204
+Precursor of cecropin D from Cecropia (moth)
+WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAKG
+3850.3732
+3848.0996
+0.00 EC_50
+Peptide
+Data
+3205
+Cecropin D from Cecropia (moth)
+WNPFKELEKVGQRVRDAVISAGPAVATVAQATALAK~
+3792.3372
+3790.0942
+0.00 EC_50
+Peptide
+Data
+3206
+Precursor of cecropin B from Cecropia (moth)
+KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKALG
+3892.6949
+3890.2852
+0.00 EC_50
+Peptide
+Data
+3207
+cecropin B from Cecropia (moth)
+KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL~
+3834.6589
+3832.2798
+0.00 EC_50
+Peptide
+Data
+3208
+cecropin B analog (CB-3)
+AIAVLGEAKALMGRNIRNGIVKAGPAIAVLGEAKALG
+3614.3011
+3612.0961
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

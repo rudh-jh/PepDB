@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 372
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=371bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+11304
+Pancreatic elastase inhibitor
+PGAAGLKGDR
+941.0405
+940.5075
+0.00 IC_50
+Peptide
+Data
+11305
+Pancreatic elastase inhibitor
+NGTPGAMGPR
+957.0643
+956.4484
+0.00 IC_50
+Peptide
+Data
+11306
+Pancreatic elastase inhibitor
+KKHVWFGE
+1030.1764
+1029.5380
+0.00 EC_50
+Peptide
+Data
+11307
+Stimulator of insulin secretion
+IPVP
+424.5329
+424.2677
+0.00 EC_50
+Peptide
+Data
+11308
+Stimulator of insulin secretion
+LPIA
+412.5222
+412.2677
+0.00 EC_50
+Peptide
+Data
+11309
+Anti-inflammatory peptide
+QEPVLGPVRGPFP
+1392.5971
+1391.7538
+0.00 EC_50
+Peptide
+Data
+11310
+Anti-inflammatory peptide
+VYPFPGPIPN
+1100.2627
+1099.5684
+0.00 EC_50
+Peptide
+Data
+11311
+ACE inhibitor
+VYPFPGPIPN
+1100.2627
+1099.5684
+0.00 IC_50
+Peptide
+Data
+11312
+Antioxidative peptide
+VYPFPGPIPN
+1100.2627
+1099.5684
+0.00 EC_50
+Peptide
+Data
+11313
+ACE inhibitor
+VSK
+332.3948
+332.2053
+13.80 IC_50
+Peptide
+Data
+11314
+ACE inhibitor
+ITH
+369.4150
+369.2006
+28.77 IC_50
+Peptide
+Data
+11315
+ACE inhibitor
+VEP
+343.3745
+343.1737
+40.88 IC_50
+Peptide
+Data
+11316
+ACE inhibitor
+QSE
+362.3349
+362.1432
+41.21 IC_50
+Peptide
+Data
+11317
+ACE inhibitor
+VES
+333.3367
+333.1530
+83.18 IC_50
+Peptide
+Data
+11318
+ACE inhibitor
+SI
+218.2495
+218.1262
+188.30 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 372 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

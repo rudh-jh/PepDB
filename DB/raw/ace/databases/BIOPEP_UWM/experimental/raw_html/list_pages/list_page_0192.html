@@ -1,0 +1,276 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+//document.onkeydown = keyDown 
+
+function oki(msg,msg1,msg2) { //v1.0
+  //alert(msg);
+var keycode = event.keyCode
+
+	var realkey = String.fromCharCode(event.keyCode)
+	//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+	if (keycode==13 || (typeof keycode == "undefined")){
+ // alert(msg);
+  var text,adres,adres2,text2,text3,text4;
+  text=document.fm_raporty.elements["textfield"].value
+  text4=msg
+//    text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+		alert(text2)
+		adres=msg
+		}
+if (adres<0) {
+		alert(text3)
+		adres=msg		
+		}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+
+  document.forms['fm_raporty1'].submit();
+}
+//-->
+</script>
+</head>
+
+<body>
+<div align="center">
+  <p class="nag1">BIOPEP-UWM: Bioactive peptides</p>
+</div>
+  <form action="rec_pro1.php" method="get" name="fm_raporty1"> 
+	    <input type="image" src="images/button0_normal.gif" onClick="submitform()" value="ANALYSIS">
+  </form>
+<table width="95%" border="0" cellpadding="3" cellspacing="0" class="table-out">
+  <tr class="infobold"> 
+    <td colspan="6">Number of peptides in database: <span class="info">5601&nbsp;</span></td>
+  </tr>
+  <tr class="infobold"> 
+    <td bgcolor="#eeeeff">&nbsp;</td>
+    <td bgcolor="#eeeeff">ID</td>
+    <td bgcolor="#eeeeff">Name</td>
+    <td bgcolor="#eeeeff">Sequence</td>
+    <td bgcolor="#eeeeff">Chem. mass</td>
+    <td bgcolor="#eeeeff">Monois. mass</td>
+	<td bgcolor="#eeeeff"></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8604">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8604</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRR</td>
+    <td nowrap>516.5951</td>
+    <td nowrap>516.2914</td>
+	<td nowrap>570.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8605">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8605</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRY</td>
+    <td nowrap>523.5828</td>
+    <td nowrap>523.2536</td>
+	<td nowrap>640.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8606">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8606</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRH</td>
+    <td nowrap>497.5489</td>
+    <td nowrap>497.2493</td>
+	<td nowrap>670.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8607">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8607</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRM</td>
+    <td nowrap>491.6067</td>
+    <td nowrap>491.2308</td>
+	<td nowrap>673.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8608">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8608</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRA</td>
+    <td nowrap>431.4876</td>
+    <td nowrap>431.2275</td>
+	<td nowrap>690.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8609">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8609</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRQ</td>
+    <td nowrap>488.5388</td>
+    <td nowrap>488.2489</td>
+	<td nowrap>720.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8610">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8610</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRI</td>
+    <td nowrap>473.5671</td>
+    <td nowrap>473.2743</td>
+	<td nowrap>730.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8611">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8611</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRP</td>
+    <td nowrap>457.5248</td>
+    <td nowrap>457.2431</td>
+	<td nowrap>780.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8612">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8612</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>WRL</td>
+    <td nowrap>473.5671</td>
+    <td nowrap>473.2743</td>
+	<td nowrap>903.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8613">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8613</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>IPIQY</td>
+    <td nowrap>632.7463</td>
+    <td nowrap>632.3522</td>
+	<td nowrap>35.20 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8614">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8614</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>LPYPY</td>
+    <td nowrap>651.7480</td>
+    <td nowrap>651.3257</td>
+	<td nowrap>108.30 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8615">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8615</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>YPYY</td>
+    <td nowrap>604.6488</td>
+    <td nowrap>604.2524</td>
+	<td nowrap>149.40 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8616">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8616</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>LPL</td>
+    <td nowrap>341.4445</td>
+    <td nowrap>341.2307</td>
+	<td nowrap>241.40 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8617">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8617</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>YPY</td>
+    <td nowrap>441.4759</td>
+    <td nowrap>441.1893</td>
+	<td nowrap>243.70 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=8618">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>8618</td>
+    <td nowrap>dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)</td>
+    <td nowrap>LPLPL</td>
+    <td nowrap>551.7166</td>
+    <td nowrap>551.3671</td>
+	<td nowrap>325.00 IC<sub>50</sub></td>
+  </tr>
+  </table>
+<form action="peptide_data.php" method="get" name="fm_raporty">
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=0ddd">First</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=190ccc">Previous</a></td>
+    <td>Page:</td>
+    <td><input name="textfield" type="text" class="info" onKeyPress="javascript:oki(192,5601,374)" size="3" maxlength="4"></td>
+    <td><input name="button1" type="image" src="images/ok0_normal.gif" onClick="javascript:oki(192,5601,374)" value="OK"></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=192bbb">Next</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=373aaa">Last</a></td>
+  </tr>
+</table>
+ <div align="center"><span class="infoitalic">Page 192 / 374</span></div> 
+<input name="pageNum_result1" type="hidden" >
+<input name="totalRows_result1" type="hidden" >
+</form>
+<form action="peptide_data_search.php" method="get" name="fm_search" >
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td>Search:</td>
+    <td><input name="txt_search" type="text" class="info" size="30" maxlength="30"></td>
+    <td>by:</td>
+    <td><select name="menu_search">
+      <option value="idsearch">ID</option>
+	  <option value="name">Name</option>
+      <option value="activity">Activity</option>
+      <option value="reference">Reference</option>
+	  <option value="sequence">Sequence</option>
+	  <option value="numberof">Number of amino ...</option>
+	  <option value="mass">Mass</option>
+	  <option value="inchik">InChIKey</option>
+    </select></td>
+    <td><input name="button12" type="image" src="images/go0_normal.gif" value="GO" onClick="this.form.submit()"></td>
+	<td><input type="checkbox" name="exact" value="ex" /></td>
+	<td>exact</td>
+  </tr>
+</table>
+<div align="center"><span class="info"> ID (e.g. 2572)<br>
+    Name (e.g. lactorphin)<br>
+    Activity (e. g. antioxidative) <a href="activity_dic_list.php" target="_blank">List of activities</a><br>
+    Mass (e.g. 700-1200)<br>
+    Reference (e.g. Meisel)<br>
+    Sequence (e.g. IPP)<br>
+    Number of residues (e.g. 2)<br>
+	InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)<br>
+    </span> </div>
+</form>
+</body>
+</html>
+

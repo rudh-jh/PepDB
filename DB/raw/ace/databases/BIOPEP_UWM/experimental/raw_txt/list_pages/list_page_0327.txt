@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 327
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=326bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10629
+Glutamate carboxypeptidase II inhibitor
+{C2:0}ED
+304.2527
+304.0902
+0.00 IC_50
+Peptide
+Data
+10630
+Glutamate carboxypeptidase II inhibitor
+{C2:0}EE
+318.2792
+318.1058
+0.00 IC_50
+Peptide
+Data
+10631
+Glutamate carboxypeptidase II inhibitor
+{C2:0}DE
+304.2527
+304.0902
+0.00 IC_50
+Peptide
+Data
+10632
+ACE2 inhibitor
+IPP
+325.4022
+325.1995
+0.00 IC_50
+Peptide
+Data
+10633
+ACE2 inhibitor
+LPP
+325.4022
+325.1995
+0.00 IC_50
+Peptide
+Data
+10634
+ACE2 inhibitor
+VPP
+311.3757
+311.1839
+0.00 IC_50
+Peptide
+Data
+10635
+Glutamate carboxypeptidase II inhibitor
+AE
+218.2066
+218.0899
+0.00 IC_50
+Peptide
+Data
+10636
+Glutamate carboxypeptidase II inhibitor
+DA
+204.1801
+204.0743
+0.00 IC_50
+Peptide
+Data
+10637
+Glutamate carboxypeptidase II inhibitor
+DD
+248.1896
+248.0641
+0.00 IC_50
+Peptide
+Data
+10638
+Glutamate carboxypeptidase II inhibitor
+DE
+262.2161
+262.0797
+0.00 EC_50
+Peptide
+Data
+10639
+Glutamate carboxypeptidase II inhibitor
+DF
+280.2759
+280.1055
+0.00 IC_50
+Peptide
+Data
+10640
+Glutamate carboxypeptidase II inhibitor
+ee
+276.2426
+276.0953
+0.00 IC_50
+Peptide
+Data
+10641
+Glutamate carboxypeptidase II inhibitor
+{E;5}E
+276.2426
+276.0953
+0.00 IC_50
+Peptide
+Data
+10642
+Glutamate carboxypeptidase II inhibitor
+ED
+262.2161
+262.0797
+0.00 IC_50
+Peptide
+Data
+10643
+Glutamate carboxypeptidase II inhibitor
+EE
+276.2426
+276.0953
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 327 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

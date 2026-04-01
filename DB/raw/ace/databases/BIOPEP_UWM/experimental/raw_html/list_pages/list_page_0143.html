@@ -1,0 +1,276 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+//document.onkeydown = keyDown 
+
+function oki(msg,msg1,msg2) { //v1.0
+  //alert(msg);
+var keycode = event.keyCode
+
+	var realkey = String.fromCharCode(event.keyCode)
+	//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+	if (keycode==13 || (typeof keycode == "undefined")){
+ // alert(msg);
+  var text,adres,adres2,text2,text3,text4;
+  text=document.fm_raporty.elements["textfield"].value
+  text4=msg
+//    text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+		alert(text2)
+		adres=msg
+		}
+if (adres<0) {
+		alert(text3)
+		adres=msg		
+		}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+
+  document.forms['fm_raporty1'].submit();
+}
+//-->
+</script>
+</head>
+
+<body>
+<div align="center">
+  <p class="nag1">BIOPEP-UWM: Bioactive peptides</p>
+</div>
+  <form action="rec_pro1.php" method="get" name="fm_raporty1"> 
+	    <input type="image" src="images/button0_normal.gif" onClick="submitform()" value="ANALYSIS">
+  </form>
+<table width="95%" border="0" cellpadding="3" cellspacing="0" class="table-out">
+  <tr class="infobold"> 
+    <td colspan="6">Number of peptides in database: <span class="info">5601&nbsp;</span></td>
+  </tr>
+  <tr class="infobold"> 
+    <td bgcolor="#eeeeff">&nbsp;</td>
+    <td bgcolor="#eeeeff">ID</td>
+    <td bgcolor="#eeeeff">Name</td>
+    <td bgcolor="#eeeeff">Sequence</td>
+    <td bgcolor="#eeeeff">Chem. mass</td>
+    <td bgcolor="#eeeeff">Monois. mass</td>
+	<td bgcolor="#eeeeff"></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7868">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7868</td>
+    <td nowrap>peptide from Okara protein</td>
+    <td nowrap>ADF</td>
+    <td nowrap>351.3536</td>
+    <td nowrap>351.1425</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7869">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7869</td>
+    <td nowrap>peptide from Okara protein</td>
+    <td nowrap>SDF</td>
+    <td nowrap>367.3530</td>
+    <td nowrap>367.1374</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7870">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7870</td>
+    <td nowrap>peptide from sauce of blue mussel (Mytilus edulis)</td>
+    <td nowrap>FGHPY</td>
+    <td nowrap>619.6667</td>
+    <td nowrap>619.2746</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7871">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7871</td>
+    <td nowrap>peptide from soybean protein isolate: b-conglycinin</td>
+    <td nowrap>TTYY</td>
+    <td nowrap>546.5682</td>
+    <td nowrap>546.2317</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7872">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7872</td>
+    <td nowrap>peptide from soybean protein isolates: beta-conglycinin and glycinin</td>
+    <td nowrap>LY</td>
+    <td nowrap>294.3453</td>
+    <td nowrap>294.1574</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7873">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7873</td>
+    <td nowrap>peptide from soybean protein isolates: beta-conglycinin and glycinin</td>
+    <td nowrap>IY</td>
+    <td nowrap>294.3453</td>
+    <td nowrap>294.1574</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7874">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7874</td>
+    <td nowrap>peptide from rice endosperm protein hydrolysate</td>
+    <td nowrap>KHNRGDEF</td>
+    <td nowrap>1002.0392</td>
+    <td nowrap>1001.4665</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7875">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7875</td>
+    <td nowrap>peptide derived from bovine beta-casein (177-183)</td>
+    <td nowrap>AVPYPQR</td>
+    <td nowrap>829.9404</td>
+    <td nowrap>829.4433</td>
+	<td nowrap>0.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7876">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7876</td>
+    <td nowrap>Lipoxygenase inhibitor from bovine beta-casein (169-176)</td>
+    <td nowrap>KVLPVPQK</td>
+    <td nowrap>908.1361</td>
+    <td nowrap>907.5837</td>
+	<td nowrap>0.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7877">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7877</td>
+    <td nowrap>peptide derived from bovine beta-casein (170-176)</td>
+    <td nowrap>VLPVPQK</td>
+    <td nowrap>779.9643</td>
+    <td nowrap>779.4890</td>
+	<td nowrap>0.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7878">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7878</td>
+    <td nowrap>peptide from b-casein (ovine milk)</td>
+    <td nowrap>YQEP</td>
+    <td nowrap>535.5456</td>
+    <td nowrap>535.2270</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7879">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7879</td>
+    <td nowrap>peptide from b-casein (ovine and caprine milk)</td>
+    <td nowrap>YQEPVLGP</td>
+    <td nowrap>901.9996</td>
+    <td nowrap>901.4530</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7880">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7880</td>
+    <td nowrap>peptide from actin, pork muscles</td>
+    <td nowrap>DSGVT</td>
+    <td nowrap>477.4650</td>
+    <td nowrap>477.2063</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7881">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7881</td>
+    <td nowrap>peptide from myofibrillar protein, pork muscles</td>
+    <td nowrap>IEAEGE</td>
+    <td nowrap>646.6424</td>
+    <td nowrap>646.2799</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7882">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7882</td>
+    <td nowrap>peptide from tropomyosin, pork muscles</td>
+    <td nowrap>DAQEKLE</td>
+    <td nowrap>831.8654</td>
+    <td nowrap>831.3960</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+  </table>
+<form action="peptide_data.php" method="get" name="fm_raporty">
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=0ddd">First</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=141ccc">Previous</a></td>
+    <td>Page:</td>
+    <td><input name="textfield" type="text" class="info" onKeyPress="javascript:oki(143,5601,374)" size="3" maxlength="4"></td>
+    <td><input name="button1" type="image" src="images/ok0_normal.gif" onClick="javascript:oki(143,5601,374)" value="OK"></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=143bbb">Next</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=373aaa">Last</a></td>
+  </tr>
+</table>
+ <div align="center"><span class="infoitalic">Page 143 / 374</span></div> 
+<input name="pageNum_result1" type="hidden" >
+<input name="totalRows_result1" type="hidden" >
+</form>
+<form action="peptide_data_search.php" method="get" name="fm_search" >
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td>Search:</td>
+    <td><input name="txt_search" type="text" class="info" size="30" maxlength="30"></td>
+    <td>by:</td>
+    <td><select name="menu_search">
+      <option value="idsearch">ID</option>
+	  <option value="name">Name</option>
+      <option value="activity">Activity</option>
+      <option value="reference">Reference</option>
+	  <option value="sequence">Sequence</option>
+	  <option value="numberof">Number of amino ...</option>
+	  <option value="mass">Mass</option>
+	  <option value="inchik">InChIKey</option>
+    </select></td>
+    <td><input name="button12" type="image" src="images/go0_normal.gif" value="GO" onClick="this.form.submit()"></td>
+	<td><input type="checkbox" name="exact" value="ex" /></td>
+	<td>exact</td>
+  </tr>
+</table>
+<div align="center"><span class="info"> ID (e.g. 2572)<br>
+    Name (e.g. lactorphin)<br>
+    Activity (e. g. antioxidative) <a href="activity_dic_list.php" target="_blank">List of activities</a><br>
+    Mass (e.g. 700-1200)<br>
+    Reference (e.g. Meisel)<br>
+    Sequence (e.g. IPP)<br>
+    Number of residues (e.g. 2)<br>
+	InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)<br>
+    </span> </div>
+</form>
+</body>
+</html>
+

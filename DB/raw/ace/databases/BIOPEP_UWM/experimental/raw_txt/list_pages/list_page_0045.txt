@@ -1,0 +1,193 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 45
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=44bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+3288
+Antithrombotic peptide
+LGGAKQAGDV
+915.0000
+914.4806
+0.00 EC_50
+Peptide
+Data
+3289
+Antithrombotic peptide
+NIMEILRGDF
+1207.3968
+1206.6047
+0.00 EC_50
+Peptide
+Data
+3290
+KRDS
+504.5365
+504.2648
+0.00 EC_50
+Peptide
+Data
+3291
+bovine kappa-casein fr.113-116
+NQDK
+503.5055
+503.2332
+0.00 EC_50
+Peptide
+Data
+3292
+Antibacterial peptide
+VAIALKAAHYHTHKE
+1688.9219
+1687.9131
+0.00 EC_50
+Peptide
+Data
+3293
+bovine kappa-casein fr. 106-111
+MAIPPK
+655.8485
+655.3715
+0.00 EC_50
+Peptide
+Data
+3294
+bovine kappa-casein fr. 106-112
+MAIPPKK
+784.0203
+783.4662
+0.00 EC_50
+Peptide
+Data
+3296
+Antioxidative peptide
+HHP
+389.4081
+389.1807
+0.00 EC_50
+Peptide
+Data
+3297
+Antioxidative peptide
+YHH
+455.4661
+455.1912
+0.00 EC_50
+Peptide
+Data
+3298
+Antioxidative peptide
+HHPL
+502.5653
+502.2645
+0.00 EC_50
+Peptide
+Data
+3299
+Antioxidative peptide
+LHPH
+502.5653
+502.2645
+0.00 EC_50
+Peptide
+Data
+3300
+Antioxidative peptide
+PHH
+389.4081
+389.1807
+0.00 EC_50
+Peptide
+Data
+3301
+HLH
+405.4504
+405.2119
+0.00 EC_50
+Peptide
+Data
+3302
+LHH
+405.4504
+405.2119
+0.00 EC_50
+Peptide
+Data
+3303
+HPLH
+502.5653
+502.2645
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

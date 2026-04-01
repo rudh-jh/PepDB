@@ -1,0 +1,276 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+//document.onkeydown = keyDown 
+
+function oki(msg,msg1,msg2) { //v1.0
+  //alert(msg);
+var keycode = event.keyCode
+
+	var realkey = String.fromCharCode(event.keyCode)
+	//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+	if (keycode==13 || (typeof keycode == "undefined")){
+ // alert(msg);
+  var text,adres,adres2,text2,text3,text4;
+  text=document.fm_raporty.elements["textfield"].value
+  text4=msg
+//    text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+		alert(text2)
+		adres=msg
+		}
+if (adres<0) {
+		alert(text3)
+		adres=msg		
+		}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+
+  document.forms['fm_raporty1'].submit();
+}
+//-->
+</script>
+</head>
+
+<body>
+<div align="center">
+  <p class="nag1">BIOPEP-UWM: Bioactive peptides</p>
+</div>
+  <form action="rec_pro1.php" method="get" name="fm_raporty1"> 
+	    <input type="image" src="images/button0_normal.gif" onClick="submitform()" value="ANALYSIS">
+  </form>
+<table width="95%" border="0" cellpadding="3" cellspacing="0" class="table-out">
+  <tr class="infobold"> 
+    <td colspan="6">Number of peptides in database: <span class="info">5601&nbsp;</span></td>
+  </tr>
+  <tr class="infobold"> 
+    <td bgcolor="#eeeeff">&nbsp;</td>
+    <td bgcolor="#eeeeff">ID</td>
+    <td bgcolor="#eeeeff">Name</td>
+    <td bgcolor="#eeeeff">Sequence</td>
+    <td bgcolor="#eeeeff">Chem. mass</td>
+    <td bgcolor="#eeeeff">Monois. mass</td>
+	<td bgcolor="#eeeeff"></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7317">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7317</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PFPQTQQPQ</td>
+    <td nowrap>1070.1526</td>
+    <td nowrap>1069.5176</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7318">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7318</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PHQQQQQQF</td>
+    <td nowrap>1168.2160</td>
+    <td nowrap>1167.5405</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7319">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7319</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PLPQPQQPQ</td>
+    <td nowrap>1032.1476</td>
+    <td nowrap>1031.5383</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7320">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7320</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PQPQQPQQQ</td>
+    <td nowrap>1078.1333</td>
+    <td nowrap>1077.5187</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7321">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7321</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PQPQQQLPQ</td>
+    <td nowrap>1063.1616</td>
+    <td nowrap>1062.5441</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7322">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7322</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PQQQFPQPQ</td>
+    <td nowrap>1097.1779</td>
+    <td nowrap>1096.5285</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7323">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7323</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PQQQFPQTQ</td>
+    <td nowrap>1101.1666</td>
+    <td nowrap>1100.5234</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7324">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7324</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PQQQIPQPQ</td>
+    <td nowrap>1063.1616</td>
+    <td nowrap>1062.5441</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7325">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7325</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PQQQLPQPQ</td>
+    <td nowrap>1063.1616</td>
+    <td nowrap>1062.5441</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7326">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7326</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PQTQQPQQQ</td>
+    <td nowrap>1082.1220</td>
+    <td nowrap>1081.5136</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7327">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7327</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>PQQQQPFPQ</td>
+    <td nowrap>1097.1779</td>
+    <td nowrap>1096.5285</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7328">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7328</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>QFPQPQQPQ</td>
+    <td nowrap>1097.1779</td>
+    <td nowrap>1096.5285</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7329">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7329</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>QFPQTQQPQ</td>
+    <td nowrap>1101.1666</td>
+    <td nowrap>1100.5234</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7330">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7330</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>QIPQTQQPQ</td>
+    <td nowrap>1067.1503</td>
+    <td nowrap>1066.5390</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=7331">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>7331</td>
+    <td nowrap>celiac sprue gluten epitope from gamma-gliadin</td>
+    <td nowrap>QLPFPQQPF</td>
+    <td nowrap>1101.2508</td>
+    <td nowrap>1100.5637</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+  </table>
+<form action="peptide_data.php" method="get" name="fm_raporty">
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=0ddd">First</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=106ccc">Previous</a></td>
+    <td>Page:</td>
+    <td><input name="textfield" type="text" class="info" onKeyPress="javascript:oki(108,5601,374)" size="3" maxlength="4"></td>
+    <td><input name="button1" type="image" src="images/ok0_normal.gif" onClick="javascript:oki(108,5601,374)" value="OK"></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=108bbb">Next</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=373aaa">Last</a></td>
+  </tr>
+</table>
+ <div align="center"><span class="infoitalic">Page 108 / 374</span></div> 
+<input name="pageNum_result1" type="hidden" >
+<input name="totalRows_result1" type="hidden" >
+</form>
+<form action="peptide_data_search.php" method="get" name="fm_search" >
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td>Search:</td>
+    <td><input name="txt_search" type="text" class="info" size="30" maxlength="30"></td>
+    <td>by:</td>
+    <td><select name="menu_search">
+      <option value="idsearch">ID</option>
+	  <option value="name">Name</option>
+      <option value="activity">Activity</option>
+      <option value="reference">Reference</option>
+	  <option value="sequence">Sequence</option>
+	  <option value="numberof">Number of amino ...</option>
+	  <option value="mass">Mass</option>
+	  <option value="inchik">InChIKey</option>
+    </select></td>
+    <td><input name="button12" type="image" src="images/go0_normal.gif" value="GO" onClick="this.form.submit()"></td>
+	<td><input type="checkbox" name="exact" value="ex" /></td>
+	<td>exact</td>
+  </tr>
+</table>
+<div align="center"><span class="info"> ID (e.g. 2572)<br>
+    Name (e.g. lactorphin)<br>
+    Activity (e. g. antioxidative) <a href="activity_dic_list.php" target="_blank">List of activities</a><br>
+    Mass (e.g. 700-1200)<br>
+    Reference (e.g. Meisel)<br>
+    Sequence (e.g. IPP)<br>
+    Number of residues (e.g. 2)<br>
+	InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)<br>
+    </span> </div>
+</form>
+</body>
+</html>
+

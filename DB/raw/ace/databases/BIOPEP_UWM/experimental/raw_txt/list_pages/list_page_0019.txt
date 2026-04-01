@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 19
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=18bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+2864
+beta-Casomorphin 4 (human)
+YPFV
+524.6072
+524.2626
+0.00 EC_50
+Peptide
+Data
+2865
+Human beta casomorphin 8
+YPFVEPIP
+961.1079
+960.4940
+0.00 EC_50
+Peptide
+Data
+2866
+Opioid peptide
+YGFLP
+595.6849
+595.2996
+0.00 EC_50
+Peptide
+Data
+2867
+Human beta-casomorphin 5
+YPFVE
+653.7209
+653.3050
+0.00 EC_50
+Peptide
+Data
+2868
+Beta-casomorphin 4
+YPFP
+522.5914
+522.2470
+0.00 EC_50
+Peptide
+Data
+2869
+Beta-casomorphin 8
+YPFPGPIP
+887.0296
+886.4574
+0.00 EC_50
+Peptide
+Data
+2870
+opioid peptide
+YPF
+425.4765
+425.1944
+0.00 EC_50
+Peptide
+Data
+2871
+Melanotropin potentiating peptide
+KKGE
+460.5237
+460.2637
+0.00 EC_50
+Peptide
+Data
+2872
+Opioid peptide
+NAGA
+331.3242
+331.1487
+0.00 EC_50
+Peptide
+Data
+2874
+Opioid peptide
+YIFHLMN
+937.1142
+936.4513
+0.00 EC_50
+Peptide
+Data
+2875
+Opioid peptide
+YIFHLMD
+938.0990
+937.4353
+0.00 EC_50
+Peptide
+Data
+2876
+Opioid peptide
+YAFGYPS
+803.8554
+803.3478
+0.00 EC_50
+Peptide
+Data
+2877
+opioid peptide Met-enkephalin
+YGGFM
+573.6608
+573.2249
+0.00 EC_50
+Peptide
+Data
+2878
+Leu-enkephalin-Arg
+YGGFLR
+711.8064
+711.3693
+0.00 EC_50
+Peptide
+Data
+2879
+opioid peptide Leu-enkephalin
+YGGFL
+555.6212
+555.2684
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 19 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

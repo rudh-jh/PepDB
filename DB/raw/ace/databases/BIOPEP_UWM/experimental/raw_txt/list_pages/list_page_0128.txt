@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 128
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=127bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+7642
+ACE inhibitor from porcine myosin (80-82)
+NPP
+326.3474
+326.1585
+290.50 IC_50
+Peptide
+Data
+7643
+ACE inhibitor from porcine myosin (307-309)
+TTN
+334.3248
+334.1483
+672.70 IC_50
+Peptide
+Data
+7644
+ACE inhibitor from porcine myosin (306-308)
+ITT
+333.3796
+333.1893
+678.50 IC_50
+Peptide
+Data
+7645
+ACE inhibitor from porcine myosin (981-983)
+PPK
+340.4168
+340.2104
+1001.00 IC_50
+Peptide
+Data
+7646
+ACE inhibitor from pea vicilin
+GYK
+366.4111
+366.1897
+160.00 IC_50
+Peptide
+Data
+7647
+ACE inhibitor
+YGG
+295.2905
+295.1164
+1001.00 IC_50
+Peptide
+Data
+7648
+ACE inhibitor from ovalbumin
+FCF
+415.5060
+415.1560
+11.00 IC_50
+Peptide
+Data
+7649
+ACE inhibitor from red algae
+LRY
+450.5305
+450.2583
+5.10 IC_50
+Peptide
+Data
+7650
+ACE inhibitor from red algae
+MKY
+440.5567
+440.2086
+7.30 IC_50
+Peptide
+Data
+7651
+ACE inhibitor from wakame
+YKY
+472.5328
+472.2314
+43.50 IC_50
+Peptide
+Data
+7652
+ACE inhibitor from wakame
+KFY
+456.5334
+456.2365
+45.00 IC_50
+Peptide
+Data
+7653
+ACE inhibitor from wakame
+KYY
+472.5328
+472.2314
+79.00 IC_50
+Peptide
+Data
+7654
+ACE inhibitor from wakame
+NKL
+373.4466
+373.2318
+88.00 IC_50
+Peptide
+Data
+7655
+ACE inhibitor from wakame
+YNK
+423.4623
+423.2111
+125.00 IC_50
+Peptide
+Data
+7656
+ACE inhibitor from wakame
+IYK
+422.5171
+422.2521
+177.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 128 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

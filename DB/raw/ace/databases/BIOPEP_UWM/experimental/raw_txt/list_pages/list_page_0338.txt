@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 338
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=337bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10794
+Calcium binding peptide
+EG
+204.1801
+204.0743
+0.00 EC_50
+Peptide
+Data
+10795
+Neuropeptide
+EG
+204.1801
+204.0743
+0.00 EC_50
+Peptide
+Data
+10796
+Inhibitor of tripeptidyl peptidase II
+MM
+280.4088
+280.0911
+0.00 IC_50
+Peptide
+Data
+10797
+Inhibitor of tripeptidyl peptidase II
+VV
+216.2766
+216.1469
+0.00 IC_50
+Peptide
+Data
+10798
+Inhibitor of tripeptidyl peptidase II
+MY
+312.3849
+312.1139
+0.00 EC_50
+Peptide
+Data
+10799
+Inhibitor of tripeptidyl peptidase II
+VY{~!C1}
+293.3605
+293.1734
+0.00 IC_50
+Peptide
+Data
+10800
+Inhibitor of tripeptidyl peptidase II
+V{G[2!ph]}
+250.2929
+250.1313
+0.00 IC_50
+Peptide
+Data
+10801
+Inhibitor of tripeptidyl peptidase II
+V{G[2!ph]}{~!C1}
+263.3346
+263.1629
+0.00 IC_50
+Peptide
+Data
+10802
+Inhibitor of tripeptidyl peptidase II
+VF{!OC1}
+278.3459
+278.1625
+0.00 IC_50
+Peptide
+Data
+10803
+Inhibitor of tripeptidyl peptidase II
+{[ph]C1!}{H2CO3}V{Nle}{!OC4:0}
+420.5409
+420.2615
+0.00 IC_50
+Peptide
+Data
+10804
+Inhibitor of tripeptidyl peptidase II
+V{Y[10!C1;11!ph]}
+370.4411
+370.1886
+0.00 IC_50
+Peptide
+Data
+10805
+Antioxidative peptide
+WEEPAM
+761.8415
+761.3043
+0.00 EC_50
+Peptide
+Data
+10806
+Antioxidative peptide
+SLHFME
+762.8725
+762.3359
+0.00 EC_50
+Peptide
+Data
+10807
+Antioxidative peptide
+HCTTFMI
+852.0327
+851.3657
+0.00 EC_50
+Peptide
+Data
+10808
+Alanine carboxypeptidase inhibitor
+HA
+226.2319
+226.1063
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 338 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,183 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 133
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=132bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+7717
+SKWDNFRGSW~
+1281.3749
+1280.6033
+0.00 EC_50
+Peptide
+Data
+7718
+SKWDNFRGSWG
+1339.4109
+1338.6087
+0.00 EC_50
+Peptide
+Data
+7719
+EPAWSNLGIW~
+1171.3008
+1170.5804
+0.00 EC_50
+Peptide
+Data
+7720
+EPAWSNLGIWG
+1229.3368
+1228.5858
+0.00 EC_50
+Peptide
+Data
+7721
+GIEALKYHNMDLGTARGY~
+2008.2565
+2006.9965
+0.00 EC_50
+Peptide
+Data
+7722
+GIEALKYHNMDLGTARGYG
+2066.2925
+2065.0019
+0.00 EC_50
+Peptide
+Data
+7723
+NKLASVYALTPSLRVG
+1688.9598
+1687.9591
+0.00 EC_50
+Peptide
+Data
+7724
+NKLASVYALTPSLRV~
+1630.9238
+1629.9537
+0.00 EC_50
+Peptide
+Data
+7725
+RIGKMVSFPRI~
+1302.6312
+1301.7732
+0.00 EC_50
+Peptide
+Data
+7726
+RIGKMVSFPRIG
+1360.6672
+1359.7786
+0.00 EC_50
+Peptide
+Data
+7727
+PGANSGGMWFGPRL~
+1445.6444
+1444.7013
+0.00 EC_50
+Peptide
+Data
+7728
+PGANSGGMWFGPRLG
+1503.6804
+1502.7067
+0.00 EC_50
+Peptide
+Data
+7729
+TYRKPPFNGSIFG
+1483.6646
+1482.7596
+0.00 EC_50
+Peptide
+Data
+7730
+TYRKPPFNGSIF~
+1425.6286
+1424.7542
+0.00 EC_50
+Peptide
+Data
+7731
+proctolin
+RYLPT
+648.7490
+648.3584
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 133 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

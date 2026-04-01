@@ -1,0 +1,184 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 68
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=67bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+3665
+drug-binding peptide
+VCDWWGWGIC
+1224.4088
+1223.4876
+0.00 EC_50
+Peptide
+Data
+3666
+ACE inhibitor
+YP
+278.3030
+278.1262
+720.00 IC_50
+Peptide
+Data
+3667
+KKFHLRK
+956.1855
+955.6063
+150.00 EC_50
+Peptide
+Data
+3668
+KKFDLRK
+934.1337
+933.5743
+820.00 EC_50
+Peptide
+Data
+3669
+KKWHLRKR
+1151.4067
+1150.7181
+30.00 EC_50
+Peptide
+Data
+3670
+KGWHKRKK
+1067.2873
+1066.6495
+530.00 EC_50
+Peptide
+Data
+3671
+QYRHRCCAWGPGRKYCKRWC
+2558.0025
+2556.1739
+0.00 EC_50
+Peptide
+Data
+3672
+CMGLSLRPWMLCAK
+1609.0554
+1607.7783
+0.00 EC_50
+Peptide
+Data
+3673
+RHITSLEVIKAGPHSPTAQLITATLKNGRKISLD
+3667.2105
+3665.0677
+0.00 EC_50
+Peptide
+Data
+3674
+SIQDLNVSMKLFRKQAKWKILVKLNDGRELSLD
+3887.5415
+3885.1595
+0.00 EC_50
+Peptide
+Data
+3675
+SIQDLNVSMKLFRKQAKWKIIAKLNDGRELSLD
+3859.4885
+3857.1283
+0.00 EC_50
+Peptide
+Data
+3676
+SIQDLNVSMKLFRKQAKWKIILKLNDGRELSLD
+3901.5680
+3899.1751
+0.00 EC_50
+Peptide
+Data
+3677
+SIQDLNVSMKLFRKQAKWKLIVKLNDGRELSLD
+3887.5415
+3885.1595
+0.00 EC_50
+Peptide
+Data
+3678
+SIQDLNVSMKLFRKQAKWKINVKLNDGRELSLD
+3888.4867
+3886.1185
+0.00 EC_50
+Peptide
+Data
+3679
+ANIKLSVKWKAQKRFLKMSIIVKLNDGRELSLD
+3843.5749
+3841.2060
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

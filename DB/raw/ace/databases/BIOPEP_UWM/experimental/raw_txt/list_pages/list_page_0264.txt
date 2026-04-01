@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 264
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=263bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9684
+Antidiabetic peptide from goat milk αS2-casein, f123–130
+NPWDQVKR
+1042.1458
+1041.5340
+0.00 EC_50
+Peptide
+Data
+9685
+Antidiabetic peptide from goat milk β-casein, f30–40
+SLSSSEESITH
+1176.1851
+1175.5287
+0.00 EC_50
+Peptide
+Data
+9686
+Antidiabetic peptide
+QEPVLGPVRGPFP
+1392.5971
+1391.7538
+0.00 EC_50
+Peptide
+Data
+9687
+Antioxidant peptide from the crucian carp (Carassius auratus) cooking juice
+IREADIDGDGQVN
+1401.4322
+1400.6510
+1.78 IC_50
+Peptide
+Data
+9688
+Antioxidant peptide from the crucian carp (Carassius auratus) cooking juice
+PEILPDGDHD
+1107.1249
+1106.4863
+1.18 IC_50
+Peptide
+Data
+9689
+Antioxidant peptide from the crucian carp (Carassius auratus) cooking juice
+ASDEQDSVRL
+1119.1372
+1118.5186
+1.45 IC_50
+Peptide
+Data
+9690
+Antioxidant peptide from the crucian carp (Carassius auratus) cooking juice
+APLEEPSSPH
+1063.1154
+1062.4965
+0.09 IC_50
+Peptide
+Data
+9691
+Antibacterial peptide from pig
+RLWKIGKVLKWI
+1539.9455
+1538.9785
+0.00 EC_50
+Peptide
+Data
+9692
+Antidiabetic peptide from Juglans mandshurica Maxim
+LPLLR
+610.7869
+610.4154
+0.00 EC_50
+Peptide
+Data
+9693
+Alpha-glucosidase inhibitor
+VE
+246.2596
+246.1211
+22170.00 IC_50
+Peptide
+Data
+9694
+Alpha-glucosidase inhibitor
+PE
+244.2438
+244.1055
+25050.00 IC_50
+Peptide
+Data
+9695
+Alpha-glucosidase inhibitor
+AD
+204.1801
+204.0743
+25660.00 IC_50
+Peptide
+Data
+9696
+ACE inhibitor
+DFY
+443.4488
+443.1686
+44.35 IC_50
+Peptide
+Data
+9697
+Anticancer peptide
+AISCYNGATSYNQKFK
+1794.9772
+1793.8379
+71.40 EC_50
+Peptide
+Data
+9698
+Anticancer peptide
+YASCYNGATSYNQKFK
+1844.9929
+1843.8172
+73.50 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 264 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 97
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=96bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+5477
+antibacterial peptide from cathepsin G (human)
+HPQYNQR
+941.9874
+941.4455
+0.00 EC_50
+Peptide
+Data
+5478
+Beta-defensin 1
+DFASCHTNGGICLPNRCPGHMIQIGICFRPRVKCCRSW
+4278.0445
+4274.9865
+0.00 EC_50
+Peptide
+Data
+5479
+beta-defensin 2
+VRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW
+4648.5189
+4645.3429
+0.00 EC_50
+Peptide
+Data
+5480
+beta-defensin 8
+VRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPQIKCCR
+4359.2296
+4356.2257
+0.00 EC_50
+Peptide
+Data
+5481
+beta-defensin 10
+QGVRSYLSCWGNRGICLLNRCPGRMRQIGTCLAPRVKCCR
+4526.4139
+4523.2507
+0.00 EC_50
+Peptide
+Data
+5482
+beta-defensin 11
+GPLSCRRNGGVCIPIRCPGPMRQIGTCFGRPVKCCRSW
+4163.0018
+4160.0283
+0.00 EC_50
+Peptide
+Data
+5483
+beta-defensin 12
+GPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW
+4105.9473
+4102.9956
+0.00 EC_50
+Peptide
+Data
+5484
+beta-defensin 13
+SGISGPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW
+4450.3099
+4447.1646
+0.00 EC_50
+Peptide
+Data
+5485
+ceratotoxin B
+SIGSAFKKALPVAKKIGKAALPIAKAALP
+2860.5163
+2858.7783
+0.00 EC_50
+Peptide
+Data
+5486
+ceratotoxin C
+SLGGVISGAKKVAKVAIPIGKAVLPVVAKLVG
+3040.7608
+3038.9252
+0.00 EC_50
+Peptide
+Data
+5487
+ceratotoxin D
+SIGTAVKKAVPIAKKVGKVAIPIAKAVLSVVGQLVG
+3511.3223
+3509.2096
+0.00 EC_50
+Peptide
+Data
+5488
+clavanin A
+VFQFLGKIIHHVGNFVHGFSHVF
+2667.0669
+2665.4029
+0.00 EC_50
+Peptide
+Data
+5489
+clavanin B
+VFQFLGRIIHHVGNFVHGFSHVF
+2695.0803
+2693.4091
+0.00 EC_50
+Peptide
+Data
+5490
+styelin C
+GWFGKAFRSVSNFYKKHKTYIHAGLSAATLLGDMTDEEFQEFMQDIEQAREEELLSRQ
+6786.4715
+6782.2856
+0.00 EC_50
+Peptide
+Data
+5491
+Apidaecin II
+GNNRPIYIPQPRPPHPRL
+2122.4286
+2121.1675
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

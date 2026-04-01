@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 218
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=217bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+8994
+Antioxidative peptide
+LANAK
+515.6020
+515.3058
+0.00 EC_50
+Peptide
+Data
+8995
+Antioxidative peptide
+PSLVGRPPVGKLTL
+1433.7330
+1432.8739
+0.00 EC_50
+Peptide
+Data
+8996
+Antioxidative peptide
+VKVLLEHPVL
+1146.4183
+1145.7150
+0.00 EC_50
+Peptide
+Data
+8997
+ACE inhibitor
+VECYGPNRPQF
+1309.4473
+1308.5902
+29.60 IC_50
+Peptide
+Data
+8998
+Antioxidative peptide
+FLPE
+504.5745
+504.2575
+0.00 EC_50
+Peptide
+Data
+8999
+Antioxidative peptide
+AWFS
+509.5530
+509.2267
+0.00 EC_50
+Peptide
+Data
+9000
+Antioxidative peptide
+YGIKVGYAIP
+1080.2729
+1079.5996
+0.09 EC_50
+Peptide
+Data
+9001
+VV-hemorphin-7
+VVYPWTQRF
+1195.3651
+1194.6167
+34.30 IC_50
+Peptide
+Data
+9002
+ACE inhibitor from thornback ray muscle (Raja clavata)
+ESAGIH
+612.6311
+612.2858
+371.60 IC_50
+Peptide
+Data
+9003
+ACE inhibitor from thornback ray muscle (Raja clavata)
+TLKYP
+620.7356
+620.3522
+170.00 IC_50
+Peptide
+Data
+9004
+ACE inhibitor from thornback ray muscle (Raja clavata)
+LKYPI
+632.7892
+632.3885
+27.07 EC_50
+Peptide
+Data
+9005
+ACE inhibitor from thornback ray muscle (Raja clavata)
+IVGRPR
+696.8396
+696.4383
+1000.00 IC_50
+Peptide
+Data
+9006
+ACE inhibitor from thornback ray muscle (Raja clavata)
+FQPSF
+624.6831
+624.2898
+12.56 IC_50
+Peptide
+Data
+9007
+ACE inhibitor from thornback ray muscle (Raja clavata)
+IYEGY
+643.6831
+643.2843
+79.42 IC_50
+Peptide
+Data
+9008
+ACE inhibitor from thornback ray muscle (Raja clavata)
+IITNW
+645.7451
+645.3475
+30.96 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 218 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

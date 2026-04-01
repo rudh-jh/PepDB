@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 246
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=245bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9414
+Alpha-amylase inhibitor
+QITKPN
+699.7940
+699.3903
+0.00 IC_50
+Peptide
+Data
+9415
+Alpha-amylase inhibitor
+AEAGVD
+560.5534
+560.2433
+0.00 IC_50
+Peptide
+Data
+9416
+Alpha-amylase inhibitor
+EAGVD
+489.4757
+489.2063
+110.00 IC_50
+Peptide
+Data
+9417
+Alpha-amylase inhibitor
+NVLQPS
+656.7264
+656.3482
+0.00 IC_50
+Peptide
+Data
+9418
+Alpha-amylase inhibitor
+LEPINF
+731.8341
+731.3841
+0.00 IC_50
+Peptide
+Data
+9419
+Alpha-amylase inhibitor
+ANENIF
+706.7421
+706.3275
+0.00 IC_50
+Peptide
+Data
+9420
+ACE inhibitor
+YLGY
+514.5694
+514.2419
+41.86 IC_50
+Peptide
+Data
+9421
+Antioxidative peptide
+YLGY
+514.5694
+514.2419
+0.00 EC_50
+Peptide
+Data
+9422
+ACE inhibitor
+TPTQQS
+660.6722
+660.3068
+73.25 IC_50
+Peptide
+Data
+9423
+Pardaxin 1 from pacific sole Pardachirus pavoninus
+GFFALIPKIISSPLFKTLLSAVGSALSSSGEQE
+3395.8837
+3393.8375
+0.00 IC_50
+Peptide
+Data
+9424
+Antibacterial peptide
+SIFIQRFTT
+1112.2750
+1111.6007
+0.00 IC_50
+Peptide
+Data
+9425
+Antibacterial peptide
+RKSGDPLGR
+985.0962
+984.5449
+0.00 IC_50
+Peptide
+Data
+9426
+Antibacterial peptide
+AKPGDGAGSGPR
+1069.1265
+1068.5296
+0.00 IC_50
+Peptide
+Data
+9427
+ACE inhibitor
+NCW
+421.4709
+421.1415
+35.50 IC_50
+Peptide
+Data
+9428
+orphanin FQ/nociceptin
+FGGFTGARKSARKLANQ
+1809.0321
+1807.9777
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 246 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

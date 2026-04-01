@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 171
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=170bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+8288
+Antioxidative peptide
+YFYPQL
+829.9355
+829.3997
+0.00 EC_50
+Peptide
+Data
+8289
+Antioxidative peptide
+GPLGLLGFLGPLGLS
+1410.6948
+1409.8256
+0.00 EC_50
+Peptide
+Data
+8290
+ACE inhibitor
+GPLGLLGFLGPLGLS
+1410.6948
+1409.8256
+90.03 IC_50
+Peptide
+Data
+8291
+ACE inhibitor
+PGPLGLTGP
+807.9315
+807.4476
+95.00 IC_50
+Peptide
+Data
+8292
+ACE inhibitor
+QLGFLGPR
+887.0345
+886.5010
+148.00 IC_50
+Peptide
+Data
+8293
+Fatty acid synthase inhibitor
+KNPQLR
+754.8756
+754.4437
+79.00 EC_50
+Peptide
+Data
+8294
+Fatty acid synthase inhibitor
+EITPEKNPQLR
+1324.4787
+1323.7124
+27.00 EC_50
+Peptide
+Data
+8295
+Fatty acid synthase inhibitor
+RKQEEDEDEEQQRE
+1847.8007
+1846.7902
+16.00 EC_50
+Peptide
+Data
+8296
+ACE inhibitor
+GVHHA
+519.5528
+519.2547
+71.80 IC_50
+Peptide
+Data
+8297
+ACE inhibitor
+MNVKHWPWMK
+1356.6584
+1355.6611
+228.00 IC_50
+Peptide
+Data
+8298
+ACE inhibitor
+VTVNPYKWLP
+1216.4238
+1215.6631
+5.50 EC_50
+Peptide
+Data
+8299
+ACE inhibitor
+RMLGQTP
+801.9530
+801.4154
+503.00 IC_50
+Peptide
+Data
+8300
+ACE inhibitor
+EKERERQ
+974.0274
+973.4926
+552.50 IC_50
+Peptide
+Data
+8301
+ACE inhibitor
+KRQKYDI
+950.0902
+949.5329
+26.20 IC_50
+Peptide
+Data
+8302
+Soystatin
+VAWWMY
+855.0123
+854.3773
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 171 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

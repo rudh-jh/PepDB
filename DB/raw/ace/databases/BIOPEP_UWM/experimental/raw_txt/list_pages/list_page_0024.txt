@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 24
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=23bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+2955
+Antibacterial peptide
+GWASKIGQTLGKIAKVGLKELIQPK
+2664.1849
+2662.5849
+0.00 EC_50
+Peptide
+Data
+2956
+Antibacterial peptide
+GVLSNVIGYLKKLGTGALNAVLKQ
+2456.9134
+2455.4481
+0.00 EC_50
+Peptide
+Data
+2957
+Precursor of antibacterial peptide
+GMASKAGAIAGKIAKVALKALG
+2026.4845
+2025.2095
+0.00 EC_50
+Peptide
+Data
+2958
+Antibacterial peptide
+GMASKAGAIAGKIAKVALKAL~
+1968.4485
+1967.2041
+0.00 EC_50
+Peptide
+Data
+2959
+Peptide stimulating instulin release
+GWASKIGQTLGKIAKVGLQGLMQPK
+2610.1191
+2608.4841
+0.00 EC_50
+Peptide
+Data
+2960
+Peptide stimulating insulin release
+GFGSFLGKALKAALKIGANALGGSPQQ
+2601.9886
+2600.4394
+0.00 EC_50
+Peptide
+Data
+2961
+Antibacterial peptide
+GIGKFLHSAKKFGKAFVGEIMNS
+2466.8915
+2465.3212
+0.00 EC_50
+Peptide
+Data
+2962
+Antibacterial peptide
+GIGKFLHSAGKFGKAFVGEIMKS
+2409.8403
+2408.2998
+0.00 EC_50
+Peptide
+Data
+2963
+Antibacterial peptide
+GLLQTIKEKLESLESLAKGIVSGIQA~
+2725.1769
+2723.5746
+0.00 EC_50
+Peptide
+Data
+2964
+Precursor of antibacterial peptide
+GLLQTIKEKLESLESLAKGIVSGIQAG
+2783.2129
+2781.5800
+0.00 EC_50
+Peptide
+Data
+2965
+Antibacterial peptide
+GFVDFLKKVAGTIANVVT~
+1878.2128
+1877.0741
+0.00 EC_50
+Peptide
+Data
+2966
+Precursor of antibacterial peptide
+GFVDFLKKVAGTIANVVTG
+1936.2488
+1935.0795
+0.00 EC_50
+Peptide
+Data
+2967
+Antibacterial peptide
+GLFGVLAKVASHVVPAIAEHFQA~
+2360.7471
+2359.3125
+0.00 EC_50
+Peptide
+Data
+2968
+Precursor of antibacterial peptide
+GLFGVLAKVASHVVPAIAEHFQAG
+2418.7831
+2417.3179
+0.00 EC_50
+Peptide
+Data
+2969
+Precursor of antibacterial peptide
+FVGLAKVAAHVVPAIAEHFG
+2033.3687
+2032.1224
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 24 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

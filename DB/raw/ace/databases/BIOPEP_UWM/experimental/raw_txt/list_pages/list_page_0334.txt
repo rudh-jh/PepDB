@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 334
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=333bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10734
+Hypouricemic peptide
+LPT
+329.3909
+329.1944
+0.00 EC_50
+Peptide
+Data
+10735
+Hypouricemic peptide
+TLAAT
+475.5350
+475.2633
+0.00 EC_50
+Peptide
+Data
+10736
+Hypouricemic peptide
+APTAT
+459.4927
+459.2321
+0.00 EC_50
+Peptide
+Data
+10737
+Hypouricemic peptide
+SPPTTPT
+699.7478
+699.3427
+0.00 EC_50
+Peptide
+Data
+10738
+Hypouricemic peptide
+SLPTTPT
+715.7901
+715.3739
+0.00 EC_50
+Peptide
+Data
+10739
+Hypouricemic peptide
+IAT
+303.3537
+303.1788
+0.00 EC_50
+Peptide
+Data
+10740
+Hypouricemic peptide
+VGT
+275.3007
+275.1476
+0.00 EC_50
+Peptide
+Data
+10741
+Hypouricemic peptide
+LT
+232.2760
+232.1418
+0.00 EC_50
+Peptide
+Data
+10742
+Hypouricemic peptide
+SITA
+390.4308
+390.2107
+0.00 EC_50
+Peptide
+Data
+10743
+Hypouricemic peptide
+PT
+216.2337
+216.1106
+0.00 EC_50
+Peptide
+Data
+10744
+Hypouricemic peptide
+TL
+232.2760
+232.1418
+0.00 EC_50
+Peptide
+Data
+10745
+Hypouricemic peptide
+ATL
+303.3537
+303.1788
+0.00 EC_50
+Peptide
+Data
+10746
+Hypouricemic peptide
+GTL
+289.3272
+289.1632
+0.00 EC_50
+Peptide
+Data
+10747
+Hypouricemic peptide
+TP
+216.2337
+216.1106
+0.00 EC_50
+Peptide
+Data
+10748
+Hypouricemic peptide
+TT
+220.2224
+220.1055
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 334 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

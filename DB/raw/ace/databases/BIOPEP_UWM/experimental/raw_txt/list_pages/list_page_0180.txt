@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 180
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=179bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+8424
+Antioxidant peptide from olive seeds (Olea europaea)
+VLSPPFTGE
+946.0520
+945.4791
+0.00 EC_50
+Peptide
+Data
+8425
+Antioxidant peptide from olive seeds (Olea europaea)
+MDGAP
+489.5430
+489.1886
+0.00 EC_50
+Peptide
+Data
+8426
+Antioxidant peptide from olive seeds (Olea europaea)
+APGAGVY
+633.6915
+633.3112
+0.00 EC_50
+Peptide
+Data
+8427
+Antioxidant peptide from olive seeds (Olea europaea)
+VGPLSPT
+669.7648
+669.3685
+0.00 EC_50
+Peptide
+Data
+8428
+Antioxidant peptide from olive seeds (Olea europaea)
+VVVVPH
+648.7919
+648.3947
+0.00 EC_50
+Peptide
+Data
+8429
+Antioxidant peptide from olive seeds (Olea europaea)
+DDLPR
+614.6469
+614.3014
+0.00 EC_50
+Peptide
+Data
+8430
+Antioxidant peptide from olive seeds (Olea europaea)
+HVAGTVA
+653.7258
+653.3486
+0.00 EC_50
+Peptide
+Data
+8431
+Antioxidant peptide from olive seeds (Olea europaea)
+MGSPT
+491.5588
+491.2042
+0.00 EC_50
+Peptide
+Data
+8432
+Antioxidant peptide from olive seeds (Olea europaea)
+VGAPSVS
+615.6746
+615.3217
+0.00 EC_50
+Peptide
+Data
+8433
+Antioxidant peptide from the skin secretions of the frog (Rana ridibunda)
+FLKPLFNAALKLLP
+1584.9794
+1583.9773
+0.00 EC_50
+Peptide
+Data
+8434
+Antioxidant peptide from jellyfish (Rhopilema esculentum)
+VKP
+342.4326
+342.2260
+0.00 EC_50
+Peptide
+Data
+8435
+Antioxidant peptide from jellyfish (Rhopilema esculentum)
+VKCFR
+651.8202
+651.3516
+0.00 EC_50
+Peptide
+Data
+8436
+ACE inhibitor from jellyfish (Rhopilema esculentum)
+VKP
+342.4326
+342.2260
+1.30 IC_50
+Peptide
+Data
+8437
+ACE inhibitor from jellyfish (Rhopilema esculentum)
+VKCFR
+651.8202
+651.3516
+34.50 IC_50
+Peptide
+Data
+8438
+ACE inhibitor
+FCVLRP
+733.9205
+733.3933
+12.30 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 180 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,192 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 75
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=74bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+3772
+peptide from soybean b-conglycinin (Glycine max)
+LLPHH
+615.7225
+615.3483
+0.00 EC_50
+Peptide
+Data
+3773
+dipeptidyl aminopeptidase inhibitor
+EPPPPEPPPI
+1069.2041
+1068.5473
+500.00 EC_50
+Peptide
+Data
+3774
+PEP inhibitor
+MPPPL
+553.7139
+553.2924
+500.00 IC_50
+Peptide
+Data
+3775
+PEP inhibitor
+MPPLP
+553.7139
+553.2924
+930.00 IC_50
+Peptide
+Data
+3776
+PEP inhibitor
+MPLP
+456.5990
+456.2398
+270.00 IC_50
+Peptide
+Data
+3777
+dipeptidyl carboxypeptidase inhibitor
+PPPE
+438.4736
+438.2107
+0.00 EC_50
+Peptide
+Data
+3778
+dipeptidyl carboxypeptidase inhibitor
+PPPS
+396.4370
+396.2002
+0.00 EC_50
+Peptide
+Data
+3779
+dipeptidyl carboxypeptidase inhibitor
+PPPF
+456.5334
+456.2365
+0.00 EC_50
+Peptide
+Data
+3781
+dipeptidyl carboxypeptidase inhibitor
+PPPG
+366.4111
+366.1897
+0.00 EC_50
+Peptide
+Data
+3782
+dipeptidyl carboxypeptidase inhibitor
+PPGP
+366.4111
+366.1897
+0.00 EC_50
+Peptide
+Data
+3783
+HCQRPR
+795.9122
+795.3912
+0.00 EC_50
+Peptide
+Data
+3784
+YYPT
+542.5795
+542.2368
+800.00 EC_50
+Peptide
+Data
+3785
+YYP
+441.4759
+441.1893
+1000.00 EC_50
+Peptide
+Data
+3786
+GYY
+401.4122
+401.1581
+1000.00 EC_50
+Peptide
+Data
+3787
+YPVSL
+577.6680
+577.3101
+200.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

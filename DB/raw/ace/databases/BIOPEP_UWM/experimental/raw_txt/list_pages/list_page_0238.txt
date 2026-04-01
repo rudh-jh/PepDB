@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 238
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=237bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9294
+Antifungal peptide
+WKLFKKILKWL~
+1501.9389
+1500.9669
+0.00 EC_50
+Peptide
+Data
+9295
+Hemolytic peptide
+WKLFKKILKWL~
+1501.9389
+1500.9669
+0.00 EC_50
+Peptide
+Data
+9296
+Antifungal peptide
+WKLFKKILKFL~
+1462.9029
+1461.9560
+0.00 EC_50
+Peptide
+Data
+9297
+Hemolytic peptide
+WKLFKKILKFL~
+1462.9029
+1461.9560
+0.00 EC_50
+Peptide
+Data
+9298
+Antifungal peptide
+WKLFKKILKYL~
+1478.9023
+1477.9509
+0.00 EC_50
+Peptide
+Data
+9299
+Hemolytic peptide
+WKLFKKILKYL~
+1478.9023
+1477.9509
+0.00 EC_50
+Peptide
+Data
+9300
+Antifungal peptide
+LKLFKKILKVL~
+1341.8078
+1340.9607
+0.00 EC_50
+Peptide
+Data
+9301
+Hemolytic peptide
+LKLFKKILKVL~
+1341.8078
+1340.9607
+0.00 EC_50
+Peptide
+Data
+9302
+Antifungal peptide
+KKLFKKILKFL~
+1404.8652
+1403.9716
+0.00 EC_50
+Peptide
+Data
+9303
+Hemolytic peptide
+KKLFKKILKFL~
+1404.8652
+1403.9716
+0.00 EC_50
+Peptide
+Data
+9304
+Precursor of antifungal peptide
+WKLFKKILKVLG
+1472.8961
+1471.9614
+0.00 EC_50
+Peptide
+Data
+9305
+Precursor of hemolytic peptide
+WKLFKKILKVLG
+1472.8961
+1471.9614
+0.00 EC_50
+Peptide
+Data
+9306
+Precursor of hemolytic peptide
+FKLFKKILKVLG
+1433.8601
+1432.9505
+0.00 EC_50
+Peptide
+Data
+9307
+Precursor of antifungal peptide
+YKLFKKILKVLG
+1449.8595
+1448.9454
+0.00 EC_50
+Peptide
+Data
+9308
+Precursor of antifungal peptide
+FKLFKKILKVLG
+1433.8601
+1432.9505
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 238 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

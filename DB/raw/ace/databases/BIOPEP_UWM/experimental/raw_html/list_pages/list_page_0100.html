@@ -1,0 +1,276 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+//document.onkeydown = keyDown 
+
+function oki(msg,msg1,msg2) { //v1.0
+  //alert(msg);
+var keycode = event.keyCode
+
+	var realkey = String.fromCharCode(event.keyCode)
+	//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+	if (keycode==13 || (typeof keycode == "undefined")){
+ // alert(msg);
+  var text,adres,adres2,text2,text3,text4;
+  text=document.fm_raporty.elements["textfield"].value
+  text4=msg
+//    text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+		alert(text2)
+		adres=msg
+		}
+if (adres<0) {
+		alert(text3)
+		adres=msg		
+		}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+
+  document.forms['fm_raporty1'].submit();
+}
+//-->
+</script>
+</head>
+
+<body>
+<div align="center">
+  <p class="nag1">BIOPEP-UWM: Bioactive peptides</p>
+</div>
+  <form action="rec_pro1.php" method="get" name="fm_raporty1"> 
+	    <input type="image" src="images/button0_normal.gif" onClick="submitform()" value="ANALYSIS">
+  </form>
+<table width="95%" border="0" cellpadding="3" cellspacing="0" class="table-out">
+  <tr class="infobold"> 
+    <td colspan="6">Number of peptides in database: <span class="info">5601&nbsp;</span></td>
+  </tr>
+  <tr class="infobold"> 
+    <td bgcolor="#eeeeff">&nbsp;</td>
+    <td bgcolor="#eeeeff">ID</td>
+    <td bgcolor="#eeeeff">Name</td>
+    <td bgcolor="#eeeeff">Sequence</td>
+    <td bgcolor="#eeeeff">Chem. mass</td>
+    <td bgcolor="#eeeeff">Monois. mass</td>
+	<td bgcolor="#eeeeff"></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5524">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5524</td>
+    <td nowrap>buforin 2</td>
+    <td nowrap>TRSSRAGLQFPVGRVHRLLRK</td>
+    <td nowrap>2434.8402</td>
+    <td nowrap>2433.4266</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5525">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5525</td>
+    <td nowrap>hepcidin 25 ( LEAP-1)</td>
+    <td nowrap>DTHFPICIFCCGCCHRSKCGMCCKT</td>
+    <td nowrap>2797.4194</td>
+    <td nowrap>2795.0846</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5526">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5526</td>
+    <td nowrap>hepcidin 20 (LEAP-1)</td>
+    <td nowrap>ICIFCCGCCHRSKCGMCCKT</td>
+    <td nowrap>2199.8012</td>
+    <td nowrap>2197.8307</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5527">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5527</td>
+    <td nowrap>Penaeidin-3A</td>
+    <td nowrap>QVYKGGYTRPIPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG</td>
+    <td nowrap>6696.7207</td>
+    <td nowrap>6692.2971</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5528">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5528</td>
+    <td nowrap>Penaeidin-3B</td>
+    <td nowrap>QVYKGGYTRPVPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG</td>
+    <td nowrap>6682.6942</td>
+    <td nowrap>6678.2815</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5529">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5529</td>
+    <td nowrap>Penaeidin-3C</td>
+    <td nowrap>QVYKGGYTRPIPRPPFVRPVPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG</td>
+    <td nowrap>6585.5793</td>
+    <td nowrap>6581.2289</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5530">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5530</td>
+    <td nowrap>GAFP</td>
+    <td nowrap>DPTCSVLGDFKCNPGRCCSKINYCGACYQWRFGLTPAR</td>
+    <td nowrap>4231.8562</td>
+    <td nowrap>4228.8923</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5531">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5531</td>
+    <td nowrap>hevein</td>
+    <td nowrap>CPNNLCCSQWGWCG</td>
+    <td nowrap>1570.7947</td>
+    <td nowrap>1569.5602</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5532">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5532</td>
+    <td nowrap>FALL39 (cathelicidin)</td>
+    <td nowrap>FALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES</td>
+    <td nowrap>4711.5009</td>
+    <td nowrap>4708.6729</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5533">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5533</td>
+    <td nowrap>LL-37 (cathelicidin)</td>
+    <td nowrap>LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES</td>
+    <td nowrap>4493.2497</td>
+    <td nowrap>4490.5677</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5534">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5534</td>
+    <td nowrap>Ah-AMP1</td>
+    <td nowrap>LCNERPSQTWSGNCGNTAAHCDKQCQDWEKASHGACCHKRENHWKCFCYFNC</td>
+    <td nowrap>6037.6606</td>
+    <td nowrap>6033.4543</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5535">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5535</td>
+    <td nowrap>SMAP-34 (cathelicidin)</td>
+    <td nowrap>GLFGRLRDSLQRGGQKILEKAERIWCKIKDIFRG</td>
+    <td nowrap>3988.6567</td>
+    <td nowrap>3986.2199</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5536">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5536</td>
+    <td nowrap>CAP-7 (cathelicidin)</td>
+    <td nowrap>GLRKRLRKFRNKIKEKLKKIGQKIQGFVPKLAPRTDY</td>
+    <td nowrap>4453.3642</td>
+    <td nowrap>4450.7043</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5537">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5537</td>
+    <td nowrap>Holotricin 2</td>
+    <td nowrap>SLQPGAPSFPMPGSQLPTSVSGNVEKQGRNTIATIDAQHKTDRYDVRGTWTKVVDGPGRSKPNFRIGGSYRW</td>
+    <td nowrap>7857.6455</td>
+    <td nowrap>7852.9663</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5538">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5538</td>
+    <td nowrap>Holotricin 3</td>
+    <td nowrap>YGPGDGHGGGHGGGHGGGHGNGQGGGHGHGPGGGFGGGHGGGHGGGGRGGGGSGGGGSPGHGAGGGYPGGHGGGHHGGYQTHGY</td>
+    <td nowrap>7000.8286</td>
+    <td nowrap>6996.8757</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+  </table>
+<form action="peptide_data.php" method="get" name="fm_raporty">
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=0ddd">First</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=98ccc">Previous</a></td>
+    <td>Page:</td>
+    <td><input name="textfield" type="text" class="info" onKeyPress="javascript:oki(374,5601,374)" size="3" maxlength="4"></td>
+    <td><input name="button1" type="image" src="images/ok0_normal.gif" onClick="javascript:oki(374,5601,374)" value="OK"></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=100bbb">Next</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=373aaa">Last</a></td>
+  </tr>
+</table>
+ <div align="center"><span class="infoitalic">Page 374 / 374</span></div> 
+<input name="pageNum_result1" type="hidden" >
+<input name="totalRows_result1" type="hidden" >
+</form>
+<form action="peptide_data_search.php" method="get" name="fm_search" >
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td>Search:</td>
+    <td><input name="txt_search" type="text" class="info" size="30" maxlength="30"></td>
+    <td>by:</td>
+    <td><select name="menu_search">
+      <option value="idsearch">ID</option>
+	  <option value="name">Name</option>
+      <option value="activity">Activity</option>
+      <option value="reference">Reference</option>
+	  <option value="sequence">Sequence</option>
+	  <option value="numberof">Number of amino ...</option>
+	  <option value="mass">Mass</option>
+	  <option value="inchik">InChIKey</option>
+    </select></td>
+    <td><input name="button12" type="image" src="images/go0_normal.gif" value="GO" onClick="this.form.submit()"></td>
+	<td><input type="checkbox" name="exact" value="ex" /></td>
+	<td>exact</td>
+  </tr>
+</table>
+<div align="center"><span class="info"> ID (e.g. 2572)<br>
+    Name (e.g. lactorphin)<br>
+    Activity (e. g. antioxidative) <a href="activity_dic_list.php" target="_blank">List of activities</a><br>
+    Mass (e.g. 700-1200)<br>
+    Reference (e.g. Meisel)<br>
+    Sequence (e.g. IPP)<br>
+    Number of residues (e.g. 2)<br>
+	InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)<br>
+    </span> </div>
+</form>
+</body>
+</html>
+

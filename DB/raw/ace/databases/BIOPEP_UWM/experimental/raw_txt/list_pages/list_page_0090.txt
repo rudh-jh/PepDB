@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 90
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=89bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+5371
+dermaseptin B2
+GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAVG
+3238.7252
+3236.8188
+0.00 EC_50
+Peptide
+Data
+5372
+dermaseptin B3
+ALWKNMLKGIGKLAGQAALGAVKTLVGAEG
+2966.5353
+2964.6894
+0.00 EC_50
+Peptide
+Data
+5373
+dermaseptin B4
+ALWKDILKNVGKAAGKAVLNTVTDMVNQG
+3055.5424
+3053.6643
+0.00 EC_50
+Peptide
+Data
+5374
+dermaseptin B5
+GLWNKIKEAASKAAGKAALGFVNEMVG
+2761.1955
+2759.4746
+0.00 EC_50
+Peptide
+Data
+5375
+gaegurin 3
+GIMSIVKDVAKTAAKEAAKGALSTLSCKLAKTC
+3308.9671
+3306.8018
+0.00 EC_50
+Peptide
+Data
+5376
+gaegurin 4
+GILDTLKQFAKGVGKDLVKGAAQGVLSTVSCKLAKTC
+3749.4371
+3747.0724
+0.00 EC_50
+Peptide
+Data
+5377
+gaegurin 5
+FLGALFKVASKVLPSVFCAITKKC
+2571.1884
+2569.4482
+0.00 EC_50
+Peptide
+Data
+5378
+gaegurin 6
+FLPLLAGLAANFLPTIICKISYKC
+2610.2211
+2608.4478
+0.00 EC_50
+Peptide
+Data
+5379
+Brevinin-1EA
+FLPAIFRMAAKVVPTIICSITKKC
+2651.3418
+2649.4889
+0.00 EC_50
+Peptide
+Data
+5380
+Brevinin-1EB
+VIPFVASVAAEMQHVYCAASRKC
+2480.9222
+2479.2135
+0.00 EC_50
+Peptide
+Data
+5381
+Brevinin-2EA
+GILDTLKNLAISAAKGAAQGLVNKASCKLSGQC
+3244.7768
+3242.7423
+0.00 EC_50
+Peptide
+Data
+5382
+Brevinin-2EB
+GILDTLKNLAKTAGKGALQGLVKMASCKLSGQC
+3318.9653
+3316.7975
+0.00 EC_50
+Peptide
+Data
+5383
+Brevinin-2EC
+GILLDKLKNFAKTAGKGVLQSLLNTASCKLSGQC
+3521.1498
+3518.9255
+0.00 EC_50
+Peptide
+Data
+5384
+Brevinin-2ED
+GILDSLKNLAKNAGQILLNKASCKLSGQC
+3001.5178
+2999.6208
+0.00 EC_50
+Peptide
+Data
+5385
+esculentin-2A
+GILSLVKGVAKLAGKGLAKEGGKFGLELIACKIAKQC
+3713.5354
+3711.1603
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

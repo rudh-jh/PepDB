@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 219
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=218bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9009
+Antilisterial peptide
+RHGYM
+662.7603
+662.2950
+0.00 EC_50
+Peptide
+Data
+9010
+Antioxidant peptide
+SNAAC
+464.4939
+464.1683
+75.20 IC_50
+Peptide
+Data
+9011
+ACE inhibitor
+PAPPK
+508.6094
+508.3000
+199.58 IC_50
+Peptide
+Data
+9012
+ACE inhibitor
+KAAAAP
+527.6127
+527.3058
+19.79 IC_50
+Peptide
+Data
+9013
+ACE inhibitor
+AMNPP
+528.6219
+528.2358
+304.50 IC_50
+Peptide
+Data
+9014
+ACE inhibitor
+IKLPP
+566.7312
+566.3780
+193.90 IC_50
+Peptide
+Data
+9015
+ACE inhibitor
+AAPLAP
+538.6353
+538.3105
+14.38 IC_50
+Peptide
+Data
+9016
+ACE inhibitor
+KPVAAP
+581.7029
+581.3526
+12.37 IC_50
+Peptide
+Data
+9017
+ACE inhibitor
+KPGRP
+553.6532
+553.3327
+67.08 IC_50
+Peptide
+Data
+9018
+ACE inhibitor
+PSNPP
+510.5394
+510.2430
+192.27 IC_50
+Peptide
+Data
+9019
+ACE inhibitor
+IAGRP
+512.6014
+512.3062
+25.94 IC_50
+Peptide
+Data
+9020
+ACE inhibitor
+KVLPG
+512.6410
+512.3312
+265.44 IC_50
+Peptide
+Data
+9021
+ACE inhibitor
+TGLKP
+514.6139
+514.3105
+51.57 IC_50
+Peptide
+Data
+9022
+ACE inhibitor
+KAAAATP
+628.7163
+628.3533
+25.64 IC_50
+Peptide
+Data
+9023
+dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+IAVPTGVA
+726.8589
+726.4262
+106.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 219 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

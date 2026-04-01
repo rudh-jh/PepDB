@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 296
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=295bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10164
+HMG-CoA reductase inhibitor
+GQEQSHQDEGVIVR
+1581.6388
+1580.7519
+99.50 IC_50
+Peptide
+Data
+10165
+Antioxidative peptide
+WVSPLAGRT
+986.1223
+985.5329
+0.00 EC_50
+Peptide
+Data
+10166
+Antioxidative peptide
+IGFLIIWV
+960.2089
+959.5826
+0.00 EC_50
+Peptide
+Data
+10167
+ACE inhibitor
+LLY
+407.5025
+407.2412
+0.00 IC_50
+Peptide
+Data
+10168
+Antioxidative peptide
+LLY
+407.5025
+407.2412
+0.00 EC_50
+Peptide
+Data
+10169
+Zinc binding peptide
+HHKAPGPEDSLHEQ
+1581.6405
+1580.7309
+0.00 EC_50
+Peptide
+Data
+10170
+Zinc binding peptide
+VEELKPTPEGDLEIL
+1681.8731
+1680.8791
+0.00 EC_50
+Peptide
+Data
+10171
+Neurolysin inhibitor
+RP
+271.3153
+271.1640
+0.00 EC_50
+Peptide
+Data
+10172
+Zinc binding peptide
+LVRTPEVDDE
+1172.2393
+1171.5701
+0.00 EC_50
+Peptide
+Data
+10173
+Zinc binding peptide
+ELKPTPEGDLEIL
+1453.6287
+1452.7685
+0.00 EC_50
+Peptide
+Data
+10174
+Zinc binding peptide
+DHKSEEDKHLKIR
+1634.7871
+1633.8510
+0.00 EC_50
+Peptide
+Data
+10175
+Zinc binding peptide
+EKTKIPAVF
+1032.2301
+1031.5996
+0.00 EC_50
+Peptide
+Data
+10176
+Zinc binding peptide
+TPVVVPPLQPE
+1175.3703
+1174.6576
+0.00 EC_50
+Peptide
+Data
+10177
+Zinc binding peptide
+KILDKVGIN
+999.2019
+998.6105
+0.00 EC_50
+Peptide
+Data
+10178
+Zinc binding peptide
+VIESPPEIN
+997.0970
+996.5110
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 296 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

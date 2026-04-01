@@ -1,0 +1,276 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+//document.onkeydown = keyDown 
+
+function oki(msg,msg1,msg2) { //v1.0
+  //alert(msg);
+var keycode = event.keyCode
+
+	var realkey = String.fromCharCode(event.keyCode)
+	//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+	if (keycode==13 || (typeof keycode == "undefined")){
+ // alert(msg);
+  var text,adres,adres2,text2,text3,text4;
+  text=document.fm_raporty.elements["textfield"].value
+  text4=msg
+//    text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+		alert(text2)
+		adres=msg
+		}
+if (adres<0) {
+		alert(text3)
+		adres=msg		
+		}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+
+  document.forms['fm_raporty1'].submit();
+}
+//-->
+</script>
+</head>
+
+<body>
+<div align="center">
+  <p class="nag1">BIOPEP-UWM: Bioactive peptides</p>
+</div>
+  <form action="rec_pro1.php" method="get" name="fm_raporty1"> 
+	    <input type="image" src="images/button0_normal.gif" onClick="submitform()" value="ANALYSIS">
+  </form>
+<table width="95%" border="0" cellpadding="3" cellspacing="0" class="table-out">
+  <tr class="infobold"> 
+    <td colspan="6">Number of peptides in database: <span class="info">5601&nbsp;</span></td>
+  </tr>
+  <tr class="infobold"> 
+    <td bgcolor="#eeeeff">&nbsp;</td>
+    <td bgcolor="#eeeeff">ID</td>
+    <td bgcolor="#eeeeff">Name</td>
+    <td bgcolor="#eeeeff">Sequence</td>
+    <td bgcolor="#eeeeff">Chem. mass</td>
+    <td bgcolor="#eeeeff">Monois. mass</td>
+	<td bgcolor="#eeeeff"></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5431">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5431</td>
+    <td nowrap>So-D6 (defensin)</td>
+    <td nowrap>GIFSNMYXRTPAGYFRGPXGGYXXN</td>
+    <td nowrap>2325.5543</td>
+    <td nowrap>2324.0763</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5432">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5432</td>
+    <td nowrap>So-D7 (defensin)</td>
+    <td nowrap>GIFFSRKCKTPSKTFKGYCTRDSNCDTSCRYEGYPAGD</td>
+    <td nowrap>4290.7424</td>
+    <td nowrap>4287.9171</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5433">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5433</td>
+    <td nowrap>So-D1 (defensin)</td>
+    <td nowrap>XTCESPSHKFKGPCATNRNCES</td>
+    <td nowrap>2296.5173</td>
+    <td nowrap>2294.9798</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5434">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5434</td>
+    <td nowrap>human lactoferricin (LFh 18-31)</td>
+    <td nowrap>TKCFQWQRNMRKVR</td>
+    <td nowrap>1881.2325</td>
+    <td nowrap>1879.9746</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5435">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5435</td>
+    <td nowrap>human lactoferricin (LFh 20-38)</td>
+    <td nowrap>CFQWQRNMRKVRGPPVSCI</td>
+    <td nowrap>2305.7469</td>
+    <td nowrap>2304.1520</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5436">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5436</td>
+    <td nowrap>Antibacterial peptide</td>
+    <td nowrap>FKCRRWQWRMKKLG</td>
+    <td nowrap>1923.3566</td>
+    <td nowrap>1922.0367</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5437">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5437</td>
+    <td nowrap>lycotoxin 1</td>
+    <td nowrap>IWLTALKFLGKHAAKHLAKQQLSKL</td>
+    <td nowrap>2844.4361</td>
+    <td nowrap>2842.7011</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5438">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5438</td>
+    <td nowrap>lycotoxin 2</td>
+    <td nowrap>KIKWFKTMKSIAKFIAKEQMKKHLGGE</td>
+    <td nowrap>3206.9023</td>
+    <td nowrap>3204.7976</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5439">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5439</td>
+    <td nowrap>chromacin (from chromogranin A)</td>
+    <td nowrap>YPGPQAKEDSEGPSQGPASREK</td>
+    <td nowrap>2315.4029</td>
+    <td nowrap>2314.0790</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5440">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5440</td>
+    <td nowrap>vasostatin-1 (from chromogranin A)</td>
+    <td nowrap>LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSKECFETLRGDERILSILRHQNLLKELQDLALQGAKERTHQQ</td>
+    <td nowrap>8585.8275</td>
+    <td nowrap>8580.4284</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5441">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5441</td>
+    <td nowrap>caprine LF (from caprine lactoferrin 271-288)</td>
+    <td nowrap>LRKAQEKFGKNKSQSFQL</td>
+    <td nowrap>2137.4349</td>
+    <td nowrap>2136.1768</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5442">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5442</td>
+    <td nowrap>caprine LF (from caprine lactoferrin 14-42)</td>
+    <td nowrap>PEWSKCYQWQRRMRKLGAPSITCVRRTSA</td>
+    <td nowrap>3496.0526</td>
+    <td nowrap>3493.7705</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5443">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5443</td>
+    <td nowrap>tryptophan-modified caprine lactoferricin (LFC W8)</td>
+    <td nowrap>SKCYQWQWRMRKLGA</td>
+    <td nowrap>1941.2827</td>
+    <td nowrap>1939.9633</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5444">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5444</td>
+    <td nowrap>tryptophan-modified murine lactoferricin (LFM W8)</td>
+    <td nowrap>EKCLRWQWEMRKVGG</td>
+    <td nowrap>1906.2354</td>
+    <td nowrap>1904.9473</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=5445">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>5445</td>
+    <td nowrap>tryptophan-modified porcine lactoferricin (LFP W8)</td>
+    <td nowrap>SKCRQWQWKIRRTNP</td>
+    <td nowrap>1987.2902</td>
+    <td nowrap>1986.0453</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+  </table>
+<form action="peptide_data.php" method="get" name="fm_raporty">
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=0ddd">First</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=92ccc">Previous</a></td>
+    <td>Page:</td>
+    <td><input name="textfield" type="text" class="info" onKeyPress="javascript:oki(374,5601,374)" size="3" maxlength="4"></td>
+    <td><input name="button1" type="image" src="images/ok0_normal.gif" onClick="javascript:oki(374,5601,374)" value="OK"></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=94bbb">Next</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=373aaa">Last</a></td>
+  </tr>
+</table>
+ <div align="center"><span class="infoitalic">Page 374 / 374</span></div> 
+<input name="pageNum_result1" type="hidden" >
+<input name="totalRows_result1" type="hidden" >
+</form>
+<form action="peptide_data_search.php" method="get" name="fm_search" >
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td>Search:</td>
+    <td><input name="txt_search" type="text" class="info" size="30" maxlength="30"></td>
+    <td>by:</td>
+    <td><select name="menu_search">
+      <option value="idsearch">ID</option>
+	  <option value="name">Name</option>
+      <option value="activity">Activity</option>
+      <option value="reference">Reference</option>
+	  <option value="sequence">Sequence</option>
+	  <option value="numberof">Number of amino ...</option>
+	  <option value="mass">Mass</option>
+	  <option value="inchik">InChIKey</option>
+    </select></td>
+    <td><input name="button12" type="image" src="images/go0_normal.gif" value="GO" onClick="this.form.submit()"></td>
+	<td><input type="checkbox" name="exact" value="ex" /></td>
+	<td>exact</td>
+  </tr>
+</table>
+<div align="center"><span class="info"> ID (e.g. 2572)<br>
+    Name (e.g. lactorphin)<br>
+    Activity (e. g. antioxidative) <a href="activity_dic_list.php" target="_blank">List of activities</a><br>
+    Mass (e.g. 700-1200)<br>
+    Reference (e.g. Meisel)<br>
+    Sequence (e.g. IPP)<br>
+    Number of residues (e.g. 2)<br>
+	InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)<br>
+    </span> </div>
+</form>
+</body>
+</html>
+

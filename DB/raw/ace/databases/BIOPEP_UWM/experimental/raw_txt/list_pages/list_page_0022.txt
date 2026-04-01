@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 22
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=21bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+2920
+Precursor of neuropeptide
+ADKNFLRFG
+1067.1949
+1066.5543
+0.00 EC_50
+Peptide
+Data
+2921
+Neuropeptide
+GGRSPSLRLRF~
+1244.4454
+1243.7242
+0.00 EC_50
+Peptide
+Data
+2923
+Neuropeptide
+APALRLRF~
+942.1590
+941.5907
+0.00 EC_50
+Peptide
+Data
+2924
+Neuropeptide
+DRTPALRLRF~
+1243.4573
+1242.7289
+0.00 EC_50
+Peptide
+Data
+2925
+Neuropeptide
+ANRSPSLRLRF~
+1315.5231
+1314.7612
+0.00 EC_50
+Peptide
+Data
+2930
+Neuropeptide
+YGGFLGARKSARKLANQ
+1837.0851
+1836.0089
+0.00 EC_50
+Peptide
+Data
+2931
+Opioid peptide
+SLTCLVKGFY
+1130.3542
+1129.5822
+0.00 EC_50
+Peptide
+Data
+2932
+Neuropeptide
+CPTATATALAPRGGSRV
+1628.8482
+1627.8438
+0.00 EC_50
+Peptide
+Data
+2933
+Natriuretic peptide
+RSSCFGGRIDRIGAC
+1597.8190
+1596.7590
+0.00 EC_50
+Peptide
+Data
+2934
+Immunomodulating peptide
+LVCYPQ
+721.8636
+721.3457
+0.00 EC_50
+Peptide
+Data
+2935
+Immunomodulating peptide
+LVVYPW
+775.9311
+775.4255
+0.00 EC_50
+Peptide
+Data
+2936
+Immunomodulating peptide
+FRPRIMTP
+1017.2465
+1016.5573
+0.00 EC_50
+Peptide
+Data
+2937
+Immunomodulating peptide
+FLGFPT
+680.7891
+680.3522
+0.00 EC_50
+Peptide
+Data
+2938
+Immunomodulating peptide
+VDPP
+426.4629
+426.2107
+0.00 EC_50
+Peptide
+Data
+2939
+Immunomodulating peptide
+VVYPD
+591.6516
+591.2894
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 22 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

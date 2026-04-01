@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 308
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=307bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10344
+Osteoanabolic peptide
+FFKATEVHFRSIRST
+1826.0576
+1824.9606
+0.00 EC_50
+Peptide
+Data
+10345
+Calcium binding peptide
+KGDPGLSPGK
+955.0637
+954.5118
+0.00 EC_50
+Peptide
+Data
+10346
+Osteoanabolic peptide
+DGPSGPK
+656.6835
+656.3119
+0.00 EC_50
+Peptide
+Data
+10347
+Calcium binding peptide
+DGPSGPK
+656.6835
+656.3119
+0.00 EC_50
+Peptide
+Data
+10348
+Osteoanabolic peptide
+YVEEL
+651.7034
+651.3104
+0.00 EC_50
+Peptide
+Data
+10349
+Anti-inflammatory peptide
+HC
+258.2980
+258.0784
+0.00 EC_50
+Peptide
+Data
+10350
+Antibacterial peptide
+RQIRRWW{M[5O]}R~
+1402.6725
+1401.7657
+0.00 EC_50
+Peptide
+Data
+10351
+Antibacterial peptide
+RQPRRWP{M[5O]}R~
+1297.5356
+1296.7080
+0.00 EC_50
+Peptide
+Data
+10352
+Antiviral peptide
+ERF
+450.4876
+450.2220
+0.00 EC_50
+Peptide
+Data
+10353
+ACE Inhibitor
+FNQLAALNSAAYLQQQQLLPFSQLA
+2778.1141
+2776.4502
+14.19 IC_50
+Peptide
+Data
+10354
+ACE Inhibitor
+QLADVSPAAFLTQQQLLPFYLHAM
+2703.1117
+2701.3893
+174.43 IC_50
+Peptide
+Data
+10355
+ACE Inhibitor
+AYLQAQQLLPFNQLVRSPAA
+2228.5420
+2227.2076
+202.04 IC_50
+Peptide
+Data
+10356
+Antioxidative peptide
+IDLAY
+593.6674
+593.3050
+0.00 EC_50
+Peptide
+Data
+10357
+Antioxidative peptide
+IPIGP
+495.6106
+495.3047
+0.00 EC_50
+Peptide
+Data
+10358
+Antioxidative peptide
+AGWACLVG
+775.9142
+775.3675
+68.88 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 308 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

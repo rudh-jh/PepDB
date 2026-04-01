@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 94
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=93bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+5431
+So-D6 (defensin)
+GIFSNMYXRTPAGYFRGPXGGYXXN
+2325.5543
+2324.0763
+0.00 EC_50
+Peptide
+Data
+5432
+So-D7 (defensin)
+GIFFSRKCKTPSKTFKGYCTRDSNCDTSCRYEGYPAGD
+4290.7424
+4287.9171
+0.00 EC_50
+Peptide
+Data
+5433
+So-D1 (defensin)
+XTCESPSHKFKGPCATNRNCES
+2296.5173
+2294.9798
+0.00 EC_50
+Peptide
+Data
+5434
+human lactoferricin (LFh 18-31)
+TKCFQWQRNMRKVR
+1881.2325
+1879.9746
+0.00 EC_50
+Peptide
+Data
+5435
+human lactoferricin (LFh 20-38)
+CFQWQRNMRKVRGPPVSCI
+2305.7469
+2304.1520
+0.00 EC_50
+Peptide
+Data
+5436
+Antibacterial peptide
+FKCRRWQWRMKKLG
+1923.3566
+1922.0367
+0.00 EC_50
+Peptide
+Data
+5437
+lycotoxin 1
+IWLTALKFLGKHAAKHLAKQQLSKL
+2844.4361
+2842.7011
+0.00 EC_50
+Peptide
+Data
+5438
+lycotoxin 2
+KIKWFKTMKSIAKFIAKEQMKKHLGGE
+3206.9023
+3204.7976
+0.00 EC_50
+Peptide
+Data
+5439
+chromacin (from chromogranin A)
+YPGPQAKEDSEGPSQGPASREK
+2315.4029
+2314.0790
+0.00 EC_50
+Peptide
+Data
+5440
+vasostatin-1 (from chromogranin A)
+LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSKECFETLRGDERILSILRHQNLLKELQDLALQGAKERTHQQ
+8585.8275
+8580.4284
+0.00 EC_50
+Peptide
+Data
+5441
+caprine LF (from caprine lactoferrin 271-288)
+LRKAQEKFGKNKSQSFQL
+2137.4349
+2136.1768
+0.00 EC_50
+Peptide
+Data
+5442
+caprine LF (from caprine lactoferrin 14-42)
+PEWSKCYQWQRRMRKLGAPSITCVRRTSA
+3496.0526
+3493.7705
+0.00 EC_50
+Peptide
+Data
+5443
+tryptophan-modified caprine lactoferricin (LFC W8)
+SKCYQWQWRMRKLGA
+1941.2827
+1939.9633
+0.00 EC_50
+Peptide
+Data
+5444
+tryptophan-modified murine lactoferricin (LFM W8)
+EKCLRWQWEMRKVGG
+1906.2354
+1904.9473
+0.00 EC_50
+Peptide
+Data
+5445
+tryptophan-modified porcine lactoferricin (LFP W8)
+SKCRQWQWKIRRTNP
+1987.2902
+1986.0453
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

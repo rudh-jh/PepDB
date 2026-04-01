@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 102
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=101bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+6987
+coeliac toxic peptide
+PSQQ
+458.4650
+458.2118
+0.00 EC_50
+Peptide
+Data
+6988
+coeliac toxic peptide
+QQPY
+534.5608
+534.2430
+0.00 EC_50
+Peptide
+Data
+6989
+coeliac toxic peptide
+QPYP
+503.5468
+503.2372
+0.00 EC_50
+Peptide
+Data
+6990
+potential coeliac toxic peptide (extended motif)
+PQNPSQQQPQEQVP
+1604.6721
+1603.7566
+0.00 EC_50
+Peptide
+Data
+6991
+potential coeliac toxic peptide (extended motif)
+QQFLGQQQPFPPQQ
+1670.8176
+1669.8187
+0.00 EC_50
+Peptide
+Data
+6992
+potential coeliac toxic peptide (extended motif)
+QQQKQQQQPSSQVS
+1628.6951
+1627.7889
+0.00 EC_50
+Peptide
+Data
+6993
+potential coeliac toxic peptide (extended motif)
+LQPQNPSQQQPQEQ
+1649.7126
+1648.7780
+0.00 EC_50
+Peptide
+Data
+6994
+potential coeliac toxic peptide (extended motif)
+QPQPFPSQQPYLQL
+1670.8572
+1669.8437
+0.00 EC_50
+Peptide
+Data
+6995
+potential coeliac toxic peptide (extended motif)
+QGSFRPSQQNPQAQ
+1572.6337
+1571.7418
+0.00 EC_50
+Peptide
+Data
+6996
+potential coeliac toxic peptide (extended motif)
+QPFPPQQPYPQPQP
+1648.8104
+1647.8020
+0.00 EC_50
+Peptide
+Data
+6997
+potential coeliac toxic peptide (extended motif)
+QPFPSQQPYLQLQP
+1670.8572
+1669.8437
+0.00 EC_50
+Peptide
+Data
+6998
+potential coeliac toxic peptide (extended motif)
+QPFRPQQPYPQPQP
+1707.8807
+1706.8503
+0.00 EC_50
+Peptide
+Data
+6999
+potential coeliac toxic peptide (extended motif)
+PFRPQQPYPQPQPQ
+1707.8807
+1706.8503
+0.00 EC_50
+Peptide
+Data
+7000
+synthetic peptide from alpha-gliadin
+VRFPVPQLQPQN
+1422.6263
+1421.7756
+0.00 EC_50
+Peptide
+Data
+7001
+synthetic peptide from alpha-gliadin
+QLQPQNPSQQQP
+1392.4700
+1391.6772
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 102 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

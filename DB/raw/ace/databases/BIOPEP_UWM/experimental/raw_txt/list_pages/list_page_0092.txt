@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 92
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=91bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+5401
+esculentin-1A
+GIFSKLAGKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
+4802.7569
+4799.6870
+0.00 EC_50
+Peptide
+Data
+5402
+esculentin -1
+GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
+4887.8644
+4884.7509
+0.00 EC_50
+Peptide
+Data
+5403
+formaecin 1
+GRPNPVNNKPTPHPRL
+1794.0208
+1792.9781
+0.00 EC_50
+Peptide
+Data
+5404
+Antimicrobial peptide MBP-1
+RSGRGECRRQCLRRHEGQPWETQECMRRCRRRG
+4130.6720
+4127.9812
+0.00 EC_50
+Peptide
+Data
+5405
+brevinin-1EC
+FLPLLAGLAANFFPKIFCKITRKC
+2712.3607
+2710.5172
+0.00 EC_50
+Peptide
+Data
+5406
+Sarcotoxin IA
+GWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATARG
+4213.7919
+4211.3446
+0.00 EC_50
+Peptide
+Data
+5407
+Sarcotoxin IB
+GWLKKIGKKIERVGQHTRDATIQVIGVAQQAANVAATARG
+4241.8449
+4239.3758
+0.00 EC_50
+Peptide
+Data
+5408
+So-D2 (defensin)
+GIFSSRKCKTPSKTFKGICTRDSNCDTSCRYEGYPAGDCKGIRRRCMCSKPC
+5803.7019
+5799.6600
+0.00 EC_50
+Peptide
+Data
+5409
+So-D3 (defensin)
+GIFSSRKCKTVSKTFRGICTRNANC
+2778.2367
+2776.4004
+0.00 EC_50
+Peptide
+Data
+5410
+So-D4 (defensin)
+MFFSSKKCKTVSKTFRGPCVRNA
+2623.1238
+2621.3351
+0.00 EC_50
+Peptide
+Data
+5411
+bovine lactoferrin (LFb 19-37)
+CRRWQWRMKKLGAPSITCV
+2319.8163
+2318.2039
+0.00 EC_50
+Peptide
+Data
+5412
+dermaseptin 2
+ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ
+3473.0675
+3470.8472
+0.00 EC_50
+Peptide
+Data
+5413
+dermaseptin 3
+ALWKNMLKGIGKLAGKAALGAVKKLVGAES
+3023.6723
+3021.7834
+0.00 EC_50
+Peptide
+Data
+5414
+dermaseptin 4
+ALWMTLLKKVLKAAAKALNAVLVGANA
+2779.4252
+2777.6666
+0.00 EC_50
+Peptide
+Data
+5415
+dermaseptin 5
+GLWSKIKTAGKSVAKAAAKAAVKAVTNAV
+2840.3582
+2838.6756
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

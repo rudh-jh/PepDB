@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 110
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=109bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+7347
+celiac sprue gluten epitope found in glutenin
+QQPIQQQPH
+1103.1857
+1102.5503
+0.00 EC_50
+Peptide
+Data
+7348
+celiac sprue gluten epitope found in omega-gliadin
+PFPQPQLPF
+1070.2368
+1069.5579
+0.00 EC_50
+Peptide
+Data
+7349
+celiac sprue gluten epitope found in omega-gliadin
+PFPQPQQPI
+1051.1922
+1050.5481
+0.00 EC_50
+Peptide
+Data
+7350
+celiac sprue gluten epitope found in omega-gliadin
+PQPQLPFPQ
+1051.1922
+1050.5481
+0.00 EC_50
+Peptide
+Data
+7351
+celiac sprue gluten epitope found in omega-gliadin
+PQPQQPIPV
+1003.1494
+1002.5481
+0.00 EC_50
+Peptide
+Data
+7352
+celiac sprue gluten epitope found in omega-gliadin
+PYPQQPYPS
+1076.1555
+1075.4958
+0.00 EC_50
+Peptide
+Data
+7353
+celiac sprue gluten epitope found in omega-gliadin
+QQPYPQQPY
+1148.2213
+1147.5281
+0.00 EC_50
+Peptide
+Data
+7354
+celiac sprue gluten epitope found in hordein
+PFPQPQEPI
+1052.1770
+1051.5321
+0.00 EC_50
+Peptide
+Data
+7355
+celiac sprue gluten epitope found in hordein
+PFPQPQQPN
+1052.1374
+1051.5071
+0.00 EC_50
+Peptide
+Data
+7356
+celiac sprue gluten epitope found in hordein
+PFPQQPFPQ
+1085.2085
+1084.5325
+0.00 EC_50
+Peptide
+Data
+7357
+celiac sprue gluten epitope found in hordein
+PFPQQPIPQ
+1051.1922
+1050.5481
+0.00 EC_50
+Peptide
+Data
+7358
+celiac sprue gluten epitope found in hordein
+PFPQQPQPY
+1101.2079
+1100.5274
+0.00 EC_50
+Peptide
+Data
+7359
+celiac sprue gluten epitope found in hordein
+PIPQQPQPY
+1067.1916
+1066.5430
+0.00 EC_50
+Peptide
+Data
+7360
+celiac sprue gluten epitope found in hordein
+PLPRPQQPF
+1079.2485
+1078.5906
+0.00 EC_50
+Peptide
+Data
+7361
+celiac sprue gluten epitope found in hordein
+PLPQPQQPF
+1051.1922
+1050.5481
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 110 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

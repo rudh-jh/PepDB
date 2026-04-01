@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 245
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=244bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9399
+Antioxidative peptide
+GQVPP
+496.5558
+496.2637
+0.00 EC_50
+Peptide
+Data
+9400
+Alpha-glucosidase inhibitor
+KLPGF
+560.6838
+560.3312
+59.50 IC_50
+Peptide
+Data
+9401
+Alpha-glucosidase inhibitor
+EVSGL
+503.5451
+503.2582
+0.00 IC_50
+Peptide
+Data
+9402
+Alpha-glucosidase inhibitor
+QITKPN
+699.7940
+699.3903
+0.00 IC_50
+Peptide
+Data
+9403
+Alpha-glucosidase inhibitor
+AEAGVD
+560.5534
+560.2433
+0.00 EC_50
+Peptide
+Data
+9404
+Alpha-glucosidase inhibitor
+EAGVD
+489.4757
+489.2063
+0.00 IC_50
+Peptide
+Data
+9405
+Alpha-glucosidase inhibitor
+NVLQPS
+656.7264
+656.3482
+100.00 IC_50
+Peptide
+Data
+9406
+Alpha-glucosidase inhibitor
+LEPINF
+731.8341
+731.3841
+0.00 IC_50
+Peptide
+Data
+9407
+Alpha-glucosidase inhibitor
+ANENIF
+706.7421
+706.3275
+0.00 IC_50
+Peptide
+Data
+9408
+dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+FPGPIPD
+741.8290
+741.3685
+260.00 IC_50
+Peptide
+Data
+9409
+dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+VPPFIQPE
+926.0639
+925.4893
+2500.00 IC_50
+Peptide
+Data
+9410
+dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+YPFPGPIPD
+1002.1168
+1001.4842
+670.00 IC_50
+Peptide
+Data
+9411
+Alpha-glucosidase inhibitor
+QIGLF
+576.6832
+576.3261
+0.00 IC_50
+Peptide
+Data
+9412
+Alpha-amylase inhibitor
+KLPGF
+560.6838
+560.3312
+120.00 IC_50
+Peptide
+Data
+9413
+Alpha-amylase inhibitor
+EVSGL
+503.5451
+503.2582
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 245 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 357
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=356bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+11079
+Antioxidative peptide
+LPDWT
+630.6876
+630.3003
+0.00 EC_50
+Peptide
+Data
+11080
+Inhibitor of melanin synthesis
+SGPAGIAGPAGPRGPAGPNGPPGKDU
+2302.3579
+2302.0323
+0.00 EC_50
+Peptide
+Data
+11081
+Acetylcholinesterase inhibitor
+WPGDL
+586.6352
+586.2742
+56.80 IC_50
+Peptide
+Data
+11082
+Antioxidative peptide
+WPGDL
+586.6352
+586.2742
+0.00 EC_50
+Peptide
+Data
+11083
+Acetylcholinesterase inhibitor
+LHFP
+512.5998
+512.2739
+111.10 IC_50
+Peptide
+Data
+11084
+Antioxidative peptide
+LHFP
+512.5998
+512.2739
+0.00 EC_50
+Peptide
+Data
+11085
+Acetylcholinesterase inhibitor
+SSYPGQLT
+851.8981
+851.4011
+67.26 IC_50
+Peptide
+Data
+11086
+Antioxidative peptide
+SSYPGQLT
+851.8981
+851.4011
+0.00 IC_50
+Peptide
+Data
+11087
+Acetylcholinesterase inhibitor
+{C2:0}PAHPDTGL
+848.8975
+848.4015
+56.80 IC_50
+Peptide
+Data
+11088
+Antioxidative peptide
+{C2:0}PAHPDTGL
+848.8975
+848.4015
+0.00 EC_50
+Peptide
+Data
+11089
+Nickel binding peptide
+WLHNDGN
+854.8641
+854.3660
+0.00 EC_50
+Peptide
+Data
+11090
+Nickel binding peptide
+WLHNDGNTE
+1085.0814
+1084.4559
+0.00 EC_50
+Peptide
+Data
+11091
+Nickel binding peptide
+FATCIARH
+918.0729
+917.4528
+0.00 EC_50
+Peptide
+Data
+11092
+Nickel binding peptide
+AIPTGTAH
+766.8401
+766.3961
+0.00 EC_50
+Peptide
+Data
+11093
+Nickel binding peptide
+KFPILEH
+883.0425
+882.4948
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 357 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 244
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=243bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9384
+HMG-CoA reductase inhibitor
+IVG
+287.3543
+287.1839
+0.00 IC_50
+Peptide
+Data
+9385
+HMG-CoA reductase inhibitor
+VGVL
+386.4850
+386.2521
+0.00 IC_50
+Peptide
+Data
+9386
+Immunostimulating peptide
+GLF
+335.3971
+335.1839
+0.00 EC_50
+Peptide
+Data
+9387
+Alpha-glucosidase inhibitor
+VW
+303.3554
+303.1578
+22.60 IC_50
+Peptide
+Data
+9388
+Alpha-glucosidase inhibitor
+YYPL
+554.6331
+554.2731
+3700.00 IC_50
+Peptide
+Data
+9389
+Alpha-glucosidase inhibitor
+RVPSLM
+701.8771
+701.3882
+23.07 IC_50
+Peptide
+Data
+9390
+Alpha-glucosidase inhibitor
+TPSPR
+556.6109
+556.2960
+40.02 IC_50
+Peptide
+Data
+9391
+Alpha-glucosidase inhibitor
+DLQGK
+559.6115
+559.2956
+0.00 IC_50
+Peptide
+Data
+9392
+Alpha-glucosidase inhibitor
+AGLAPY
+590.6668
+590.3054
+0.00 IC_50
+Peptide
+Data
+9393
+Alpha-glucosidase inhibitor
+RVPSL
+570.6803
+570.3479
+0.00 IC_50
+Peptide
+Data
+9394
+Alpha-glucosidase inhibitor
+DHPFLF
+774.8605
+774.3689
+0.00 IC_50
+Peptide
+Data
+9395
+Alpha-glucosidase inhibitor
+HAEIN
+582.6052
+582.2753
+0.00 IC_50
+Peptide
+Data
+9396
+Alpha-glucosidase inhibitor
+QIQLF
+647.7609
+647.3631
+0.00 IC_50
+Peptide
+Data
+9397
+Anticancer peptide
+KENPVLSLVNGMF
+1447.6948
+1446.7516
+0.00 EC_50
+Peptide
+Data
+9398
+ACE inhibitor
+DGVVYY
+714.7608
+714.3213
+2.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 244 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

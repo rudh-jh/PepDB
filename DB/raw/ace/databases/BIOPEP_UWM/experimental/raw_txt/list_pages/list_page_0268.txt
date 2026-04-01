@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 268
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=267bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9744
+ACE inhibitor
+KLP
+356.4591
+356.2416
+0.00 IC_50
+Peptide
+Data
+9745
+Peptide stimulating mucin secretion
+EMPFPK
+747.9008
+747.3613
+0.00 EC_50
+Peptide
+Data
+9746
+PEP inhibitor
+QKEDVPSERYLGYLEQL
+2067.2496
+2066.0286
+368.70 IC_50
+Peptide
+Data
+9747
+PEP inhibitor
+AVPYPQRDMPIQAFLLY
+2022.3639
+2021.0411
+48.20 IC_50
+Peptide
+Data
+9748
+PEP inhibitor
+PIHNSLPQNIPPLTQTPV
+1966.2351
+1965.0650
+29.80 IC_50
+Peptide
+Data
+9749
+PEP inhibitor
+PVQPFTESQSLTLTDVE
+1891.0317
+1889.9226
+236.30 IC_50
+Peptide
+Data
+9750
+PEP inhibitor
+TIASAEPTVHSTPTTEAIV
+1925.0925
+1923.9756
+123.60 IC_50
+Peptide
+Data
+9751
+PEP inhibitor
+VPLGTQYTDAPSFSDIP
+1807.9450
+1806.8646
+650.50 IC_50
+Peptide
+Data
+9752
+PEP inhibitor
+SIITSTPETPTVAVPTT
+1714.9029
+1713.9005
+79.80 IC_50
+Peptide
+Data
+9753
+PEP inhibitor
+HPHPHLSFMAIPP
+1480.7313
+1479.7423
+34.80 IC_50
+Peptide
+Data
+9754
+ACE inhibitor
+NLR
+401.4600
+401.2380
+0.00 IC_50
+Peptide
+Data
+9755
+ACE inhibitor
+PRI
+384.4725
+384.2478
+0.00 IC_50
+Peptide
+Data
+9756
+ACE inhibitor
+PYK
+406.4748
+406.2209
+0.00 IC_50
+Peptide
+Data
+9757
+ACE inhibitor
+AERF
+521.5653
+521.2590
+0.00 IC_50
+Peptide
+Data
+9758
+ACE inhibitor
+APYK
+477.5525
+477.2579
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 268 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

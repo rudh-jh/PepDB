@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 162
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=161bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+8153
+peptide from Okara protein - soybean lipoxygenase-1
+TIIPLPV
+751.9509
+751.4828
+0.00 EC_50
+Peptide
+Data
+8154
+peptide from Okara protein - soybean lipoxygenase-1
+TIIPLPV
+751.9509
+751.4828
+0.00 EC_50
+Peptide
+Data
+8155
+ACE inhibitor from b-CN (125-131)
+LTLTDVE
+789.8684
+789.4105
+0.00 IC_50
+Peptide
+Data
+8156
+ACE inhibitor from beta-CN (180-197)
+YPQRDMPIQ
+1147.3021
+1146.5474
+0.00 IC_50
+Peptide
+Data
+8157
+ACE inhibitor from b-CN (63-67)
+PGPIP
+479.5683
+479.2735
+0.00 IC_50
+Peptide
+Data
+8158
+ACE inhibitor from beta-CN (104-120)
+PKHKEMPFPPKYPVEPFT
+2169.5374
+2168.1093
+0.00 IC_50
+Peptide
+Data
+8159
+ACE inhibitor from beta-CN (203-209)
+GPFPIIV
+741.9148
+741.4411
+0.00 IC_50
+Peptide
+Data
+8160
+ACE inhibitor from beta-CN (202-209)
+RGPFPIIV
+898.1000
+897.5420
+0.00 IC_50
+Peptide
+Data
+8161
+f(164-179) of bovine alpha s2-casein
+LKKISQRYQKFALPQY
+2011.3631
+2010.1380
+0.00 EC_50
+Peptide
+Data
+8162
+antimicrobial peptide derived from b-casein (184-210)
+QELLLNPTHQYPVTQPLAPVHNPISV
+2906.2859
+2904.5449
+0.00 EC_50
+Peptide
+Data
+8163
+antimicrobial peptide derived from aS1-casein (10-14)
+GLPQE
+542.5811
+542.2691
+0.00 EC_50
+Peptide
+Data
+8164
+antimicrobial peptide derived from aS1-casein (1-7)
+RPKHPIK
+875.0700
+874.5486
+0.00 EC_50
+Peptide
+Data
+8165
+peptide derived from bovine k-casein (112-116)
+KNQDK
+631.6773
+631.3279
+0.00 EC_50
+Peptide
+Data
+8166
+peptide derived from human fibrinogen γ-chain (400-411)
+HHLGGAKQAGDV
+1189.2780
+1188.5982
+0.00 EC_50
+Peptide
+Data
+8167
+peptide derived from human fibrinogen a-chain
+RGDX
+346.3388
+346.1596
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 162 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 348
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=347bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10944
+Hyaluronidase inhibitor
+GPSGPR
+569.6097
+569.2913
+13640.00 IC_50
+Peptide
+Data
+10945
+Antioxidative peptide
+SYPTECRCR
+1114.2554
+1113.4680
+0.00 EC_50
+Peptide
+Data
+10946
+Antioxidative peptide
+RDRHQKIG
+1009.1209
+1008.5562
+0.00 EC_50
+Peptide
+Data
+10947
+Antioxidative peptide
+TDRHQKLR
+1053.1733
+1052.5823
+0.00 EC_50
+Peptide
+Data
+10948
+Antioxidative peptide
+MNDRVNQGE
+1062.1137
+1061.4545
+0.00 EC_50
+Peptide
+Data
+10949
+Antioxidative peptide
+RENIDKPSRA
+1185.2876
+1184.6243
+0.00 EC_50
+Peptide
+Data
+10950
+Antioxidative peptide
+GGVPRSGEQEQQ
+1271.2908
+1270.5883
+0.00 EC_50
+Peptide
+Data
+10951
+Antioxidative peptide
+AGEQGFEYVTFR
+1403.4910
+1402.6496
+0.00 EC_50
+Peptide
+Data
+10952
+Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+MAM
+351.4865
+351.1281
+882.30 IC_50
+Peptide
+Data
+10953
+Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+MAMP
+448.6014
+448.1807
+129.30 IC_50
+Peptide
+Data
+10954
+Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+MAMPL
+561.7586
+561.2645
+231.40 IC_50
+Peptide
+Data
+10955
+Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+MAMPLW
+747.9681
+747.3436
+101.60 IC_50
+Peptide
+Data
+10956
+ACE inhibitor
+MAMPLW
+747.9681
+747.3436
+35.40 IC_50
+Peptide
+Data
+10957
+ACE inhibitor
+MAM
+351.4865
+351.1281
+199.10 IC_50
+Peptide
+Data
+10958
+ACE inhibitor
+MAMP
+448.6014
+448.1807
+199.10 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 348 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

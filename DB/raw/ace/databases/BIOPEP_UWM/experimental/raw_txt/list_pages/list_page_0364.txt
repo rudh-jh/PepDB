@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 364
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=363bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+11184
+Copper binding peptide
+ALFSPH
+670.7546
+670.3428
+0.00 EC_50
+Peptide
+Data
+11185
+Copper binding peptide
+DFIRHR
+842.9425
+842.4499
+0.00 EC_50
+Peptide
+Data
+11186
+Copper binding peptide
+GTAHWL
+683.7534
+683.3381
+0.00 EC_50
+Peptide
+Data
+11187
+Copper binding peptide
+GVDFIRHR
+999.1244
+998.5395
+0.00 EC_50
+Peptide
+Data
+11188
+Copper binding peptide
+NPSHADFV
+885.9177
+885.3968
+0.00 EC_50
+Peptide
+Data
+11189
+Hypotensive peptide
+YH
+318.3271
+318.1324
+0.00 EC_50
+Peptide
+Data
+11190
+Hypotensive peptide
+KY
+309.3599
+309.1683
+0.00 EC_50
+Peptide
+Data
+11191
+Hypotensive peptide
+IY
+294.3453
+294.1574
+0.00 EC_50
+Peptide
+Data
+11192
+Hypotensive peptide
+IW
+317.3819
+317.1734
+0.00 EC_50
+Peptide
+Data
+11193
+Xanthine oxidase inhibitor
+VW
+303.3554
+303.1578
+0.00 EC_50
+Peptide
+Data
+11194
+Xanthine oxidase inhibitor
+WV
+303.3554
+303.1578
+0.00 EC_50
+Peptide
+Data
+11195
+ACE inhibitor
+WV
+303.3554
+303.1578
+500.50 IC_50
+Peptide
+Data
+11196
+Antioxidative peptide
+WV
+303.3554
+303.1578
+0.00 EC_50
+Peptide
+Data
+11197
+Antioxidative peptide
+FD
+280.2759
+280.1055
+0.00 EC_50
+Peptide
+Data
+11198
+Antioxidative peptide
+WL
+317.3819
+317.1734
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 364 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

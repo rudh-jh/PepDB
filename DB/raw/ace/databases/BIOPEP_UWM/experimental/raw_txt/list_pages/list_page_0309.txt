@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 309
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=308bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10359
+Antioxidative peptide
+YPLDL
+619.7046
+619.3206
+0.00 EC_50
+Peptide
+Data
+10360
+Alpha-glucosidase inhibitor
+LR
+287.3576
+287.1952
+0.00 IC_50
+Peptide
+Data
+10361
+Alpha-glucosidase inhibitor
+PLMLP
+569.7562
+569.3236
+0.00 IC_50
+Peptide
+Data
+10362
+Alpha-glucosidase inhibitor
+LDLQR
+643.7309
+643.3642
+8.59 IC_50
+Peptide
+Data
+10363
+Alpha-glucosidase inhibitor
+AGGFR
+506.5540
+506.2594
+8.66 IC_50
+Peptide
+Data
+10364
+Alpha-glucosidase inhibitor
+LDNFR
+663.7207
+663.3330
+9.21 IC_50
+Peptide
+Data
+10365
+ACE Inhibitor
+ILKP
+469.6163
+469.3254
+355.00 IC_50
+Peptide
+Data
+10366
+Immunomodulating peptide
+NSVFRALPVDVVANAYR
+1891.1291
+1890.0081
+0.00 EC_50
+Peptide
+Data
+10367
+Immunomodulating peptide
+GIAASPFLQSAAFQLR
+1676.9079
+1675.9018
+0.00 EC_50
+Peptide
+Data
+10368
+Immunomodulating peptide
+LLPPFHQASSLLR
+1478.7323
+1477.8380
+0.00 EC_50
+Peptide
+Data
+10369
+Immunomodulating peptide
+TPMGGFLGALSSLSATK
+1637.8913
+1636.8466
+0.00 EC_50
+Peptide
+Data
+10370
+Immunomodulating peptide
+YGIYPR
+767.8695
+767.3954
+0.00 EC_50
+Peptide
+Data
+10371
+Immunomodulating peptide
+DNIQGITKPAIR
+1325.5097
+1324.7440
+0.00 EC_50
+Peptide
+Data
+10372
+Immunomodulating peptide
+IAFKTNPNSMVSHIAGK
+1815.0973
+1813.9479
+0.00 EC_50
+Peptide
+Data
+10373
+Immunomodulating peptide
+IGVAMDYSASSKR
+1384.5549
+1383.6794
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 309 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 240
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=239bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9324
+Precursor of hemolytic peptide
+KKLFKKILKFLG
+1462.9012
+1461.9770
+0.00 EC_50
+Peptide
+Data
+9325
+ACE inhibitor
+GVLY
+450.5272
+450.2470
+16.00 IC_50
+Peptide
+Data
+9326
+ACE inhibitor
+LGV
+287.3543
+287.1839
+145.00 IC_50
+Peptide
+Data
+9327
+ACE inhibitor
+RVR
+429.5163
+429.2805
+526.00 IC_50
+Peptide
+Data
+9328
+Antioxidative peptide
+ADGF
+408.4048
+408.1639
+0.00 EC_50
+Peptide
+Data
+9329
+Antioxidative peptide
+AGGF
+350.3688
+350.1585
+0.00 EC_50
+Peptide
+Data
+9330
+Antioxidative peptide
+AWDPE
+616.6182
+616.2484
+0.00 EC_50
+Peptide
+Data
+9331
+peptide stimulating GLP-1 secretion
+ANVST
+490.5067
+490.2379
+0.00 EC_50
+Peptide
+Data
+9332
+peptide stimulating GLP-1 secretion
+TKAVEH
+683.7517
+683.3591
+0.00 EC_50
+Peptide
+Data
+9333
+peptide stimulating GLP-1 secretion
+KAAVT
+488.5767
+488.2949
+0.00 EC_50
+Peptide
+Data
+9334
+dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
+VAAA
+330.3790
+330.1897
+141.00 IC_50
+Peptide
+Data
+9335
+Antioxidative peptide
+DWDPK
+659.6858
+659.2905
+0.00 EC_50
+Peptide
+Data
+9336
+Antioxidative peptide
+ETTL
+462.4933
+462.2317
+0.00 EC_50
+Peptide
+Data
+9337
+Antioxidative peptide
+SGAF
+380.3947
+380.1690
+0.00 EC_50
+Peptide
+Data
+9338
+Dipeptidyl peptidase IV inhibitor
+GPAG
+300.3102
+300.1429
+41.10 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 240 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

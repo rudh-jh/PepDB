@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 290
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=289bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10074
+Antioxidative peptide
+SDPPLVFVG
+930.0526
+929.4842
+0.00 EC_50
+Peptide
+Data
+10075
+Antioxidative peptide
+YPFVE
+653.7209
+653.3050
+0.00 EC_50
+Peptide
+Data
+10076
+ACE inhibitor
+IAF
+349.4236
+349.1995
+19.87 IC_50
+Peptide
+Data
+10077
+Peptide stimulating mucin secretion
+YPFVE
+653.7209
+653.3050
+0.00 EC_50
+Peptide
+Data
+10078
+Hypotensive peptide
+LHLPLPL
+802.0128
+801.5097
+0.00 EC_50
+Peptide
+Data
+10079
+Iron binding peptide
+AVPYPQR
+829.9404
+829.4433
+0.00 EC_50
+Peptide
+Data
+10080
+ACE inhibitor
+FCLYELAR
+1014.1964
+1013.4988
+31.63 IC_50
+Peptide
+Data
+10081
+ACE inhibitor
+ISSMGILVCL
+1035.3207
+1034.5485
+3.88 IC_50
+Peptide
+Data
+10082
+ACE inhibitor
+ETSGMKPTEL
+1092.2188
+1091.5150
+2.15 IC_50
+Peptide
+Data
+10083
+Antioxidative peptide
+YPFVEP
+750.8358
+750.3576
+0.00 EC_50
+Peptide
+Data
+10084
+ACE inhibitor
+YPFVEP
+750.8358
+750.3576
+7.48 IC_50
+Peptide
+Data
+10085
+ACE inhibitor
+IPIPATKT
+840.0161
+839.5100
+265.00 IC_50
+Peptide
+Data
+10086
+DPPIV inhibitor
+IPIPATKT
+840.0161
+839.5100
+64.00 IC_50
+Peptide
+Data
+10087
+Hypotensive peptide
+IPIPATKT
+840.0161
+839.5100
+64.00 IC_50
+Peptide
+Data
+10088
+ACE inhibitor
+YGFL
+498.5700
+498.2470
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 290 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

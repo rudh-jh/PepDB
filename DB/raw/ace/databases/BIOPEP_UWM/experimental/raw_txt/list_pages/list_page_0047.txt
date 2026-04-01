@@ -1,0 +1,190 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 47
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=46bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+3319
+Antioxidative peptide
+HH
+292.2932
+292.1281
+0.00 EC_50
+Peptide
+Data
+3320
+HHPLL
+615.7225
+615.3483
+0.00 EC_50
+Peptide
+Data
+3321
+KIPYIL
+745.9464
+745.4723
+0.00 EC_50
+Peptide
+Data
+3322
+RRPYIL
+816.9878
+816.4956
+0.00 EC_50
+Peptide
+Data
+3323
+ELYENKPRRPYIL
+1690.9344
+1689.9174
+0.00 EC_50
+Peptide
+Data
+3324
+HDMNKVLDL
+1084.2447
+1083.5365
+0.00 EC_50
+Peptide
+Data
+3327
+DSDPR
+588.5668
+588.2495
+0.00 EC_50
+Peptide
+Data
+3328
+DTEAR
+590.5826
+590.2651
+0.00 EC_50
+Peptide
+Data
+3331
+human beta-casein fr.58-61
+LVYP
+490.5909
+490.2782
+170.00 EC_50
+Peptide
+Data
+3332
+human beta-casein fr. 57-61
+SLVYP
+577.6680
+577.3101
+41.00 EC_50
+Peptide
+Data
+3333
+human beta-casein fr. 55-61
+TQSLVYP
+806.9005
+806.4160
+64.00 EC_50
+Peptide
+Data
+3334
+human beta-casein fr. 54-61
+QTQSLVYP
+935.0294
+934.4744
+73.00 EC_50
+Peptide
+Data
+3335
+human beta-casein fr.53-61
+AQTQSLVYP
+1006.1071
+1005.5114
+76.00 EC_50
+Peptide
+Data
+3336
+human beta-casein fr. 52-61
+FAQTQSLVYP
+1153.2806
+1152.5796
+25.00 EC_50
+Peptide
+Data
+3337
+human beta-casein fr. 50-61
+HPFAQTQSLVYP
+1387.5345
+1386.6910
+26.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

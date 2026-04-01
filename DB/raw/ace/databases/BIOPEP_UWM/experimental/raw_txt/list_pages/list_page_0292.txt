@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 292
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=291bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10104
+Alpha-glucosidase inhibitor
+STFQQMW
+927.0335
+926.3943
+1190.94 IC_50
+Peptide
+Data
+10105
+Antibacterial peptide
+IAK
+330.4219
+330.2260
+0.00 EC_50
+Peptide
+Data
+10106
+Hypotensive peptide
+IAK
+330.4219
+330.2260
+0.00 EC_50
+Peptide
+Data
+10107
+ACE inhibitor
+PGVLPVA
+651.7925
+651.3943
+0.78 IC_50
+Peptide
+Data
+10108
+Dipeptidyl peptidase IV inhibitor
+PGVLPVA
+651.7925
+651.3943
+392.00 IC_50
+Peptide
+Data
+10109
+ACE inhibitor
+YLYSPAY
+875.9608
+875.4051
+8.52 IC_50
+Peptide
+Data
+10110
+Dipeptidyl peptidase IV inhibitor
+YLYSPAY
+875.9608
+875.4051
+181.00 IC_50
+Peptide
+Data
+10111
+Wheylin-1
+MH
+286.3510
+286.1096
+0.00 EC_50
+Peptide
+Data
+10112
+Wheylin-2
+MKG
+334.4350
+334.1669
+0.00 EC_50
+Peptide
+Data
+10113
+ACE inhibitor
+YLL
+407.5025
+407.2412
+518.54 IC_50
+Peptide
+Data
+10114
+alpha-lactorphin – mucin secretion stimulator
+YGLF
+498.5700
+498.2470
+0.00 EC_50
+Peptide
+Data
+10115
+Dipeptidyl peptidase IV (DPPIV) inhibitor
+YPFPGPIPN
+1001.1320
+1000.5002
+670.00 IC_50
+Peptide
+Data
+10116
+Antinociceptive peptide
+RP
+271.3153
+271.1640
+0.00 EC_50
+Peptide
+Data
+10117
+SARS-CoV‑2 spike protein binding peptide
+TVFGLNVWKRYSK
+1597.8528
+1596.8750
+0.00 EC_50
+Peptide
+Data
+10118
+SARS-CoV‑2 spike protein binding peptide
+LVMGLNAWNMWYK
+1625.9513
+1624.7869
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 292 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

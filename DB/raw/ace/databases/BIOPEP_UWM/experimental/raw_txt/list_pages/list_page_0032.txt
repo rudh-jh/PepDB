@@ -1,0 +1,196 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 32
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=31bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+3083
+DSDPR
+588.5668
+588.2495
+0.00 EC_50
+Peptide
+Data
+3086
+guinea pig defensin GPNP
+RRCICTTRTCRFPYRRLGTCIFQNRVYTFCC
+3838.5584
+3835.8345
+0.00 EC_50
+Peptide
+Data
+3087
+Gluten exorphin C
+YPISL
+591.6945
+591.3257
+13.50 EC_50
+Peptide
+Data
+3088
+gluten B5 exorphin
+YGGWL
+594.6572
+594.2793
+0.02 EC_50
+Peptide
+Data
+3089
+gluten B4 exorphin
+YGGW
+481.5000
+481.1955
+3.40 EC_50
+Peptide
+Data
+3090
+gluten A5 exorphin
+GYYPT
+599.6307
+599.2582
+60.00 EC_50
+Peptide
+Data
+3091
+gluten A4 exorphin
+GYYP
+498.5271
+498.2107
+70.00 EC_50
+Peptide
+Data
+3092
+oxyntomodulin
+KRNKNNIA
+957.0861
+956.5500
+0.00 EC_50
+Peptide
+Data
+3093
+gliadin 2 exorphin
+YPLG
+448.5114
+448.2314
+0.00 EC_50
+Peptide
+Data
+3094
+gliadin 1 exorphin
+PLG
+285.3385
+285.1683
+0.00 EC_50
+Peptide
+Data
+3095
+Splenopentin
+RKEVY
+693.7895
+693.3798
+0.00 EC_50
+Peptide
+Data
+3096
+fragment of laminin A chain: 2091-2108
+CSRARKQAASIKVAVSADR
+2017.3127
+2016.0978
+0.00 EC_50
+Peptide
+Data
+3098
+fragment of bovine beta casein (91-93)
+GVM
+305.3939
+305.1404
+0.00 EC_50
+Peptide
+Data
+3099
+Immunostimulating peptide
+LGY
+351.3965
+351.1788
+0.00 EC_50
+Peptide
+Data
+3100
+fragment of beta-amyloid protein: Q11-1-28
+DAEFRHDSGYQVHHQKLVFFAEDVGSNK
+3261.4649
+3259.5387
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 32 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

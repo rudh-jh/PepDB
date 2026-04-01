@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 137
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=136bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+7777
+Streptococcus mutans inhibitor
+SGSLSTFFRLFNRSFTQALGK
+2364.6500
+2363.2348
+0.00 EC_50
+Peptide
+Data
+7778
+Streptococcus mutans inhibitor
+TFFRLFNRSFTQALGKGGGKNLRIIRKGIHIIKKY
+4079.8302
+4077.3676
+0.00 EC_50
+Peptide
+Data
+7779
+Streptococcus mutans inhibitor
+TFFRLFNR
+1100.2693
+1099.5910
+0.00 EC_50
+Peptide
+Data
+7780
+peptide from Rhinovirus-2, VP-protein
+NPVENYIDEVLNEVLVVPNINSSNC
+2788.0409
+2786.3387
+0.00 EC_50
+Peptide
+Data
+7781
+peptide from human immunodefficiency virus-1*
+GRKKRRQRRR
+1396.6501
+1395.8851
+0.00 EC_50
+Peptide
+Data
+7782
+peptide from: influenza virus*
+GLFEAEGFIENGWEGMIDGWYG
+2477.6518
+2476.0645
+0.00 EC_50
+Peptide
+Data
+7783
+N-terminal peptide (INF7)
+GLFEAIEGFIENGWEGMIWDYG
+2533.7578
+2532.1269
+0.00 EC_50
+Peptide
+Data
+7784
+peptide from vesicular stomatitis virus
+KFTIVFPHNQKGNWKNVPSNYHYCP
+3019.3884
+3017.4714
+0.00 EC_50
+Peptide
+Data
+7785
+Antibacterial peptide
+FKCRRWQWRMKKLGA
+1994.4343
+1993.0737
+0.00 EC_50
+Peptide
+Data
+7786
+peptide from bovine prion protein
+MVKSKIGSWILVLFVAMWSDVGLCKKRPKP
+3418.2265
+3415.9003
+0.00 EC_50
+Peptide
+Data
+7787
+de novo designed peptide
+WEAKLAKALAKALAKHLAKALKAKALCEA
+3060.7354
+3058.8150
+0.00 EC_50
+Peptide
+Data
+7788
+de novo designed peptide
+GALFLGFLGAAGSTMGAWSQPKKKRKV
+2807.3116
+2805.5429
+0.00 EC_50
+Peptide
+Data
+7789
+de novo designed peptide
+GLFEALLELLESLWELLLLEA
+2414.8224
+2413.3351
+0.00 EC_50
+Peptide
+Data
+7790
+de novo designed peptide from transportan
+GWTLNSAGYLLGKINLKALAALAKKIL
+2841.4272
+2839.6999
+0.00 EC_50
+Peptide
+Data
+7791
+de novo designed peptide (penetratin analogue)
+LIRLWSHLIHIWFQNRRLKWKKK
+3100.7468
+3098.8348
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 137 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

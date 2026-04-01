@@ -1,0 +1,190 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 8
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=7bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+2680
+Erythropoietin mimetic
+VGNYMCHFGPITWVCRPGGG
+2151.4901
+2149.9618
+0.00 EC_50
+Peptide
+Data
+2682
+Erythropoietin receptor agonist
+DLEGCRLGWVGHCNVWGGDEYTKRTSHSVPPSHKSKLL
+4250.7240
+4248.0681
+0.00 EC_50
+Peptide
+Data
+2683
+Peptide stimulating red blood cell creation
+GGTYSCHFGPATWVCKPQGG
+2053.2769
+2051.8953
+0.00 EC_50
+Peptide
+Data
+2684
+Peptide stimulating red blood cell creation
+GGTYSCHFGALTWVCKPQGG
+2069.3192
+2067.9265
+0.00 EC_50
+Peptide
+Data
+2685
+Peptide stimulating red blood cell creation
+GGTYSCHFGPLTFVCKPQGG
+2056.3204
+2054.9312
+0.00 EC_50
+Peptide
+Data
+2686
+GNADGPTLRQWLEGRRPKN
+2165.3658
+2164.1217
+0.00 EC_50
+Peptide
+Data
+2687
+GGCADGPTLREWISFCGG
+1826.0156
+1824.7897
+0.00 EC_50
+Peptide
+Data
+2689
+Erythropoietin mimetic
+GGLYLCRFGPVTWDCGYKGG
+2149.4466
+2147.9889
+0.00 EC_50
+Peptide
+Data
+2694
+Erythropoietin mimetic
+GGCTLREWLHGGFCGG
+1649.8489
+1648.7216
+0.00 EC_50
+Peptide
+Data
+2695
+TIKGPTLRQWLKSREHTS
+2138.4230
+2137.1721
+0.00 EC_50
+Peptide
+Data
+2696
+IEGPTLRQWLAARA
+1581.8121
+1580.8761
+0.00 EC_50
+Peptide
+Data
+2697
+GRVRDQIMLSLGG
+1401.6315
+1400.7535
+0.00 EC_50
+Peptide
+Data
+2698
+LAIEGPTLRQWLHGNGRDT
+2134.3485
+2133.1046
+0.00 EC_50
+Peptide
+Data
+2699
+SFLLRN
+748.8678
+748.4219
+0.00 EC_50
+Peptide
+Data
+2700
+somatostatin
+AGCKNFFWKTFTSC
+1639.8920
+1638.7299
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 374 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

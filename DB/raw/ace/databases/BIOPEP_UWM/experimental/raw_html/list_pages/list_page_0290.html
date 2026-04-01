@@ -1,0 +1,276 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+//document.onkeydown = keyDown 
+
+function oki(msg,msg1,msg2) { //v1.0
+  //alert(msg);
+var keycode = event.keyCode
+
+	var realkey = String.fromCharCode(event.keyCode)
+	//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+	if (keycode==13 || (typeof keycode == "undefined")){
+ // alert(msg);
+  var text,adres,adres2,text2,text3,text4;
+  text=document.fm_raporty.elements["textfield"].value
+  text4=msg
+//    text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+		alert(text2)
+		adres=msg
+		}
+if (adres<0) {
+		alert(text3)
+		adres=msg		
+		}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+
+  document.forms['fm_raporty1'].submit();
+}
+//-->
+</script>
+</head>
+
+<body>
+<div align="center">
+  <p class="nag1">BIOPEP-UWM: Bioactive peptides</p>
+</div>
+  <form action="rec_pro1.php" method="get" name="fm_raporty1"> 
+	    <input type="image" src="images/button0_normal.gif" onClick="submitform()" value="ANALYSIS">
+  </form>
+<table width="95%" border="0" cellpadding="3" cellspacing="0" class="table-out">
+  <tr class="infobold"> 
+    <td colspan="6">Number of peptides in database: <span class="info">5601&nbsp;</span></td>
+  </tr>
+  <tr class="infobold"> 
+    <td bgcolor="#eeeeff">&nbsp;</td>
+    <td bgcolor="#eeeeff">ID</td>
+    <td bgcolor="#eeeeff">Name</td>
+    <td bgcolor="#eeeeff">Sequence</td>
+    <td bgcolor="#eeeeff">Chem. mass</td>
+    <td bgcolor="#eeeeff">Monois. mass</td>
+	<td bgcolor="#eeeeff"></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10074">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10074</td>
+    <td nowrap>Antioxidative peptide</td>
+    <td nowrap>SDPPLVFVG</td>
+    <td nowrap>930.0526</td>
+    <td nowrap>929.4842</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10075">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10075</td>
+    <td nowrap>Antioxidative peptide</td>
+    <td nowrap>YPFVE</td>
+    <td nowrap>653.7209</td>
+    <td nowrap>653.3050</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10076">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10076</td>
+    <td nowrap>ACE inhibitor </td>
+    <td nowrap>IAF</td>
+    <td nowrap>349.4236</td>
+    <td nowrap>349.1995</td>
+	<td nowrap>19.87 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10077">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10077</td>
+    <td nowrap>Peptide stimulating mucin secretion</td>
+    <td nowrap>YPFVE</td>
+    <td nowrap>653.7209</td>
+    <td nowrap>653.3050</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10078">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10078</td>
+    <td nowrap>Hypotensive peptide</td>
+    <td nowrap>LHLPLPL</td>
+    <td nowrap>802.0128</td>
+    <td nowrap>801.5097</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10079">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10079</td>
+    <td nowrap>Iron binding peptide</td>
+    <td nowrap>AVPYPQR</td>
+    <td nowrap>829.9404</td>
+    <td nowrap>829.4433</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10080">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10080</td>
+    <td nowrap>ACE inhibitor</td>
+    <td nowrap>FCLYELAR</td>
+    <td nowrap>1014.1964</td>
+    <td nowrap>1013.4988</td>
+	<td nowrap>31.63 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10081">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10081</td>
+    <td nowrap>ACE inhibitor</td>
+    <td nowrap>ISSMGILVCL</td>
+    <td nowrap>1035.3207</td>
+    <td nowrap>1034.5485</td>
+	<td nowrap>3.88 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10082">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10082</td>
+    <td nowrap>ACE inhibitor</td>
+    <td nowrap>ETSGMKPTEL</td>
+    <td nowrap>1092.2188</td>
+    <td nowrap>1091.5150</td>
+	<td nowrap>2.15 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10083">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10083</td>
+    <td nowrap>Antioxidative peptide</td>
+    <td nowrap>YPFVEP</td>
+    <td nowrap>750.8358</td>
+    <td nowrap>750.3576</td>
+	<td nowrap>0.00 EC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10084">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10084</td>
+    <td nowrap>ACE inhibitor</td>
+    <td nowrap>YPFVEP</td>
+    <td nowrap>750.8358</td>
+    <td nowrap>750.3576</td>
+	<td nowrap>7.48 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10085">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10085</td>
+    <td nowrap>ACE inhibitor</td>
+    <td nowrap>IPIPATKT</td>
+    <td nowrap>840.0161</td>
+    <td nowrap>839.5100</td>
+	<td nowrap>265.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10086">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10086</td>
+    <td nowrap>DPPIV inhibitor</td>
+    <td nowrap>IPIPATKT</td>
+    <td nowrap>840.0161</td>
+    <td nowrap>839.5100</td>
+	<td nowrap>64.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10087">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10087</td>
+    <td nowrap>Hypotensive peptide</td>
+    <td nowrap>IPIPATKT</td>
+    <td nowrap>840.0161</td>
+    <td nowrap>839.5100</td>
+	<td nowrap>64.00 IC<sub>50</sub></td>
+  </tr>
+    <tr class="info"> 
+    <td nowrap><a href="peptide_data_page1.php?zm_ID=10088">Peptide 
+      Data</a>&nbsp;</td>
+    <td nowrap>10088</td>
+    <td nowrap>ACE inhibitor</td>
+    <td nowrap>YGFL</td>
+    <td nowrap>498.5700</td>
+    <td nowrap>498.2470</td>
+	<td nowrap>0.00 IC<sub>50</sub></td>
+  </tr>
+  </table>
+<form action="peptide_data.php" method="get" name="fm_raporty">
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=0ddd">First</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=288ccc">Previous</a></td>
+    <td>Page:</td>
+    <td><input name="textfield" type="text" class="info" onKeyPress="javascript:oki(290,5601,374)" size="3" maxlength="4"></td>
+    <td><input name="button1" type="image" src="images/ok0_normal.gif" onClick="javascript:oki(290,5601,374)" value="OK"></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=290bbb">Next</a></td>
+    <td><a href="/biopep/peptide_data.php?pageNum_result1=373aaa">Last</a></td>
+  </tr>
+</table>
+ <div align="center"><span class="infoitalic">Page 290 / 374</span></div> 
+<input name="pageNum_result1" type="hidden" >
+<input name="totalRows_result1" type="hidden" >
+</form>
+<form action="peptide_data_search.php" method="get" name="fm_search" >
+<table width="200" border="0" align="center" class="info">
+  <tr>
+    <td>Search:</td>
+    <td><input name="txt_search" type="text" class="info" size="30" maxlength="30"></td>
+    <td>by:</td>
+    <td><select name="menu_search">
+      <option value="idsearch">ID</option>
+	  <option value="name">Name</option>
+      <option value="activity">Activity</option>
+      <option value="reference">Reference</option>
+	  <option value="sequence">Sequence</option>
+	  <option value="numberof">Number of amino ...</option>
+	  <option value="mass">Mass</option>
+	  <option value="inchik">InChIKey</option>
+    </select></td>
+    <td><input name="button12" type="image" src="images/go0_normal.gif" value="GO" onClick="this.form.submit()"></td>
+	<td><input type="checkbox" name="exact" value="ex" /></td>
+	<td>exact</td>
+  </tr>
+</table>
+<div align="center"><span class="info"> ID (e.g. 2572)<br>
+    Name (e.g. lactorphin)<br>
+    Activity (e. g. antioxidative) <a href="activity_dic_list.php" target="_blank">List of activities</a><br>
+    Mass (e.g. 700-1200)<br>
+    Reference (e.g. Meisel)<br>
+    Sequence (e.g. IPP)<br>
+    Number of residues (e.g. 2)<br>
+	InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)<br>
+    </span> </div>
+</form>
+</body>
+</html>
+

@@ -1,0 +1,196 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 144
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=143bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+7883
+peptide from tropomyosin, pork muscles
+EELDNALN
+916.9267
+916.4123
+0.00 EC_50
+Peptide
+Data
+7884
+peptide from myosin heavy chain, pork muscles
+VPSIDDQEELM
+1275.3798
+1274.5679
+0.00 EC_50
+Peptide
+Data
+7885
+peptide from soybean b-conglycinin (Glycine max)
+LNSGDALRVPSGTTYY
+1713.8373
+1712.8342
+0.00 EC_50
+Peptide
+Data
+7886
+peptide derived from egg white albumin
+AH
+226.2319
+226.1063
+0.00 EC_50
+Peptide
+Data
+7887
+peptide from aS1-casein
+YFYPEL
+830.9203
+830.3837
+0.00 EC_50
+Peptide
+Data
+7888
+antioxidative peptide
+EL
+260.2861
+260.1367
+0.00 EC_50
+Peptide
+Data
+7889
+peptide from skin gelatin of hoki (Johnius belengerii)
+HGPLGPL
+689.8008
+689.3849
+0.00 EC_50
+Peptide
+Data
+7890
+YLYP
+554.6331
+554.2731
+0.00 EC_50
+Peptide
+Data
+7891
+peptide from bovine b-lactoglobulin A
+WYSLAMAASDI
+1227.3833
+1226.5622
+0.00 EC_50
+Peptide
+Data
+7892
+Antioxidative peptide
+MHIRL
+668.8506
+668.3781
+0.00 EC_50
+Peptide
+Data
+7893
+Antioxidative peptide
+YVEEL
+651.7034
+651.3104
+0.00 EC_50
+Peptide
+Data
+7894
+peptide from human milk b-casein (167-173)
+QVVPYPQ
+829.9371
+829.4320
+0.00 EC_50
+Peptide
+Data
+7895
+peptide from human milk b-casein (193-198)
+HQIYPV
+755.8588
+755.3954
+0.00 EC_50
+Peptide
+Data
+7896
+peptide from human milk b-casein (170-173)
+PYPQ
+503.5468
+503.2372
+0.00 EC_50
+Peptide
+Data
+7897
+peptide from human milk b-casein (154-160)
+WSVPQPK
+840.9630
+840.4480
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 144 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

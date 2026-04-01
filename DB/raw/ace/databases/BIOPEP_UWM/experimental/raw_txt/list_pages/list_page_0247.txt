@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 247
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=246bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+9429
+Antibacterial peptide
+GLPGPLGPAGPK
+1060.2435
+1059.6058
+0.00 IC_50
+Peptide
+Data
+9430
+Renin inhibitor
+NR
+288.3028
+288.1542
+0.00 IC_50
+Peptide
+Data
+9431
+Renin inhibitor
+QF
+293.3176
+293.1371
+0.00 IC_50
+Peptide
+Data
+9432
+Renin inhibitor
+SF
+252.2658
+252.1106
+0.00 IC_50
+Peptide
+Data
+9433
+Renin inhibitor
+YA
+252.2658
+252.1106
+0.00 IC_50
+Peptide
+Data
+9434
+ACE inhibitor
+RVCLP
+586.7470
+586.3251
+175.00 IC_50
+Peptide
+Data
+9435
+Antioxidative peptide
+VAGTWY
+695.7608
+695.3268
+0.00 EC_50
+Peptide
+Data
+9436
+Antioxidative peptide
+IIAPPER
+794.9360
+794.4636
+0.00 EC_50
+Peptide
+Data
+9437
+Antioxidative peptide
+LAPSTIK
+728.8747
+728.4418
+0.00 EC_50
+Peptide
+Data
+9438
+Antioxidative peptide
+VAPEEHPV
+876.9505
+876.4327
+0.00 EC_50
+Peptide
+Data
+9439
+Antioxidative peptide
+KVEGDLK
+787.8988
+787.4425
+0.00 EC_50
+Peptide
+Data
+9440
+Antioxidative peptide
+NYVADGLG
+807.8457
+807.3750
+0.00 EC_50
+Peptide
+Data
+9441
+Antioxidative peptide
+AAAPVAVAK
+796.9518
+796.4792
+0.00 EC_50
+Peptide
+Data
+9442
+Antioxidative peptide
+YDDGSYKPH
+1081.0894
+1080.4497
+0.00 EC_50
+Peptide
+Data
+9443
+Antioxidative peptide
+AGDDAPR
+700.6963
+700.3130
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 247 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

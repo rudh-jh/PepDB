@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 139
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=138bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+7807
+ACE inhibitor from caprine beta-Lg
+LLF
+391.5031
+391.2463
+79.80 IC_50
+Peptide
+Data
+7808
+ACE inhibitor from caprine b-Lg
+LVRT
+487.5919
+487.3109
+1000.00 EC_50
+Peptide
+Data
+7809
+ACE inhibitor from porcine plasma
+GVHGV
+467.5180
+467.2485
+2.00 IC_50
+Peptide
+Data
+7810
+ACE inhibitor from anchovy and bonito
+KP
+243.3019
+243.1578
+22.00 IC_50
+Peptide
+Data
+7811
+ACE inhibitor from tuna
+VWIG
+473.5638
+473.2630
+110.00 IC_50
+Peptide
+Data
+7812
+ACE inhibitor from blue mussel
+EVMAGNYLPG
+1050.1839
+1049.4835
+2.98 IC_50
+Peptide
+Data
+7813
+ACE inhibitor from yellowfish sole
+MIFPGAGGPEL
+1088.2747
+1087.5354
+0.03 IC_50
+Peptide
+Data
+7814
+ACE inhibitor from chickpea legumin
+MDFLI
+637.7871
+637.3134
+0.01 IC_50
+Peptide
+Data
+7815
+ACE inhibitor from chickpea legumin
+MFDL
+524.6299
+524.2296
+0.01 IC_50
+Peptide
+Data
+7816
+ACE inhibitor from chickpea legumin
+MDLA
+448.5341
+448.1984
+0.01 IC_50
+Peptide
+Data
+7817
+ACE inhibitor
+YNKL
+536.6195
+536.2949
+21.00 IC_50
+Peptide
+Data
+7818
+ACE inhibitor from mushroom Tricholoma giganteum
+VIEKYP
+747.8764
+747.4153
+0.10 IC_50
+Peptide
+Data
+7819
+ACE inhibitor from wheat gliadin
+IAP
+299.3650
+299.1839
+2.70 IC_50
+Peptide
+Data
+7820
+ACE inhibitor from wheat gliadin
+GPP
+269.2962
+269.1371
+23.10 IC_50
+Peptide
+Data
+7821
+Rapakinin - ACE inhibitor
+RIY
+450.5305
+450.2583
+28.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 139 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

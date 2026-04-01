@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 29
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=28bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+3034
+CaMPDE inhibitor
+VYQHQKAMKPWIQPKTKVIPYVRYL
+3115.7280
+3113.7312
+0.00 EC_50
+Peptide
+Data
+3035
+isracidin
+RPKHPIKHQGLPQEVLNENLLRF
+2764.1833
+2762.5411
+0.00 EC_50
+Peptide
+Data
+3036
+insulin secretion inhibitor
+YNVEHAVDYVERA
+1564.6497
+1563.7294
+0.00 EC_50
+Peptide
+Data
+3037
+insulin secretion inhibitor
+DRIEYNVEHAVDY
+1622.6857
+1621.7348
+0.00 EC_50
+Peptide
+Data
+3038
+insulin secretion inhibitor
+IEYNVEHAVDYVE
+1579.6577
+1578.7177
+0.00 EC_50
+Peptide
+Data
+3039
+Inhibitor of fibrinogen and thrombin coagulation
+GPRPP
+522.5963
+522.2906
+0.00 EC_50
+Peptide
+Data
+3040
+Inhibitor of fibrinogen and thrombin coagulation
+GPRG
+385.4177
+385.2068
+0.00 EC_50
+Peptide
+Data
+3041
+inhibitor of fibrinogen and thrombin coagulation
+GPRGP
+482.5326
+482.2594
+0.00 EC_50
+Peptide
+Data
+3042
+inhibitor of fibrinogen and thrombin coagulation
+GPRGPA
+553.6103
+553.2964
+0.00 EC_50
+Peptide
+Data
+3043
+inhibitor of fibrinogen and thrombin coagulation
+GPRP
+425.4814
+425.2380
+0.00 EC_50
+Peptide
+Data
+3044
+Antithrombotic peptide
+GPRGPP
+579.6475
+579.3120
+0.00 EC_50
+Peptide
+Data
+3046
+inhibitor of insulin secretion
+PGP
+269.2962
+269.1371
+0.00 EC_50
+Peptide
+Data
+3047
+Antithrombotic peptide
+GPR
+328.3665
+328.1854
+0.00 EC_50
+Peptide
+Data
+3049
+CaMKII inhibitor
+LREIQILLRF
+1300.5877
+1299.8003
+0.00 IC_50
+Peptide
+Data
+3050
+CaMKII inhibitor
+YCQRTLREIQILLRF
+1952.3221
+1951.0793
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 29 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

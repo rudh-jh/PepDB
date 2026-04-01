@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 17
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=16bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+2833
+Pardaxin 1 from pacific sole Pardachirus pavoninus
+GFFALIPKIISSPLFKTLLSAVGSALSSSGEQE
+3395.8837
+3393.8375
+0.00 EC_50
+Peptide
+Data
+2834
+papain inhibitor
+GGYR
+451.4757
+451.2173
+0.00 EC_50
+Peptide
+Data
+2835
+Renin inhibitor
+FT
+266.2923
+266.1262
+0.00 EC_50
+Peptide
+Data
+2836
+Oxitocin precursor
+CYIQNCPLGG
+1067.2387
+1066.4560
+0.00 EC_50
+Peptide
+Data
+2837
+oxitocin
+CYIQNCPLG~
+1009.2027
+1008.4506
+0.00 EC_50
+Peptide
+Data
+2838
+oryzatensin - smooth musles contracting peptide
+GYPMYPLPR
+1093.2961
+1092.5409
+0.00 EC_50
+Peptide
+Data
+2839
+oryzatensin
+GYPMYPLPR
+1093.2961
+1092.5409
+0.00 EC_50
+Peptide
+Data
+2840
+oryzatensin
+GYPMYPLPR
+1093.2961
+1092.5409
+0.00 EC_50
+Peptide
+Data
+2841
+orphanin FQ/nociceptin fragment [FQ/N (1-11)]
+FGGFTGARKSA
+1098.2089
+1097.5601
+0.00 EC_50
+Peptide
+Data
+2842
+Renin inhibitor
+LR
+287.3576
+287.1952
+0.00 EC_50
+Peptide
+Data
+2843
+orphanin FQ/nociceptin fragment [FQ/N (1-7)]
+FGGFTGA
+655.6971
+655.2956
+0.00 EC_50
+Peptide
+Data
+2844
+orphanin FQ/nociceptin [FQ/N (1-11)] analog
+YGGFTGARKSA
+1114.2083
+1113.5550
+0.00 EC_50
+Peptide
+Data
+2845
+Analog of orphanin FQ/nociceptin fragment 1-11
+FGGFTGARKSY
+1190.3041
+1189.5862
+0.00 EC_50
+Peptide
+Data
+2846
+Analog of orphanin FQ/nociceptin fragment 1-11
+FGGFTGARKYA
+1174.3047
+1173.5913
+0.00 EC_50
+Peptide
+Data
+2847
+Cytochrophin-4
+YPFT
+526.5801
+526.2419
+0.00 EC_50
+First
+Previous
+Page:
+Next
+Last
+Page 17 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

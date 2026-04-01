@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 336
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=335bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10764
+Inhibitor of tripeptidyl peptidase II
+VV{~!C1}
+229.3183
+229.1785
+0.00 IC_50
+Peptide
+Data
+10765
+Inhibitor of tripeptidyl peptidase II
+{C4:0!}{H2CO3}V{Nle}
+330.4186
+330.2147
+0.00 IC_50
+Peptide
+Data
+10766
+Inhibitor of tripeptidyl peptidase II
+{C1!}{H2CO3}V{Nva}
+274.3126
+274.1523
+0.00 IC_50
+Peptide
+Data
+10767
+Inhibitor of tripeptidyl peptidase II
+{[ph]C1!}V{Nva}
+306.3989
+306.1937
+0.00 IC_50
+Peptide
+Data
+10768
+Antioxidative peptide
+GA
+146.1441
+146.0689
+0.00 EC_50
+Peptide
+Data
+10769
+Antioxidative peptide
+GVPY
+434.4849
+434.2158
+0.00 EC_50
+Peptide
+Data
+10770
+Antioxidative peptide
+PH
+252.2691
+252.1219
+0.00 EC_50
+Peptide
+Data
+10771
+Antioxidative peptide
+PK
+243.3019
+243.1578
+0.00 EC_50
+Peptide
+Data
+10772
+Antioxidative peptide
+SGP
+259.2584
+259.1164
+0.00 EC_50
+Peptide
+Data
+10773
+Inhibitor of Alanine carboxypeptidase
+GA
+146.1441
+146.0689
+0.00 IC_50
+Peptide
+Data
+10774
+ACE inhibitor
+IPPAYSK
+774.9017
+774.4262
+116.06 IC_50
+Peptide
+Data
+10775
+ACE inhibitor
+ILVDR
+614.7327
+614.3740
+81.25 IC_50
+Peptide
+Data
+10776
+ACE inhibitor
+FFFPK
+684.8224
+684.3624
+510.67 IC_50
+Peptide
+Data
+10777
+ACE inhibitor
+LLDPR
+612.7169
+612.3584
+277.16 IC_50
+Peptide
+Data
+10778
+ACE inhibitor
+IWHHTFYNELR
+1515.6684
+1514.7397
+697.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 336 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 295
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=294bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+10149
+Antioxidative peptide
+NKGPR
+570.6407
+570.3229
+0.00 IC_50
+Peptide
+Data
+10150
+Antioxidative peptide
+DNLLN
+587.6216
+587.2905
+0.00 IC_50
+Peptide
+Data
+10151
+ACE inhibitor
+YTFPFH
+810.8926
+810.3689
+24.12 IC_50
+Peptide
+Data
+10152
+ACE inhibitor
+VPLW
+513.6275
+513.2942
+24.12 IC_50
+Peptide
+Data
+10153
+beta-casomorphin-5 immunomodulating
+YPFPG
+579.6426
+579.2684
+0.00 IC_50
+Peptide
+Data
+10154
+beta-casomorphin-5 anticancer
+YPFPG
+579.6426
+579.2684
+0.00 IC_50
+Peptide
+Data
+10155
+Antioxidative peptide
+QIESW
+661.7016
+661.3061
+0.00 EC_50
+Peptide
+Data
+10156
+Antioxidative peptide
+SEGFEW
+753.7539
+753.2959
+0.00 EC_50
+Peptide
+Data
+10157
+Antioxidative peptide
+IDLGTTY
+781.8481
+781.3844
+0.00 EC_50
+Peptide
+Data
+10158
+Antioxidative peptide
+NLNQCQRYM
+1169.3337
+1168.5101
+0.00 EC_50
+Peptide
+Data
+10159
+Antioxidative peptide
+GEGFFEM
+815.8888
+815.3148
+0.00 EC_50
+Peptide
+Data
+10160
+ACE inhibitor
+LIIPQH
+719.8696
+719.4317
+0.00 IC_50
+Peptide
+Data
+10161
+ACE inhibitor
+LIIPEH
+720.8544
+720.4157
+0.00 EC_50
+Peptide
+Data
+10162
+HMG-CoA reductase inhibitor
+YDFYPSSTKDQQS
+1565.5883
+1564.6658
+0.00 IC_50
+Peptide
+Data
+10163
+Inhibitor of tripeptidyl peptidase 2
+VY
+280.3188
+280.1418
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 295 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

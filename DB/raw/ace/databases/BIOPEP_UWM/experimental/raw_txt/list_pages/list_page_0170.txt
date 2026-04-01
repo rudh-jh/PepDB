@@ -1,0 +1,197 @@
+﻿BIOPEP-UWM experimental 列表页
+页码: 170
+URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=169bbb
+
+Untitled Document
+<!--
+//document.onkeydown = keyDown
+function oki(msg,msg1,msg2) { //v1.0
+//alert(msg);
+var keycode = event.keyCode
+var realkey = String.fromCharCode(event.keyCode)
+//alert("keycode: " + keycode + "\nrealkey: " + realkey)
+if (keycode==13 || (typeof keycode == "undefined")){
+// alert(msg);
+var text,adres,adres2,text2,text3,text4;
+text=document.fm_raporty.elements["textfield"].value
+text4=msg
+// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
+// alert(text);
+text=text+"-1";
+text4=text4+"-1";
+adres=eval(text)
+msg=eval(text4)
+adres=parseInt(adres)
+adres2=parseInt(msg2)
+text2="Enter value <="+msg2
+text3="Enter value >=1"
+if (adres>=adres2) {
+alert(text2)
+adres=msg
+}
+if (adres<0) {
+alert(text3)
+adres=msg
+}
+document.fm_raporty.elements["pageNum_result1"].value=adres
+document.fm_raporty.elements["totalRows_result1"].value=msg1
+document.fm_raporty.submit()
+}
+}
+function submitform()
+{
+document.forms['fm_raporty1'].submit();
+}
+//-->
+BIOPEP-UWM: Bioactive peptides
+Number of peptides in database: 5601
+ID
+Name
+Sequence
+Chem. mass
+Monois. mass
+Peptide
+Data
+8273
+Anticancer peptide
+NENLLRFFVAPFPEVFG
+1996.2611
+1995.0222
+0.00 EC_50
+Peptide
+Data
+8274
+Antioxidative peptide
+LPTSEAAKY
+979.0818
+978.5005
+0.00 EC_50
+Peptide
+Data
+8275
+Antioxidative peptide
+PMDYMVT
+856.0181
+855.3493
+0.00 EC_50
+Peptide
+Data
+8276
+Anticancer peptide
+PMDYMVT
+856.0181
+855.3493
+0.00 EC_50
+Peptide
+Data
+8277
+Anticancer peptide
+LPTSEAAKY
+979.0818
+978.5005
+0.00 EC_50
+Peptide
+Data
+8278
+Antioxidative peptide
+VPYPQ
+602.6775
+602.3054
+0.00 EC_50
+Peptide
+Data
+8279
+Antioxidative peptide
+VPNSYP
+675.7281
+675.3217
+0.00 EC_50
+Peptide
+Data
+8280
+Antioxidative peptide
+NPYVPR
+744.8362
+744.3907
+0.00 EC_50
+Peptide
+Data
+8281
+Antioxidative peptide
+YGYTGA
+630.6447
+630.2640
+0.00 EC_50
+Peptide
+Data
+8282
+Antioxidative peptide
+ISELGW
+703.7811
+703.3529
+0.00 EC_50
+Peptide
+Data
+8283
+antioxidative peptide
+NHAV
+439.4650
+439.2173
+0.00 EC_50
+Peptide
+Data
+8284
+antioxidative peptide
+HVRETALV
+924.0530
+923.5173
+0.00 EC_50
+Peptide
+Data
+8285
+antioxidative peptide
+IPIQYVL
+845.0342
+844.5042
+0.00 EC_50
+Peptide
+Data
+8286
+Antioxidative peptide
+GPVRGPFPII
+1052.2661
+1051.6160
+0.00 EC_50
+Peptide
+Data
+8287
+Lipoxygenase inhibitor
+VLPVPQKKVLPVPQK
+1670.0852
+1669.0622
+0.00 IC_50
+First
+Previous
+Page:
+Next
+Last
+Page 170 / 374
+Search:
+by:
+ID
+Name
+Activity
+Reference
+Sequence
+Number of amino ...
+Mass
+InChIKey
+exact
+ID (e.g. 2572)
+Name (e.g. lactorphin)
+Activity (e. g. antioxidative) List of activities
+Mass (e.g. 700-1200)
+Reference (e.g. Meisel)
+Sequence (e.g. IPP)
+Number of residues (e.g. 2)
+InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
