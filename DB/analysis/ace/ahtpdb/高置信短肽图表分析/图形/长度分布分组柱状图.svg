@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="780" viewBox="0 0 1280 780">
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="640.0" y="34" text-anchor="middle" font-size="22" font-weight="bold" font-family="Arial, Helvetica, sans-serif">长度分布分组柱状图</text>
+<line x1="100" y1="640.0" x2="1220" y2="640.0" stroke="#dddddd" stroke-width="1"/>
+<text x="88" y="644.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">0</text>
+<line x1="100" y1="530.0" x2="1220" y2="530.0" stroke="#dddddd" stroke-width="1"/>
+<text x="88" y="534.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">132.2</text>
+<line x1="100" y1="420.0" x2="1220" y2="420.0" stroke="#dddddd" stroke-width="1"/>
+<text x="88" y="424.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">264.4</text>
+<line x1="100" y1="310.0" x2="1220" y2="310.0" stroke="#dddddd" stroke-width="1"/>
+<text x="88" y="314.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">396.6</text>
+<line x1="100" y1="200.0" x2="1220" y2="200.0" stroke="#dddddd" stroke-width="1"/>
+<text x="88" y="204.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">528.8</text>
+<line x1="100" y1="90.0" x2="1220" y2="90.0" stroke="#dddddd" stroke-width="1"/>
+<text x="88" y="94.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">661</text>
+<line x1="100" y1="90" x2="100" y2="640" stroke="#333" stroke-width="1.5"/>
+<line x1="100" y1="640" x2="1220" y2="640" stroke="#333" stroke-width="1.5"/>
+<rect x="324.0" y="263.9" width="32.0" height="376.1" fill="#2E86AB" opacity="0.88"/>
+<text x="340.0" y="257.9" text-anchor="middle" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">452</text>
+<rect x="364.0" y="531.8" width="32.0" height="108.2" fill="#F18F01" opacity="0.88"/>
+<text x="380.0" y="525.8" text-anchor="middle" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">130</text>
+<rect x="404.0" y="564.3" width="32.0" height="75.7" fill="#A23B72" opacity="0.88"/>
+<text x="420.0" y="558.3" text-anchor="middle" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">91</text>
+<text x="380.0" y="664.0" text-anchor="middle" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">2肽</text>
+<rect x="884.0" y="90.0" width="32.0" height="550.0" fill="#2E86AB" opacity="0.88"/>
+<text x="900.0" y="84.0" text-anchor="middle" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">661</text>
+<rect x="924.0" y="464.4" width="32.0" height="175.6" fill="#F18F01" opacity="0.88"/>
+<text x="940.0" y="458.4" text-anchor="middle" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">211</text>
+<rect x="964.0" y="483.6" width="32.0" height="156.4" fill="#A23B72" opacity="0.88"/>
+<text x="980.0" y="477.6" text-anchor="middle" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">188</text>
+<text x="940.0" y="664.0" text-anchor="middle" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">3肽</text>
+<rect x="120" y="54" width="18" height="12" fill="#2E86AB" opacity="0.88"/>
+<text x="144" y="65" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">高置信记录</text>
+<rect x="300" y="54" width="18" height="12" fill="#F18F01" opacity="0.88"/>
+<text x="324" y="65" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">唯一序列</text>
+<rect x="480" y="54" width="18" height="12" fill="#A23B72" opacity="0.88"/>
+<text x="504" y="65" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">稳定序列</text>
+<text x="660.0" y="718.0" text-anchor="middle" font-size="14" fill="#222" font-family="Arial, Helvetica, sans-serif">肽长</text>
+<text x="24" y="365.0" transform="rotate(-90 24,365.0)" text-anchor="middle" font-size="14" fill="#222" font-family="Arial, Helvetica, sans-serif">样本数</text>
+<text x="640.0" y="768" text-anchor="middle" font-size="11" fill="#666" font-family="Arial, Helvetica, sans-serif">同一长度在不同数据层级中的保留情况，可直观看到去重与稳定筛选带来的变化。</text>
+</svg>

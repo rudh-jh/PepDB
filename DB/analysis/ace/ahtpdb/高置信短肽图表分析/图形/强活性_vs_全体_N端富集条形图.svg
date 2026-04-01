@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570">
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="600.0" y="34" text-anchor="middle" font-size="22" font-weight="bold" font-family="Arial, Helvetica, sans-serif">强活性 vs 全体：N 端富集差异条形图</text>
+<line x1="220.0" y1="90" x2="220.0" y2="490" stroke="#e0e0e0" stroke-width="1"/>
+<text x="220.0" y="512.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">-2.05</text>
+<line x1="445.0" y1="90" x2="445.0" y2="490" stroke="#e0e0e0" stroke-width="1"/>
+<text x="445.0" y="512.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">-1.025</text>
+<line x1="670.0" y1="90" x2="670.0" y2="490" stroke="#e0e0e0" stroke-width="1"/>
+<text x="670.0" y="512.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">0</text>
+<line x1="895.0" y1="90" x2="895.0" y2="490" stroke="#e0e0e0" stroke-width="1"/>
+<text x="895.0" y="512.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">1.025</text>
+<line x1="1120.0" y1="90" x2="1120.0" y2="490" stroke="#e0e0e0" stroke-width="1"/>
+<text x="1120.0" y="512.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">2.05</text>
+<line x1="670.0" y1="90" x2="670.0" y2="490" stroke="#444" stroke-width="1.5"/>
+<rect x="220.0" y="94.7" width="450.0" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="107.3" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">E</text>
+<text x="212.0" y="107.3" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-2.05</text>
+<rect x="220.0" y="121.3" width="450.0" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="134.0" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">Q</text>
+<text x="212.0" y="134.0" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-2.05</text>
+<rect x="670.0" y="148.0" width="245.7" height="17.3" fill="#C81D25" opacity="0.88"/>
+<text x="208" y="160.7" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">C</text>
+<text x="923.7" y="160.7" text-anchor="start" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">1.12</text>
+<rect x="432.5" y="174.7" width="237.5" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="187.3" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">R</text>
+<text x="424.5" y="187.3" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-1.082</text>
+<rect x="499.1" y="201.3" width="170.9" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="214.0" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">A</text>
+<text x="491.1" y="214.0" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-0.7785</text>
+<rect x="670.0" y="228.0" width="167.8" height="17.3" fill="#C81D25" opacity="0.88"/>
+<text x="208" y="240.7" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">V</text>
+<text x="845.8" y="240.7" text-anchor="start" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">0.7645</text>
+<rect x="526.3" y="254.7" width="143.7" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="267.3" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">G</text>
+<text x="518.3" y="267.3" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-0.6548</text>
+<rect x="539.1" y="281.3" width="130.9" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="294.0" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">W</text>
+<text x="531.1" y="294.0" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-0.5966</text>
+<rect x="670.0" y="308.0" width="119.9" height="17.3" fill="#C81D25" opacity="0.88"/>
+<text x="208" y="320.7" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">L</text>
+<text x="797.9" y="320.7" text-anchor="start" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">0.5465</text>
+<rect x="567.9" y="334.7" width="102.1" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="347.3" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">H</text>
+<text x="559.9" y="347.3" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-0.4653</text>
+<rect x="567.9" y="361.3" width="102.1" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="374.0" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">N</text>
+<text x="559.9" y="374.0" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-0.4653</text>
+<rect x="567.9" y="388.0" width="102.1" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="400.7" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">S</text>
+<text x="559.9" y="400.7" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-0.4653</text>
+<rect x="670.0" y="414.7" width="84.0" height="17.3" fill="#C81D25" opacity="0.88"/>
+<text x="208" y="427.3" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">M</text>
+<text x="762.0" y="427.3" text-anchor="start" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">0.3827</text>
+<rect x="599.6" y="441.3" width="70.4" height="17.3" fill="#1F78B4" opacity="0.88"/>
+<text x="208" y="454.0" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">D</text>
+<text x="591.6" y="454.0" text-anchor="end" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">-0.3209</text>
+<rect x="670.0" y="468.0" width="65.1" height="17.3" fill="#C81D25" opacity="0.88"/>
+<text x="208" y="480.7" text-anchor="end" font-size="12" fill="#222" font-family="Arial, Helvetica, sans-serif">I</text>
+<text x="743.1" y="480.7" text-anchor="start" font-size="11" fill="#222" font-family="Arial, Helvetica, sans-serif">0.2965</text>
+<text x="670.0" y="546.0" text-anchor="middle" font-size="14" fill="#222" font-family="Arial, Helvetica, sans-serif">log2FC (强活性 / 全体)</text>
+<text x="600.0" y="558" text-anchor="middle" font-size="11" fill="#666" font-family="Arial, Helvetica, sans-serif">红色表示在强活性集合中更富集，蓝色表示相对欠富集。</text>
+</svg>

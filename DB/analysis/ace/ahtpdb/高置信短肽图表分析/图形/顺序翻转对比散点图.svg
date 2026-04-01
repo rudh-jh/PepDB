@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760">
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="450.0" y="34" text-anchor="middle" font-size="22" font-weight="bold" font-family="Arial, Helvetica, sans-serif">顺序翻转对比散点图</text>
+<line x1="100.0" y1="90" x2="100.0" y2="660" stroke="#efefef" stroke-width="1"/>
+<line x1="100" y1="660.0" x2="840" y2="660.0" stroke="#efefef" stroke-width="1"/>
+<text x="100.0" y="682.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">-0.4741</text>
+<text x="88" y="664.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">-0.4741</text>
+<line x1="248.0" y1="90" x2="248.0" y2="660" stroke="#efefef" stroke-width="1"/>
+<line x1="100" y1="546.0" x2="840" y2="546.0" stroke="#efefef" stroke-width="1"/>
+<text x="248.0" y="682.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">0.487</text>
+<text x="88" y="550.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">0.487</text>
+<line x1="396.0" y1="90" x2="396.0" y2="660" stroke="#efefef" stroke-width="1"/>
+<line x1="100" y1="432.0" x2="840" y2="432.0" stroke="#efefef" stroke-width="1"/>
+<text x="396.0" y="682.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">1.448</text>
+<text x="88" y="436.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">1.448</text>
+<line x1="544.0" y1="90" x2="544.0" y2="660" stroke="#efefef" stroke-width="1"/>
+<line x1="100" y1="318.0" x2="840" y2="318.0" stroke="#efefef" stroke-width="1"/>
+<text x="544.0" y="682.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">2.409</text>
+<text x="88" y="322.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">2.409</text>
+<line x1="692.0" y1="90" x2="692.0" y2="660" stroke="#efefef" stroke-width="1"/>
+<line x1="100" y1="204.0" x2="840" y2="204.0" stroke="#efefef" stroke-width="1"/>
+<text x="692.0" y="682.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">3.37</text>
+<text x="88" y="208.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">3.37</text>
+<line x1="840.0" y1="90" x2="840.0" y2="660" stroke="#efefef" stroke-width="1"/>
+<line x1="100" y1="90.0" x2="840" y2="90.0" stroke="#efefef" stroke-width="1"/>
+<text x="840.0" y="682.0" text-anchor="middle" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">4.331</text>
+<text x="88" y="94.0" text-anchor="end" font-size="12" fill="#444" font-family="Arial, Helvetica, sans-serif">4.331</text>
+<rect x="100" y="90" width="740" height="570" fill="none" stroke="#333" stroke-width="1.4"/>
+<line x1="100.0" y1="660.0" x2="840.0" y2="90.0" stroke="#C81D25" stroke-width="1.2" stroke-dasharray="6,4"/>
+<circle cx="190.6" cy="247.9" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="198.6" y="239.9" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">GGY↔YGG</text>
+<circle cx="192.1" cy="302.2" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="200.1" y="294.2" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">FL↔LF</text>
+<circle cx="609.0" cy="438.1" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="617.0" y="430.1" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">ITT↔TTI</text>
+<circle cx="151.0" cy="468.1" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="159.0" y="460.1" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">LGP↔PGL</text>
+<circle cx="412.7" cy="295.1" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="420.7" y="287.1" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">PLW↔WLP</text>
+<circle cx="326.3" cy="368.3" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="334.3" y="360.3" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">MW↔WM</text>
+<circle cx="506.1" cy="245.4" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="514.1" y="237.4" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">FHG↔GHF</text>
+<circle cx="391.2" cy="519.8" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="399.2" y="511.8" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">HY↔YH</text>
+<circle cx="477.9" cy="287.9" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="485.9" y="279.9" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">AR↔RA</text>
+<circle cx="529.3" cy="399.9" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="537.3" y="391.9" font-size="10" fill="#222" font-family="Arial, Helvetica, sans-serif">IPY↔YPI</text>
+<circle cx="696.3" cy="135.9" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="657.5" cy="167.1" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="205.3" cy="523.6" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="724.3" cy="137.7" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="236.9" cy="513.8" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="710.6" cy="153.1" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="789.0" cy="161.1" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="751.4" cy="129.8" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="747.8" cy="188.0" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="406.0" cy="401.2" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="696.3" cy="212.2" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<circle cx="649.9" cy="238.5" r="4.4" fill="#2E86AB" opacity="0.8"/>
+<text x="470.0" y="732.0" text-anchor="middle" font-size="14" fill="#222" font-family="Arial, Helvetica, sans-serif">序列A 的 log10(IC50_uM)</text>
+<text x="24" y="375.0" transform="rotate(-90 24,375.0)" text-anchor="middle" font-size="14" fill="#222" font-family="Arial, Helvetica, sans-serif">序列B 的 log10(IC50_uM)</text>
+<text x="450.0" y="748" text-anchor="middle" font-size="11" fill="#666" font-family="Arial, Helvetica, sans-serif">虚线表示两者活性完全相等；偏离越大，说明序列顺序越关键。</text>
+</svg>
