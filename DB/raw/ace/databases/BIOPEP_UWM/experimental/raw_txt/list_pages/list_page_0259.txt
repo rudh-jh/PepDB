@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 259
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=258bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-9609
-antifungal peptide
-DASNRAT
-733.7261
-733.3344
-0.00 EC_50
-Peptide
-Data
-9610
-antifungal peptide
-QQRSNWPRS
-1158.2244
-1157.5674
-5.11 EC_50
-Peptide
-Data
-9611
-antifungal peptide
-SYTFH
-653.6813
-653.2800
-0.00 EC_50
-Peptide
-Data
-9612
-Antiviral peptide
-VLAYDGSYQHYADSVKG
-1872.9786
-1871.8661
-0.00 EC_50
-Peptide
-Data
-9613
-antifungal peptide
-GQTTVTKIDEDY
-1369.4268
-1368.6386
-0.00 EC_50
-Peptide
-Data
-9614
-HMG-CoA reductase inhibitor
-FFYVAE
-774.8572
-774.3576
-2.50 IC_50
-Peptide
-Data
-9615
-HMG-CoA reductase inhibitor
-FPYVAE
-724.7986
-724.3420
-1.40 IC_50
-Peptide
-Data
-9616
-HMG-CoA reductase inhibitor
-FGYVAE
-684.7349
-684.3108
-0.40 IC_50
-Peptide
-Data
-9617
-HMG-CoA reductase inhibitor
-FWYVAE
-813.8932
-813.3685
-29.50 IC_50
-Peptide
-Data
-9618
-HMG-CoA reductase inhibitor
-GGGGYVAE
-708.7150
-708.3068
-760.70 IC_50
-Peptide
-Data
-9619
-Antifungal peptide alpha-S1-casein fr: 194-199
-TTMPLW
-747.9008
-747.3613
-0.00 EC_50
-Peptide
-Data
-9620
-Anticancer peptide
-RYLGYL
-783.9118
-783.4266
-0.00 EC_50
-Peptide
-Data
-9621
-Hypocholesterolemic peptide
-IIAEK
-572.6928
-572.3522
-0.00 EC_50
-Peptide
-Data
-9622
-DPP-III inhibitor
-GVYPW
-620.6944
-620.2949
-0.00 EC_50
-Peptide
-Data
-9623
-DPP-III inhibitor
-AVYPW
-634.7209
-634.3105
-0.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 259 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9609 
+
+ antifungal peptide 
+
+ DASNRAT 
+
+ 733.7261 
+
+ 733.3344 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9610 
+
+ antifungal peptide 
+
+ QQRSNWPRS 
+
+ 1158.2244 
+
+ 1157.5674 
+
+ 5.11 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9611 
+
+ antifungal peptide 
+
+ SYTFH 
+
+ 653.6813 
+
+ 653.2800 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9612 
+
+ Antiviral peptide 
+
+ VLAYDGSYQHYADSVKG 
+
+ 1872.9786 
+
+ 1871.8661 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9613 
+
+ antifungal peptide 
+
+ GQTTVTKIDEDY 
+
+ 1369.4268 
+
+ 1368.6386 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9614 
+
+ HMG-CoA reductase inhibitor 
+
+ FFYVAE 
+
+ 774.8572 
+
+ 774.3576 
+
+ 2.50 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9615 
+
+ HMG-CoA reductase inhibitor 
+
+ FPYVAE 
+
+ 724.7986 
+
+ 724.3420 
+
+ 1.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9616 
+
+ HMG-CoA reductase inhibitor 
+
+ FGYVAE 
+
+ 684.7349 
+
+ 684.3108 
+
+ 0.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9617 
+
+ HMG-CoA reductase inhibitor 
+
+ FWYVAE 
+
+ 813.8932 
+
+ 813.3685 
+
+ 29.50 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9618 
+
+ HMG-CoA reductase inhibitor 
+
+ GGGGYVAE 
+
+ 708.7150 
+
+ 708.3068 
+
+ 760.70 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9619 
+
+ Antifungal peptide alpha-S1-casein fr: 194-199 
+
+ TTMPLW 
+
+ 747.9008 
+
+ 747.3613 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9620 
+
+ Anticancer peptide 
+
+ RYLGYL 
+
+ 783.9118 
+
+ 783.4266 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9621 
+
+ Hypocholesterolemic peptide 
+
+ IIAEK 
+
+ 572.6928 
+
+ 572.3522 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9622 
+
+ DPP-III inhibitor 
+
+ GVYPW 
+
+ 620.6944 
+
+ 620.2949 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9623 
+
+ DPP-III inhibitor 
+
+ AVYPW 
+
+ 634.7209 
+
+ 634.3105 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 259 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

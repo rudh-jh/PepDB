@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9936 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VGPV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 370.4427 
+
+ Monoisotopic mass 
+
+ 370.2209 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Fu Y, Young JF, Rasmussen MK, Dalsgaard TK, Lametsch R, Aluko RE, Therkildsen M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I–converting enzyme–inhibitory peptides from bovine collagen: insights into inhibitory mechanism and transepithelial transport. Food Res. Int. 89, 373–381, 2016
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2016 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](C(C)C)C(=O)NCC(=O)N1[C@@H](CCC1)C(=O)N[C@@H](C(C)C)C(=O)O
+
+InChI=1S/C17H30N4O5/c1-9(2)13(18)16(24)19-8-12(22)21-7-5-6-11(21)15(23)20-14(10(3)4)17(25)26/h9-11,13-14H,5-8,18H2,1-4H3,(H,19,24)(H,20,23)(H,25,26)/t11-,13-,14-/m0/s1
+
+InChIKey= WHFDCTYBJCLVAN-UBHSHLNASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

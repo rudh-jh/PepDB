@@ -1,0 +1,221 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7565 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LHLPLPL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 802.0128 
+
+ Monoisotopic mass 
+
+ 801.5097 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 432.70 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Miguel M., Recio I., Ramos M., Delgado M. A., Aleixandre M. A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive effect of peptides obtained from Enterococcus faecalis-fermented milk in rats. J. Dairy Sci., 89, 3352-3359, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC(C)C)C(=O)N[C@@H](CC1=C[N]([H])C=N1)C(=O)N[C@@H](CC(C)C)C(=O)N2[C@@H](CCC2)C(=O)N[C@@H](CC(C)C)C(=O)N3[C@@H](CCC3)C(=O)N[C@@H](CC(C)C)C(=O)O
+
+InChI=1S/C40H67N9O8/c1-22(2)15-27(41)34(50)44-28(19-26-20-42-21-43-26)35(51)45-29(16-23(3)4)38(54)48-13-9-11-32(48)36(52)46-30(17-24(5)6)39(55)49-14-10-12-33(49)37(53)47-31(40(56)57)18-25(7)8/h20-25,27-33H,9-19,41H2,1-8H3,(H,42,43)(H,44,50)(H,45,51)(H,46,52)(H,47,53)(H,56,57)/t27-,28-,29-,30-,31-,32-,33-/m0/s1
+
+InChIKey=YYTXSZFDTAQSBA-MRNVWEPHSA-N
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10078); the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1713, 2493, 2495, 4181, 4344, 5026, 5526, 5821, 6551
+
+BioPepDB: ID biopep00780
+
+BIOPEP-UWM dtabase of bioactive peptides: 
+ID 10078
+
+ChemSpider: 
+ID 9460810
+
+EROP-Moscow: ID E09376
+
+FeptideDB: 
+ID 7565
+
+FermFooDB: ID FMDB1366; FMDB1367; FMDB1502; FMDB1503; FMDB1504; FMDB1505; FMDB1506; FMDB174; FMDB188; FMDB1887
+
+MBPDB: Peptide LHLPLPL
+
+PubChem: CID 11285819
+
+SATPdb: ID satpdb12285

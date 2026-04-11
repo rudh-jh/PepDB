@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9398 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+DGVVYY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 714.7608 
+
+ Monoisotopic mass 
+
+ 714.3213 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 2.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Moayedi A., Mora L., Aristoy M. C., Safari M., Hashemi M., Toldra F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Peptidomic analysis of antioxidant and ACE-inhibitory peptides obtained from tomato waste proteins fermented using Bacillus subtilis. Food Chemistry 250 (2018), 180-187. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2018 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(=O)O)C(=O)NCC(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O
+
+InChI=1S/C34H46N6O11/c1-17(2)28(39-26(43)16-36-30(46)23(35)15-27(44)45)33(49)40-29(18(3)4)32(48)37-24(13-19-5-9-21(41)10-6-19)31(47)38-25(34(50)51)14-20-7-11-22(42)12-8-20/h5-12,17-18,23-25,28-29,41-42H,13-16,35H2,1-4H3,(H,36,46)(H,37,48)(H,38,47)(H,39,43)(H,40,49)(H,44,45)(H,50,51)/t23-,24-,25-,28-,29-/m0/s1
+
+InChIKey: XURXWEYYWCTRGO-ROFHDDJXSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

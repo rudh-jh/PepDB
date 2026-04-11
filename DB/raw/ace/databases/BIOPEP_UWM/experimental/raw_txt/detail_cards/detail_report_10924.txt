@@ -1,0 +1,276 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10924 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 216.2766 
+
+ Monoisotopic mass 
+
+ 216.1469 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Moreno-Mariscal C., Carrera-Alvarado G., Mora L., Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Neprilysin (NEP) and Angiotensin Converting Enzyme-I (ACE-I) inhibitory dipeptides from chicken carcass hydrolysates. LWT, 221, 117591, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)O
+
+InChI=1S/C10H20N2O3/c1-5(2)7(11)9(13)12-8(6(3)4)10(14)15/h5-8H,11H2,1-4H3,(H,12,13)(H,14,15)/t7-,8-/m0/s1
+
+InChIKey=KRNYOVHEKOBTEF-YUMQZZPRSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 3183)
+
+Inhibitor of tripeptidyl peptidase II (EC 3.4.14.10) (MEROPS ID: S08.090) according to the BIOPEP-UWM database of bioactive peptides (
+ID 10797)
+
+Umami peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 259);
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 328); the ChEMBL database; the PubChem database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 41049-53-0
+
+AHTPDB: 
+ID 3849
+
+BindingDB: 
+ID 50188521
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3183, 10797
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 259; 328
+
+BRENDA: Ligand Val-Val
+
+Cambridge Structural Database: 
+ID 290258
+
+CAS: Registry No 3918-94-3 
+
+ChEBI: 
+ID 73704
+
+ChEMBL: ID CHEMBL54552
+
+ChemSpider: 
+ID 96710
+
+EPA DSSTox: ID DTXCID601387837
+
+EROP-Moscow: ID E09237
+
+FeptideDB: 
+ID 3183
+
+FooDB: ID FDB112141
+
+HMDB: ID HMDB0029140
+
+J-GLOBAL: 
+ID 200907038164816513
+
+MeSH:Terms L-valyl-L-valine; Val-Val; valylvaline 
+
+Metabolights: ID MTBLC73704
+
+Metabolomics Workbench: 
+ID 79055
+
+MMDB: 
+ID 3226.3
+
+Nikkaji: ID J364.680G
+
+PubChem: 
+ID 107475
+
+SATPdb: ID satpdb12649
+
+SureChEMBL: ID SCHEMBL4582286
+
+UniChem: 
+ID 412126
+
+Wikidata: Q27143934 
+
+ZINC: ID ZINC000001848346

@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11109 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LGDARNSPAPP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 11 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1094.1756 
+
+ Monoisotopic mass 
+
+ 1093.5499 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 166.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Li J., Cai D., Zhai Y.-N., Wu C.-X., Zhang H.-L., Zhang J., Liu C.-L., Liu S.-H., Qu J.-B. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Two antihypertensive and antioxidant peptides derived from Alaska pollack (Theragra chalcograma) skin: in silico, in vitro, and in vivo investigation. J. Agric. Food Chem., 73, 9932-9945, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)NCC(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CO)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C46H75N15O16/c1-22(2)17-25(47)37(68)52-20-34(64)55-28(19-35(65)66)39(70)53-23(3)36(67)56-26(9-5-13-51-46(49)50)38(69)57-27(18-33(48)63)40(71)58-29(21-62)43(74)59-14-6-10-30(59)41(72)54-24(4)42(73)60-15-7-11-31(60)44(75)61-16-8-12-32(61)45(76)77/h22-32,62H,5-21,47H2,1-4H3,(H2,48,63)(H,52,68)(H,53,70)(H,54,72)(H,55,64)(H,56,67)(H,57,69)(H,58,71)(H,65,66)(H,76,77)(H4,49,50,51)/t23-,24-,25-,26-,27-,28-,29-,30-,31-,32-/m0/s1
+
+InChIKey=STQGZXMSOKUQGQ-CJMGQXRASA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

@@ -1,0 +1,210 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8542 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WPERPPQIP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1119.2693 
+
+ Monoisotopic mass 
+
+ 1118.5855 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 22.93 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu M., Du M., Zhang Y., Xu W., Wang C., Wang K., Zhang L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification and identification of an ACE inhibitory peptide from walnut protein. J. Agric. Food Chem., 61, 4097-4100, 2013 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2013 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides:
+
+SMILES: N[C@@H](CC1=C[N]([H])C2=CC=CC=C12)C(=O)N3[C@@H](CCC3)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N4[C@@H](CCC4)C(=O)N5[C@@H](CCC5)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H]([C@H](CC)C)C(=O)N6[C@@H](CCC6)C(=O)O
+
+InChI=1S/C53H78N14O13/c1-3-29(2)43(51(78)67-26-10-17-40(67)52(79)80)63-45(72)34(18-20-41(55)68)60-47(74)38-15-8-24-65(38)50(77)39-16-9-25-66(39)49(76)36(13-6-22-58-53(56)57)62-44(71)35(19-21-42(69)70)61-46(73)37-14-7-23-64(37)48(75)32(54)27-30-28-59-33-12-5-4-11-31(30)33/h4-5,11-12,28-29,32,34-40,43,59H,3,6-10,13-27,54H2,1-2H3,(H2,55,68)(H,60,74)(H,61,73)(H,62,71)(H,63,72)(H,69,70)(H,79,80)(H4,56,57,58)/t29-,32-,34-,35-,36-,37-,38-,39-,40-,43-/m0/s1
+
+InChIKey=APBMTKMZPRHCJC-AXPLDACSSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3746
+
+BioPepDB: ID biopep01528
+
+EROP-Moscow: ID E22660
+
+FeptideDB: 
+ID 8542
+
+PubChem: CID 71606101
+
+SATPdb: ID satpdb26626

@@ -1,0 +1,257 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10903 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GPR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 328.3665 
+
+ Monoisotopic mass 
+
+ 328.1854 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Escudero E., Sentandreu M. A., Arihara K., Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory peptides generated from in vitro gastrointestinal digestion of pork meat. J. Agric. Food Chem., 58, 2895-2901, 2010 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2010 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](CCCNC(N)=N)(NC(=O)[C@]1([H])CCCN1C(=O)CN)C(O)=O
+
+InChI=1S/C13H24N6O4/c14-7-10(20)19-6-2-4-9(19)11(21)18-8(12(22)23)3-1-5-17-13(15)16/h8-9H,1-7,14H2,(H,18,21)(H,22,23)(H4,15,16,17)/t8-,9-/m0/s1
+
+InChIKey=JYPCXBJRLBHWME-IUCAKERBSA-N
+
+Neuroprotective peptide according to the ChEMBL database
+
+Antithrombotic peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 3047), the DFBP database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 47295-77-2
+
+AHTPDB: 
+ID 2713, 6120
+
+BioPepDB: ID biopep00397
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3047
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 341
+
+BRENDA: Ligand Gly-Pro-Arg
+
+CAS: Registry No 47295-77-2
+
+ChEBI: 
+ID 163949 
+
+ChEMBL: ID CHEMBL3752079
+
+ChemIDplus: 
+ID 47295-77-2
+
+ChemSpider: 
+ID 149304
+
+DFBP: ID DFBPACEI1250; DFBPANTH0014, DFBPANTH0064, DFBPANTH0075, DFBPANTH0076, DFBPANTH0079; DFBPMUFU0276
+
+EPA CompTox: ID DTXSID00197085 
+
+EROP-Moscow: ID E09224
+
+J-GLOBAL: 
+ID 200907014849104358 
+
+Metabolomics Workbench: 
+ID 82137 
+
+MMDB: 
+ID 21849.7
+
+Nikkaji: ID J378.769I 
+
+PubChem: CID 170776 
+
+SATPdb: ID satpdb26650
+
+SureChEMBL: ID SCHEMBL7853147
+
+Wikidata: ID Q83070056 
+
+ZINC: ID ZINC02572698

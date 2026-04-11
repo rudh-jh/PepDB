@@ -1,0 +1,200 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10146 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TPCPPQ 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 641.7362 
+
+ Monoisotopic mass 
+
+ 641.2833 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Li M., Fan W., Xu Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of angiotensin converting enzyme (ACE) inhibitory and antioxidant peptides derived from Pixian broad bean paste. LWT, 151, 112221, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(O)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CS)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)O
+
+InChI=1S/C27H43N7O9S/c1-14(35)21(29)26(41)33-11-3-6-18(33)23(38)31-16(13-44)24(39)34-12-4-7-19(34)25(40)32-10-2-5-17(32)22(37)30-15(27(42)43)8-9-20(28)36/h14-19,21,35,44H,2-13,29H2,1H3,(H2,28,36)(H,30,37)(H,31,38)(H,42,43)/t14-,15+,16+,17+,18+,19+,21+/m1/s1
+
+InChIKey=BZTLEZMDKSFROA-IALLDWONSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10147)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 10147

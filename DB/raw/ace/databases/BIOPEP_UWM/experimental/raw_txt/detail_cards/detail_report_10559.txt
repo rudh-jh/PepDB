@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10559 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WYSLAMA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 840.9841 
+
+ Monoisotopic mass 
+
+ 840.3827 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Hernandez-Ledesma B., Amigo L., Recio I., Bartolome B. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE-inhibitory and radical scavenging activity of peptides derived from β-lactoglobulin f(19-25). Interactions with ascorbic acid. J. Agric. Food Chem., 55 (2007), 3392-3397. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCSC)C(=O)N[C@@]([H])(C)C(=O)O
+
+InChI=1S/C40H56N8O10S/c1-21(2)16-31(37(54)43-22(3)34(51)45-30(14-15-59-5)36(53)44-23(4)40(57)58)47-39(56)33(20-49)48-38(55)32(17-24-10-12-26(50)13-11-24)46-35(52)28(41)18-25-19-42-29-9-7-6-8-27(25)29/h6-13,19,21-23,28,30-33,42,49-50H,14-18,20,41H2,1-5H3,(H,43,54)(H,44,53)(H,45,51)(H,46,52)(H,47,56)(H,48,55)(H,57,58)/t22-,23-,28-,30-,31-,32-,33-/m0/s1
+
+InChIKey=AAFTWQSHOBITFF-NFUJUSGDSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 7905); the DFBP database; the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6966
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7905
+
+DFBP: ID DFBPACEI0082; DFBPANOX0296; DFBPMUFU0040
+
+EROP-Moscow: ID E10367
+
+SATPdb: ID satpdb22910

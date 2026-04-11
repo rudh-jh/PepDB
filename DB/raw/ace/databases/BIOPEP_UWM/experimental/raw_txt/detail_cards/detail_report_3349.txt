@@ -1,0 +1,198 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3349 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IKP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 356.4591 
+
+ Monoisotopic mass 
+
+ 356.2416 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 6.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yokoyama K., Chiba H., and Yoshikawa M., 1992 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Peptide inhibitors for angiotensin I-converting enzyme from thermolysin digest of dried bonito. Biosci. Biotech. Biochem., 56, 1541-1545 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1992 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)([C@@H](C)CC)C(=O)N[C@@]([H])(CCCCN)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C17H32N4O4/c1-3-11(2)14(19)15(22)20-12(7-4-5-9-18)16(23)21-10-6-8-13(21)17(24)25/h11-14H,3-10,18-19H2,1-2H3,(H,20,22)(H,24,25)/t11-,12-,13-,14-/m0/s1
+
+InChIKey=GLYJPWIRLBAIJH-XUXIUFHCSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001
+
+IC50(EC50) of the peptide ranges from 2.5 to 7. 
+
+Loponen J., 2004, Angiotensin converting enzyme inhibitory peptides in Finnish cereals: a database survey. Agric. Food Sci., 13, 39-45 
+
+Jimsheena V. K., Gowda L. R., 2010, Arachin derived peptides as selective angiotensin I-converting enzyme (ACE) inhibitors: structure-activity relationship. Peptides, 31, 1165-1176
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

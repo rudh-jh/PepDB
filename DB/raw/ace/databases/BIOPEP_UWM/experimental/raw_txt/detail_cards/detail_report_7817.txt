@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7817 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YNKL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 536.6195 
+
+ Monoisotopic mass 
+
+ 536.2949 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 21.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Suetsuna K., Nakano T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of an antihypertensive peptide from a peptic digest of wakame (Undaria pinnatifida). J. Nutr. Biochem. 11, 450-454, 2000 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2000 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP database of bioactive peptides
+
+SMILES: N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C25H40N6O7/c1-14(2)11-20(25(37)38)31-23(35)18(5-3-4-10-26)29-24(36)19(13-21(28)33)30-22(34)17(27)12-15-6-8-16(32)9-7-15/h6-9,14,17-20,32H,3-5,10-13,26-27H2,1-2H3,(H2,28,33)(H,29,36)(H,30,34)(H,31,35)(H,37,38)/t17-,18-,19-,20-/m0/s1
+
+InChIKey: FSMAPTIYUISZHW-MUGJNUQGSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1029, 1853, 2662, 2909, 4933, 5307, 6276
+
+SATPdb: ID satpdb21923

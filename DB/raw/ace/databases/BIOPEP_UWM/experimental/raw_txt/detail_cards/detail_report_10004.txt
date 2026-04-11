@@ -1,0 +1,223 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10004 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LQL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 372.4585 
+
+ Monoisotopic mass 
+
+ 372.2365 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Girgih AT, He R, Malomo SA, Offengenden M, Wu J, Aluko RE. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural and functional characterization of hemp seed (Cannabis sativa L.) protein-derived antioxidant and antihypertensive peptides. J. Funct. Foods 6, 384–394. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI= 1S/C17H32N4O5/c1-9(2)7-11(18)15(23)20-12(5-6-14(19)22)16(24)21-13(17(25)26)8-10(3)4/h9-13H,5-8,18H2,1-4H3,(H2,19,22)(H,20,23)(H,21,24)(H,25,26)/t11-,12-,13-/m0/s1
+
+InChIKey: LOLUPZNNADDTAA-AVGNSLFASA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10003)
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID A01.007) according to the BIOPEP-UWM database of bioactive peptides (
+ID 10005)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 494); the ChEMBL database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 10003; 10005
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 494
+
+ChEBI: 
+ID 159132
+
+ChEMBL: ID CHEMBL52025
+
+ChemSpider: 
+ID 23148795
+
+PubChem: CID 44298593
+
+SureChEMBL: ID SCHEMBL1674769
+
+ZINC: ID ZINC000029489593

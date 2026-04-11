@@ -1,0 +1,247 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11152 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VLPVPQK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 779.9643 
+
+ Monoisotopic mass 
+
+ 779.4890 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Magouz O., Ibrahim M. A. A., Mehanna N., Gensberger-Reigl S., Dalabasmaz S., Pischetsrieder M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of the heptapeptide PR7 and octapeptide SF8 with potent antioxidative and angiotensin converting enzyme inhibitory activity from the fermented dairy by-product “Buttermilk". Food Front., 6, 837–851, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C37H65N9O9/c1-20(2)19-25(43-34(51)29(40)21(3)4)35(52)45-17-9-13-27(45)33(50)44-30(22(5)6)36(53)46-18-10-12-26(46)32(49)41-23(14-15-28(39)47)31(48)42-24(37(54)55)11-7-8-16-38/h20-27,29-30H,7-19,38,40H2,1-6H3,(H2,39,47)(H,41,49)(H,42,48)(H,43,51)(H,44,50)(H,54,55)/t23-,24-,25-,26-,27-,29-,30-/m0/s1
+
+InChIKey=NKNBSECGZPVWGH-YYLRFZLMSA-N
+
+Predicted ligand of Thrombin (EC 3.4.21.5) (MEROPS ID: S01.217) (PDB code: 2BVR) according to the BIOPEP-UWM Virtual database (
+ID 219)
+
+Lipoxygenase inhibitor according to the BIOPEP-UWM database of bioactive peptides (
+ID 7877)
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10243); the MBPDB database; 
+
+Antibacterial peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10242)
+
+Peptide stimulating osteoblast differentiation according to the BIOPEP-UWM database of bioactive peptides (
+ID 10244); the MBPDB database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 10246); the MBPDB database
+
+Anti-apoptotic peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10245)
+
+Peptide stimulating fibroblast migration and exhibiting antiaging effect according to the BIOPEP-UWM database of bioactive peptides (
+ID 10247); the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4343
+
+BioPepDB: ID biopep01419
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7877; 10242; 10243; 10244; 10245; 10246; 10247
+
+BIOPEP-UWM Virtual database: 
+ID 219
+
+DFBP: ID DFBPANOX0279; DFBPANTH0161; DFBPDPIV0189
+
+EROP-Moscow: ID E14748
+
+FeptideDB: 
+ID 7877
+
+J-Global: 
+ID 200907043295090643
+
+MBPDB: peptide VLPVPQK
+
+Nikkaji: ID J1.075.676F
+
+PubChem: CID 14389263 
+
+SATPdb: ID satpdb27718

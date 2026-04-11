@@ -1,0 +1,256 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7602 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+HL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 268.3114 
+
+ Monoisotopic mass 
+
+ 268.1531 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 3200.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitors:Evolution of a new class of antihypertensive drugs (page 19). in: Horovitz Z. P. (Ed.)(1981), Mechanisms of action and clinical implications, Urban & Schwarzenberg. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1981 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[N]([H])C=N1)C(=O)N[C@@H](CC(C)C)C(=O)O
+
+InChI=1S/C12H20N4O3/c1-7(2)3-10(12(18)19)16-11(17)9(13)4-8-5-14-6-15-8/h5-7,9-10H,3-4,13H2,1-2H3,(H,14,15)(H,16,17)(H,18,19)/t9-,10-/m0/s1
+
+InChIKey=MMFKFJORZBJVNF-UWVGGRQHSA-N
+
+Inhibitor of Dipeptidyl peptidase III (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9483); the BRENDA database
+
+Inhibitor of dipeptidyl peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8557)
+
+Antioxidative peptide acoording to the BIOPEP-UWM database of bioactive peptides (
+ID 3317)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 7763-65-7
+
+AHTPDB: 
+ID 3084, 3422, 3497, 3834, 3941, 4417, 4540, 4690, 6588
+
+BindingDB: 
+ID 50407435
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3317; 8557; 9483
+
+BRENDA: Ligand L-His-L-Leu
+
+ChEBI: 
+ID 5729
+
+ChEMBL: ID CHEMBL90260
+
+ChemIDplus: 
+ID 7763-65-7
+
+ChemSpider: 
+ID 164234
+
+CTD: 
+ID 7763-65-7
+
+EROP-Moscow: ID E10603
+
+IUPHAR BPS: 
+ID 9485
+
+J-GLOBAL: 
+ID 200907025952710357
+
+KEGG: ID C05010
+
+Metabolights: ID MTBLC5729
+
+Nikkaji: ID J151.040A
+
+PubChem: CID 189008
+
+SATPdb: ID satpdb15373
+
+SDBS: 
+ID 8319
+
+SureChEMBL: ID SCHEMBL1666829
+
+ZINC: ID ZINC000005633008

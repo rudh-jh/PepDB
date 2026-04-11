@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9840 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AIGVGAIER 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 885.0170 
+
+ Monoisotopic mass 
+
+ 884.5064 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 16.31 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zielińska E., Karaś M., Baraniak B., Jakubczyk A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Evaluation of ACE, alpha‑glucosidase, and lipase inhibitory activities of peptides obtained by in vitro digestion of selected species of edible insects. Eur. Food Res. Technol., 246, 1361-1369, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)NCC(=O)N[C@@]([H])(C(C)C)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C38H68N12O12/c1-9-19(5)29(49-31(55)21(7)39)35(59)44-17-26(52)48-28(18(3)4)34(58)43-16-25(51)45-22(8)32(56)50-30(20(6)10-2)36(60)46-23(13-14-27(53)54)33(57)47-24(37(61)62)12-11-15-42-38(40)41/h18-24,28-30H,9-17,39H2,1-8H3,(H,43,58)(H,44,59)(H,45,51)(H,46,60)(H,47,57)(H,48,52)(H,49,55)(H,50,56)(H,53,54)(H,61,62)(H4,40,41,42)/t19-,20-,21-,22-,23-,24-,28-,29-,30-/m0/s1
+
+InChIKey=ZUMQZVQMEVLCAX-RBXVSGTMSA-N 
+
+Inhibitor of pancreatic lipase according to the BIOPEP-UWM database of bioactive peptides (
+ID 9841)
+
+Inhibitor of alpha-glucosidase (EC 3.2.1.20) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9842)
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9445)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9445; 9841; 9842

@@ -1,0 +1,200 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9066 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YPG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 335.3542 
+
+ Monoisotopic mass 
+
+ 335.1476 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 23.44 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)O
+
+InChI=1S/C16H21N3O5/c17-12(8-10-3-5-11(20)6-4-10)16(24)19-7-1-2-13(19)15(23)18-9-14(21)22/h3-6,12-13,20H,1-2,7-9,17H2,(H,18,23)(H,21,22)/t12-,13-/m0/s1
+
+InChIKey: SZEIFUXUTBBQFQ-STQMWFEESA-N
+
+Inhibitor of alpha-glucosidase (EC 3.2.1.20) according to the BIOPEP-UWM database of bioactive peptide (
+ID 9066)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptide: 
+ID 9549

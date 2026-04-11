@@ -1,0 +1,214 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10231 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FGF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 369.4134 
+
+ Monoisotopic mass 
+
+ 369.1683 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 19.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wang X., Wang J., Lin Y., Ding Y., Wang Y., Cheng X., Lin Z. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ QSAR study on Angiotensin-Converting Enzyme inhibitor oligopeptides based on a novel set of sequence information descriptors. J. Mol. Model., 17, 1599-1606, 2011 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2011 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)NCC(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C20H23N3O4/c21-16(11-14-7-3-1-4-8-14)19(25)22-13-18(24)23-17(20(26)27)12-15-9-5-2-6-10-15/h1-10,16-17H,11-13,21H2,(H,22,25)(H,23,24)(H,26,27)/t16-,17-/m0/s1
+
+InChIKey=NHCKESBLOMHIIE-IRXDYDNUSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10225)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4557, 4850, 5471
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 10225
+
+ChemSpider: 
+ID 8445918
+
+EPA CompTox: ID DTXSID70437687
+
+EROP-Moscow: ID E25878
+
+PubChem: CID 10270439
+
+SATPdb: ID satpdb14008

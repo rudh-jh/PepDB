@@ -1,0 +1,221 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3403 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YPWTQR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 849.9302 
+
+ Monoisotopic mass 
+
+ 849.4121 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lantz I., Glämsta E.-L., Tälback L., Nyberg F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Hemorphins derived from hemoglobin have an inhibitory action on angiotensin-converting enzyme activity. FEBS Lett., 287, 39-41, 1991 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1991 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: C[C@H]([C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCN=C(N)N)C(=O)O)NC(=O)[C@H](CC1=CNC2=CC=CC=C21)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CC4=CC=C(C=C4)O)N)O
+
+InChI=1S/C40H55N11O10/c1-21(52)33(37(58)47-28(14-15-32(42)54)34(55)48-29(39(60)61)8-4-16-45-40(43)44)50-35(56)30(19-23-20-46-27-7-3-2-6-25(23)27)49-36(57)31-9-5-17-51(31)38(59)26(41)18-22-10-12-24(53)13-11-22/h2-3,6-7,10-13,20-21,26,28-31,33,46,52-53H,4-5,8-9,14-19,41H2,1H3,(H2,42,54)(H,47,58)(H,48,55)(H,49,57)(H,50,56)(H,60,61)(H4,43,44,45)/t21-,26+,28+,29+,30+,31+,33+/m1/s1
+
+InChIKey=SHLDOWBZATZTBQ-KUTFLANJSA-N
+
+Opioid peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 3080), the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6381
+
+BioPepDB: ID biopep01612
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3080
+
+ChemSpider: 
+ID 7987035
+
+EROP-Moscow: ID E06634
+
+J-GLOBAL: 
+ID 200907009234646190
+
+Nikkaji: ID J676.789C
+
+PepBank: peptide YPWTQR
+
+PubChem: CID: 101928979
+
+SatpDB: ID satpdb17336

@@ -1,0 +1,4 @@
+﻿feature_set,accuracy,macro_precision,macro_recall,macro_f1,n_splits
+aac,0.4803,0.4194,0.4177,0.4183,5
+signal,0.5161,0.429,0.4273,0.4263,5
+fusion,0.4946,0.4365,0.4336,0.4347,5

@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 100
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=99bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-5524
-buforin 2
-TRSSRAGLQFPVGRVHRLLRK
-2434.8402
-2433.4266
-0.00 EC_50
-Peptide
-Data
-5525
-hepcidin 25 ( LEAP-1)
-DTHFPICIFCCGCCHRSKCGMCCKT
-2797.4194
-2795.0846
-0.00 EC_50
-Peptide
-Data
-5526
-hepcidin 20 (LEAP-1)
-ICIFCCGCCHRSKCGMCCKT
-2199.8012
-2197.8307
-0.00 EC_50
-Peptide
-Data
-5527
-Penaeidin-3A
-QVYKGGYTRPIPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG
-6696.7207
-6692.2971
-0.00 EC_50
-Peptide
-Data
-5528
-Penaeidin-3B
-QVYKGGYTRPVPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG
-6682.6942
-6678.2815
-0.00 EC_50
-Peptide
-Data
-5529
-Penaeidin-3C
-QVYKGGYTRPIPRPPFVRPVPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG
-6585.5793
-6581.2289
-0.00 EC_50
-Peptide
-Data
-5530
-GAFP
-DPTCSVLGDFKCNPGRCCSKINYCGACYQWRFGLTPAR
-4231.8562
-4228.8923
-0.00 EC_50
-Peptide
-Data
-5531
-hevein
-CPNNLCCSQWGWCG
-1570.7947
-1569.5602
-0.00 EC_50
-Peptide
-Data
-5532
-FALL39 (cathelicidin)
-FALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
-4711.5009
-4708.6729
-0.00 EC_50
-Peptide
-Data
-5533
-LL-37 (cathelicidin)
-LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
-4493.2497
-4490.5677
-0.00 EC_50
-Peptide
-Data
-5534
-Ah-AMP1
-LCNERPSQTWSGNCGNTAAHCDKQCQDWEKASHGACCHKRENHWKCFCYFNC
-6037.6606
-6033.4543
-0.00 EC_50
-Peptide
-Data
-5535
-SMAP-34 (cathelicidin)
-GLFGRLRDSLQRGGQKILEKAERIWCKIKDIFRG
-3988.6567
-3986.2199
-0.00 EC_50
-Peptide
-Data
-5536
-CAP-7 (cathelicidin)
-GLRKRLRKFRNKIKEKLKKIGQKIQGFVPKLAPRTDY
-4453.3642
-4450.7043
-0.00 EC_50
-Peptide
-Data
-5537
-Holotricin 2
-SLQPGAPSFPMPGSQLPTSVSGNVEKQGRNTIATIDAQHKTDRYDVRGTWTKVVDGPGRSKPNFRIGGSYRW
-7857.6455
-7852.9663
-0.00 EC_50
-Peptide
-Data
-5538
-Holotricin 3
-YGPGDGHGGGHGGGHGGGHGNGQGGGHGHGPGGGFGGGHGGGHGGGGRGGGGSGGGGSPGHGAGGGYPGGHGGGHHGGYQTHGY
-7000.8286
-6996.8757
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5524 
+
+ buforin 2 
+
+ TRSSRAGLQFPVGRVHRLLRK 
+
+ 2434.8402 
+
+ 2433.4266 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5525 
+
+ hepcidin 25 ( LEAP-1) 
+
+ DTHFPICIFCCGCCHRSKCGMCCKT 
+
+ 2797.4194 
+
+ 2795.0846 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5526 
+
+ hepcidin 20 (LEAP-1) 
+
+ ICIFCCGCCHRSKCGMCCKT 
+
+ 2199.8012 
+
+ 2197.8307 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5527 
+
+ Penaeidin-3A 
+
+ QVYKGGYTRPIPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG 
+
+ 6696.7207 
+
+ 6692.2971 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5528 
+
+ Penaeidin-3B 
+
+ QVYKGGYTRPVPRPPPFVRPLPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG 
+
+ 6682.6942 
+
+ 6678.2815 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5529 
+
+ Penaeidin-3C 
+
+ QVYKGGYTRPIPRPPFVRPVPGGPIGPYNGCPVSCRGISFSQARSCCSRLGRCCHVGKGYSG 
+
+ 6585.5793 
+
+ 6581.2289 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5530 
+
+ GAFP 
+
+ DPTCSVLGDFKCNPGRCCSKINYCGACYQWRFGLTPAR 
+
+ 4231.8562 
+
+ 4228.8923 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5531 
+
+ hevein 
+
+ CPNNLCCSQWGWCG 
+
+ 1570.7947 
+
+ 1569.5602 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5532 
+
+ FALL39 (cathelicidin) 
+
+ FALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES 
+
+ 4711.5009 
+
+ 4708.6729 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5533 
+
+ LL-37 (cathelicidin) 
+
+ LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES 
+
+ 4493.2497 
+
+ 4490.5677 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5534 
+
+ Ah-AMP1 
+
+ LCNERPSQTWSGNCGNTAAHCDKQCQDWEKASHGACCHKRENHWKCFCYFNC 
+
+ 6037.6606 
+
+ 6033.4543 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5535 
+
+ SMAP-34 (cathelicidin) 
+
+ GLFGRLRDSLQRGGQKILEKAERIWCKIKDIFRG 
+
+ 3988.6567 
+
+ 3986.2199 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5536 
+
+ CAP-7 (cathelicidin) 
+
+ GLRKRLRKFRNKIKEKLKKIGQKIQGFVPKLAPRTDY 
+
+ 4453.3642 
+
+ 4450.7043 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5537 
+
+ Holotricin 2 
+
+ SLQPGAPSFPMPGSQLPTSVSGNVEKQGRNTIATIDAQHKTDRYDVRGTWTKVVDGPGRSKPNFRIGGSYRW 
+
+ 7857.6455 
+
+ 7852.9663 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5538 
+
+ Holotricin 3 
+
+ YGPGDGHGGGHGGGHGGGHGNGQGGGHGHGPGGGFGGGHGGGHGGGGRGGGGSGGGGSPGHGAGGGYPGGHGGGHHGGYQTHGY 
+
+ 7000.8286 
+
+ 6996.8757 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 100 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

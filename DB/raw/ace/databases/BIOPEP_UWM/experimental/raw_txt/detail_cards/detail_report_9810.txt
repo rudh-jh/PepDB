@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9810 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TNLDWY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 810.8480 
+
+ Monoisotopic mass 
+
+ 810.3536 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1932.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Ma F.-F., Wang H., Wei C.-K., Thakur K., Wei Z.-J., Jiang L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Three Novel ACE Inhibitory Peptides Isolated From Ginkgo biloba Seeds: Purification, Inhibitory Kinetic and Mechanism. Front. Pharmacol., 9, 1579, 2019 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2019 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H]([C@H](O)C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC1=C[N]([H])C2=CC=CC=C12)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)O
+
+InChI=1S/C38H50N8O12/c1-18(2)12-25(42-35(54)27(15-30(39)49)45-37(56)32(40)19(3)47)33(52)44-28(16-31(50)51)36(55)43-26(14-21-17-41-24-7-5-4-6-23(21)24)34(53)46-29(38(57)58)13-20-8-10-22(48)11-9-20/h4-11,17-19,25-29,32,41,47-48H,12-16,40H2,1-3H3,(H2,39,49)(H,42,54)(H,43,55)(H,44,52)(H,45,56)(H,46,53)(H,50,51)(H,57,58)/t19-,25+,26+,27+,28+,29+,32+/m1/s1
+
+InChIKey: AJTHYHIOJSLKOJ-CRUMNSIKSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

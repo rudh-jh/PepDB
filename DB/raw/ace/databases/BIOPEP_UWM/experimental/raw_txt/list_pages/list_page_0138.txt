@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 138
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=137bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-7792
-18A peptide - lipids binding peptide
-DWLKAFYDKVAEKLKEAF
-2201.5118
-2200.1531
-0.00 EC_50
-Peptide
-Data
-7793
-Antioxidant peptide derived from egg ovalbumin
-AHK
-354.4037
-354.2010
-0.00 EC_50
-Peptide
-Data
-7794
-Antioxidant peptide derived from egg ovalbumin
-VHH
-391.4239
-391.1963
-0.00 EC_50
-Peptide
-Data
-7795
-Antioxidant peptide derived from egg ovalbumin
-VHHANEN
-819.8201
-819.3613
-0.00 EC_50
-Peptide
-Data
-7796
-Lipoxygenase inhibitor
-VKEAMAPK
-873.0703
-872.4774
-0.00 IC_50
-Peptide
-Data
-7797
-Antioxidant peptide
-ARHPHPHLSFM
-1329.5295
-1328.6542
-0.00 EC_50
-Peptide
-Data
-7798
-ACE inhibitor
-VVRP
-469.5767
-469.3004
-81.00 IC_50
-Peptide
-Data
-7799
-ACE inhibitor
-AVVRP
-540.6544
-540.3374
-74.00 IC_50
-Peptide
-Data
-7800
-ACE inhibitor from alpha s1-casein
-FFVAPFPEVFGK
-1384.6148
-1383.7204
-18.00 IC_50
-Peptide
-Data
-7801
-ACE inhibitor from as2-casein
-VRYL
-549.6612
-549.3265
-24.10 IC_50
-Peptide
-Data
-7802
-ACE inhibitor from alphas2-casein
-NMAINPSK
-874.0155
-873.4364
-60.00 IC_50
-Peptide
-Data
-7803
-ACE inhibitor from as2-casein
-IPY
-391.4602
-391.2100
-206.00 IC_50
-Peptide
-Data
-7804
-ACE inhibitor from as2-casein
-ALNEINQFY
-1111.2011
-1110.5328
-219.00 IC_50
-Peptide
-Data
-7805
-ACE inhibitor from as2-casein
-ALNEINQFYQK
-1367.5018
-1366.6859
-264.00 IC_50
-Peptide
-Data
-7806
-ACE inhibitor from caprine b-Lg
-LQKW
-573.6826
-573.3265
-35.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 138 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7792 
+
+ 18A peptide - lipids binding peptide 
+
+ DWLKAFYDKVAEKLKEAF 
+
+ 2201.5118 
+
+ 2200.1531 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7793 
+
+ Antioxidant peptide derived from egg ovalbumin 
+
+ AHK 
+
+ 354.4037 
+
+ 354.2010 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7794 
+
+ Antioxidant peptide derived from egg ovalbumin 
+
+ VHH 
+
+ 391.4239 
+
+ 391.1963 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7795 
+
+ Antioxidant peptide derived from egg ovalbumin 
+
+ VHHANEN 
+
+ 819.8201 
+
+ 819.3613 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7796 
+
+ Lipoxygenase inhibitor 
+
+ VKEAMAPK 
+
+ 873.0703 
+
+ 872.4774 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7797 
+
+ Antioxidant peptide 
+
+ ARHPHPHLSFM 
+
+ 1329.5295 
+
+ 1328.6542 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7798 
+
+ ACE inhibitor 
+
+ VVRP 
+
+ 469.5767 
+
+ 469.3004 
+
+ 81.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7799 
+
+ ACE inhibitor 
+
+ AVVRP 
+
+ 540.6544 
+
+ 540.3374 
+
+ 74.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7800 
+
+ ACE inhibitor from alpha s1-casein 
+
+ FFVAPFPEVFGK 
+
+ 1384.6148 
+
+ 1383.7204 
+
+ 18.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7801 
+
+ ACE inhibitor from as2-casein 
+
+ VRYL 
+
+ 549.6612 
+
+ 549.3265 
+
+ 24.10 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7802 
+
+ ACE inhibitor from alphas2-casein 
+
+ NMAINPSK 
+
+ 874.0155 
+
+ 873.4364 
+
+ 60.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7803 
+
+ ACE inhibitor from as2-casein 
+
+ IPY 
+
+ 391.4602 
+
+ 391.2100 
+
+ 206.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7804 
+
+ ACE inhibitor from as2-casein 
+
+ ALNEINQFY 
+
+ 1111.2011 
+
+ 1110.5328 
+
+ 219.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7805 
+
+ ACE inhibitor from as2-casein 
+
+ ALNEINQFYQK 
+
+ 1367.5018 
+
+ 1366.6859 
+
+ 264.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7806 
+
+ ACE inhibitor from caprine b-Lg 
+
+ LQKW 
+
+ 573.6826 
+
+ 573.3265 
+
+ 35.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 138 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

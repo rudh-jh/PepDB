@@ -1,0 +1,287 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3563 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 252.2658 
+
+ Monoisotopic mass 
+
+ 252.1106 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 19.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yano S., Suzuki K., Funatsu G. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Isolation from alpha-zein of thermolysin peptides with angiotensin I-converting enzyme inhibitory activity. Biosci. Biotech. Biochem., 60(4), 661-663 (1996) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1996 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+N[C@@]([H])(C)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+
+InChI=1S/C12H16N2O4/c1-7(13)11(16)14-10(12(17)18)6-8-2-4-9(15)5-3-8/h2-5,7,10,15H,6,13H2,1H3,(H,14,16)(H,17,18)/t7-,10-/m0/s1
+
+InChIKey=ALZVPLKYDKJKQU-XVKPBYJWSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Another value of peptide IC50(EC50) = 88uM
+
+Cushman D. W., 1981. Angiotensin converting enzyme inhibitors: Evolution of a new class of antihypertensive drugs (page 19). in: Horovitz Z. P. (Ed.)(1981), Mechanisms of action and clinical implications, Urban & Schwarzenberg.
+
+Found in amaranth (Amarantus hypochondriacus) protein hydrolysate:
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111 
+
+Found in Okara, by-product obtained during the manufacturing of soymilk and tofu.
+
+Yokomizo A., Takenaka Y., Takenaka T., 2002, Antioxidative activity of peptides prepared from Okara protein. Food Sci. Technol. Res., 8, 357-359
+
+Found in corn milling byproducts.
+
+Lin F., Chen L., Liang R., Zhang Z., Wang J., Cai M., Li Y., 2011, Pilot-scale production of low molecular weight peptides from corn wet milling byproducts and the antihypertensive effects in vivo and in vitro. Food Chem., 124, 801-807
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 7866)
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8765)
+
+Inhibitor of Tubulin-tyrosine ligase (EC 6.3.2.25) according to the BIOPEP-UWM database of bioactive peptides, the BRENDA database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1127, 1268, 1365, 1414, 1500, 1877, 1889, 2650, 2686, 2744, 2977, 3004, 3072, 3175, 3211, 3469, 3757, 3787, 3894, 4068, 4444, 4493, 4670, 5138, 5583, 5719, 5782, 6208, 6472
+
+AODB: ID AOPE0711 
+
+BindingDB: 
+ID 50188523
+
+BIOPEP-UWM database of bioactive peptide: 
+ID 7866; 8765
+
+BRENDA: Ligand Ala-Tyr
+
+CAS: Registry No 3061-88-9
+
+ChEBI: 
+ID 73395
+
+ChEMBL: ID CHEMBL94016
+
+Chemspider: 
+ID 83903
+
+DFBP: ID DFBPACEI0616, DFBPANHY0455, DFBPANHY0656, DFBPANHY0945, DFBPANOX0047, DFBPANOX0775, DFBPMUFU0141 
+
+ECHA: 
+ID 221-305-7
+
+EPA CompTox: ID DTXSID00184677
+
+EROP-Moscow: ID E04098
+
+FermFooDB: ID FMDB844, FMDB1996
+
+FooDB: ID FDB111756 
+
+HMDB: ID HMDB0028699
+
+J-GLOBAL: 
+ID 200907058047799951
+
+Metabolights: ID MTBLC73395
+
+Metabolomics Workbench: 
+ID 78674 
+
+Nikkaji: ID J80.626I
+
+NMRShiftDB: 
+ID 60023645 
+
+PepLife: 
+ID 1196
+
+PlantPepDB: ID PPepDB_240
+
+PubChem: CID 92946
+
+Sabio-RK: 
+ID 23225, 25527
+
+SATPdb: ID satpdb10146
+
+SureChEMBL: ID SCHEMBL2493049
+
+ZINC: ID ZINC000002390894

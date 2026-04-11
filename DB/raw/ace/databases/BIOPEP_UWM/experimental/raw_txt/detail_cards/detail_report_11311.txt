@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11311 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VYPFPGPIPN 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1100.2627 
+
+ Monoisotopic mass 
+
+ 1099.5684 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Eisele T., Stressler T., Kranz B., Fischer L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Bioactive peptides generated in an enzyme membrane reactor using Bacillus lentus alkaline peptidase. Eur. Food Res. Technol., 236, 483–490, 2013 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2013 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=O)N)C(=O)O
+
+InChI=1S/C55H77N11O13/c1-5-32(4)46(54(77)66-26-12-18-42(66)49(72)61-38(55(78)79)29-43(56)68)62-50(73)40-16-9-23-63(40)44(69)30-58-47(70)39-15-10-24-64(39)52(75)36(27-33-13-7-6-8-14-33)59-48(71)41-17-11-25-65(41)53(76)37(60-51(74)45(57)31(2)3)28-34-19-21-35(67)22-20-34/h6-8,13-14,19-22,31-32,36-42,45-46,67H,5,9-12,15-18,23-30,57H2,1-4H3,(H2,56,68)(H,58,70)(H,59,71)(H,60,74)(H,61,72)(H,62,73)(H,78,79)/t32-,36-,37-,38-,39-,40-,41-,42-,45-,46-/m0/s1
+
+InChIKey=VTCRHWWUPSWJFP-NCWXGXPASA-N
+
+Anti-inflammatory peptide according to the BIOPE-UWM database of bioactive peptides
+
+Antioxidative peptide according to the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ DFBP: ID DFBPOPIO0109
+
+MBPDB: Peptide VYPFPGPIPN
+
+Peptipedia: 
+ID 47594

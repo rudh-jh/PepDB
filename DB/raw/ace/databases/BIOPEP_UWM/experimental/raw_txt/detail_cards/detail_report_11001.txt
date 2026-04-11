@@ -1,0 +1,216 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11001 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LVS 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 317.3802 
+
+ Monoisotopic mass 
+
+ 317.1944 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu W.-Y., Zhang J.-T., Miyakawa T., Li G.-M., Gu R.-Z. Tanokura M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antioxidant properties and inhibition of angiotensin‑converting enzyme by highly active peptides from wheat gluten. Sci. Rep., 11, 5206, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CO)C(=O)O
+
+InChI=1S/C14H27N3O5/c1-7(2)5-9(15)12(19)17-11(8(3)4)13(20)16-10(6-18)14(21)22/h7-11,18H,5-6,15H2,1-4H3,(H,16,20)(H,17,19)(H,21,22)/t9-,10-,11-/m0/s1
+
+InChIKey=VKVDRTGWLVZJOM-DCAQKATOSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BRENDA: Ligand Leu-Val-Ser
+
+ChEBI: 
+ID 73578 
+
+Metabolights: ID MTBLC73578
+
+Metabolomics Workbench: 
+ID 83451 
+
+NMRShiftDB: 
+ID 60023573
+
+PubChem: CID 9858135
+
+UniChem: 
+ID 32025300
+
+Wikidata: ID Q27141628 
+
+ZINC: ID ZINC000013508431

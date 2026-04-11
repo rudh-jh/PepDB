@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9551 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+QLVP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 455.5469 
+
+ Monoisotopic mass 
+
+ 455.2735 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 127.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu Q., Li Y., Peng K., Wang X. L., Ding Z., Liu L., Xu P., Liu G. Q. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Isolation and characterization of three antihypertension peptides from the mycelia of Ganoderma lucidum (Agaricomycetes). J. Agric. Food Chem., 67, 8149-8159, 2019 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2019 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C21H37N5O6/c1-11(2)10-14(24-18(28)13(22)7-8-16(23)27)19(29)25-17(12(3)4)20(30)26-9-5-6-15(26)21(31)32/h11-15,17H,5-10,22H2,1-4H3,(H2,23,27)(H,24,28)(H,25,29)(H,31,32)/t13-,14-,15-,17-/m0/s1
+
+InChIKey: KBIRYFSNYHBRLD-JKQORVJESA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11148 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KIHPFAQT 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 941.0818 
+
+ Monoisotopic mass 
+
+ 940.5115 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Magouz O., Ibrahim M. A. A., Mehanna N., Gensberger-Reigl S., Dalabasmaz S., Pischetsrieder M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of the heptapeptide PR7 and octapeptide SF8 with potent antioxidative and angiotensin converting enzyme inhibitory activity from the fermented dairy by-product “Buttermilk". Food Front., 6, 837–851, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)O
+
+InChI=1S/C44H68N12O11/c1-5-24(2)35(54-38(60)29(46)14-9-10-18-45)42(64)53-32(21-28-22-48-23-49-28)43(65)56-19-11-15-33(56)41(63)52-31(20-27-12-7-6-8-13-27)40(62)50-25(3)37(59)51-30(16-17-34(47)58)39(61)55-36(26(4)57)44(66)67/h6-8,12-13,22-26,29-33,35-36,57H,5,9-11,14-21,45-46H2,1-4H3,(H2,47,58)(H,48,49)(H,50,62)(H,51,59)(H,52,63)(H,53,64)(H,54,60)(H,55,61)(H,66,67)/t24-,25-,26+,29-,30-,31-,32-,33-,35-,36-/m0/s1
+
+InChIKey=ISBPGFKLZPNXQN-LNMUSMGDSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

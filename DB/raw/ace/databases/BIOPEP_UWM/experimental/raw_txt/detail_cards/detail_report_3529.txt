@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3529 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AVNPIR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 668.7833 
+
+ Monoisotopic mass 
+
+ 668.3958 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 13.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Maruyama S., Miyoshi S., Tanaka H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitors derived from ficus carica.Agric.Biol.Chem.53(10),2763-2767(1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(N)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CC(N)=O)C(=O)N1CCC[C@@]1([H])C(=O)N[C@]([H])(C(=O)N[C@@]([H])(CCCNC(N)=N)C(O)=O)[C@@]([H])(C)CC
+
+InChI=1S/C29H52N10O8/c1-6-15(4)22(26(44)35-17(28(46)47)9-7-11-34-29(32)33)38-24(42)19-10-8-12-39(19)27(45)18(13-20(31)40)36-25(43)21(14(2)3)37-23(41)16(5)30/h14-19,21-22H,6-13,30H2,1-5H3,(H2,31,40)(H,35,44)(H,36,43)(H,37,41)(H,38,42)(H,46,47)(H4,32,33,34)/t15-,16-,17-,18-,19-,21-,22-/m0/s1
+
+InChIKey=AOFPFGSHTSONOG-UMWWKMARSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

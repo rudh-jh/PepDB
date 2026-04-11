@@ -1,0 +1,240 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7595 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 188.2236 
+
+ Monoisotopic mass 
+
+ 188.1157 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1200.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)NCC(=O)O)[C@H](CC)C
+
+InChI=1S/C8H16N2O3/c1-3-5(2)7(9)8(13)10-4-6(11)12/h5,7H,3-4,9H2,1-2H3,(H,10,13)(H,11,12)/t5-,7-/m0/s1
+
+InChIKey: UCGDDTHMMVWVMV-FSPLSTOPSA-N
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 164); the ChEMBL database; the PubChem database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1478; 1683; 3020; 3107; 3109; 3564; 3799; 3857; 3950; 4426; 4505; 6581
+
+BindingDB: 
+ID 50407434
+
+BioPepDB: ID biopep00511
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 164
+
+ChEBI: 
+ID 74066
+
+ChEMBL: ID CHEMBL301979
+
+ChemSpider: 
+ID 5360987
+
+EROP-Moscow: ID E10391
+
+FeptideDB: 
+ID 7595
+
+J-GLOBAL: 
+ID 200907055232808135
+
+Metabolights: ID MTBLC133641
+
+Metabolomics Workbench: 
+ID 71880
+
+Nikkaji: ID J265.924G
+
+PubChem: 
+ID 6992869
+
+SATPdb: ID satpdb14233
+
+SureChEMBL: ID SCHEMBL8728266
+
+ZINC: ID ZINC000001590840

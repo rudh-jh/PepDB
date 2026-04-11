@@ -1,0 +1,200 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9832 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YDDGSYKPH 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1081.0894 
+
+ Monoisotopic mass 
+
+ 1080.4497 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 5.38 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zielińska E., Karaś M., Baraniak B., Jakubczyk A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Evaluation of ACE, alpha‑glucosidase, and lipase inhibitory activities of peptides obtained by in vitro digestion of selected species of edible insects. Eur. Food Res. Technol., 246, 1361-1369, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(=O)O)C(=O)NCC(=O)N[C@@H](CO)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CCCCN)C(=O)N3[C@@H](CCC3)C(=O)N[C@@H](CC4=C[N]([H])C=N4)C(=O)O
+
+InChI=1S/C48H64N12O17/c49-14-2-1-4-31(47(75)60-15-3-5-37(60)46(74)59-35(48(76)77)18-27-21-51-24-53-27)55-43(71)32(17-26-8-12-29(63)13-9-26)57-45(73)36(23-61)54-38(64)22-52-42(70)33(19-39(65)66)58-44(72)34(20-40(67)68)56-41(69)30(50)16-25-6-10-28(62)11-7-25/h6-13,21,24,30-37,61-63H,1-5,14-20,22-23,49-50H2,(H,51,53)(H,52,70)(H,54,64)(H,55,71)(H,56,69)(H,57,73)(H,58,72)(H,59,74)(H,65,66)(H,67,68)(H,76,77)/t30-,31-,32-,33-,34-,35-,36-,37-/m0/s1
+
+InChIKey=YYAFFTNFHUOXAT-MDKUUQCZSA-N
+
+Pancreatic lipase inhibitor according to the BIOPEP-UWM database of bioactive peptides (
+ID 9833) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9833

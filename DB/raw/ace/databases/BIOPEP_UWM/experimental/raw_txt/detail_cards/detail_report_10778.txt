@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10778 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IWHHTFYNELR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 11 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1515.6684 
+
+ Monoisotopic mass 
+
+ 1514.7397 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 697.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu W., Wei G., He R., Tian Y., Huang A., Wang X. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Health-promoting activities of Moringa oleifera lam. Seeds protein hydrolysates and its ultra-filtered peptide fractions. Food Chem. Adv., 2, 100324, 2023 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2023 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C72H98N20O17/c1-6-38(4)59(74)69(106)90-53(28-42-32-80-47-16-11-10-15-46(42)47)65(102)87-54(29-43-33-77-35-81-43)66(103)88-55(30-44-34-78-36-82-44)68(105)92-60(39(5)93)70(107)91-52(26-40-13-8-7-9-14-40)64(101)86-51(27-41-18-20-45(94)21-19-41)63(100)89-56(31-57(73)95)67(104)83-48(22-23-58(96)97)61(98)85-50(25-37(2)3)62(99)84-49(71(108)109)17-12-24-79-72(75)76/h7-11,13-16,18-21,32-39,48-56,59-60,80,93-94H,6,12,17,22-31,74H2,1-5H3,(H2,73,95)(H,77,81)(H,78,82)(H,83,104)(H,84,99)(H,85,98)(H,86,101)(H,87,102)(H,88,103)(H,89,100)(H,90,106)(H,91,107)(H,92,105)(H,96,97)(H,108,109)(H4,75,76,79)/t38-,39+,48-,49-,50-,51-,52-,53-,54-,55-,56-,59-,60-/m0/s1
+
+InChIKey=QSBXECSKXIAROZ-QWOIPJDMSA-N
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

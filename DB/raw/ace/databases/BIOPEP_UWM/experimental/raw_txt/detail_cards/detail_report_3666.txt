@@ -1,0 +1,249 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3666 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 278.3030 
+
+ Monoisotopic mass 
+
+ 278.1262 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 720.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lantz I., Glamsta E. L., Talback L., Nyberg F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Hemorfins derived from hemoglobin have an inhibitory action on angiotensin converting enzyme activity. FEBS Lett., 287, 39-41, 1991 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1991 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N1[C@H](C(=O)O)CCC1)Cc1ccc(cc1)O
+
+InChI=1S/C14H18N2O4/c15-11(8-9-3-5-10(17)6-4-9)13(18)16-7-1-2-12(16)14(19)20/h3-6,11-12,17H,1-2,7-8,15H2,(H,19,20)/t11-,12-/m0/s1
+
+InChIKey: VNYDHJARLHNEGA-RYUDHWBXSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001 
+
+Peptide EC50 value comes from AHTPDB database: http://crdd.osdd.net/raghava/ahtpdb/ 
+
+Peptide found also in amaranth protein hydrolysate. 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111 
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8521); the BRENDA database
+
+Inhibitor of alpha-glucosidase (EC 3.2.1.20) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9548)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1213; 1344; 1349; 1386; 1673; 1706; 2683; 2981; 2985; 3111; 3405; 3551; 3638; 4055; 4130; 4176; 4951; 5574; 5638; 6474
+
+BindingDB: 
+ID 50348856
+
+BioPepDB: ID biopep01590
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8521; 9548
+
+BIOPEP-UWM database of sensory peptides and amino acids; 
+ID 71
+
+BRENDA: Ligand Tyr-Pro
+
+ChEBI: 
+ID 141456
+
+ChEMBL: ID CHEMBL1807689
+
+ChemSpider: 
+ID 7971403
+
+EPA DSSTox: ID DTXCID90381673
+
+EROP-Moscow: ID E06297; E09272
+
+J-GLOBAL: 
+ID 200907049822444422
+
+Nikkaji: ID J453.042J
+
+PubChem: CID 9795637
+
+SATPdb: ID satpdb19838
+
+SureChEMBL: ID SCHEMBL5336562
+
+ZINC: ID ZINC04899652

@@ -1,196 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 93
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=92bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-5416
-Mastoparan of Vespula lewisii
-INLKALAALAKKIL~
-1478.9022
-1478.0042
-0.00 EC_50
-Peptide
-Data
-5417
-KWKLFKKIGAVLKVL
-1771.2763
-1770.1613
-0.00 EC_50
-Peptide
-Data
-5418
-murine lactoferrin LFM
-EKCLRWQNEMRKVGG
-1834.1283
-1832.9110
-0.00 EC_50
-Peptide
-Data
-5419
-porcine lactoferrin LFP
-SKCRQWSKIRRTNP
-1760.0289
-1758.9397
-0.00 EC_50
-Peptide
-Data
-5420
-tryptophan-modified human lactoferricin (LFH W8)
-TKCFQWQWNMRKVRG
-1968.3080
-1966.9742
-0.00 EC_50
-Peptide
-Data
-5421
-formaecin 2
-GRPNPVNTKPTPYPRL
-1807.0559
-1805.9871
-0.00 EC_50
-Peptide
-Data
-5422
-drosocin
-GKPRPYSPRPTSHPRPIRV
-2198.5260
-2197.2310
-0.00 EC_50
-Peptide
-Data
-5423
-lebocin 1/2
-DLRFLYPRGKLPVPTPPPFNPKPIYIDMGNRY
-3773.3980
-3771.0061
-0.00 EC_50
-Peptide
-Data
-5424
-lebocin 3
-DLRFLYPRGKLPVPTLPPFNPKPIYIDMGNRY
-3789.4403
-3787.0373
-0.00 EC_50
-Peptide
-Data
-5425
-denclatoxin B
-KSCCPTTAARNQYNICRLPGTPRPVCAALSGCKIISGTGCPPGYRH
-4820.5995
-4817.3306
-0.00 EC_50
-Peptide
-Data
-5426
-Ligatoxin A
-KSCCPSTTARNIYNTCRLTGTSRPTCASLSGCKIISGSTCDSGWNH
-4840.4110
-4837.1849
-0.00 EC_50
-Peptide
-Data
-5427
-Viscotoxin 1-PS
-KSCCPNTTGRNIYNTCRFGGGSREVCARISGCKIISASTCPSDYPK
-4903.5542
-4900.2684
-0.00 EC_50
-Peptide
-Data
-5428
-Viscotoxin A2
-KSCCPNTTGRNIYNTCRFGGGSREVCASLSGCKIISASTCPSYPDK
-4834.4461
-4831.1994
-0.00 EC_50
-Peptide
-Data
-5429
-Viscotoxin A3
-KSCCPNTTGRNIYNACRLTGAPRPTCAKLSGCKIISGSTCPSDYPK
-4835.5629
-4832.3036
-0.00 EC_50
-Peptide
-Data
-5430
-So-D5 (defensin)
-MFFSSKKCKTVXKTFRGPCVRNAN
-2650.1491
-2648.3460
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5416 
+
+ Mastoparan of Vespula lewisii 
+
+ INLKALAALAKKIL~ 
+
+ 1478.9022 
+
+ 1478.0042 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5417 
+
+ 
+
+ KWKLFKKIGAVLKVL 
+
+ 1771.2763 
+
+ 1770.1613 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5418 
+
+ murine lactoferrin LFM 
+
+ EKCLRWQNEMRKVGG 
+
+ 1834.1283 
+
+ 1832.9110 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5419 
+
+ porcine lactoferrin LFP 
+
+ SKCRQWSKIRRTNP 
+
+ 1760.0289 
+
+ 1758.9397 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5420 
+
+ tryptophan-modified human lactoferricin (LFH W8) 
+
+ TKCFQWQWNMRKVRG 
+
+ 1968.3080 
+
+ 1966.9742 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5421 
+
+ formaecin 2 
+
+ GRPNPVNTKPTPYPRL 
+
+ 1807.0559 
+
+ 1805.9871 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5422 
+
+ drosocin 
+
+ GKPRPYSPRPTSHPRPIRV 
+
+ 2198.5260 
+
+ 2197.2310 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5423 
+
+ lebocin 1/2 
+
+ DLRFLYPRGKLPVPTPPPFNPKPIYIDMGNRY 
+
+ 3773.3980 
+
+ 3771.0061 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5424 
+
+ lebocin 3 
+
+ DLRFLYPRGKLPVPTLPPFNPKPIYIDMGNRY 
+
+ 3789.4403 
+
+ 3787.0373 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5425 
+
+ denclatoxin B 
+
+ KSCCPTTAARNQYNICRLPGTPRPVCAALSGCKIISGTGCPPGYRH 
+
+ 4820.5995 
+
+ 4817.3306 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5426 
+
+ Ligatoxin A 
+
+ KSCCPSTTARNIYNTCRLTGTSRPTCASLSGCKIISGSTCDSGWNH 
+
+ 4840.4110 
+
+ 4837.1849 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5427 
+
+ Viscotoxin 1-PS 
+
+ KSCCPNTTGRNIYNTCRFGGGSREVCARISGCKIISASTCPSDYPK 
+
+ 4903.5542 
+
+ 4900.2684 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5428 
+
+ Viscotoxin A2 
+
+ KSCCPNTTGRNIYNTCRFGGGSREVCASLSGCKIISASTCPSYPDK 
+
+ 4834.4461 
+
+ 4831.1994 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5429 
+
+ Viscotoxin A3 
+
+ KSCCPNTTGRNIYNACRLTGAPRPTCAKLSGCKIISGSTCPSDYPK 
+
+ 4835.5629 
+
+ 4832.3036 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5430 
+
+ So-D5 (defensin) 
+
+ MFFSSKKCKTVXKTFRGPCVRNAN 
+
+ 2650.1491 
+
+ 2648.3460 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 93 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

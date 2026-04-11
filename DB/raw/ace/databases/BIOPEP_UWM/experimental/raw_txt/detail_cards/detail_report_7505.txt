@@ -1,0 +1,182 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7505 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+SKVYPFPGPI 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1104.2943 
+
+ Monoisotopic mass 
+
+ 1103.5996 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1.70 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Korhonen H., Pihlanto A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Technological options for the production of health-promoting proteins and peptides derived from milk and colostrum. Curr. Pharm. Des., 13, 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ IC50 (EC50) value in mg/mL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

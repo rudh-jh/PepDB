@@ -1,0 +1,258 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9946 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 344.3610 
+
+ Monoisotopic mass 
+
+ 344.1367 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 180.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lafarga T, Aluko RE, Rai DK, O'Connor P, Hayes M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of bioactive peptides from a papain hydrolysate of bovine serum albumin and assessment of an antihypertensive effect in spontaneously hypertensive rats. Food Res Int. 81, 91-99, 2016 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2016 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O
+
+InChI= 1S/C18H20N2O5/c19-15(9-11-1-5-13(21)6-2-11)17(23)20-16(18(24)25)10-12-3-7-14(22)8-4-12/h1-8,15-16,21-22H,9-10,19H2,(H,20,23)(H,24,25)/t15-,16-/m0/s1
+
+InChIKey: JAQGKXUEKGKTKX-HOTGVXAUSA-N
+
+Inhibitor of Dipeptidyl peptidase IV (DPP IV) (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8948)
+
+Inhibitor of Dipeptidyl peptidase III (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9476); the BRENDA database
+
+Inhibitor of tyrosyl tRNA synthetase (EC 6.1.1.1) from Staphylococcus aureus according to the ChEMBL database; the PubChem database
+
+Inhibitor of renin (EC 3.4.23.15) (MEROPS ID: A01.007) according to the BRENDA database
+
+Inhibitor of tubulin-tyrosine ligase (EC 6.3.2.25) according to the BRENDA database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (ID: 33)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 1050-28-8
+
+AHTPDB: 
+ID 5413
+
+BindingDB: ID BDBM50081840
+
+BioPepDB: ID biopep01645
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8948; 9476; 9946
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 33
+
+BRENDA: Ligand Tyr-Tyr
+
+ChEBI: 
+ID 60989
+
+ChEMBL: ID CHEMBL95286
+
+ChemIdPlus: 
+ID 1050-28-8
+
+ChemSpider: 
+ID 63759
+
+CTD: 
+ID 1050-28-8
+
+EROP-Moscow: ID E10447
+
+J-GLOBAL: 
+ID 200907087926120458
+
+Metabolights: ID MTBLC60989
+
+Nikkaji: ID J150.479G
+
+PubChem: 
+ID 70590
+
+SATP: ID satpdb13867
+
+SureChEMBL: ID SCHEMBL1574161
+
+ZINC: ID ZINC02004481

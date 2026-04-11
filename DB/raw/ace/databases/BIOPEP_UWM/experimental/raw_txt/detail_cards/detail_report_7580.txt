@@ -1,0 +1,252 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7580 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02.001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 360.4099 
+
+ Monoisotopic mass 
+
+ 360.1905 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 16.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC1=C[N]([H])C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C17H24N6O3/c18-12(5-3-7-21-17(19)20)15(24)23-14(16(25)26)8-10-9-22-13-6-2-1-4-11(10)13/h1-2,4,6,9,12,14,22H,3,5,7-8,18H2,(H,23,24)(H,25,26)(H4,19,20,21)/t12-,14-/m0/s1
+
+InChIKey=QADCERNTBWTXFV-JSGCOSHPSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8214)
+
+Inhibitor of Dipeptidyl peptidase III (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9477); the BRENDA database
+
+Inhibitor of Dipeptidyl peptidase IV (DPP IV) (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (ID: 8890)
+
+Antiviral peptide according to the AVPdb database
+
+Inhibitor of Xanthine oxidase (EC 1.17.3.2) according to the EROP-Moscow database
+
+Information concerning angiotensin-converting enzyme is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1221, 1497, 1513, 2058, 2848, 3535, 3783, 4448, 4489, 4658, 6566
+
+AVPdb: ID AVP1529
+
+BindingDB: 
+ID 50407441
+
+BioPepDB: ID biopep01230
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8214; 8890, 9477
+
+BRENDA: Ligand Arg-Trp
+
+ChEBI: 
+ID 73821
+
+ChEMBL: ID CHEMBL91160
+
+ChemSpider: 
+ID 5373233
+
+EPA CompTox: ID DTXSID00426569
+
+EPA DSSTox: ID DTXSID00426569
+
+EROP-Moscow: ID E10401
+
+J-GLOBAL: 
+ID 200907005445591086
+
+Metabolights: ID MTBLC73821
+
+Nikkaji: ID J36.199B
+
+PubChem: CID 7009653
+
+SATPdb: ID satpdb26916
+
+SureChEMBL: ID SCHEMBL5326395
+
+ZINC: ID ZINC2384977

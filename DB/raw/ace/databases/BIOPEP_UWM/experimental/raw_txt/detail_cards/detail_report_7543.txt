@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7543 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 275.3024 
+
+ Monoisotopic mass 
+
+ 275.1266 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 10.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Loponen J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitory peptides in Finnish cereals: a database survey. Agric. Food Sci., 2004, 13, 39-45. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2004 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001
+
+Another value of peptide EC50 (IC50) = 6.4 um
+
+Ono S., Hosokawa M., Miyashita K., Takahashi K., 2006, Inhibiton properties of dipeptides from salmon muscle hydrolysate on angiotensin I-converting enzyme. Int. J. Food Sci. Technol., 41, 383-387
+
+Found in salmon protein hydrolysate. 
+
+Ono S., Hosokawa M., Miyashita K., Takahashi K., 2006, Inhibiton properties of dipeptides from salmon muscle hydrolysate on angiotensin I-converting enzyme. Int. J. Food Sci. Technol., 41, 383-387
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

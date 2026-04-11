@@ -1,0 +1,221 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9172 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PPP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 309.3599 
+
+ Monoisotopic mass 
+
+ 309.1683 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 78.20 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Quantitative structure-activity relationship study of bitter di- and tri-peptides including relationship with angiotensin I-converting enzyme inhibitory activity. J. Peptide Sci., 13, 63-69, 2007 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: C1C[C@@H](C(=O)N2CCC[C@H]2C(=O)N2CCC[C@H]2C(=O)O)NC1
+
+InChI=1S/C15H23N3O4/c19-13(10-4-1-7-16-10)17-8-2-5-11(17)14(20)18-9-3-6-12(18)15(21)22/h10-12,16H,1-9H2,(H,21,22)/t10-,11-,12-/m0/s1
+
+InChIKey: SBVPYBFMIGDIDX-SRVKXCTJSA-N
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID: A01.007) according to the PubChem database 
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 6)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4572; 4848; 5486
+
+BioPepDB: ID biopep01082
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 6
+
+ChEBI: 
+ID 73647
+
+ChemSpider: 
+ID 388670
+
+KEGG: ID C01843
+
+PubChem: CID 439587
+
+SATPdb: ID satpdb11296
+
+ZINC: ID ZINC04095727

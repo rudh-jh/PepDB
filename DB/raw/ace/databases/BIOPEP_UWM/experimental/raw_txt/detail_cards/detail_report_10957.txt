@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10957 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MAM 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 351.4865 
+
+ Monoisotopic mass 
+
+ 351.1281 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 199.10 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lan J., Dang K., Wang Y., Du L., Pan D., Dang Y., Gao X. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Evaluation of novel angiotensin I-converting enzyme and dipeptidyl peptidase IV inhibitory peptides derived from yak milk based on peptidomics and network pharmacology. Food Biosci., 67, 106030, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCSC)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCSC)C(=O)O
+
+InChI=1S/C13H3N3O4S2/c1-8(15-12(18)9(14)4-6-21-2)11(17)16-10(13(19)20)5-7-22-3/h8-10H/t8-,9-,10-/m0/s1
+
+InChIKey=VTKPSXWRUGCOAC-GUBZILKMSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BRENDA: Ligand Met-Ala-Met
+
+ChEBI: 
+ID 140747 
+
+Metabolomics Workbench: 
+ID 83868 
+
+PubChem: CID 129656953 
+
+UniChem: 
+ID 161183191
+
+Wikidata: ID Q106026309

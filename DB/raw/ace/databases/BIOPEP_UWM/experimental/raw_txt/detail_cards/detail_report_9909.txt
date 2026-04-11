@@ -1,0 +1,198 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9909 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YVPHWDL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 929.0266 
+
+ Monoisotopic mass 
+
+ 928.4429 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.17 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wang F. J., Yin X. Y., Regenstein J. M., Wang J. Z. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Separation and purification of angiotensin I converting enzyme (ACE) inhibitory peptides from walnuts (Juglans regia L.) meal. Eur. Food Res. Technol., 242, 911-918, 2015 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](C(C)C)C(=O)N2[C@@H](CCC2)C(=O)N[C@@H](CC3=C[N]([H])C=N3)C(=O)N[C@@H](CC4=C[N]([H])C5=CC=CC=C45)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)O
+
+InChI=1S/C46H60N10O11/c1-24(2)16-36(46(66)67)54-43(63)35(20-38(58)59)52-41(61)33(18-27-21-49-32-9-6-5-8-30(27)32)51-42(62)34(19-28-22-48-23-50-28)53-44(64)37-10-7-15-56(37)45(65)39(25(3)4)55-40(60)31(47)17-26-11-13-29(57)14-12-26/h5-6,8-9,11-14,21-25,31,33-37,39,49,57H,7,10,15-20,47H2,1-4H3,(H,48,50)(H,51,62)(H,52,61)(H,53,64)(H,54,63)(H,55,60)(H,58,59)(H,66,67)/t31-,33-,34-,35-,36-,37-,39-/m0/s1
+
+InChIKey=LIHBXVQXVJECNB-IDWCMAOESA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ EROP-Moscow: ID E24164
+
+PlantPepDB: ID PPepDB_3716

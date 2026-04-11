@@ -1,0 +1,228 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7478 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+HHL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 405.4504 
+
+ Monoisotopic mass 
+
+ 405.2119 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 5.43 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Shin Z. I., Yu R., Park S. A., Chung D. K., Ahn C. W., Nam H. S., Kim K. S., Lee H. J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ His-His-Leu, an angiotensin I converting enzyme inhibitory peptide derived from Korean soybean paste, exerts antihypertensive activity in vivo. J. Agric. Food Chem., 49, 3004-3009, 2001 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2001 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CN=C[NH]1)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C18H27N7O4/c1-10(2)3-15(18(28)29)25-17(27)14(5-12-7-21-9-23-12)24-16(26)13(19)4-11-6-20-8-22-11/h6-10,13-15H,3-5,19H2,1-2H3,(H,20,22)(H,21,23)(H,24,26)(H,25,27)(H,28,29)/t13-,14-,15-/m0/s1
+
+InChIKey=PMWSGVRIMIFXQH-KKUMJFAQSA-N
+
+Hypouricemic peptide according to the BIOPEP-UWM database of bioactive peptides
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides; the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1535, 1537, 1901, 1980, 2783, 3656, 6225, 6488
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7478 
+
+ChEBI: 
+ID 164530
+
+ChemSpider: 
+ID 8019916
+
+DFBP: ID DFBPACEI0658; DFBPANHY0481; FBPMUFU0144
+
+EROP-Moscow: ID E09152
+
+J-GLOBAL: 
+ID 200907012866993384 
+
+Metabolomics Workbench: 
+ID 82426 
+
+Nikkaji: ID J1.553.347A 
+
+PlantPepDB: ID PPepDB_2968
+
+PubChem: CID: 9844201 
+
+SATPdb: ID satpdb23858

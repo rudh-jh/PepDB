@@ -1,0 +1,210 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3395 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AMKPWIQPK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1098.3587 
+
+ Monoisotopic mass 
+
+ 1097.6037 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Maeno M., Yamamoto N., Takano T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of an antihypertensive peptide from casein hydrolysate produced by a proteinase from Lactobacillus helveticus CP790. J. Dairy Sci., 79, 1316-1321, 1996 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1996 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(N)C(=O)N[C@@]([H])(CCSC)C(=O)N[C@@]([H])(CCCCN)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CC1=CNC2=C1C=CC=C2)C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C52H83N13O11S/c1-5-30(2)43(49(72)60-37(20-21-42(56)66)51(74)65-26-12-18-40(65)47(70)61-38(52(75)76)17-9-11-24-54)63-46(69)39(28-32-29-57-34-15-7-6-14-33(32)34)62-48(71)41-19-13-25-64(41)50(73)36(16-8-10-23-53)59-45(68)35(22-27-77-4)58-44(67)31(3)55/h6-7,14-15,29-31,35-41,43,57H,5,8-13,16-28,53-55H2,1-4H3,(H2,56,66)(H,58,67)(H,59,68)(H,60,72)(H,61,70)(H,62,71)(H,63,69)(H,75,76)/t30-,31-,35-,36-,37-,38-,39-,40-,41-,43-/m0/s1
+
+InChIKey=ODLZIMAJNVNJEX-GZCZXRBKSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: ID ahtpdb_4602; ahtpdb_6507
+
+DFBP: ID DFBPACEI0499; DFBPANHY0142; DFBPMUFU0343
+
+EROP-Moscow: ID E10831
+
+J-GLOBAL: ID200907062368120907
+
+MBPDB: Peptide AMKPWIQPK
+
+Nikkaji: ID J784.184A
+
+PubChem: CID 102532787 
+
+SATPdb: ID satpdb26543

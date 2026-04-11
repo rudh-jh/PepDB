@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9114 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+DKVGINYW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 994.0981 
+
+ Monoisotopic mass 
+
+ 993.4904 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 25.20 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Tavares T., del Mar Contreras M., Amorim M., Pintado M., Recio I., Malcata F. X. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel whey-derived peptides with inhibitory effect against angiotensin-converting enzyme: in vitro effect and stability to gastrointestinal enzymes. Peptides, 32, 1013-1019, 2011 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2011 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](Cc1c2ccccc2[nH]c1)C(=O)O
+
+InChI=1S/C47H67N11O13/c1-5-25(4)40(57-37(61)23-52-45(68)39(24(2)3)58-42(65)32(12-8-9-17-48)53-41(64)30(49)20-38(62)63)46(69)55-34(21-36(50)60)44(67)54-33(18-26-13-15-28(59)16-14-26)43(66)56-35(47(70)71)19-27-22-51-31-11-7-6-10-29(27)31/h6-7,10-11,13-16,22,24-25,30,32-35,39-40,51,59H,5,8-9,12,17-21,23,48-49H2,1-4H3,(H2,50,60)(H,52,68)(H,53,64)(H,54,67)(H,55,69)(H,56,66)(H,57,61)(H,58,65)(H,62,63)(H,70,71)/t25-,30-,32-,33-,34-,35-,39-,40-/m0/s1
+
+InChIKey: GFTYIRTWZKCKBT-LCTCTEIDSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1303, 2547
+
+BioPepDB: ID biopep00139
+
+MBPDB: Peptide DKVGINYW
+
+SATPdb: ID satpdb10272

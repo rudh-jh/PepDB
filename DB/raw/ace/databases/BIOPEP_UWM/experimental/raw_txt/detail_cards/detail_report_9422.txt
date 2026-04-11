@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9422 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TPTQQS 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 660.6722 
+
+ Monoisotopic mass 
+
+ 660.3068 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 73.25 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Ni H., Li L. , Guo S.-S. , Li H.-H., Jiang R., Hu S.-Q. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Isolation and Identification of an Angiotensin-I Converting Enzyme Inhibitory Peptide from Yeast (Saccharomyces cerevisiae). Current Analytical Chemistry, 2012, 8, 180-185 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2012 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](C)(O)[C@]([H])(N)C(=O)N1CCC[C@@]1([H])C(=O)N[C@]([H])(C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N[C@@]([H])(CO)C(O)=O)[C@@]([H])(C)O
+
+InChI=1S/C26H44N8O12/c1-11(36)19(29)25(44)34-9-3-4-16(34)23(42)33-20(12(2)37)24(43)31-14(6-8-18(28)39)21(40)30-13(5-7-17(27)38)22(41)32-15(10-35)26(45)46/h11-16,19-20,35-37H,3-10,29H2,1-2H3,(H2,27,38)(H2,28,39)(H,30,40)(H,31,43)(H,32,41)(H,33,42)(H,45,46)/t11-,12-,13+,14+,15+,16+,19+,20+/m1/s1
+
+InChIKey=QPGOKERSRKFQTI-CILRADMLSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

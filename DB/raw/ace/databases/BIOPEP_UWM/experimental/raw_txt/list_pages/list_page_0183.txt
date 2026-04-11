@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 183
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=182bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8469
-Antioxidant peptide from k-CN (97-101)
-RHPHP
-642.7082
-642.3342
-0.00 EC_50
-Peptide
-Data
-8470
-Antioxidant peptide from k-CN (34-37)
-RYPS
-521.5653
-521.2590
-0.00 EC_50
-Peptide
-Data
-8471
-Antioxidant peptide from k-CN (33-37)
-SRYPS
-608.6424
-608.2909
-0.00 EC_50
-Peptide
-Data
-8472
-Antioxidant peptide from as1-CN (158-161)
-AYPS
-436.4578
-436.1951
-0.00 EC_50
-Peptide
-Data
-8473
-Antioxidant peptide from k-CN (61-64)
-YAKP
-477.5525
-477.2579
-0.00 EC_50
-Peptide
-Data
-8474
-Antioxidant peptide from as2-CN (170-172)
-RYQ
-465.5022
-465.2329
-0.00 EC_50
-Peptide
-Data
-8475
-Antioxidant peptide from k-CN (31-37)
-VLSRYPS
-820.9303
-820.4429
-0.00 EC_50
-Peptide
-Data
-8476
-Antioxidant peptide from k-CN (124-130)
-TIASGEP
-673.7106
-673.3271
-0.00 EC_50
-Peptide
-Data
-8477
-Antioxidant peptide from alphas1-CN (154-157)
-YQLD
-537.5614
-537.2426
-0.00 EC_50
-Peptide
-Data
-8478
-Antioxidant peptide from as1-CN (93-97)
-GYLEQ
-608.6391
-608.2796
-0.00 EC_50
-Peptide
-Data
-8479
-Antioxidant peptide from b-CN (183-188)
-RDMPIQ
-758.8854
-758.3733
-0.00 EC_50
-Peptide
-Data
-8480
-Antioxidant peptide from as1-CN (146-150)
-YPELF
-667.7474
-667.3206
-0.00 EC_50
-Peptide
-Data
-8481
-Antioxidant peptide from alphas1-CN (100-104)
-RLKKY
-706.8741
-706.4477
-0.00 EC_50
-Peptide
-Data
-8482
-Antioxidant peptide from as2-CN (179-182)
-YLKT
-523.6207
-523.2996
-0.00 EC_50
-Peptide
-Data
-8483
-Antioxidant peptide from as2-CN (182-185)
-TVYQ
-509.5513
-509.2477
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 183 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8469 
+
+ Antioxidant peptide from k-CN (97-101) 
+
+ RHPHP 
+
+ 642.7082 
+
+ 642.3342 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8470 
+
+ Antioxidant peptide from k-CN (34-37) 
+
+ RYPS 
+
+ 521.5653 
+
+ 521.2590 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8471 
+
+ Antioxidant peptide from k-CN (33-37) 
+
+ SRYPS 
+
+ 608.6424 
+
+ 608.2909 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8472 
+
+ Antioxidant peptide from as1-CN (158-161) 
+
+ AYPS 
+
+ 436.4578 
+
+ 436.1951 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8473 
+
+ Antioxidant peptide from k-CN (61-64) 
+
+ YAKP 
+
+ 477.5525 
+
+ 477.2579 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8474 
+
+ Antioxidant peptide from as2-CN (170-172) 
+
+ RYQ 
+
+ 465.5022 
+
+ 465.2329 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8475 
+
+ Antioxidant peptide from k-CN (31-37) 
+
+ VLSRYPS 
+
+ 820.9303 
+
+ 820.4429 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8476 
+
+ Antioxidant peptide from k-CN (124-130) 
+
+ TIASGEP 
+
+ 673.7106 
+
+ 673.3271 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8477 
+
+ Antioxidant peptide from alphas1-CN (154-157) 
+
+ YQLD 
+
+ 537.5614 
+
+ 537.2426 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8478 
+
+ Antioxidant peptide from as1-CN (93-97) 
+
+ GYLEQ 
+
+ 608.6391 
+
+ 608.2796 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8479 
+
+ Antioxidant peptide from b-CN (183-188) 
+
+ RDMPIQ 
+
+ 758.8854 
+
+ 758.3733 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8480 
+
+ Antioxidant peptide from as1-CN (146-150) 
+
+ YPELF 
+
+ 667.7474 
+
+ 667.3206 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8481 
+
+ Antioxidant peptide from alphas1-CN (100-104) 
+
+ RLKKY 
+
+ 706.8741 
+
+ 706.4477 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8482 
+
+ Antioxidant peptide from as2-CN (179-182) 
+
+ YLKT 
+
+ 523.6207 
+
+ 523.2996 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8483 
+
+ Antioxidant peptide from as2-CN (182-185) 
+
+ TVYQ 
+
+ 509.5513 
+
+ 509.2477 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 183 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8960 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MILLLFR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 905.1995 
+
+ Monoisotopic mass 
+
+ 904.5551 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.12 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Toopcham T., Roytrakul S., Yongsawatdigul J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Characterization and identification of angiotensin I-converting enzyme (ACE) inhibitory peptides derived from tilapia using Virgibacillus halodenitrificans SK1-3-7 proteinases. J. Funct. Foods, 14, 435-444, 2015 
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES:
+
+[H][C@](N)(CCSC)C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCCNC(N)=N)C(O)=O
+
+InChI=1S/C44H76N10O8S/c1-10-28(8)36(54-37(55)30(45)18-20-63-9)42(60)53-34(23-27(6)7)40(58)51-32(21-25(2)3)38(56)50-33(22-26(4)5)39(57)52-35(24-29-15-12-11-13-16-29)41(59)49-31(43(61)62)17-14-19-48-44(46)47/h11-13,15-16,25-28,30-36H,10,14,17-24,45H2,1-9H3,(H,49,59)(H,50,56)(H,51,58)(H,52,57)(H,53,60)(H,54,55)(H,61,62)(H4,46,47,48)/t28-,30-,31-,32-,33-,34-,35-,36-/m0/s1
+
+InChIKey: RPNURIMEGVHDTL-XQASUVORSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ DFBP: DFBPACEI0221
+
+EROP-Moscow: ID E24222
+
+FeptideDB: 
+ID 8960

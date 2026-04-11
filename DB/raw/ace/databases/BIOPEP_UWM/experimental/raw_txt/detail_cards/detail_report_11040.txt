@@ -1,0 +1,228 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11040 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VC 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 220.2897 
+
+ Monoisotopic mass 
+
+ 220.0878 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 134.45 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Neves A. C., Harnedy P. A., O’Keeffe M. B., FitzGerald R. J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Bioactive peptides from Atlantic salmon (Salmo salar) with angiotensin converting enzyme and dipeptidyl peptidase IV inhibitory, and antioxidant activities. Food Chem., 218, 396–405, 2017 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CS)C(=O)O
+
+InChI=1S/C8H16N2O3S/c1-4(2)6(9)7(11)10-5(3-14)8(12)13/h4-6,14H,3,9H2,1-2H3,(H,10,11)(H,12,13)/t5-,6-/m0/s1
+
+InChIKey=WPSXZFTVLIAPCN-WDSKDSINSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ CAS: Registry No 160070-15-5 
+
+ChEBI: 
+ID 157905 
+
+ChemSpider: 
+ID 8596449
+
+EROP-Moscow: ID E24049
+
+HMDB: ID HMDB0029124 
+
+J-GLOBAL: ID200907006423320859
+
+Metabolomics Workbench: 
+ID 79040 
+
+Nikkaji: ID J684.660B 
+
+PubChem: CID 10421020
+
+SureChEMBL: ID SCHEMBL21828668
+
+UniChem: 
+ID 32691632
+
+Wikidata: ID Q106026523 
+
+ZINC: ID ZINC000038812938

@@ -1,0 +1,220 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7833 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PT 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 216.2337 
+
+ Monoisotopic mass 
+
+ 216.1106 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)O
+
+InChI=1S/C9H16N2O4/c1-5(12)7(9(14)15)11-8(13)6-3-2-4-10-6/h5-7,10,12H,2-4H2,1H3,(H,11,13)(H,14,15)/t5-,6+,7+/m1/s1
+
+InChIKey=GVUVRRPYYDHHGK-VQVTYTSYSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8863)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3106, 3286, 3443, 3528, 4013, 6736
+
+BioPepDB: ID biopep01105
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8863
+
+ChEBI: 
+ID 141395
+
+ChemSpider: 
+ID 50074959
+
+FeptideDB: 
+ID 7833; 8863
+
+PlantPepDB: ID PPepDB_168
+
+PubChem: CID 53860028
+
+SATPdb: ID satpdb28431

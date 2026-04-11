@@ -1,0 +1,257 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3380 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 337.3733 
+
+ Monoisotopic mass 
+
+ 337.1745 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 10.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Matsufuji H., Matsui T., Seki E., Osajima K., Nakashima M., Osajima Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory peptides in an alkaline proteinase hydrolysate derived from sardine muscle. Biosci. Biotech. Biochem., 58, 2244-2245 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1994 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCCNC(N)=N)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(O)=O
+
+InChI=1S/C15H23N5O4/c16-11(2-1-7-19-15(17)18)13(22)20-12(14(23)24)8-9-3-5-10(21)6-4-9/h3-6,11-12,21H,1-2,7-8,16H2,(H,20,22)(H,23,24)(H4,17,18,19)/t11-,12-/m0/s1
+
+InChIKey=XTWSWDJMIKUJDQ-RYUDHWBXSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide found also in amaranth protein hydrolysate. 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10051)
+
+Inhibitor of lysine/arginine leucyltransferase (EC 2.3.2.6) according to the BRENDA database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1094, 1186, 1356, 1375, 3196, 3536, 3597, 4024, _4112, ahtpdb_4706, 5171, 5622, 6172, 6364
+
+ 
+
+BindingDB: 
+ID 50049711
+
+BioPepDB: ID biopep01231
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 10051
+
+BRENDA: Ligand Arg-Tyr
+
+ChEBI: 
+ID 73822
+
+ChEMBL: ID CHEMBL3321986
+
+ChemSpider: ID ID5384366
+
+EPA CompTox: ID DTXSID90427363
+
+EPA DSSTox: ID DTXSID90427363
+
+EROP-Moscow: ID E01334
+
+FeptideDB: 
+ID 3380
+
+HMDB: ID HMDB0028721
+
+J-GLOBAL: 
+ID 200907049958236513
+
+MBPDB: Peptide RY
+
+Metabolights: ID MTBLC73822
+
+Nikkaji: ID J36.198D
+
+PantPepDB: ID PPepDB_184
+
+PubChem: CID 7021456
+
+SATPdb: ID satpdb16420
+
+SureChEMBL: ID SCHEMBL3303678
+
+ZINC: ID ZINC000002572104

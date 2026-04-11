@@ -1,0 +1,224 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9284 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LGY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 351.3965 
+
+ Monoisotopic mass 
+
+ 351.1788 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 21.46 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Contreras M. M., Sánchez-Infantes D., Sevilla M. A., Recio I., Amigo L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Resistance of casein-derived bioactive peptides to simulated gastrointestinal digestion. Int. Dairy J., 32, 71–78, 2013 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2013 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)NCC(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(O)=O
+
+InChI=1S/C17H25N3O5/c1-10(2)7-13(18)16(23)19-9-15(22)20-14(17(24)25)8-11-3-5-12(21)6-4-11/h3-6,10,13-14,21H,7-9,18H2,1-2H3,(H,19,23)(H,20,22)(H,24,25)/t13-,14-/m0/s1
+
+InChIKey=UCDHVOALNXENLC-KBPBESRZSA-N
+
+Immunostimulating peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 3099)
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10060); the MBPDB database
+
+Peptide regulating phosphoinositol metabolism according to the BIOPEP-UWM database of bioactive peptides (
+ID 2738)
+
+Predicted ligand of SARS-CoV-2 parent protease (EC 3.4.22.69) (MEROPS ID: C30.007) (PDB ID: 6LU7) according to the BIOPEP-UWM Virtual database (
+ID 64)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 2738; 3099; 10060
+
+BIOPEP-UWM Virtual database: 
+ID 64
+
+ChemSpider: 
+ID 5377958
+
+EROP-Moscow: ID E09276
+
+FeptideDB: 
+ID 2738; 3099
+
+MBPDB: Peptide LGY
+
+PubChem: CID 7014904

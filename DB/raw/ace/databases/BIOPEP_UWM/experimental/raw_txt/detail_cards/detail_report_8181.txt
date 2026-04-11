@@ -1,0 +1,213 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8181 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FSDKIAK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 807.9315 
+
+ Monoisotopic mass 
+
+ 807.4476 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 113.60 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lopez-Exposito I., Quiros A., Amigo L., Recio I. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Casein hydrolysates as a source of antimicrobial, antioxidant and antihypertensive peptides. Lait, 87 (2007), 241–249. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@H](CC)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCCN)C(=O)O
+
+InChI=1S/C37H61N9O11/c1-4-21(2)30(36(55)41-22(3)31(50)43-26(37(56)57)15-9-11-17-39)46-33(52)25(14-8-10-16-38)42-34(53)27(19-29(48)49)44-35(54)28(20-47)45-32(51)24(40)18-23-12-6-5-7-13-23/h5-7,12-13,21-22,24-28,30,47H,4,8-11,14-20,38-40H2,1-3H3,(H,41,55)(H,42,53)(H,43,50)(H,44,54)(H,45,51)(H,46,52)(H,48,49)(H,56,57)/t21-,22-,24-,25-,26-,27-,28-,30-/m0/s1
+
+InChIKey=PYYZDHMEZXBPGU-QIBSVWHASA-N
+
+Peptide obtained by hydrolysis of bovine kappa-casein by use of porcine pepsin A.
+
+Antibacterial peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8266); the EROP-Moscow database; the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BioPEpDB: ID biopep00292; biopep02246
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8266
+
+EROP-Moscow: ID E04788
+
+FeptideDB: 
+ID 8181, 8266
+
+MBPDB: Peptide FSDKIAK 
+
+PubChem: CID 102149807

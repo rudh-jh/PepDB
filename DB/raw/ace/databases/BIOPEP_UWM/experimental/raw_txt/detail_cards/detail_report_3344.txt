@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3344 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IVGRPRHQG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1019.1587 
+
+ Monoisotopic mass 
+
+ 1018.5769 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 2.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yokoyama K., Chiba H., and Yoshikawa M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Peptide inhibitors for angiotensin I-converting enzyme from thermolysin digest of dried bonito. Biosci. Biotech. Biochem., 56, 1541-1545 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1992 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)([C@@H](C)CC)C(=O)N[C@@]([H])(C(C)C)C(=O)NCC(=O)N[C@@]([H])(CCCNC(N)=N)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCCNC(N)=N)C(=O)N[C@@]([H])(CC1=CN=CN1)C(=O)N[C@@]([H])(CCC(N)=O)C(=O)NCC(O)=O
+
+InChI=1S/C43H74N18O11/c1-5-23(4)33(45)39(70)60-34(22(2)3)40(71)53-19-31(63)56-27(10-7-15-52-43(48)49)41(72)61-16-8-11-29(61)38(69)58-25(9-6-14-51-42(46)47)36(67)59-28(17-24-18-50-21-55-24)37(68)57-26(12-13-30(44)62)35(66)54-20-32(64)65/h18,21-23,25-29,33-34H,5-17,19-20,45H2,1-4H3,(H2,44,62)(H,50,55)(H,53,71)(H,54,66)(H,56,63)(H,57,68)(H,58,69)(H,59,67)(H,60,70)(H,64,65)(H4,46,47,51)(H4,48,49,52)/t23-,25-,26-,27-,28-,29-,33-,34-/m0/s1
+
+InChIKey=FANJYQMTXWNAOX-ZKZGVUGUSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001 
+
+Peptide released from myosin by simulated gastric juice. 
+
+Terashima M., Baba T., Ikemoto N., Katayama M., Morimoto T., Matsumura S., 2010, Novel angiotensin-converting enzyme (ACE) inhibitory peptides derived from boneless chicken leg meat. J. Agric. Food Chem., 58, 7432-7436
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

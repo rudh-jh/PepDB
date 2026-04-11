@@ -1,0 +1,204 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9022 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KAAAATP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 628.7163 
+
+ Monoisotopic mass 
+
+ 628.3533 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 25.64 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Escudero E., Mora L., Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Stability of ACE inhibitory ham peptides against heat treatment and in vitro digestion. Food Chemistry, 161, 305-311, 2014 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C27H48N8O9/c1-13(31-23(39)15(3)33-25(41)18(29)9-6-7-11-28)21(37)30-14(2)22(38)32-16(4)24(40)34-20(17(5)36)26(42)35-12-8-10-19(35)27(43)44/h13-20,36H,6-12,28-29H2,1-5H3,(H,30,37)(H,31,39)(H,32,38)(H,33,41)(H,34,40)(H,43,44)/t13-,14-,15-,16-,17+,18-,19-,20-/m0/s1
+
+InChIKey= JPCQAACKGZVJBS-AGVUXJGHSA-N
+
+Peptide derived from Spanish dry-cured ham. 
+
+Anti-inflammatory peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9958)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9958
+
+PubChem: CID 102236986

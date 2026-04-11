@@ -1,196 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 80
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=79bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-3886
-temporin D
-LLPIVGNLLNSLL~
-1377.7095
-1376.8728
-0.00 EC_50
-Peptide
-Data
-3887
-temporin D
-LLPIVGNLLNSLLG
-1435.7455
-1434.8782
-0.00 EC_50
-Peptide
-Data
-3888
-temporin E
-VLPIIGNLLNSLL~
-1377.7095
-1376.8728
-0.00 EC_50
-Peptide
-Data
-3889
-temporin E
-VLPIIGNLLNSLLG
-1435.7455
-1434.8782
-0.00 EC_50
-Peptide
-Data
-3890
-temporin F
-FLPLIGKVLSGIL~
-1368.7440
-1367.8877
-0.00 EC_50
-Peptide
-Data
-3892
-temporin G
-FFPVIGRILNGIL~
-1457.7990
-1456.8892
-0.00 EC_50
-Peptide
-Data
-3893
-temporin G
-FFPVIGRILNGILG
-1515.8350
-1514.8946
-0.00 EC_50
-Peptide
-Data
-3894
-temporin H
-LSPVIGNLLKSLL~
-1365.6988
-1364.8728
-0.00 EC_50
-Peptide
-Data
-3895
-temporin H
-LSPVIGNLLKSLLG
-1423.7348
-1422.8782
-0.00 EC_50
-Peptide
-Data
-3896
-temporin K
-LLPVIGNLLKSLL~
-1391.7789
-1390.9247
-0.00 EC_50
-Peptide
-Data
-3897
-temporin K
-LLPVIGNLLKSSLG
-1423.7348
-1422.8782
-0.00 EC_50
-Peptide
-Data
-3898
-temporin L
-FVQWFSKFLGRIL~
-1639.9769
-1638.9371
-0.00 EC_50
-Peptide
-Data
-3899
-temporin L
-FVQWFSKFLGRILG
-1698.0129
-1696.9425
-0.00 EC_50
-Peptide
-Data
-3900
-mellitin-like peptide
-FIGASALKVLAGVLPSVISWVKLGRILQ~
-2935.5844
-2933.7892
-0.00 EC_50
-Peptide
-Data
-3903
-ELCEKASKTWSGNCGNTGHCDNQCKSWEGAAHGACHVRNGKHMCFCYFNC
-5525.1433
-5521.2417
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3886 
+
+ temporin D 
+
+ LLPIVGNLLNSLL~ 
+
+ 1377.7095 
+
+ 1376.8728 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3887 
+
+ temporin D 
+
+ LLPIVGNLLNSLLG 
+
+ 1435.7455 
+
+ 1434.8782 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3888 
+
+ temporin E 
+
+ VLPIIGNLLNSLL~ 
+
+ 1377.7095 
+
+ 1376.8728 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3889 
+
+ temporin E 
+
+ VLPIIGNLLNSLLG 
+
+ 1435.7455 
+
+ 1434.8782 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3890 
+
+ temporin F 
+
+ FLPLIGKVLSGIL~ 
+
+ 1368.7440 
+
+ 1367.8877 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3892 
+
+ temporin G 
+
+ FFPVIGRILNGIL~ 
+
+ 1457.7990 
+
+ 1456.8892 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3893 
+
+ temporin G 
+
+ FFPVIGRILNGILG 
+
+ 1515.8350 
+
+ 1514.8946 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3894 
+
+ temporin H 
+
+ LSPVIGNLLKSLL~ 
+
+ 1365.6988 
+
+ 1364.8728 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3895 
+
+ temporin H 
+
+ LSPVIGNLLKSLLG 
+
+ 1423.7348 
+
+ 1422.8782 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3896 
+
+ temporin K 
+
+ LLPVIGNLLKSLL~ 
+
+ 1391.7789 
+
+ 1390.9247 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3897 
+
+ temporin K 
+
+ LLPVIGNLLKSSLG 
+
+ 1423.7348 
+
+ 1422.8782 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3898 
+
+ temporin L 
+
+ FVQWFSKFLGRIL~ 
+
+ 1639.9769 
+
+ 1638.9371 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3899 
+
+ temporin L 
+
+ FVQWFSKFLGRILG 
+
+ 1698.0129 
+
+ 1696.9425 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3900 
+
+ mellitin-like peptide 
+
+ FIGASALKVLAGVLPSVISWVKLGRILQ~ 
+
+ 2935.5844 
+
+ 2933.7892 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3903 
+
+ 
+
+ ELCEKASKTWSGNCGNTGHCDNQCKSWEGAAHGACHVRNGKHMCFCYFNC 
+
+ 5525.1433 
+
+ 5521.2417 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 80 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

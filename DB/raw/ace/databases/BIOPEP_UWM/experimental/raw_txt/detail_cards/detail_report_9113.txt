@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9113 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KGYGGVSL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 779.8785 
+
+ Monoisotopic mass 
+
+ 779.4164 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 253.60 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Tavares T., del Mar Contreras M., Amorim M., Pintado M., Recio I., Malcata F. X. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel whey-derived peptides with inhibitory effect against angiotensin-converting enzyme: in vitro effect and stability to gastrointestinal enzymes. Peptides, 32, 1013-1019, 2011 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2011 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCCN)C(=O)NCC(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)NCC(=O)NCC(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C35H57N9O11/c1-19(2)13-25(35(54)55)42-33(52)26(18-45)43-34(53)30(20(3)4)44-29(49)16-38-27(47)15-40-32(51)24(14-21-8-10-22(46)11-9-21)41-28(48)17-39-31(50)23(37)7-5-6-12-36/h8-11,19-20,23-26,30,45-46H,5-7,12-18,36-37H2,1-4H3,(H,38,47)(H,39,50)(H,40,51)(H,41,48)(H,42,52)(H,43,53)(H,44,49)(H,54,55)/t23-,24-,25-,26-,30-/m0/s1
+
+InChIKey: SWMAXAAOPLGWOO-WZFWIWBTSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2555
+
+BioPepDB: ID biopep00676
+
+MBPDB: Peptide KGYGGVSL
+
+SATPdb: ID satpdb22869

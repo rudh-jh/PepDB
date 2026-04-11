@@ -1,0 +1,218 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7491 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GVW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 360.4066 
+
+ Monoisotopic mass 
+
+ 360.1792 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 240.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Chen G. W., Tsai J. S., Pan B. S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification of angiotensin I-converting inhibitory peptides and antihypertensive effect of milk produced by protease-facilitate lactic fermentation. Int. Dairy J., 2007, 17, 641-647 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C18H24N4O4/c1-10(2)16(22-15(23)8-19)17(24)21-14(18(25)26)7-11-9-20-13-6-4-3-5-12(11)13/h3-6,9-10,14,16,20H,7-8,19H2,1-2H3,(H,21,24)(H,22,23)(H,25,26)/t14-,16-/m0/s1
+
+InChIKey=COZMNNJEGNPDED-HOCLYGCPSA-N
+
+Hypouricemic peptide according to the BIOPEP-UWM database of bioactive peptides
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides; the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3651, 4174, 4812, 4971, 5213, 5815, 6501
+
+ChEBI: 
+ID 164181
+
+DFBP: ID DFBPACEI0665; DFBPANHY0566; DFBPMUFU0149
+
+EROP-Moscow: ID E26429
+
+J-GLOBAL: 
+ID 200907057292666707
+
+Metabolomics Workbench: 
+ID 82253 
+
+Nikkaji: ID J2.440.041G 
+
+PubChem: CID 102403414

@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9945 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+SLR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 374.4347 
+
+ Monoisotopic mass 
+
+ 374.2271 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 170.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lafarga T, Aluko RE, Rai DK, O'Connor P, Hayes M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of bioactive peptides from a papain hydrolysate of bovine serum albumin and assessment of an antihypertensive effect in spontaneously hypertensive rats. Food Res Int. 81, 91-99, 2016 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2016 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI= 1S/C15H30N6O5/c1-8(2)6-11(21-12(23)9(16)7-22)13(24)20-10(14(25)26)4-3-5-19-15(17)18/h8-11,22H,3-7,16H2,1-2H3,(H,20,24)(H,21,23)(H,25,26)(H4,17,18,19)/t9-,10-,11-/m0/s1
+
+InChIKey: QYSFWUIXDFJUDW-DCAQKATOSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChEBI: 
+ID 158995
+
+EROP-Moscow: ID E24530
+
+PubChem: CID 140059892

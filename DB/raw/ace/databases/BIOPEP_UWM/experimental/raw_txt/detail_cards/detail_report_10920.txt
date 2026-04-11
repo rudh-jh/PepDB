@@ -1,0 +1,228 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10920 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 217.2647 
+
+ Monoisotopic mass 
+
+ 217.1422 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Moreno-Mariscal C., Carrera-Alvarado G., Mora L., Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Neprilysin (NEP) and Angiotensin Converting Enzyme-I (ACE-I) inhibitory dipeptides from chicken carcass hydrolysates. LWT, 221, 117591, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C9H19N3O3/c1-6(11)8(13)12-7(9(14)15)4-2-3-5-10/h6-7H,2-5,10-11H2,1H3,(H,12,13)(H,14,15)/t6-,7-/m0/s1
+
+InChIKey=QXRNAOYBCYVZCD-BQBZGAKWSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BindingDB: 
+ID 50169125
+
+CAS: Registry No 6366-77-4 
+
+ChEBI: 
+ID 132403 
+
+ChEMBL: ID CHEMBL191057
+
+ChemSpider: 
+ID 5379128
+
+EPA CompTox: ID DTXSID30426799
+
+FooDB: ID FDB111751
+
+HMDB: ID HMDB0028692 
+
+J-GLOBAL: 
+ID 200907030025108155
+
+Metabolomics Workbench: 
+ID 78667 
+
+Nikkaji: ID J81.207B 
+
+PubChem: CID 7016106
+
+UniChem: 
+ID 173585
+
+Wikidata: ID Q82239611

@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9938 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IPAGV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 455.5469 
+
+ Monoisotopic mass 
+
+ 455.2735 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 93.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Girgih AT, He R, Aluko RE. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Kinetics and molecular docking studies of the inhibitions of angiotensin converting enzyme and renin activities by hemp seed (Cannabis sativa L.) peptides. J. Agric. Food Chem. 62, 4135−4144, 2014 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(C(C)C)C(=O)O
+
+InChI= 1S/C21H37N5O6/c1-6-12(4)16(22)20(30)26-9-7-8-14(26)19(29)24-13(5)18(28)23-10-15(27)25-17(11(2)3)21(31)32/h11-14,16-17H,6-10,22H2,1-5H3,(H,23,28)(H,24,29)(H,25,27)(H,31,32)/t12-,13-,14-,16-,17-/m0/s1
+
+InChIKey: JJJGMSMNAASMBD-JBJRXJHCSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ EROP-Moscow: ID E24214

@@ -1,0 +1,198 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10043 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ARY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 408.4510 
+
+ Monoisotopic mass 
+
+ 408.2115 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1.30 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kumagai Y., Toji K., Katsukura S., Morikawa R., Uji T., Yasui H., Shimizu T., Kishimura H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Characterization of ACE inhibitory peptides prepared from Pyropia pseudolinearis protein. Marine Drugs, 19, 200, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O
+
+InChI=1S/C18H28N6O5/c1-10(19)15(26)23-13(3-2-8-22-18(20)21)16(27)24-14(17(28)29)9-11-4-6-12(25)7-5-11/h4-7,10,13-14,25H,2-3,8-9,19H2,1H3,(H,23,26)(H,24,27)(H,28,29)(H4,20,21,22)/t10-,13-,14-/m0/s1
+
+InChIKey: WYPUMLRSQMKIJU-BPNCWPANSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ PubChem: CID 145453515

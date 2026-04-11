@@ -1,0 +1,194 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9095 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GSAGY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 453.4453 
+
+ Monoisotopic mass 
+
+ 453.1853 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 950.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Forghani B., Zarei M., Ebrahimpour A., Philip R., Bakar J., Hamid A. A., Saari N. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification and characterization of angiotensin converting enzyme-inhibitory peptides derived from Stichopus horrens: Stability study against the ACE and inhibition kinetics. J. Funct. Foods, 20, 276-290, 2016 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2016 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O
+
+InChI=1S/C19H27N5O8/c1-10(22-18(30)14(9-25)24-15(27)7-20)17(29)21-8-16(28)23-13(19(31)32)6-11-2-4-12(26)5-3-11/h2-5,10,13-14,25-26H,6-9,20H2,1H3,(H,21,29)(H,22,30)(H,23,28)(H,24,27)(H,31,32)/t10-,13-,14-/m0/s1 
+
+InChIKey: JGXNNCPTXLYUAC-BPNCWPANSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

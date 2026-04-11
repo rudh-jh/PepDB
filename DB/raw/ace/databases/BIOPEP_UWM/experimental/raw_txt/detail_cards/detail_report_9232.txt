@@ -1,0 +1,225 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9232 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IPAVFK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 673.8410 
+
+ Monoisotopic mass 
+
+ 673.4150 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 144.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ O. Power, A. Fernández, R. Norris, F.A. Riera, R.J. FitzGerald 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Selective enrichment of bioactive properties during ultrafiltration of a tryptic digest of beta-lactoglobulin, J. Funct. Foods 9 (2014) 38-47. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(NC(=O)[C@]1([H])CCCN1C(=O)[C@@]([H])(N)[C@@H](C)CC)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C34H55N7O7/c1-6-21(4)27(36)33(46)41-18-12-16-26(41)31(44)37-22(5)29(42)40-28(20(2)3)32(45)39-25(19-23-13-8-7-9-14-23)30(43)38-24(34(47)48)15-10-11-17-35/h7-9,13-14,20-22,24-28H,6,10-12,15-19,35-36H2,1-5H3,(H,37,44)(H,38,43)(H,39,45)(H,40,42)(H,47,48)/t21-,22-,24-,25-,26-,27-,28-/m0/s1
+
+InChIKey: XPBHUUFREVSIGR-OVELHQAISA-N
+
+Antibacterial peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8196), the EROP-Moscow database, the MBPDB database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP database of bioactive peptides (
+ID 8621), the MBPDB database
+
+Predicted ligand of SARS-CoV-2 parent protease (EC 3.4.22.69) (MEROPS ID: C30.007) (PDB: 6M03 and PDB: 6LU7) according to the BIOPEP-UWM Virtual database (
+ID 26)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 8196; 8621
+
+BIOPEP-UWM Virtual database: 
+ID 26
+
+ChemSpider: 
+ID 8524993
+
+EROP-Moscow: ID E07165
+
+J-GLOBAL: 
+ID 200907037042020070
+
+MBPDB: Peptide IPAVFK
+
+Nikkaji: ID J1.595.466C
+
+PubChem: CID 10349537

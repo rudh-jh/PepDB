@@ -1,0 +1,242 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7549 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LKP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 356.4591 
+
+ Monoisotopic mass 
+
+ 356.2416 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.32 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Fujita H., Yokoyama K., Yoshikawa M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Classification of antihypertensive activity of angiotensin I-converting enzyme inhibitory peptides derived from food proteins. J. Food Sci., 65, 564-569, 2000 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2000 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C17H32N4O4/c1-11(2)10-12(19)15(22)20-13(6-3-4-8-18)16(23)21-9-5-7-14(21)17(24)25/h11-14H,3-10,18-19H2,1-2H3,(H,20,22)(H,24,25)/t12-,13-,14-/m0/s1
+
+InChIKey: RTIRBWJPYJYTLO-IHRRRGAJSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001 
+
+Peptide released from myosin by simulated gastric juice. 
+
+Terashima M., Baba T., Ikemoto N., Katayama M., Morimoto T., Matsumura S., 2010, Novel angiotensin-converting enzyme (ACE) inhibitory peptides derived from boneless chicken leg meat. J. Agric. Food Chem., 58, 7432-7436
+
+Peptide obtained also from egg white protein hydrolysate.
+
+Huang W.-Y., Majumder K., Wu J., 2010, Oxygen radical absorbance capacity of peptides from egg white protein ovotransferrin and their interactions with phytochemicals. Food Chem., 123, 635-641
+
+Peptide reduced blood pressure in adult male SHRs.
+
+Majumder K., Chakrabarti S., Morton J.S., Panahi S., Kaufman S., Davidge S.T., Wu J., 2015, Egg-derived ACE-inhibitory peptides IQW and LKP reduce blood pressure in spontaneously hypertensive rats. Food Chem.,13, 50-60
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8216)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1073, 1521, 1528, 1611, 1660, 1838, 1953, 1969, 1972, 2001, 2002, 2020, 2025, 2216, 2597, 2861, 2892, 2945, 2952, 3011, 3758, 3766, 3770, 3979, 4203, 4222, 4976, 4979, 5059, 5513, 5561, 6535 
+
+BindingDB: 
+ID 50348861
+
+BIOPEP-UWM: 
+ID 8216
+
+BRENDA: Ligand Leu-Lys-Pro
+
+ChEMBL: ID CHEMBL1807676
+
+ChemSpider: 
+ID 8648888
+
+EROP-Moscow: ID E01438
+
+J-GLOBAL: 
+ID 200907022084757598
+
+Nikkaji: ID J1.356.196F
+
+PubChem: CID 10473477
+
+SATPdb: ID satpdb17881
+
+SureChEMBL: ID SCHEMBL7757715
+
+ZINC: ID ZINC000038930594

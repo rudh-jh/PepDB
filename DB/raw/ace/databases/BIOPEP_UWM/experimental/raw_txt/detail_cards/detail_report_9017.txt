@@ -1,0 +1,202 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9017 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KPGRP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 553.6532 
+
+ Monoisotopic mass 
+
+ 553.3327 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 67.08 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Escudero E., Mora L., Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Stability of ACE inhibitory ham peptides against heat treatment and in vitro digestion. Food Chemistry, 161, 305-311, 2014 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCCN)C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C24H43N9O6/c25-10-2-1-6-15(26)21(36)32-12-4-8-17(32)20(35)30-14-19(34)31-16(7-3-11-29-24(27)28)22(37)33-13-5-9-18(33)23(38)39/h15-18H,1-14,25-26H2,(H,30,35)(H,31,34)(H,38,39)(H4,27,28,29)/t15-,16-,17-,18-/m0/s1
+
+InChIKey= JSCUUQUXYDVBHH-XSLAGTTESA-N
+
+Anti-inflammatory peptide according to the BIOPEP-UWM database of bioactive peptides 
+ID 9957)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9957
+
+EROP-Moscow: ID E24865

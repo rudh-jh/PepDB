@@ -1,0 +1,199 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9251 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VVVPPF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 656.8106 
+
+ Monoisotopic mass 
+
+ 656.3885 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 1.18 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Quirós A., Contreras M. M., Ramos M., Amigo L., Recio I. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Stability to gastrointestinal enzymes and structure-activity relationship of β-casein-peptides with antihypertensive properties. Peptides. 2009, 30:1848-1853. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2009 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(C(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccccc1)C(O)=O
+
+InChI=1S/C34H52N6O7/c1-19(2)26(35)30(42)37-27(20(3)4)31(43)38-28(21(5)6)33(45)40-17-11-15-25(40)32(44)39-16-10-14-24(39)29(41)36-23(34(46)47)18-22-12-8-7-9-13-22/h7-9,12-13,19-21,23-28H,10-11,14-18,35H2,1-6H3,(H,36,41)(H,37,42)(H,38,43)(H,46,47)/t23-,24-,25-,26-,27-,28-/m0/s1
+
+InChIKey: JSZQEWKLZMKMKS-QUQVWLGBSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2534, 4335, 5817
+
+SATPdb: ID satpdb16462

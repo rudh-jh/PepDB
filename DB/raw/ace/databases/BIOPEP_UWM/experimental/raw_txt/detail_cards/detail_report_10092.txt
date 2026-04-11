@@ -1,0 +1,256 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10092 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 228.2873 
+
+ Monoisotopic mass 
+
+ 228.1469 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 117.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wei D., Fan W., Xu Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of water-soluble peptides in distilled spent grain and its angiotensin converting enzyme (ACE) inhibitory activity based on UPLC-Q-TOF-MS and proteomics analysis. Food Chem., 353, 129521, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC(C)C)C(=O)N1[C@@H](CCC1)C(=O)O
+
+InChI=1S/C11H20N2O3/c1-7(2)6-8(12)10(14)13-5-3-4-9(13)11(15)16/h7-9H,3-6,12H2,1-2H3,(H,15,16)/t8-,9-/m0/s1
+
+InChIKey: VTJUNIYRYIAIHF-IUCAKERBSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 3180)
+
+Inhibitor of Xaa-Pro dipeptidase (EC 3.4.13.9) (MEROPS ID: M24.003) according to the BRENDA database
+
+Inhibitor of Lactocepin (EC 3.4.21.96) (MEROPS ID: S08.019) according to the BRENDA database
+
+Peptide inducing the secretion of interferon-gamma by human CD+,4 T-lymphocytes according to the EROP-Moscow database.
+
+Sour peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 528)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4061
+
+BindingDB: 
+ID 50169151
+
+BioPepDB: ID biopep00845
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3180
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 528
+
+BRENDA: Ligand Leu-Pro
+
+ChEBI: 
+ID 73580
+
+ChEMBL: ID CHEMBL189210
+
+ChemIDplus: 
+ID 006403356
+
+ChemSpider: 
+ID 72971
+
+EPA CompTox: ID DTXSID30214012
+
+EPA DSSTox: ID DTXCID30136503
+
+EROP-Moscow: ID E02539
+
+FeptideDB: 
+ID 3180
+
+J-GLOBAL: 
+ID 200907029039792069
+
+Nikkaji: ID J151.043F
+
+PubChem: 
+ID 11893568
+
+SATPdb: ID satpdb26580
+
+SureChEMBL: ID SCHEMBL3052903
+
+ZINC: ID ZINC04556774

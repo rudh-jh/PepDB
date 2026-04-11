@@ -1,0 +1,222 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9681 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IAVPTGVA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 726.8589 
+
+ Monoisotopic mass 
+
+ 726.4262 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 14.70 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Dellafiora L., Pugliese R., Bollati C., Gelain F., Galaverna G., Arnoldi A., Lammi C. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ "Bottom-Up" strategy for the identification of novel soybean peptides with angiotensin-converting enzyme inhibitory activity. J. Agric. Food Chem., 68, 2082-2090, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)NCC(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C)C(=O)O
+
+InChI=1S/C33H58N8O10/c1-10-17(6)23(34)29(46)36-18(7)27(44)39-25(16(4)5)32(49)41-13-11-12-21(41)28(45)40-26(20(9)42)30(47)35-14-22(43)38-24(15(2)3)31(48)37-19(8)33(50)51/h15-21,23-26,42H,10-14,34H2,1-9H3,(H,35,47)(H,36,46)(H,37,48)(H,38,43)(H,39,44)(H,40,45)(H,50,51)/t17-,18-,19-,20+,21-,23-,24-,25-,26-/m0/s1
+
+InChIKey: HWGBHHZSKLLIDB-PQQRXNHQSA-N
+
+HMG-CoA reductase (EC 1.1.1.34) inhibitor according to the BindingDB database; BIOPEP-UWM database of bioactive peptides (
+ID 9607), the BRENDA database; the ChEMBL database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9023)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BindingDB: 
+ID 50321111
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 9023; 9607
+
+BRENDA: Ligand IAVPTGVA 
+
+ChEMBL: ID CHEMBL1163198
+
+ChemSpider: 
+ID 25028445
+
+J-GLOBAL: 
+ID 201707004717070303
+
+Nikkaji: ID J3.595.387F
+
+PubChem: CID 46906528
+
+ZINC: ID ZINC000058482277

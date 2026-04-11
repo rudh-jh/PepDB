@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10572 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TSFYPDY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 891.9173 
+
+ Monoisotopic mass 
+
+ 891.3637 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 80.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu C.-L., Ni Z.-F., Kuang X.-Y., Li M.-F., Zong M.-H., Fan X.-D., Lou W.-Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel multitarget ACE inhibitory peptides from bovine colostrum immunoglobulin G: cellular transport, efficacy in regulating endothelial dysfunction, and network pharmacology studies. J. Agric. Food Chem., 72, 4155–4169, 2024 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2024 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+
+InChI=1S/C43H53N7O14/c1-23(52)36(44)41(61)49-33(22-51)39(59)45-29(18-24-6-3-2-4-7-24)37(57)47-31(19-25-9-13-27(53)14-10-25)42(62)50-17-5-8-34(50)40(60)46-30(21-35(55)56)38(58)48-32(43(63)64)20-26-11-15-28(54)16-12-26/h2-4,6-7,9-16,23,29-34,36,51-54H,5,8,17-22,44H2,1H3,(H,45,59)(H,46,60)(H,47,57)(H,48,58)(H,49,61)(H,55,56)(H,63,64)/t23-,29+,30+,31+,32+,33+,34+,36+/m1/s1
+
+InChIKey=OJYHHVHCDKRFKM-URFFOIANSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

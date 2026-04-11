@@ -1,0 +1,221 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7414 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LRW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 473.5671 
+
+ Monoisotopic mass 
+
+ 473.2743 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.15 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Yuan L., Aluko R. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Restriction of the in vitro formation of angiotensin II by leucinyl-arginyl-tryptophan a novel peptide with potent angiotensin I converting inhibitory activity. Biosci. Biotechnol. Biochem., 70(5) 1277-1280, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC1=C[N]([H])C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C23H35N7O4/c1-13(2)10-16(24)20(31)29-18(8-5-9-27-23(25)26)21(32)30-19(22(33)34)11-14-12-28-17-7-4-3-6-15(14)17/h3-4,6-7,12-13,16,18-19,28H,5,8-11,24H2,1-2H3,(H,29,31)(H,30,32)(H,33,34)(H4,25,26,27)/t16-,18-,19-/m0/s1
+
+InChIKey=XYUBOFCTGPZFSA-WDSOQIARSA-N
+
+LRW was found within the primary structure of legumin A2 of a garden pea seeds (Pisum sativum) (position:377-379) and legumin A (position: 374-376).
+
+Peptide stimulating activity of osteoblasts according to the BIOPEP-UWM database of bioactive peptides (
+ID 9878)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1989
+
+BioPepDB: ID biopep00889
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 9878
+
+EROP-Moscow: ID E23787
+
+FeptideDB: 
+ID 7414
+
+ChemSpider: 
+ID 16572302
+
+MeSH: term Leu-Arg-Trp
+
+PlantPepDB: ID PPepDB_140
+
+PubChem: CID 60206537

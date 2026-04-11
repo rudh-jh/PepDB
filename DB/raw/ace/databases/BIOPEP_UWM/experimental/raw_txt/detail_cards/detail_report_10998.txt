@@ -1,0 +1,247 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10998 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YQ 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 309.3170 
+
+ Monoisotopic mass 
+
+ 309.1320 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu W.-Y., Zhang J.-T., Miyakawa T., Li G.-M., Gu R.-Z. Tanokura M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antioxidant properties and inhibition of angiotensin‑converting enzyme by highly active peptides from wheat gluten. Sci. Rep., 11, 5206, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)O
+
+InChI=1S/C14H19N3O5/c15-10(7-8-1-3-9(18)4-2-8)13(20)17-11(14(21)22)5-6-12(16)19/h1-4,10-11,18H,5-7,15H2,(H2,16,19)(H,17,20)(H,21,22)/t10-,11-/m0/s1
+
+InChIKey=UBAQSAUDKMIEQZ-QWRGUYRKSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8943)
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2689
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8943
+
+BRENDA: Ligand L-Tyr-L-Gln
+
+CAS: Registry No 28252-40-6 
+
+ChEBI: 
+ID 74881
+
+EPA CompTox: ID DTXSID50427228 
+
+EROP-Moscow: ID E04099
+
+FooDB: ID FDB112107
+
+HMDB: ID HMDB0029103
+
+J-GLOBAL: 
+ID 200907008625433500 
+
+Metobolights: ID MTBLC74881
+
+Metabolomics Workbench: 
+ID 79021
+
+Nikkaji: ID J2.087.188A
+
+PMhub: ID MS000244151
+
+PlantPepDB: ID PPepDB_2961
+
+PubChem: CID 7020179 
+
+SATPdb: ID satpdb26265
+
+SureChEMBL: ID SCHEMBL2488237
+
+UniChem: 
+ID 25163838
+
+Wikidata: ID Q27144991 
+
+ZINC: ID ZINC000002561124

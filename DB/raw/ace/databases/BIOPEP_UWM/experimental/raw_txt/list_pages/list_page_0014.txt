@@ -1,196 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 14
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=13bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-2776
-Antiviral peptide
-LLEYS
-623.6933
-623.3155
-0.00 EC_50
-Peptide
-Data
-2777
-Antiviral peptide
-LLEYSL
-736.8505
-736.3993
-0.00 EC_50
-Peptide
-Data
-2789
-DAENLIDSFQEIV
-1492.5789
-1491.7068
-0.00 EC_50
-Peptide
-Data
-2790
-precursor of thyrotropin hormone (1-8 )
-KRQHPGKR
-1006.1632
-1005.5929
-0.00 EC_50
-Peptide
-Data
-2791
-precursor of thyrotropin hormone (1-6)
-KRQHPG
-721.8062
-721.3973
-0.00 EC_50
-Peptide
-Data
-2792
-Precursor of polyphemusin II from homocytes of horse shoe crab
-RRWCFRVCYKGFCYRKCRG
-2487.9954
-2486.1935
-0.00 EC_50
-Peptide
-Data
-2793
-Polyphemusin II from homocytes of horse shoe crab
-RRWCFRVCYKGFCYRKCR~
-2429.9594
-2428.1881
-0.00 EC_50
-Peptide
-Data
-2794
-Polyphemusin I from homocytes of horse shoe crab
-RRWCFRVCYRGFCYRKCR~
-2457.9728
-2456.1943
-0.00 EC_50
-Peptide
-Data
-2795
-Precursor of polyphemusin I from homocytes of horse shoe crab
-RRWCFRVCYRGFCYRKCRG
-2516.0088
-2514.1997
-0.00 EC_50
-Peptide
-Data
-2796
-Platelet inhibitor (fr.106-116 of bovine kappa-casein)
-MAIPPKKNQDK
-1269.5106
-1268.6889
-0.00 EC_50
-Peptide
-Data
-2797
-Celiac toxic peptide from alpha-gliadin
-YPQPQ
-631.6757
-631.2956
-0.00 EC_50
-Peptide
-Data
-2798
-Celiac toxic peptide from alpha-gliadin
-YPQPQPF
-875.9641
-875.4164
-0.00 EC_50
-Peptide
-Data
-2800
-Celiac toxic peptide from alpha-gliadin
-QQPYPQ
-759.8046
-759.3540
-0.00 EC_50
-Peptide
-Data
-2801
-Peptide T
-ASTTTNYT
-857.8597
-857.3753
-0.00 EC_50
-Peptide
-Data
-2802
-PEP inhibitor
-QPPPAPGPGT
-918.0023
-917.4592
-0.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 14 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2776 
+
+ Antiviral peptide 
+
+ LLEYS 
+
+ 623.6933 
+
+ 623.3155 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2777 
+
+ Antiviral peptide 
+
+ LLEYSL 
+
+ 736.8505 
+
+ 736.3993 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2789 
+
+ 
+
+ DAENLIDSFQEIV 
+
+ 1492.5789 
+
+ 1491.7068 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2790 
+
+ precursor of thyrotropin hormone (1-8 ) 
+
+ KRQHPGKR 
+
+ 1006.1632 
+
+ 1005.5929 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2791 
+
+ precursor of thyrotropin hormone (1-6) 
+
+ KRQHPG 
+
+ 721.8062 
+
+ 721.3973 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2792 
+
+ Precursor of polyphemusin II from homocytes of horse shoe crab 
+
+ RRWCFRVCYKGFCYRKCRG 
+
+ 2487.9954 
+
+ 2486.1935 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2793 
+
+ Polyphemusin II from homocytes of horse shoe crab 
+
+ RRWCFRVCYKGFCYRKCR~ 
+
+ 2429.9594 
+
+ 2428.1881 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2794 
+
+ Polyphemusin I from homocytes of horse shoe crab 
+
+ RRWCFRVCYRGFCYRKCR~ 
+
+ 2457.9728 
+
+ 2456.1943 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2795 
+
+ Precursor of polyphemusin I from homocytes of horse shoe crab 
+
+ RRWCFRVCYRGFCYRKCRG 
+
+ 2516.0088 
+
+ 2514.1997 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2796 
+
+ Platelet inhibitor (fr.106-116 of bovine kappa-casein) 
+
+ MAIPPKKNQDK 
+
+ 1269.5106 
+
+ 1268.6889 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2797 
+
+ Celiac toxic peptide from alpha-gliadin 
+
+ YPQPQ 
+
+ 631.6757 
+
+ 631.2956 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2798 
+
+ Celiac toxic peptide from alpha-gliadin 
+
+ YPQPQPF 
+
+ 875.9641 
+
+ 875.4164 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2800 
+
+ Celiac toxic peptide from alpha-gliadin 
+
+ QQPYPQ 
+
+ 759.8046 
+
+ 759.3540 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2801 
+
+ Peptide T 
+
+ ASTTTNYT 
+
+ 857.8597 
+
+ 857.3753 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2802 
+
+ PEP inhibitor 
+
+ QPPPAPGPGT 
+
+ 918.0023 
+
+ 917.4592 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 14 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

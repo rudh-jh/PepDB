@@ -1,0 +1,218 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11223 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GPFPILV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 741.9148 
+
+ Monoisotopic mass 
+
+ 741.4411 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 424.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Quirós A., Hernández-Ledesma B., Ramos M., Amigo L., Recio I. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin-converting enzyme inhibitory activity of peptides derived from caprine kefir. J. Dairy Sci., 88, 3480-3487, 2005 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2005 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N1[C@H](C(=O)N[C@H](C(=O)N2[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)C(C)C)CC(C)C)[C@H](CC)C)CCC2)Cc2ccccc2)CCC1
+
+InChI=1S/C38H59N7O8/c1-7-24(6)32(36(50)40-26(19-22(2)3)33(47)42-31(23(4)5)38(52)53)43-35(49)29-16-12-18-45(29)37(51)27(20-25-13-9-8-10-14-25)41-34(48)28-15-11-17-44(28)30(46)21-39/h8-10,13-14,22-24,26-29,31-32H,7,11-12,15-21,39H2,1-6H3,(H,40,50)(H,41,48)(H,42,47)(H,43,49)(H,52,53)/t24-,26-,27-,28-,29-,31-,32-/m0/s1 
+
+InChIKey=DASCHEQGEKYNTI-YUQDWORRSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9128); the DFBP database; the EROP-Moscow database; the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9128
+
+DFBP: ID DFBPACEI1451; DFBPDPIV0104; DFBPMUFU0388
+
+EROP-Moscow: ID E14701
+
+J-GLOBAL: 
+ID 200907076066123363
+
+MBPDB: Peptide GPFPILV
+
+Nikkaji: ID J2.243.265F 
+
+Peptipedia: 
+ID 9696
+
+PubChem: CID 101776033
+
+SureChEMBL: ID SCHEMBL30781626

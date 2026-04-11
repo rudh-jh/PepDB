@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3526 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VHLPP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 561.6719 
+
+ Monoisotopic mass 
+
+ 561.3265 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 18.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Maruyama S., Miyoshi S., Kaneko T., Tanaka H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angotensin I-converting enzyme inhibitory activities of synthetic peptides related to the tandem repeated sequence of a maize endosperm protein.Agric.Biol.Chem.53(4),1077-1081(1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](CC(C)C)(NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@]([H])(N)C(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C27H43N7O6/c1-15(2)11-19(25(37)33-9-5-7-20(33)26(38)34-10-6-8-21(34)27(39)40)32-23(35)18(12-17-13-29-14-30-17)31-24(36)22(28)16(3)4/h13-16,18-22H,5-12,28H2,1-4H3,(H,29,30)(H,31,36)(H,32,35)(H,39,40)/t18-,19-,20-,21-,22-/m0/s1
+
+InChIKey=IUHQCDZLRCFCJM-YFNVTMOMSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

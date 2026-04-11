@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10557 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WYSLA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 638.7096 
+
+ Monoisotopic mass 
+
+ 638.3054 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 86.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Hernandez-Ledesma B., Amigo L., Recio I., Bartolome B. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE-inhibitory and radical scavenging activity of peptides derived from β-lactoglobulin f(19-25). Interactions with ascorbic acid. J. Agric. Food Chem., 55 (2007), 3392-3397. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C)C(=O)O
+
+InChI=1S/C32H42N6O8/c1-17(2)12-25(29(42)35-18(3)32(45)46)37-31(44)27(16-39)38-30(43)26(13-19-8-10-21(40)11-9-19)36-28(41)23(33)14-20-15-34-24-7-5-4-6-22(20)24/h4-11,15,17-18,23,25-27,34,39-40H,12-14,16,33H2,1-3H3,(H,35,42)(H,36,41)(H,37,44)(H,38,43)(H,45,46)/t18-,23-,25-,26-,27-/m0/s1
+
+InChIKey=BULJOIIMFHXRBC-ICMIYAPYSA-N
+
+Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 79020); the DFBP database; the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6964
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7902
+
+DFBP: ID DFBPACEI0080; DFBPANOX0293; DFBPMUFU0038
+
+EROP-MOSCOW: E10365
+
+SATPdb: ID satpdb26498

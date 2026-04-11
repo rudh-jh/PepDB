@@ -1,0 +1,260 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10719 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 351.3982 
+
+ Monoisotopic mass 
+
+ 351.1578 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Rudolph S., Lunow D., Kaiser S., Henle T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification and quantification of ACE-inhibiting peptides in enzymatic hydrolysates of plant proteins. Food Chem., 224, 19-25, 2017 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C20H21N3O3/c21-16(10-13-6-2-1-3-7-13)19(24)23-18(20(25)26)11-14-12-22-17-9-5-4-8-15(14)17/h1-9,12,16,18,22H,10-11,21H2,(H,23,24)(H,25,26)/t16-,18-/m0/s1
+
+InChIKey=JMCOUWKXLXDERB-WMZOPIPTSA-N
+
+Inhibitor of Neprilysin (EC 3.4.24.11) (MEROPS ID: M13.008) according to the BRENDA database
+
+Development regulating peptide from hydra according to the EROP-Moscow database
+
+Hypouricemic peptide according to the BIOPEP-UWM database of bioactive peptides 
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 339); the BitterDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1990; 2005; 2037
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 339
+
+BitterDB: 
+ID 829
+
+BRENDA: Ligand Phe-Trp
+
+CAS: Registry No 24587-41-5
+
+ChEBI: 
+ID 74751
+
+ChemIDplus: 
+ID 024587415
+
+ChemSpider: 
+ID 118886
+
+DFBP: ID DFBPACEI1985
+
+EPA CompTox: ID DTXSID00947461 
+
+EROP-Moscow: ID E02335
+
+FooDB: ID FDB112022
+
+HMDB: ID HMDB0029006 
+
+J-GLOBAL: 
+ID 200907074334077539
+
+MeSH: terms Phe-Trp; phenylalanyltryptophan 
+
+Metabolomics Workbench: 
+ID 78933 
+
+Nikkaji: ID J61.746F 
+
+PlantPepDB: ID PPepDB_48
+
+PMhub: ID MS000238150
+
+PubChem: 
+ID 134906
+
+SATPdb: ID satpdb16434
+
+SureChEMBL: ID SCHEMBL2182648
+
+UNII: ID 7G2SCL87C5 
+
+ZINC: ID ZINC02575127

@@ -1,0 +1,235 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7842 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+HP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 252.2691 
+
+ Monoisotopic mass 
+
+ 252.1219 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+C1C[C@H](N(C1)C(=O)[C@H](CC2=CN=CN2)N)C(=O)O
+
+InChI=1S/C11H16N4O3/c12-8(4-7-5-13-6-14-7)10(16)15-3-1-2-9(15)11(17)18/h5-6,8-9H,1-4,12H2,(H,13,14)(H,17,18)/t8-,9-/m0/s1
+
+InChIKey=LNCFUHAPNTYMJB-IUCAKERBSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of biocative peptides (
+ID 8520)
+
+Inhibitor of Dipeptidyl peptidase-III (DPP-III) (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of biocative peptides (
+ID 9496), the BRENDA database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3061, 3152, 3449, 3942, 6745
+
+BioPepDB: ID biopep00464
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8520; 9496
+
+BRENDA: Ligand His-Pro
+
+ChEBI: 
+ID 74055
+
+ChemIDplus: 
+ID 20930-58-9
+
+ChemSpider: 
+ID 134260
+
+EROP-Moscow: ID E00244
+
+J-GLOBAL: 
+ID 200907012173527614
+
+MMDB: 
+ID 4483.2
+
+Nikkaji: ID J547.970C
+
+PubChem: CID 152322
+
+SATPdb: ID satpdb19655
+
+ZINC: ID ZINC5116874

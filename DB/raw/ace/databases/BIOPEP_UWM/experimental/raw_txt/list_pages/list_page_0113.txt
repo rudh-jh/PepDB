@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 113
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=112bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-7392
-celiac sprue gluten epitope found in hordein
-QQTIPQQPQ
-1067.1503
-1066.5390
-0.00 EC_50
-Peptide
-Data
-7393
-celiac sprue gluten epitope found in hordein*
-PFPQQPYPQ
-1101.2079
-1100.5274
-0.00 EC_50
-Peptide
-Data
-7394
-celiac sprue gluten epitope found in hordein*
-PQPQQPFPW
-1124.2445
-1123.5434
-0.00 EC_50
-Peptide
-Data
-7395
-celiac sprue gluten epitope found in hordein*
-QQPIPQQPQ
-1063.1616
-1062.5441
-0.00 EC_50
-Peptide
-Data
-7396
-celiac sprue gluten epitope found in secalin
-IQPQQPFPQ
-1082.2062
-1081.5539
-0.00 EC_50
-Peptide
-Data
-7397
-celiac sprue gluten epitope found in secalin
-PFPQPQQPT
-1039.1386
-1038.5118
-0.00 EC_50
-Peptide
-Data
-7398
-celiac sprue gluten epitope found in secalin
-PFPQQPQQI
-1082.2062
-1081.5539
-0.00 EC_50
-Peptide
-Data
-7399
-celiac sprue gluten epitope found in secalin
-PQPQQPIPQ
-1032.1476
-1031.5383
-0.00 EC_50
-Peptide
-Data
-7400
-celiac sprue gluten epitope found in secalin
-PQPQQPTPI
-1005.1223
-1004.5274
-0.00 EC_50
-Peptide
-Data
-7401
-celiac sprue gluten epitope found in secalin
-PQPQQQLPL
-1048.1899
-1047.5695
-0.00 EC_50
-Peptide
-Data
-7402
-celiac sprue gluten epitope found in secalin
-PYPQQPFPQ
-1101.2079
-1100.5274
-0.00 EC_50
-Peptide
-Data
-7403
-celiac sprue gluten epitope found in secalin
-PYPQQPQQQ
-1113.1773
-1112.5234
-0.00 EC_50
-Peptide
-Data
-7404
-celiac sprue gluten epitope found in secalin
-QFPQQPQQI
-1113.2202
-1112.5597
-0.00 EC_50
-Peptide
-Data
-7405
-celiac sprue gluten epitope found in secalin
-QHQQFPQQQ
-1168.2160
-1167.5405
-0.00 EC_50
-Peptide
-Data
-7406
-celiac sprue gluten epitope found in secalin
-QQHPQQPQ
-990.0285
-989.4665
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 113 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7392 
+
+ celiac sprue gluten epitope found in hordein 
+
+ QQTIPQQPQ 
+
+ 1067.1503 
+
+ 1066.5390 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7393 
+
+ celiac sprue gluten epitope found in hordein* 
+
+ PFPQQPYPQ 
+
+ 1101.2079 
+
+ 1100.5274 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7394 
+
+ celiac sprue gluten epitope found in hordein* 
+
+ PQPQQPFPW 
+
+ 1124.2445 
+
+ 1123.5434 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7395 
+
+ celiac sprue gluten epitope found in hordein* 
+
+ QQPIPQQPQ 
+
+ 1063.1616 
+
+ 1062.5441 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7396 
+
+ celiac sprue gluten epitope found in secalin 
+
+ IQPQQPFPQ 
+
+ 1082.2062 
+
+ 1081.5539 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7397 
+
+ celiac sprue gluten epitope found in secalin 
+
+ PFPQPQQPT 
+
+ 1039.1386 
+
+ 1038.5118 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7398 
+
+ celiac sprue gluten epitope found in secalin 
+
+ PFPQQPQQI 
+
+ 1082.2062 
+
+ 1081.5539 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7399 
+
+ celiac sprue gluten epitope found in secalin 
+
+ PQPQQPIPQ 
+
+ 1032.1476 
+
+ 1031.5383 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7400 
+
+ celiac sprue gluten epitope found in secalin 
+
+ PQPQQPTPI 
+
+ 1005.1223 
+
+ 1004.5274 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7401 
+
+ celiac sprue gluten epitope found in secalin 
+
+ PQPQQQLPL 
+
+ 1048.1899 
+
+ 1047.5695 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7402 
+
+ celiac sprue gluten epitope found in secalin 
+
+ PYPQQPFPQ 
+
+ 1101.2079 
+
+ 1100.5274 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7403 
+
+ celiac sprue gluten epitope found in secalin 
+
+ PYPQQPQQQ 
+
+ 1113.1773 
+
+ 1112.5234 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7404 
+
+ celiac sprue gluten epitope found in secalin 
+
+ QFPQQPQQI 
+
+ 1113.2202 
+
+ 1112.5597 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7405 
+
+ celiac sprue gluten epitope found in secalin 
+
+ QHQQFPQQQ 
+
+ 1168.2160 
+
+ 1167.5405 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7406 
+
+ celiac sprue gluten epitope found in secalin 
+
+ QQHPQQPQ 
+
+ 990.0285 
+
+ 989.4665 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 113 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,220 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9566 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+QP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 243.2590 
+
+ Monoisotopic mass 
+
+ 243.1215 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 598.10 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gómez-Ruiz J.A., Taborda G., Amigo L., Recio I., Ramos M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of ACE-inhibitory peptides in different Spanish cheeses by tandem mass spectrometry. European Food Research and Technology 2006, 223:595-601 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)N)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C10H17N3O4/c11-6(3-4-8(12)14)9(15)13-5-1-2-7(13)10(16)17/h6-7H,1-5,11H2,(H2,12,14)(H,16,17)/t6-,7-/m0/s1
+
+InChIKey: NJMYZEJORPYOTO-BQBZGAKWSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8532)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6929
+
+BioPepDB: ID biopep01157
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8532
+
+BRENDA: Ligand Gln-Pro
+
+ChemSpider: 
+ID 9911368
+
+EROP-Moscow: ID E10443
+
+HMDB: ID HMDB0028805
+
+MBPDB: Peptide QP
+
+PubChem: CID 11736661
+
+SATPdb: ID satpdb19573

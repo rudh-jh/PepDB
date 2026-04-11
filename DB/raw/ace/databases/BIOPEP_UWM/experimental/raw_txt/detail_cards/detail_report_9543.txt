@@ -1,0 +1,211 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9543 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RYL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 450.5305 
+
+ Monoisotopic mass 
+
+ 450.2583 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 3.31 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu L., Wei Y. N., Chang Q., Sun H. J., Chai K. G., Huang Z. Q., Zhao, Z. X., Zhao Z. X. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Ultrafast screening of a novel, moderately hydrophilic Angiotensin-converting-enzyme-inhibitory peptide, RYL, from silkworm pupa using an fe-doped-silkworm-excrement-derived biocarbon: waste conversion by waste. J. Agric. Food Chem., 65, 11202-11211, 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC(C)C)C(=O)O
+
+InChI=1S/C21H34N6O5/c1-12(2)10-17(20(31)32)27-19(30)16(11-13-5-7-14(28)8-6-13)26-18(29)15(22)4-3-9-25-21(23)24/h5-8,12,15-17,28H,3-4,9-11,22H2,1-2H3,(H,26,29)(H,27,30)(H,31,32)(H4,23,24,25)/t15-,16-,17-/m0/s1
+
+InChIKey: CGWVCWFQGXOUSJ-ULQDDVLXSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10052); the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 10052 
+
+ChEBI: 
+ID 159415
+
+EROP-Moscow: ID E23959
+
+MBPDB: Peptide RYL
+
+PubChem: CID 145453978

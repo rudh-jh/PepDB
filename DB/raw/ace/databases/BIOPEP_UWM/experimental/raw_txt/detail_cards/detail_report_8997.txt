@@ -1,0 +1,214 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8997 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VECYGPNRPQF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 11 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1309.4473 
+
+ Monoisotopic mass 
+
+ 1308.5902 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 29.60 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Sheih I.-C., Fang T. J., Wu T.-K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Isolation and characterisation of a novel angiotensin I-converting enzyme (ACE) inhibitory peptide from the algae protein waste. Food Chem., 115, 279-284, 2009 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2009 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CS)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C58H84N16O17S/c1-30(2)47(61)55(88)67-35(19-21-46(79)80)50(83)72-40(29-92)52(85)69-37(25-32-14-16-33(75)17-15-32)48(81)65-28-45(78)73-23-7-12-41(73)53(86)70-38(27-44(60)77)51(84)68-36(11-6-22-64-58(62)63)56(89)74-24-8-13-42(74)54(87)66-34(18-20-43(59)76)49(82)71-39(57(90)91)26-31-9-4-3-5-10-31/h3-5,9-10,14-17,30,34-42,47,75,92H,6-8,11-13,18-29,61H2,1-2H3,(H2,59,76)(H2,60,77)(H,65,81)(H,66,87)(H,67,88)(H,68,84)(H,69,85)(H,70,86)(H,71,82)(H,72,83)(H,79,80)(H,90,91)(H4,62,63,64)/t34-,35-,36-,37-,38-,39-,40-,41-,42-,47-/m0/s1
+
+InChIKey: MKKYPTUWZLUJKL-VGGCNYALSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8138)
+
+Anticancer peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8137)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1035, 2966
+
+BioPepDB: ID biopep01348
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8137, 8138
+
+EROP-Moscow: ID E10346
+
+SATPdb: ID satpdb12643

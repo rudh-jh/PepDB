@@ -1,0 +1,242 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10989 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 301.3396 
+
+ Monoisotopic mass 
+
+ 301.1422 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 217.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Norris R., Casey F., FitzGerald R. J., Shields D., Mooney C. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Predictive modelling of angiotensin converting enzyme inhibitory dipeptides. Food Chem., 133, 1349-1354, 2012 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2012 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C16H19N3O3/c17-12(15(20)19-7-3-6-14(19)16(21)22)8-10-9-18-13-5-2-1-4-11(10)13/h1-2,4-5,9,12,14,18H,3,6-8,17H2,(H,21,22)/t12-,14-/m0/s1
+
+InChIKey=DXYQIGZZWYBXSD-JSGCOSHPSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8504)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 341)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6934
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8945
+
+BRENDA: Ligand L-tyrosinyl-L-serine
+
+CAS: Registry No 13588-99-3 
+
+ChEBI: 
+ID 141457
+
+EPA CompTox: ID DTXSID90712241
+
+EROP-MOscow: ID E10415
+
+FooDB: ID FDB112117
+
+HMDB: ID HMDB0029114
+
+J-GLOBAL: 
+ID 200907062957084317
+
+Metabolomics Workbench: 
+ID 79031
+
+Nikkaji: ID J2.748.178G 
+
+PMhub: ID MS000243604
+
+PubChem: CID 54564570
+
+SATPdb: ID satpdb24541
+
+SureChEMBL: ID SCHEMBL9852121
+
+UniChem: 
+ID 22887225
+
+Wikidata: ID Q82648127

@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9146 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+QGP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 300.3102 
+
+ Monoisotopic mass 
+
+ 300.1429 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 149.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ O’Keeffe M. B., Norris R., Alashi M. A., Aluko R. E., FitzGerald R. J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Peptide identification in a porcine gelatin prolyl endoproteinase hydrolysate with angiotensin converting enzyme (ACE) inhibitory and hypotensive activity. J. Funct. Foods, 34, 77–88, 2017 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)N)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C12H20N4O5/c13-7(3-4-9(14)17)11(19)15-6-10(18)16-5-1-2-8(16)12(20)21/h7-8H,1-6,13H2,(H2,14,17)(H,15,19)(H,20,21)/t7-,8-/m0/s1 
+
+InChIKey: NSORZJXKUQFEKL-YUMQZZPRSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChemSpider: 
+ID 5731211
+
+EPA CompTox: ID DTXSID00428624
+
+EPA DSSTox: ID DTXCID30379458
+
+PubChem: CID 7408538

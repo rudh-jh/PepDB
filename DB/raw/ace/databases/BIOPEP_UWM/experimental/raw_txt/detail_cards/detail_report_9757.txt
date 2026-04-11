@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9757 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AERF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 521.5653 
+
+ Monoisotopic mass 
+
+ 521.2590 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Fan H., Wang J., Liao W., Jiang J., Wu J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification and characterization of gastrointestinal-resistant angiotensin-converting enzyme inhibitory peptides from egg white proteins. J. Agric. Food Chem., 67, 7147−7156, 2019 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2019 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O
+
+InChI=1S/C23H35N7O7/c1-13(24)19(33)28-16(9-10-18(31)32)21(35)29-15(8-5-11-27-23(25)26)20(34)30-17(22(36)37)12-14-6-3-2-4-7-14/h2-4,6-7,13,15-17H,5,8-12,24H2,1H3,(H,28,33)(H,29,35)(H,30,34)(H,31,32)(H,36,37)(H4,25,26,27)/t13-,15-,16-,17-/m0/s1
+
+InChIKey=XROSZQVIZWTKRM-HJWJTTGWSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

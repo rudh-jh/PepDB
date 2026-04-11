@@ -1,0 +1,210 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9055 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IMY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 425.5421 
+
+ Monoisotopic mass 
+
+ 425.1977 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1.82 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Matsui T., Yukiyoshi A., Doi S., Sugimoto H., Yamada H., Matsumoto K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Gastrointestinal enzyme production of bioactive peptides from royal jelly protein and their antihypertensive ability in SHR. J. Nutr. Biochem., 13, 80-86, 2002 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2002 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)Cc1ccc(cc1)O)CCSC)[C@H](CC)C
+
+InChI=1S/C20H31N3O5S/c1-4-12(2)17(21)19(26)22-15(9-10-29-3)18(25)23-16(20(27)28)11-13-5-7-14(24)8-6-13/h5-8,12,15-17,24H,4,9-11,21H2,1-3H3,(H,22,26)(H,23,25)(H,27,28)/t12-,15-,16-,17-/m0/s1
+
+InChIKey: UOPBQSJRBONRON-STECZYCISA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1614, 2676
+
+BioPepDB: ID biopep00545
+
+ChemSpider: 
+ID 7999483
+
+EROP-Moscow: ID E14472
+
+PubChem: CID 9823736
+
+SATPdb: ID satpdb28699

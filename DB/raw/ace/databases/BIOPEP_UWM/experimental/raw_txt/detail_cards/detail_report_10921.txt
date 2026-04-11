@@ -1,0 +1,259 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10921 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 274.3588 
+
+ Monoisotopic mass 
+
+ 274.1999 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Moreno-Mariscal C., Carrera-Alvarado G., Mora L., Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Neprilysin (NEP) and Angiotensin Converting Enzyme-I (ACE-I) inhibitory dipeptides from chicken carcass hydrolysates. LWT, 221, 117591, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCCCN)C(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C12H26N4O3/c13-7-3-1-5-9(15)11(17)16-10(12(18)19)6-2-4-8-14/h9-10H,1-8,13-15H2,(H,16,17)(H,18,19)/t9-,10-/m0/s1
+
+InChIKey=NVGBPTNZLWRQSY-UWVGGRQHSA-N
+
+Inhibitor of dipeptidyl peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8522);
+
+Inhibitor of Neprilysin (EC 3.4.24.11) (MEROPS ID: M13.001) according to the BIOPEP-UWM database of bioactive peptides
+
+Bacterial permease ligand according to the BIOPEP-UWM database (
+ID 3751)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 13184-13-9
+
+BindingDB: 
+ID 50188512
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3751, 8813
+
+BRENDA: Ligand L-Lys-L-Lys
+
+CAS: Registry No 13184-13-9 
+
+ChEBI: 
+ID 74564 
+
+ChEMBL: ID CHEMBL379332
+
+ChemSpider: 
+ID 114170
+
+EPA CompTox: ID DTXSID00927364 
+
+EROP-Moscow: ID E09291
+
+FooDB: ID FDB111979
+
+HMDB: ID HMDB0028956 
+
+J-GLOBAL: 
+ID 200907051674543321
+
+Metabolights: ID MTBLC74564
+
+Metabolomics Workbench: 
+ID 78887
+
+MMDB: 
+ID 6217.2 
+
+Nikkaji: ID J81.564K 
+
+PlantPepDB: ID PPepDB_2579
+
+PubChem: CID 128837
+
+SureChEMBL: ID SCHEMBL1070057
+
+UniChem: 
+ID 378249
+
+UNII: ID 96TER1JROC 
+
+Wikidata: ID Q27144740 
+
+ZINC: ID ZINC000002043137

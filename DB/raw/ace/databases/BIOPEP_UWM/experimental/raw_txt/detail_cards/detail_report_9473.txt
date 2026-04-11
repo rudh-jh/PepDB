@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9473 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GHS 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 299.2825 
+
+ Monoisotopic mass 
+
+ 299.1226 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ He R., Malomo S. A., Alashi A., Girgih A. T., Ju X., Aluko R. E. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Glycinyl-histidinyl-serine (GHS), a novel rapeseed protein-derived peptide has blood pressure-lowering effect in spontaneously hypertensive rats. J. Agric. Food Chem., 61, 8396-8402, 2013 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2013 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@]([H])(CO)C(=O)O
+
+InChI=1S/C11H17N5O5/c12-2-9(18)15-7(1-6-3-13-5-14-6)10(19)16-8(4-17)11(20)21/h3,5,7-8,17H,1-2,4,12H2,(H,13,14)(H,15,18)(H,16,19)(H,20,21)/t7-,8-/m0/s1
+
+InChIKey: LPCKHUXOGVNZRS-YUMQZZPRSA-N
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID: A01.007) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9472)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1053, 2949
+
+BioPepDB: ID biopep00354
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 9472
+
+SATPdb: ID satpdb13065

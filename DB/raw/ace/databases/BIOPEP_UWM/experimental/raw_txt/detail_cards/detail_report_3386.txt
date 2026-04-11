@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3386 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 332.3965 
+
+ Monoisotopic mass 
+
+ 332.1843 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1.63 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Matsufuji H., Matsui T., Seki E., Osajima K., Nakashima M., Osajima Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory peptides in an alkaline proteinase hydrolysate derived from sardine muscle. Biosci. Biotech. Biochem., 58, 2244-2245 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1994 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCCCN)C(=O)N[C@@]([H])(CC1=CNC2=C1C=CC=C2)C(O)=O
+
+InChI=1S/C17H24N4O3/c18-8-4-3-6-13(19)16(22)21-15(17(23)24)9-11-10-20-14-7-2-1-5-12(11)14/h1-2,5,7,10,13,15,20H,3-4,6,8-9,18-19H2,(H,21,22)(H,23,24)/t13-,15-/m0/s1
+
+InChIKey=RVKIPWVMZANZLI-ZFWWWQNUSA-N
+
+EC50 value from article: Murray B. A., FitzGerald R. J., 2007. Curr. Pharm. Des., 13, 8, 773-791. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

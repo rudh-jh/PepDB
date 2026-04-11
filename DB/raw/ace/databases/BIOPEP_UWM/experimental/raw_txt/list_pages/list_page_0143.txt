@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 143
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=142bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-7868
-peptide from Okara protein
-ADF
-351.3536
-351.1425
-0.00 EC_50
-Peptide
-Data
-7869
-peptide from Okara protein
-SDF
-367.3530
-367.1374
-0.00 EC_50
-Peptide
-Data
-7870
-peptide from sauce of blue mussel (Mytilus edulis)
-FGHPY
-619.6667
-619.2746
-0.00 EC_50
-Peptide
-Data
-7871
-peptide from soybean protein isolate: b-conglycinin
-TTYY
-546.5682
-546.2317
-0.00 EC_50
-Peptide
-Data
-7872
-peptide from soybean protein isolates: beta-conglycinin and glycinin
-LY
-294.3453
-294.1574
-0.00 EC_50
-Peptide
-Data
-7873
-peptide from soybean protein isolates: beta-conglycinin and glycinin
-IY
-294.3453
-294.1574
-0.00 EC_50
-Peptide
-Data
-7874
-peptide from rice endosperm protein hydrolysate
-KHNRGDEF
-1002.0392
-1001.4665
-0.00 EC_50
-Peptide
-Data
-7875
-peptide derived from bovine beta-casein (177-183)
-AVPYPQR
-829.9404
-829.4433
-0.00 IC_50
-Peptide
-Data
-7876
-Lipoxygenase inhibitor from bovine beta-casein (169-176)
-KVLPVPQK
-908.1361
-907.5837
-0.00 IC_50
-Peptide
-Data
-7877
-peptide derived from bovine beta-casein (170-176)
-VLPVPQK
-779.9643
-779.4890
-0.00 IC_50
-Peptide
-Data
-7878
-peptide from b-casein (ovine milk)
-YQEP
-535.5456
-535.2270
-0.00 EC_50
-Peptide
-Data
-7879
-peptide from b-casein (ovine and caprine milk)
-YQEPVLGP
-901.9996
-901.4530
-0.00 EC_50
-Peptide
-Data
-7880
-peptide from actin, pork muscles
-DSGVT
-477.4650
-477.2063
-0.00 EC_50
-Peptide
-Data
-7881
-peptide from myofibrillar protein, pork muscles
-IEAEGE
-646.6424
-646.2799
-0.00 EC_50
-Peptide
-Data
-7882
-peptide from tropomyosin, pork muscles
-DAQEKLE
-831.8654
-831.3960
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 143 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7868 
+
+ peptide from Okara protein 
+
+ ADF 
+
+ 351.3536 
+
+ 351.1425 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7869 
+
+ peptide from Okara protein 
+
+ SDF 
+
+ 367.3530 
+
+ 367.1374 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7870 
+
+ peptide from sauce of blue mussel (Mytilus edulis) 
+
+ FGHPY 
+
+ 619.6667 
+
+ 619.2746 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7871 
+
+ peptide from soybean protein isolate: b-conglycinin 
+
+ TTYY 
+
+ 546.5682 
+
+ 546.2317 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7872 
+
+ peptide from soybean protein isolates: beta-conglycinin and glycinin 
+
+ LY 
+
+ 294.3453 
+
+ 294.1574 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7873 
+
+ peptide from soybean protein isolates: beta-conglycinin and glycinin 
+
+ IY 
+
+ 294.3453 
+
+ 294.1574 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7874 
+
+ peptide from rice endosperm protein hydrolysate 
+
+ KHNRGDEF 
+
+ 1002.0392 
+
+ 1001.4665 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7875 
+
+ peptide derived from bovine beta-casein (177-183) 
+
+ AVPYPQR 
+
+ 829.9404 
+
+ 829.4433 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7876 
+
+ Lipoxygenase inhibitor from bovine beta-casein (169-176) 
+
+ KVLPVPQK 
+
+ 908.1361 
+
+ 907.5837 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7877 
+
+ peptide derived from bovine beta-casein (170-176) 
+
+ VLPVPQK 
+
+ 779.9643 
+
+ 779.4890 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7878 
+
+ peptide from b-casein (ovine milk) 
+
+ YQEP 
+
+ 535.5456 
+
+ 535.2270 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7879 
+
+ peptide from b-casein (ovine and caprine milk) 
+
+ YQEPVLGP 
+
+ 901.9996 
+
+ 901.4530 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7880 
+
+ peptide from actin, pork muscles 
+
+ DSGVT 
+
+ 477.4650 
+
+ 477.2063 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7881 
+
+ peptide from myofibrillar protein, pork muscles 
+
+ IEAEGE 
+
+ 646.6424 
+
+ 646.2799 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7882 
+
+ peptide from tropomyosin, pork muscles 
+
+ DAQEKLE 
+
+ 831.8654 
+
+ 831.3960 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 143 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

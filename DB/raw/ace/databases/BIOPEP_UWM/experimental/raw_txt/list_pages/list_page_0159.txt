@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 159
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=158bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8108
-peptide derived from conger eel muscle (Conger myriaster)
-LGLNGDDVN
-915.9419
-915.4283
-0.00 EC_50
-Peptide
-Data
-8109
-peptide derived from hoki frame protein (Johnius belengerii)
-ESTVPERTHPACPDFN
-1799.9111
-1798.7918
-0.00 EC_50
-Peptide
-Data
-8110
-peptide derived from tuna backbone protein
-VKAGFAWTANQQLS
-1520.6831
-1519.7759
-0.00 EC_50
-Peptide
-Data
-8111
-peptide derived from lecithin-free egg yolk
-LMSYMWSTSM
-1236.4801
-1235.5006
-0.00 EC_50
-Peptide
-Data
-8112
-peptide derived from lecithin-free egg yolk
-LELHKLRSSHWFSRR
-1952.2202
-1951.0623
-0.00 EC_50
-Peptide
-Data
-8113
-peptide derived from sardinelle by-products proteins (Sardinella aurita)
-LARL
-471.5925
-471.3160
-0.00 EC_50
-Peptide
-Data
-8114
-Antioxidative peptide
-GGE
-261.2313
-261.0957
-0.00 EC_50
-Peptide
-Data
-8115
-peptide derived from sardinelle by-products proteins (Sardinella aurita)
-GAH
-283.2831
-283.1277
-0.00 EC_50
-Peptide
-Data
-8116
-peptide derived from sardinelle by-products proteins (Sardinella aurita)
-GAWA
-403.4313
-403.1850
-0.00 EC_50
-Peptide
-Data
-8117
-peptide derived from sardinelle by-products proteins (Sardinella aurita)
-PHYL
-528.5992
-528.2688
-0.00 EC_50
-Peptide
-Data
-8118
-peptide derived from sardinelle by-products proteins (Sardinella aurita)
-GALAAH
-538.5957
-538.2855
-0.00 EC_50
-Peptide
-Data
-8119
-peptide derived from giant squid muscle (Dosidicus gigas)
-NGLEGLK
-729.8199
-729.4008
-0.00 EC_50
-Peptide
-Data
-8120
-peptide derived from giant squid muscle (Dosidicus gigas)
-NADFGLNGLEGLA
-1290.3750
-1289.6231
-0.00 EC_50
-Peptide
-Data
-8121
-peptide derived from blue fermented mussel sauce (Mytilus edulis)
-HFGDPFH
-855.8935
-855.3653
-0.00 EC_50
-Peptide
-Data
-8122
-antioxidative peptide Leu-enkephalin
-YGGFL
-555.6212
-555.2684
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 159 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8108 
+
+ peptide derived from conger eel muscle (Conger myriaster) 
+
+ LGLNGDDVN 
+
+ 915.9419 
+
+ 915.4283 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8109 
+
+ peptide derived from hoki frame protein (Johnius belengerii) 
+
+ ESTVPERTHPACPDFN 
+
+ 1799.9111 
+
+ 1798.7918 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8110 
+
+ peptide derived from tuna backbone protein 
+
+ VKAGFAWTANQQLS 
+
+ 1520.6831 
+
+ 1519.7759 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8111 
+
+ peptide derived from lecithin-free egg yolk 
+
+ LMSYMWSTSM 
+
+ 1236.4801 
+
+ 1235.5006 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8112 
+
+ peptide derived from lecithin-free egg yolk 
+
+ LELHKLRSSHWFSRR 
+
+ 1952.2202 
+
+ 1951.0623 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8113 
+
+ peptide derived from sardinelle by-products proteins (Sardinella aurita) 
+
+ LARL 
+
+ 471.5925 
+
+ 471.3160 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8114 
+
+ Antioxidative peptide 
+
+ GGE 
+
+ 261.2313 
+
+ 261.0957 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8115 
+
+ peptide derived from sardinelle by-products proteins (Sardinella aurita) 
+
+ GAH 
+
+ 283.2831 
+
+ 283.1277 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8116 
+
+ peptide derived from sardinelle by-products proteins (Sardinella aurita) 
+
+ GAWA 
+
+ 403.4313 
+
+ 403.1850 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8117 
+
+ peptide derived from sardinelle by-products proteins (Sardinella aurita) 
+
+ PHYL 
+
+ 528.5992 
+
+ 528.2688 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8118 
+
+ peptide derived from sardinelle by-products proteins (Sardinella aurita) 
+
+ GALAAH 
+
+ 538.5957 
+
+ 538.2855 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8119 
+
+ peptide derived from giant squid muscle (Dosidicus gigas) 
+
+ NGLEGLK 
+
+ 729.8199 
+
+ 729.4008 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8120 
+
+ peptide derived from giant squid muscle (Dosidicus gigas) 
+
+ NADFGLNGLEGLA 
+
+ 1290.3750 
+
+ 1289.6231 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8121 
+
+ peptide derived from blue fermented mussel sauce (Mytilus edulis) 
+
+ HFGDPFH 
+
+ 855.8935 
+
+ 855.3653 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8122 
+
+ antioxidative peptide Leu-enkephalin 
+
+ YGGFL 
+
+ 555.6212 
+
+ 555.2684 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 159 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

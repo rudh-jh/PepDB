@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3516 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IRAQQ 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 614.6931 
+
+ Monoisotopic mass 
+
+ 614.3490 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 4.20 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Miyoshi S., Ishikawa H., Kaneko T., Fukui F., Tanaka H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structure and activity of angiotensin-converting enzyme inhibitors in a-zein hydrolysate. Agric.Biol.Chem.55(5),1313-1318(1991) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1991 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(NC(=O)[C@]([H])(CCCNC(N)=N)NC(=O)[C@@]([H])(N)[C@@]([H])(C)CC)C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N[C@@]([H])(CCC(N)=O)C(O)=O
+
+InChI=1S/C25H46N10O8/c1-4-12(2)19(28)23(41)34-14(6-5-11-31-25(29)30)21(39)32-13(3)20(38)33-15(7-9-17(26)36)22(40)35-16(24(42)43)8-10-18(27)37/h12-16,19H,4-11,28H2,1-3H3,(H2,26,36)(H2,27,37)(H,32,39)(H,33,38)(H,34,41)(H,35,40)(H,42,43)(H4,29,30,31)/t12-,13-,14-,15-,16-,19-/m0/s1
+
+InChIKey=UYXULJMCSGYMBM-GGDDPFQJSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

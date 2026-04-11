@@ -1,0 +1,260 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7609 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 206.2632 
+
+ Monoisotopic mass 
+
+ 206.0722 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 4800.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCSC)C(=O)NCC(=O)O
+
+InChI=1S/C7H14N2O3S/c1-13-3-2-5(8)7(12)9-4-6(10)11/h5H,2-4,8H2,1H3,(H,9,12)(H,10,11)/t5-/m0/s1
+
+InChIKey=QXOHLNCNYLGICT-YFKPBYRVSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8828)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 52671
+
+AHTPDB: 
+ID 1484, 3242, 3424, 3521, 3812, 3996, 4411, 4518, 4683, 6595
+
+BindingDB: 
+ID 50407420
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8828
+
+BRENDA: Ligand Met-Gly
+
+CAS: Registry No 14486-03-4
+
+ChEBI: 
+ID 73611
+
+ChEMBL: ID CHEMBL90972
+
+ChemSpider: 
+ID 5361044
+
+DFBP: ID DFBPACEI1620
+
+ECHA: 
+ID 103-102-4; 238-487-9
+
+EPA DSSTox: ID DTXSID401020087
+
+FEMA: 
+ID 4692
+
+JECFA: 
+ID 2122
+
+J-GLOBAL: 
+ID 200907025171488012
+
+Metabolights: ID MTBLC73611 
+
+Metabolomics Workbench: 
+ID 78903 
+
+Nikkaji: ID J81.776G 
+
+PubChem: CID 6992930
+
+SATPdb: ID satpdb10047
+
+SureChEMBL: 
+ID 538055
+
+UniChem: 
+ID 405165
+
+UNII: ID T872MM2E20 
+
+Wikidata: ID Q27141928
+
+ZINC: ID ZINC000001593212

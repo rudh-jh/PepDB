@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 2668 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LHLP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 478.5835 
+
+ Monoisotopic mass 
+
+ 478.2895 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 210.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human beta-casein. Agric. Biol. Chem., 53(8), 2107-2114 (1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(Cc1cnc[nH]1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C23H38N6O5/c1-13(2)8-16(24)20(30)27-17(10-15-11-25-12-26-15)21(31)28-18(9-14(3)4)22(32)29-7-5-6-19(29)23(33)34/h11-14,16-19H,5-10,24H2,1-4H3,(H,25,26)(H,27,30)(H,28,31)(H,33,34)/t16-,17-,18-,19-/m0/s1
+
+InChIKey: OEMMHQMLEQFWRY-VJANTYMQSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1162, 3367, 4087, 4917, 5286, 5994, 6331, 6819
+
+EROP-Moscow: ID E14606
+
+MBPDB: Peptide LHLP
+
+SATPdb: Id satpdb26040

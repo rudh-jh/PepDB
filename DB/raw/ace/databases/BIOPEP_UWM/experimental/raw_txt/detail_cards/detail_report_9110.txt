@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9110 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LNNSRAP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 770.8321 
+
+ Monoisotopic mass 
+
+ 770.4023 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 105.30 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Ruiz-Giménez P., Salom J. B., Marcos J. F., Valles S., Martinez-Maqueda D., Recio I., Torregrosa G., Alborch E., Manzanares P. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive effect of a bovine lactoferrin pepsin hydrolysate: Identification of novel active peptides. Food Chem., 131, 266-273, 2012 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2012 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C31H54N12O11/c1-14(2)10-16(32)24(47)40-18(11-22(33)45)26(49)41-19(12-23(34)46)27(50)42-20(13-44)28(51)39-17(6-4-8-37-31(35)36)25(48)38-15(3)29(52)43-9-5-7-21(43)30(53)54/h14-21,44H,4-13,32H2,1-3H3,(H2,33,45)(H2,34,46)(H,38,48)(H,39,51)(H,40,47)(H,41,49)(H,42,50)(H,53,54)(H4,35,36,37)/t15-,16-,17-,18-,19-,20-,21-/m0/s1
+
+InChIKey: WYPUBMUVBADNFB-BPSSIEEOSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4333, 5524
+
+BioPepDB: ID biopep00836
+
+MBPDB: peptide LNNSRAP
+
+SATPdb: ID satpdb10704

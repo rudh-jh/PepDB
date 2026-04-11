@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 101
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=100bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-5539
-Ct-AMP1
-NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFNC
-5613.2320
-5609.3495
-0.00 EC_50
-Peptide
-Data
-5542
-Hs-AFP1
-DGVKLCDVPSGTWSGHCGSSSKCSQQCCKDREHFAYGGACHYQFPSVKCFCKRQC
-6051.8075
-6047.5772
-0.00 EC_50
-Peptide
-Data
-5543
-SMAP-29 (cathelicidin)
-RGLRRLGRKIAHGVKKYGPTVLRIIRIAG
-3255.9454
-3254.0260
-0.00 EC_50
-Peptide
-Data
-5544
-Hadrurin
-GILDTIKSIASKVWNSKTVQDLKRKGINWVANKLGVSPQAA
-4436.1077
-4433.4834
-0.00 EC_50
-Peptide
-Data
-5545
-BMAP-27 (cathelicidin)
-GRFKRFRKKFKKLFKKLSPVIPLLHLG
-3283.0896
-3281.0586
-0.00 EC_50
-Peptide
-Data
-5546
-BMAP-28 (cathelicidin)
-GGLRSLGRKILRAWKKYGPIIVPIIRIG
-3131.8399
-3129.9439
-0.00 EC_50
-Peptide
-Data
-5547
-BMAP-34 (cathelicidin)
-AGLFRRLRDSIRRGQQKILEKARRIGERIKDIFRG
-4209.8989
-4207.4562
-0.00 EC_50
-Peptide
-Data
-5548
-Coleoptericin
-SLQGGAPNFPQPSQQNGGWQVSPDLGRDDKGNTRGQIEIQNKGKDHDFNAGWGKVIRGPNKAKPTWHVGGTYRR
-8109.7731
-8105.0462
-0.00 EC_50
-Peptide
-Data
-5549
-Hymenoptaecin
-QERGSIVIQGTKEGKSRPSLDIDYKQRVYDKNGMTGDAYGGLNIRPGQPSRQHAGFEFGKEYKNGFIKGQSEVQRGPGGRLSPYFGINGGFRF
-10286.2981
-10280.1710
-0.00 EC_50
-Peptide
-Data
-5550
-Bactenecin 5 (from bovine neutrophils)
-RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPIRPPFRPPLGPFP
-5148.1883
-5144.9671
-0.00 EC_50
-Peptide
-Data
-5551
-Bactenecin 5 (from goat neutrophils)
-RFRPPIRRPPIRPPFNPPFRPPVRPPFRPPFRPPFRPPIGPFP
-5162.1356
-5158.9327
-0.00 EC_50
-Peptide
-Data
-5552
-Bactenecin 7 (from bovine neutrophils)
-RRIRPRPPRLPRPRPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRPL
-7023.4697
-7019.2216
-0.00 EC_50
-Peptide
-Data
-5553
-Bactenecin 7 (from sheep neutrophils)
-RRLRPRRPRLPRPRPRPRPRPRSLPLPRPQPRRIPRPILLPWRPPRPIPRPQPQPIPRWL
-7463.9739
-7459.5254
-0.00 EC_50
-Peptide
-Data
-6985
-sapecin C
-ATCDLLSGIGVQHSACALHCVFRGNRGGYCTGKGICVCRN
-4141.7817
-4138.9254
-0.00 EC_50
-Peptide
-Data
-6986
-coeliac toxic peptide
-QQQP
-499.5168
-499.2383
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 101 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5539 
+
+ Ct-AMP1 
+
+ NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFNC 
+
+ 5613.2320 
+
+ 5609.3495 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5542 
+
+ Hs-AFP1 
+
+ DGVKLCDVPSGTWSGHCGSSSKCSQQCCKDREHFAYGGACHYQFPSVKCFCKRQC 
+
+ 6051.8075 
+
+ 6047.5772 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5543 
+
+ SMAP-29 (cathelicidin) 
+
+ RGLRRLGRKIAHGVKKYGPTVLRIIRIAG 
+
+ 3255.9454 
+
+ 3254.0260 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5544 
+
+ Hadrurin 
+
+ GILDTIKSIASKVWNSKTVQDLKRKGINWVANKLGVSPQAA 
+
+ 4436.1077 
+
+ 4433.4834 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5545 
+
+ BMAP-27 (cathelicidin) 
+
+ GRFKRFRKKFKKLFKKLSPVIPLLHLG 
+
+ 3283.0896 
+
+ 3281.0586 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5546 
+
+ BMAP-28 (cathelicidin) 
+
+ GGLRSLGRKILRAWKKYGPIIVPIIRIG 
+
+ 3131.8399 
+
+ 3129.9439 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5547 
+
+ BMAP-34 (cathelicidin) 
+
+ AGLFRRLRDSIRRGQQKILEKARRIGERIKDIFRG 
+
+ 4209.8989 
+
+ 4207.4562 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5548 
+
+ Coleoptericin 
+
+ SLQGGAPNFPQPSQQNGGWQVSPDLGRDDKGNTRGQIEIQNKGKDHDFNAGWGKVIRGPNKAKPTWHVGGTYRR 
+
+ 8109.7731 
+
+ 8105.0462 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5549 
+
+ Hymenoptaecin 
+
+ QERGSIVIQGTKEGKSRPSLDIDYKQRVYDKNGMTGDAYGGLNIRPGQPSRQHAGFEFGKEYKNGFIKGQSEVQRGPGGRLSPYFGINGGFRF 
+
+ 10286.2981 
+
+ 10280.1710 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5550 
+
+ Bactenecin 5 (from bovine neutrophils) 
+
+ RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPIRPPFRPPLGPFP 
+
+ 5148.1883 
+
+ 5144.9671 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5551 
+
+ Bactenecin 5 (from goat neutrophils) 
+
+ RFRPPIRRPPIRPPFNPPFRPPVRPPFRPPFRPPFRPPIGPFP 
+
+ 5162.1356 
+
+ 5158.9327 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5552 
+
+ Bactenecin 7 (from bovine neutrophils) 
+
+ RRIRPRPPRLPRPRPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRPL 
+
+ 7023.4697 
+
+ 7019.2216 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5553 
+
+ Bactenecin 7 (from sheep neutrophils) 
+
+ RRLRPRRPRLPRPRPRPRPRPRSLPLPRPQPRRIPRPILLPWRPPRPIPRPQPQPIPRWL 
+
+ 7463.9739 
+
+ 7459.5254 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 6985 
+
+ sapecin C 
+
+ ATCDLLSGIGVQHSACALHCVFRGNRGGYCTGKGICVCRN 
+
+ 4141.7817 
+
+ 4138.9254 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 6986 
+
+ coeliac toxic peptide 
+
+ QQQP 
+
+ 499.5168 
+
+ 499.2383 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 101 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

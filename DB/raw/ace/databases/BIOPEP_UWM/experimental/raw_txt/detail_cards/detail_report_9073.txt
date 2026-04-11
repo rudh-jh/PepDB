@@ -1,0 +1,241 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9073 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 216.2337 
+
+ Monoisotopic mass 
+
+ 216.1106 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 288.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N1[C@H](C(=O)O)CCC1)[C@H](O)C
+
+InChI=1S/C9H16N2O4/c1-5(12)7(10)8(13)11-4-2-3-6(11)9(14)15/h5-7,12H,2-4,10H2,1H3,(H,14,15)/t5-,6+,7+/m1/s1 
+
+InChIKey: QOLYAJSZHIJCTO-VQVTYTSYSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database (
+ID 8503)
+
+Sour peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 526)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1393, 1451, 4718, 5175, 5644, 6164
+
+BindingDB: 
+ID 50049714
+
+BioPepDB: ID biopep01298
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8503
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 526
+
+BRENDA: Ligand Thr-Pro
+
+ChEBI: 
+ID 73662
+
+ChEMBL: ID CHEMBL3321984
+
+ChemSpider: 
+ID 8010092
+
+EPA CompTox: ID DTXSID40431470
+
+J-GLOBAL: 
+ID 200907063825682360
+
+Metabolights: ID MTBLC73662
+
+Nikkaji: ID J908.017A
+
+PubChem: CID 9834371
+
+SATPdb: ID satpdb27701
+
+ZINC: ID ZINC000008076550

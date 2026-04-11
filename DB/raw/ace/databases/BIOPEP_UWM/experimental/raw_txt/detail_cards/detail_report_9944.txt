@@ -1,0 +1,212 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9944 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ER 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 303.3141 
+
+ Monoisotopic mass 
+
+ 303.1538 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 270.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Escudero E, Sentandreu MA, Arihara K, Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory peptides generated from in vitro gastrointestinal digestion of pork meat. J. Agric. Food Chem., 58, 2895-2901, 2010 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2010 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI= 1S/C11H21N5O5/c12-6(3-4-8(17)18)9(19)16-7(10(20)21)2-1-5-15-11(13)14/h6-7H,1-5,12H2,(H,16,19)(H,17,18)(H,20,21)(H4,13,14,15)/t6-,7-/m0/s1
+
+InChIKey: MPZWMIIOPAPAKE-BQBZGAKWSA-N
+
+IC50 according to Lafarga et al. (2016). Food Res Int. 81, 91-99
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2708, 4719, 5144, 6115
+
+BioPepDB: ID biopep00188
+
+ChemSpider: 
+ID 7972216
+
+EROP-Moscow: ID E09356
+
+HMDB: ID HMDB0028813
+
+PubChem: CID 9796450
+
+SATPdb: ID satpdb22163

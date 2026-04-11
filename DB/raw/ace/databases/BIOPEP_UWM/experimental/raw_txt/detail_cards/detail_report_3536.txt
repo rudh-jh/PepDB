@@ -1,0 +1,225 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3536 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PRY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 434.4882 
+
+ Monoisotopic mass 
+
+ 434.2271 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 2.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Saito Y., Wanezaki K., Kawato A., Imayasu S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structure and activity of angiotensin I converting enzyme inhibitory peptides from sake and sake lees. Biosci. Biotech. Biochem., 58(10), 1767-1771 (1994) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1994 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+
+InChI=1S/C20H30N6O5/c21-20(22)24-10-2-4-15(25-17(28)14-3-1-9-23-14)18(29)26-16(19(30)31)11-12-5-7-13(27)8-6-12/h5-8,14-16,23,27H,1-4,9-11H2,(H,25,28)(H,26,29)(H,30,31)(H4,21,22,24)/t14-,15-,16-/m0/s1
+
+InChIKey=OYEUSRAZOGIDBY-JYJNAYRXSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide found also in amaranth protein hydrolysate. 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID: A01.007) according to the bRENDA database; the DFBP database
+
+Activator of Angiotensin 2-converting enzyme (ACE2) (EC 3.4.17.23) (MEROPS ID: M02.006) according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1595, 5619, 6453, 
+
+BRENDA: Ligand Pro-Arg-Tyr
+
+ChEBI: 
+ID 162094 
+
+DFBP: ID DFBPACEI0578; DFBPRENI0038; DFBPMUFU0337
+
+EROP-Moscow: ID E09263
+
+Metabolomics Workbench: 
+ID 84694 
+
+PlantPepDB: ID PPepDB_3835
+
+PubChem: CID 145457395 
+
+SATPdb: ID satpdb22905

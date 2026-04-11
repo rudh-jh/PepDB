@@ -1,0 +1,194 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9094 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VSRHFASYAN 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1151.2285 
+
+ Monoisotopic mass 
+
+ 1150.5503 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 210.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Forghani B., Zarei M., Ebrahimpour A., Philip R., Bakar J., Hamid A. A., Saari N. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification and characterization of angiotensin converting enzyme-inhibitory peptides derived from Stichopus horrens: Stability study against the ACE and inhibition kinetics. J. Funct. Foods, 20, 276-290, 2016 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2016 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](C(C)C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(=O)N)C(=O)O
+
+InChI=1S/C51H74N16O15/c1-25(2)40(53)49(80)67-38(23-69)47(78)61-32(11-8-16-57-51(54)55)43(74)64-35(19-30-21-56-24-58-30)46(77)62-33(17-28-9-6-5-7-10-28)44(75)60-27(4)42(73)66-37(22-68)48(79)63-34(18-29-12-14-31(70)15-13-29)45(76)59-26(3)41(72)65-36(50(81)82)20-39(52)71/h5-7,9-10,12-15,21,24-27,32-38,40,68-70H,8,11,16-20,22-23,53H2,1-4H3,(H2,52,71)(H,56,58)(H,59,76)(H,60,75)(H,61,78)(H,62,77)(H,63,79)(H,64,74)(H,65,72)(H,66,73)(H,67,80)(H,81,82)(H4,54,55,57)/t26-,27-,32-,33-,34-,35-,36-,37-,38-,40-/m0/s1 
+
+InChIKey: KBLVKBAJKISXOP-QLWJBNTCSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

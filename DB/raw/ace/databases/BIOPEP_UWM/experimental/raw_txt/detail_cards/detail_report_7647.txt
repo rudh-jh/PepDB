@@ -1,0 +1,232 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7647 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YGG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 295.2905 
+
+ Monoisotopic mass 
+
+ 295.1164 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1001.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Meisel H., Walsh D. J., Murray B., FitzGerald R. J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE inhibitory peptides. in: Nutraceutical proteins and peptides in health and disease. Mine Y., Shahidi F. (Eds.), CRC Taylor & Francis Group, Boca Raton, London, New York, 269-315. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP database of bioactive peptides
+
+SMILES: c1cc(ccc1C[C@@H](C(=O)NCC(=O)NCC(=O)O)N)O
+
+InChI=1S/C13H17N3O5/c14-10(5-8-1-3-9(17)4-2-8)13(21)16-6-11(18)15-7-12(19)20/h1-4,10,17H,5-7,14H2,(H,15,18)(H,16,21)(H,19,20)/t10-/m0/s1
+
+InChIKey: HIINQLBHPIQYHN-JTQLQIEISA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001, 
+
+Peptide reveals also immunostimulating activity according to the BIOPEP-UWM database of bioactive peptides (
+ID 3741); the EROP-Moscow database
+
+Inhibitor of citruline uptake in yeasts according to the ChEMBL database; the PubChem database
+
+Bitter peptide according to BIOPEP database of sensory peptides and amino acids.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 21778-69-8
+
+AHTPDB: 
+ID 1592; 3315; 4560; 4845; 5474; 6634
+
+BIOPEP database of bioactive peptides: 
+ID 3741
+
+BIOPEP database of sensory peptides and amino acids: 
+ID 34
+
+BRENDA: Ligand Tyr-Gly-Gly
+
+ChEBI: 
+ID 74991
+
+ChEMBL: ID CHEMBL191422
+
+ChemSpider: 
+ID 110288
+
+EROP-Moscow: ID E09286
+
+PubChem: 
+ID 123715
+
+ZINC: ID ZINC02575477

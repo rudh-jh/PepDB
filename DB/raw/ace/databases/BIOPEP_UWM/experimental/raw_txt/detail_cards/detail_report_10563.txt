@@ -1,0 +1,211 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10563 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AWW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 461.5119 
+
+ Monoisotopic mass 
+
+ 461.2057 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 9.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lin Y.-H., Chen C.-A., Tsai J.-S., Chen G.-W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Preparation and identification of novel antihypertensive peptides from the in vitro gastrointestinal digestion of marine Cobia skin hydrolysates. Nutrients, 11, 1351, 2019 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2019 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C25H27N5O4/c1-14(26)23(31)29-21(10-15-12-27-19-8-4-2-6-17(15)19)24(32)30-22(25(33)34)11-16-13-28-20-9-5-3-7-18(16)20/h2-9,12-14,21-22,27-28H,10-11,26H2,1H3,(H,29,31)(H,30,32)(H,33,34)/t14-,21-,22-/m0/s1
+
+InChIKey=CKIBTNMWVMKAHB-RWGOJESNSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ CAS: Registry No 59005-79-7
+
+ChEBI: 
+ID 158595
+
+ChemSpider: 
+ID 57529071
+
+EPA CompTox: ID DTXSID90852075
+
+EROP-Moscow: ID E24868
+
+Metabolomics Workbench: 
+ID 79413
+
+PubChem: CID 71443245

@@ -1,0 +1,35 @@
+{
+  "data_file": "E:\\MYS\\PepDB\\DB\\worksets\\ace\\ahtpdb\\高置信短肽工作集\\高置信二三肽稳定序列表.csv",
+  "n_samples": 279,
+  "class_distribution": {
+    "强活性": 123,
+    "较弱活性": 109,
+    "中等活性": 47
+  },
+  "results": [
+    {
+      "accuracy": 0.4803,
+      "macro_precision": 0.4194,
+      "macro_recall": 0.4177,
+      "macro_f1": 0.4183,
+      "n_splits": 5,
+      "feature_set": "aac"
+    },
+    {
+      "accuracy": 0.5161,
+      "macro_precision": 0.429,
+      "macro_recall": 0.4273,
+      "macro_f1": 0.4263,
+      "n_splits": 5,
+      "feature_set": "signal"
+    },
+    {
+      "accuracy": 0.4946,
+      "macro_precision": 0.4365,
+      "macro_recall": 0.4336,
+      "macro_f1": 0.4347,
+      "n_splits": 5,
+      "feature_set": "fusion"
+    }
+  ]
+}

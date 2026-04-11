@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3410 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ALPP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 396.4799 
+
+ Monoisotopic mass 
+
+ 396.2365 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human beta-casein. Agric. Biol. Chem., 53, 2107-2114, 1989 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(N)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C19H32N4O5/c1-11(2)10-13(21-16(24)12(3)20)17(25)22-8-4-6-14(22)18(26)23-9-5-7-15(23)19(27)28/h11-15H,4-10,20H2,1-3H3,(H,21,24)(H,27,28)/t12-,13-,14-,15-/m0/s1
+
+InChIKey=VLTMSZWGNUQYNC-AJNGGQMLSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001
+
+Peptide found also in amaranth protein hydrolysate. 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

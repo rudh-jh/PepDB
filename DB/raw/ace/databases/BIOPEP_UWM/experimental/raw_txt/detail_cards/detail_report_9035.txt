@@ -1,0 +1,213 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9035 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GSH 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 299.2825 
+
+ Monoisotopic mass 
+
+ 299.1226 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 32.36 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=C[N]([H])C=N1)C(=O)O
+
+InChI=1S/C11H17N5O5/c12-2-9(18)15-8(4-17)10(19)16-7(11(20)21)1-6-3-13-5-14-6/h3,5,7-8,17H,1-2,4,12H2,(H,13,14)(H,15,18)(H,16,19)(H,20,21)/t7-,8-/m0/s1 
+
+InChIKey: MKIAPEZXQDILRR-YUMQZZPRSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9954); the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1558
+
+BioPepDB: ID biopep00415
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 9954
+
+EROP-Moscow: ID E23556
+
+PubChem CID: 145455685
+
+SATPdb: ID satpdb12942

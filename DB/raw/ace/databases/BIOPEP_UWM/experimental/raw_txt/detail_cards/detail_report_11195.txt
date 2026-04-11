@@ -1,0 +1,215 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11195 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 303.3554 
+
+ Monoisotopic mass 
+
+ 303.1578 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 500.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Ono S., Hosokawa M., Miyashita K., Takahashi K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition properties of dipeptides from salmon muscle hydrolysate on angiotensin I-converting enzyme. Int. J. Food Sci. Technol., 41, 363-366, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@]([H])(C(C)C)C(=O)O
+
+InChI=1S/C16H21N3O3/c1-9(2)14(16(21)22)19-15(20)12(17)7-10-8-18-13-6-4-3-5-11(10)13/h3-6,8-9,12,14,18H,7,17H2,1-2H3,(H,19,20)(H,21,22)/t12-,14-/m0/s1
+
+InChIKey=LWFWZRANSFAJDR-JSGCOSHPSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8556), the DFBP database; the EROP-Moscow database
+
+Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) according to the AHTPDB database, the DFBP database; the EROP-Moscow database
+
+Antioxidative peptide according to the DFBP database
+
+Inhibitor of Xanthine oxidase (EC 1.17.3.2) according to the BIOPEP-UWM database of bioactive peptides; the DFBP database, the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6933
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8556
+
+DFBP: ID DFBPACEI1590, DFBPANOX0075, DFBPDPIV0174, DFBPINPE0017, DFBPMUFU0442
+
+EROP-Moscow: ID E10408
+
+SATPdb: ID satpdb26540

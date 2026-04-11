@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3365 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FQKVVAG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 747.8797 
+
+ Monoisotopic mass 
+
+ 747.4266 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 7.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Mito K., Fujii M., Kuwahara M., Matsumura N., Shimizu T., Sugano S., Karaki H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive effect of angiotensin I-converting enzyme inhibitory peptides derived from hemoglobin. Eur. J. Pharmacol., 304, 93-98 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1996 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(Cc1ccccc1)C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C)C(=O)NCC(O)=O
+
+InChI=1S/C35H57N9O9/c1-19(2)28(34(52)40-21(5)30(48)39-18-27(46)47)44-35(53)29(20(3)4)43-33(51)24(13-9-10-16-36)42-32(50)25(14-15-26(38)45)41-31(49)23(37)17-22-11-7-6-8-12-22/h6-8,11-12,19-21,23-25,28-29H,9-10,13-18,36-37H2,1-5H3,(H2,38,45)(H,39,48)(H,40,52)(H,41,49)(H,42,50)(H,43,51)(H,44,53)(H,46,47)/t21-,23-,24-,25-,28-,29-/m0/s1
+
+InChIKey=NMFAOOJBXGPRHL-YQMKVEMISA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

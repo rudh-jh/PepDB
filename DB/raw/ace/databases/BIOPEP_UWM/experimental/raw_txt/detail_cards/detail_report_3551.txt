@@ -1,0 +1,283 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3551 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 278.3459 
+
+ Monoisotopic mass 
+
+ 278.1625 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 349.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Meisel H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Overview on milk protein-derived peptides. Int. Dairy J., 8, 363-373 (1998) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1998 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C15H22N2O3/c1-10(2)8-12(16)14(18)17-13(15(19)20)9-11-6-4-3-5-7-11/h3-7,10,12-13H,8-9,16H2,1-2H3,(H,17,18)(H,19,20)/t12-,13-/m0/s1
+
+InChIKey=KFKWRHQBZQICHA-STQMWFEESA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide known as alpha/beta-lactokinin [alpha-La (52-53); beta-Lg (104-105)]
+
+Another value of peptide EC50 (IC50) = 382.3 um
+
+Ono S., Hosokawa M., Miyashita K., Takahashi K., 2006, Inhibiton properties of dipeptides from salmon muscle hydrolysate on angiotensin I-converting enzyme. Int. J. Food Sci. Technol., 41, 383-387
+
+Found in salmon protein hydrolysate. 
+
+Ono S., Hosokawa M., Miyashita K., Takahashi K., 2006, Inhibiton properties of dipeptides from salmon muscle hydrolysate on angiotensin I-converting enzyme. Int. J. Food Sci. Technol., 41, 383-387
+
+Found in amaranth proteins: 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+Inhibitor of Carboxypeptidase C (EC 3.4.16.5) (MEROPS ID S10.004) according to the BRENDA database
+
+Inhibitor of Pseudolysin (EC 3.4.24.26) (MEROPS ID M04.005) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8313); the BRENDA database
+
+Bitter peptide according to BIOPEP database of sensory peptides and amino acids (
+ID 52); ChEMBL database; EROP-Moscow database; PubChem database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1161; 1330; 1388; 1415; 1432; 1675; 2687; 3165; 3209; 3302; 3514; 3600; 3854; 3976; 4086; 4473; 5454; 5602; 5711; 5777; 6466
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8313
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 52
+
+BRENDA: Ligand Leu-Phe
+
+CAS: Registry No 3063-05-6
+
+CCDC: ID COCGOQ 
+
+ChEBI: 
+ID 73585
+
+ChEMBL: ID CHEMBL54936
+
+ChemSpider: 
+ID 5360450
+
+COCONUT: ID CNP0118564.1 
+
+eMolecules: 
+ID 8294077 
+
+EPA CompTox: ID DTXSID501036415
+
+EROP-Moscow: ID E01831
+
+FooDB: ID FDB111642
+
+HMDB: ID HMDB0013243 
+
+J-GLOBAL: 
+ID 200907004967555318
+
+MetaboLights: ID MTBLC73585
+
+Metabolomics Workbench: ID ME015586
+
+Nikkaji: ID J80.629C 
+
+NMRShiftDB: 
+ID 60023474
+
+PlantPepDB: ID PPepDB_3721
+
+Probes And Drugs: ID PD101959
+
+PubChem: 
+ID 6992310
+
+SATPdb: ID satpdb28695
+
+SureChEMBL: ID SCHEMBL1864709
+
+Wikidata: ID Q27141902 
+
+ZINC: ID ZINC000001569745

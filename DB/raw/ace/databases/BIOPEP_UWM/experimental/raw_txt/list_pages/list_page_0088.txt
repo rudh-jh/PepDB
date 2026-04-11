@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 88
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=87bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-5339
-Bacteriocin carnobacteriocin A
-DQMSDGVNYGKGSSLSKGGAKCGLGIVGGLATIPSGPLGWLAGAAGVINSCMK
-5052.7739
-5049.5102
-0.00 EC_50
-Peptide
-Data
-5340
-Bacteriocin carnobacteriocin BM1
-AISYGNGVYCNKEKCWVNKAENKQAITGIVIGGWASSLAGMGH
-4527.1164
-4524.2070
-0.00 EC_50
-Peptide
-Data
-5341
-Bacteriocin carnobacteriocin B2
-VNYGNGVSCSKTKCSVNWGQAFQERYTAGINSFVSGVASGAGSIGRRP
-4969.4355
-4966.3916
-0.00 EC_50
-Peptide
-Data
-5343
-Bacteriocin pisciolin 126
-KYYGNGVSCNKNGCTVDWSKAIGIIGNNAAANLTTGGAAGWNKG
-4417.8410
-4415.1108
-0.00 EC_50
-Peptide
-Data
-5344
-Bacteriocin sakacin A
-ARSYGNGVYCNNKKCWVNRGEATQSIIGGMISGWASGLAGM
-4308.8500
-4306.0228
-0.00 EC_50
-Peptide
-Data
-5345
-Indolicidin precursor
-ILPWKWPWWPWRRG
-1964.3152
-1963.0493
-0.00 EC_50
-Peptide
-Data
-5346
-Abaecin
-VPLPNVPQPGRRPFPTFPGQGPFNPKIKWPQGY
-3715.2568
-3712.9724
-0.00 EC_50
-Peptide
-Data
-5347
-Abaecin from Bumblebee
-FVPYNPPRPGQSKPFPSFPGHGPFNPKIQWPYPLPNPGH
-4394.9341
-4392.2107
-0.00 EC_50
-Peptide
-Data
-5348
-Probable antibacterial peptide
-GYVSGAVIEIPDEILDSARFISLYSDGLRQKRQLNLSGPGSEHAGTIRLDGQRNIFDNGRTRVDGTGSYQLDYARGMKPIHGAGLGAEVNHNIWRGRGGQSLDLYGGATRQFNFGNRPNEWGAHGGIRYNF
-14350.6038
-14342.1357
-0.00 EC_50
-Peptide
-Data
-5349
-Acaloleptin A1
-SLQPGAPNVNNKDQPWQVSPHISRDDSGNTRTDINVQRHGENNDFEAGWSKVVRGPNKAKPTWHIGGTHRW
-7994.5572
-7989.9105
-0.00 EC_50
-Peptide
-Data
-5351
-Royalisin
-VTCDLLSFKGQVNDSACAANCLSLGKAGGHCEKVGCICRKTSFKDLWDKRFG
-5582.4133
-5578.6776
-0.00 EC_50
-Peptide
-Data
-5352
-Cysteine-rich antifungal protein 2 [Fragment]
-QKLCERPSGTXSGVCGNNNACKNQCIR
-2781.1346
-2779.2694
-0.00 EC_50
-Peptide
-Data
-5353
-Anti-lipopolysaccharide factor
-DGIWTQLIFTLVKNLATLWQSGDFQFLDHECHYRIKPTFRRLKWKYKGKFWCPSWTSITGRATKSSRSGAVEHSVRNFVGQAKSSGLITQRQAEQFISQYN
-11801.2553
-11794.0356
-0.00 EC_50
-Peptide
-Data
-5354
-Antimicrobial peptide CHP1
-GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIR
-4480.3956
-4477.2694
-0.00 EC_50
-Peptide
-Data
-5355
-Antimicrobial peptide 1
-SAFTVWSGPGCNNRAERYSKCGCSAIHQKGGYDFSYTGQTAALYNQAGCSGVAHTRFGSSARACNPFGWKSIFIQC
-8137.9560
-8132.6969
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5339 
+
+ Bacteriocin carnobacteriocin A 
+
+ DQMSDGVNYGKGSSLSKGGAKCGLGIVGGLATIPSGPLGWLAGAAGVINSCMK 
+
+ 5052.7739 
+
+ 5049.5102 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5340 
+
+ Bacteriocin carnobacteriocin BM1 
+
+ AISYGNGVYCNKEKCWVNKAENKQAITGIVIGGWASSLAGMGH 
+
+ 4527.1164 
+
+ 4524.2070 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5341 
+
+ Bacteriocin carnobacteriocin B2 
+
+ VNYGNGVSCSKTKCSVNWGQAFQERYTAGINSFVSGVASGAGSIGRRP 
+
+ 4969.4355 
+
+ 4966.3916 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5343 
+
+ Bacteriocin pisciolin 126 
+
+ KYYGNGVSCNKNGCTVDWSKAIGIIGNNAAANLTTGGAAGWNKG 
+
+ 4417.8410 
+
+ 4415.1108 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5344 
+
+ Bacteriocin sakacin A 
+
+ ARSYGNGVYCNNKKCWVNRGEATQSIIGGMISGWASGLAGM 
+
+ 4308.8500 
+
+ 4306.0228 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5345 
+
+ Indolicidin precursor 
+
+ ILPWKWPWWPWRRG 
+
+ 1964.3152 
+
+ 1963.0493 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5346 
+
+ Abaecin 
+
+ VPLPNVPQPGRRPFPTFPGQGPFNPKIKWPQGY 
+
+ 3715.2568 
+
+ 3712.9724 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5347 
+
+ Abaecin from Bumblebee 
+
+ FVPYNPPRPGQSKPFPSFPGHGPFNPKIQWPYPLPNPGH 
+
+ 4394.9341 
+
+ 4392.2107 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5348 
+
+ Probable antibacterial peptide 
+
+ GYVSGAVIEIPDEILDSARFISLYSDGLRQKRQLNLSGPGSEHAGTIRLDGQRNIFDNGRTRVDGTGSYQLDYARGMKPIHGAGLGAEVNHNIWRGRGGQSLDLYGGATRQFNFGNRPNEWGAHGGIRYNF 
+
+ 14350.6038 
+
+ 14342.1357 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5349 
+
+ Acaloleptin A1 
+
+ SLQPGAPNVNNKDQPWQVSPHISRDDSGNTRTDINVQRHGENNDFEAGWSKVVRGPNKAKPTWHIGGTHRW 
+
+ 7994.5572 
+
+ 7989.9105 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5351 
+
+ Royalisin 
+
+ VTCDLLSFKGQVNDSACAANCLSLGKAGGHCEKVGCICRKTSFKDLWDKRFG 
+
+ 5582.4133 
+
+ 5578.6776 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5352 
+
+ Cysteine-rich antifungal protein 2 [Fragment] 
+
+ QKLCERPSGTXSGVCGNNNACKNQCIR 
+
+ 2781.1346 
+
+ 2779.2694 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5353 
+
+ Anti-lipopolysaccharide factor 
+
+ DGIWTQLIFTLVKNLATLWQSGDFQFLDHECHYRIKPTFRRLKWKYKGKFWCPSWTSITGRATKSSRSGAVEHSVRNFVGQAKSSGLITQRQAEQFISQYN 
+
+ 11801.2553 
+
+ 11794.0356 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5354 
+
+ Antimicrobial peptide CHP1 
+
+ GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIR 
+
+ 4480.3956 
+
+ 4477.2694 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5355 
+
+ Antimicrobial peptide 1 
+
+ SAFTVWSGPGCNNRAERYSKCGCSAIHQKGGYDFSYTGQTAALYNQAGCSGVAHTRFGSSARACNPFGWKSIFIQC 
+
+ 8137.9560 
+
+ 8132.6969 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 88 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

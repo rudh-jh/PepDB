@@ -1,0 +1,227 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11318 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+SI 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 218.2495 
+
+ Monoisotopic mass 
+
+ 218.1262 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 188.30 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gu J., Yue S., Yang X., Lu Z., Wang Z., Wei X., Zhou L., Zhao Z., Shi Z., Zhao Z. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Unlocking novel angiotensin-converting enzyme inhibitory peptides from Nili Ravi buffalo milk β-casein: A synergistic strategy combining targeted hydrolysis, 3D-QSAR modeling, and mechanistic insights. Food Biosci., 71, 107346, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CO)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)O
+
+InChI=1S/C9H18N2O4/c1-3-5(2)7(9(14)15)11-8(13)6(10)4-12/h5-7,12H,3-4,10H2,1-2H3,(H,11,13)(H,14,15)/t5-,6-,7-/m0/s1
+
+InChIKey=BXLYSRPHVMCOPS-ACZMJKKPSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8893)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 8893
+
+CAS: Registry No 91086-51-0 
+
+ChEBI: 
+ID 90326 
+
+ChemSpider: 
+ID 57527499
+
+EPA CompTox: ID DTXSID40847714 
+
+FooDB: ID FDB112050
+
+HMDB: ID HMDB0029042 
+
+Metabolomics Workbench: 
+ID 78965 
+
+PubChem: CID 71429009
+
+SureChEMBL: 
+ID 3783793
+
+UniChem: 
+ID 61995522
+
+Wikidata: ID Q27162464

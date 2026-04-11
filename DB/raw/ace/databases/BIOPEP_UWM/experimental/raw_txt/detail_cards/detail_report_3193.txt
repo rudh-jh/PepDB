@@ -1,0 +1,203 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3193 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+JGLPPGPPIPP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 11 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 941.1214 
+
+ Monoisotopic mass 
+
+ 940.5365 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 4.20 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kato H., Suzuki T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Bradykinin-potentiating peptides from venom of Agkistrodon halys blomhoffi. Isolation of five bradykinin potentiators and amino acid sequences of two of them, potentiators B and C. Biochemistry, 10, 972-980, 1971 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1971 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C46H72N10O11/c1-5-28(4)38(45(65)55-22-10-16-34(55)44(64)56-23-11-17-35(56)46(66)67)50-40(60)31-13-7-20-53(31)42(62)32-14-8-18-51(32)37(58)26-48-39(59)30-12-6-19-52(30)43(63)33-15-9-21-54(33)41(61)29(24-27(2)3)49-36(57)25-47/h27-35,38H,5-26,47H2,1-4H3,(H,48,59)(H,49,57)(H,50,60)(H,66,67)/t28-,29-,30-,31-,32-,33-,34-,35-,38-/m0/s1
+
+InChIKey=UALXDFDEASGIQC-BMBRTWATSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ 
+
+AHTPDB: 
+ID 6916
+
+EROP-Moscow: ID E00089
+
+SATPdb: ID satpdb17670

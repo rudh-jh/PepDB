@@ -1,0 +1,257 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7585 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 202.2501 
+
+ Monoisotopic mass 
+
+ 202.1313 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 310.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitors:Evolution of a new class of antihypertensive drugs (page 19). in: Horovitz Z. P. (Ed.) (1981), Mechanisms of action and clinical implications, Urban & Schwarzenberg. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1981 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N[C@H](C(=O)O)C)CC(C)C
+
+InChI=1S/C9H18N2O3/c1-5(2)4-7(10)8(12)11-6(3)9(13)14/h5-7H,4,10H2,1-3H3,(H,11,12)(H,13,14)/t6-,7-/m0/s1
+
+InChIKey: HSQGMTRYSIHDAC-BQBZGAKWSA-N
+
+Activator of ubiquitin-mediated proteolysis according to the BIOPEP database of bioactive peptides (
+ID 4006); the EROP-Moscow database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 3175); the BRENDA database; the EROP-Moscow database
+
+Inhibitor of Bleomycin hydrolase (EC 3.4.22.40) (MEROPS ID: C01.084) according to the BRENDA database
+
+Inhibitor of citrulline uptake in yeasts according to the ChEMBL database; the PubChem database
+
+Inhibitor of Dipeptidyl peptidase-III (DPP-III) (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9499)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids; the ChEMBL database; the PubChem database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 21369-94-8
+
+AHTPDB: 
+ID 3224, 3308, 3513, 3569, 3595, 3828, 3852, 3973, 4437, 4534, 4672, 6571
+
+BindingDB: 
+ID 50407466
+
+BioPepDB: ID biopep00725
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3175; 4006; 9499
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 466
+
+BRENDA: Ligand Leu-Ala
+
+ChEBI: 
+ID 73527
+
+ChemBank: ID KBio3_002789; SPBio_001517; Spectrum2_001499; Spectrum3_001934
+
+ChEMBL: ID CHEMBL541207
+
+ChemIDplus: 
+ID 007298842
+
+ChemSpider: 
+ID 73739
+
+EROP-Moscow: ID E06287
+
+J-GLOBAL: 
+ID 200907083420885213
+
+Nikkaji: ID J81.361C
+
+PubChem: 
+ID 81721
+
+SATPDB: ID satpdb13367
+
+SureChEMBL: ID SCHEMBL259116
+
+ZINC: ID ZINC01569727

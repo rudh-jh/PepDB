@@ -1,0 +1,246 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9091 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 335.4215 
+
+ Monoisotopic mass 
+
+ 335.1299 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 10.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CCSC)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)O
+
+InChI=1S/C16H21N3O3S/c1-23-7-6-12(17)15(20)19-14(16(21)22)8-10-9-18-13-5-3-2-4-11(10)13/h2-5,9,12,14,18H,6-8,17H2,1H3,(H,19,20)(H,21,22)/t12-,14-/m0/s1
+
+InChIKey: XYVRXLDSCKEYES-JSGCOSHPSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8690); the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 60535-02-6
+
+AHTPDB: 
+ID 1084, 1467, 1512, 2029, 2225, 2787, 4236, 4723, 5165, 6159
+
+BindingDB: 
+ID 50049749
+
+BioPepDB: ID biopep00984
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8690
+
+BRENDA: Ligand Met-Trp
+
+ChEBI: 
+ID 74709
+
+ChEMBL: ID CHEMBL3321992
+
+ChemSpider: 
+ID 2338590
+
+EPA CompTox: ID DTXSID60209279
+
+EPA DSSTox: ID DTXCID30131770
+
+EROP-Moscow: ID E09199
+
+J-GLOBAL: 
+ID 200907031929831481
+
+Metabolights: ID MTBLC74709
+
+Nikkaji: ID J1.302.732C
+
+PubChem: CID 3080870
+
+SATPdb: ID satpdb12133
+
+SureChEMBL: ID SCHEMBL7048700
+
+ZINC: ID ZINC000002384976

@@ -1,0 +1,238 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7588 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 245.2781 
+
+ Monoisotopic mass 
+
+ 245.1484 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 460.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitors:Evolution of a new class of antihypertensive drugs (page 19). in: Horovitz Z. P. (Ed.)(1981), Mechanisms of action and clinical implications, Urban & Schwarzenberg. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1981 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP database of bioactive peptides
+
+SMILES: N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)O
+
+InChI=1S/C9H19N5O3/c1-5(8(16)17)14-7(15)6(10)3-2-4-13-9(11)12/h5-6H,2-4,10H2,1H3,(H,14,15)(H,16,17)(H4,11,12,13)/t5-,6-/m0/s1
+
+InChIKey: WVRUNFYJIHNFKD-WDSKDSINSA-N
+
+Peptide activating ubiquitin-mediated proteolysis according to the BIOPEP database of bioactive peptides (
+ID 4005), the EROP-Moscow database
+
+Peptide inhibiting UBR protein according to the ChEMBL database; the PubChem database
+
+Inhibitor of Leucyltransferase (EC 2.3.2.6) according to the BRENDA database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP database of bioactive peptides (
+ID 8526)
+
+Inhibitor of Bleomycin hydrolase (EC 3.4.22.40) (MEROPS ID: C01.084) according to the BRENDA database
+
+Salty taste enhancing peptide according to the BIOPEP database of sensory peptides and amino acids (
+ID 420)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1679; 2999, 3182; 3227; 3531; 3582; 3830; 4018; 4432; 4536; 4678; 6574
+
+BindingDB: 
+ID 50407418
+
+BIOPEP database of bioactive peptides: 
+ID 4005; 8526
+
+BIOPEP database of sensory peptides and amino acids: 
+ID 420
+
+BRENDA: Ligand Arg-Ala
+
+ChEBI: 
+ID 73810
+
+ChEMBL: ID CHEMBL328471
+
+ChemSpider: 
+ID 5383289
+
+PubChem: 
+ID 7020333
+
+SATPdb: ID satpdb10016
+
+ZINC: ID ZINC02562523

@@ -1,0 +1,199 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9234 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KKYKVPQ 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 890.0780 
+
+ Monoisotopic mass 
+
+ 889.5369 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 716.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gómez-Ruiz J. A., Ramos M., Recio I. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin-converting-enzyme-inhibitory peptides in Manchego cheeses manufactured with different starter cultures. Int. Dairy J. 2002, 12:697-706. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2002 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCCCN)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCC(N)=O)C(O)=O
+
+InChI=1S/C42H71N11O10/c1-25(2)35(41(61)53-23-9-13-33(53)40(60)50-31(42(62)63)18-19-34(47)55)52-38(58)30(12-5-8-22-45)49-39(59)32(24-26-14-16-27(54)17-15-26)51-37(57)29(11-4-7-21-44)48-36(56)28(46)10-3-6-20-43/h14-17,25,28-33,35,54H,3-13,18-24,43-46H2,1-2H3,(H2,47,55)(H,48,56)(H,49,59)(H,50,60)(H,51,57)(H,52,58)(H,62,63)/t28-,29-,30-,31-,32-,33-,35-/m0/s1
+
+InChIKey: IAWWAVIIOIOXPW-SIMWSORWSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4354
+
+SATPdb: ID satpdb23610

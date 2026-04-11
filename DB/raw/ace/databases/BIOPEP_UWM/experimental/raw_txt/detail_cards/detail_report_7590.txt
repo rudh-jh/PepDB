@@ -1,0 +1,279 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7590 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 160.1706 
+
+ Monoisotopic mass 
+
+ 160.0845 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 620.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitors: Evolution of a new class of antihypertensive drugs (page 19). in: Horovitz Z. P. (Ed.)(1981), Mechanisms of action and clinical implications, Urban & Schwarzenberg. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1981 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](C)C(=O)N[C@@H](C)C(=O)O
+
+InChI=1S/C6H12N2O3/c1-3(7)5(9)8-4(2)6(10)11/h3-4H,7H2,1-2H3,(H,8,9)(H,10,11)/t3-,4-/m0/s1
+
+InChIKey: DEFJQIDDEAULHB-IMJSIDKUSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8637); the BRENDA database; the EROP-Moscow database
+
+Inhibitor of Cytosol alanyl aminopeptidase (EC 3.4.11.14) (MEROPS ID: M24.005) according to he the BRENDA database
+
+Inhibitor of D-Ala-D-Ala Dipeptidase (EC 3.4.13.22) (MEROPS ID: M15.011) according to tBRENDA database
+
+Inhibitor of Peptide-transporting ATPase (EC 3.6.3.43) according to the BRENDA database
+
+Activator of Carbonic anhydrases (EC 4.2.1.1) according to the ChEMBL database
+
+Antibacterial peptide according to the ChEMBL database
+
+Hyp[otensive peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10141)
+
+Sweet peptide according to the BIOPEP-UWM database of sensory peptides and amino acids
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1680; 2982; 3229; 3464; 3552; 3608; 3832; 3885; 4431; 4538; 4684; 5134; 6112; 6576
+
+BioPepDB: ID biopep00002
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8637; 10141
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 241
+
+BRENDA: Ligand Ala-Ala
+
+ChEBI: 
+ID 72816
+
+ChEMBL: ID CHEMBL17697
+
+ChemIDplus: 
+ID 001948318
+
+ChemSpider: 
+ID 4588478
+
+EPA DSSTox: ID DTXSID00173127
+
+EROP-Moscow: ID E06348
+
+FeptideDB: 
+ID 7590; 8637
+
+FooDB: ID FDB003740
+
+Golm Metabolome Database: ID DF49DD8A-D390-4F75-8C8A-3A07EF07DD48
+
+HMDB: ID HMDB0028680
+
+J-GLOBAL: 
+ID 200907012990949768
+
+KNApSAcK: ID C00017958 
+
+MeSH; 
+ID 67002956; term alanylalanine
+
+Metabolomics Workbench: 
+ID 78656
+
+Nikkaji: ID J47.023F
+
+NIST Chemistry WebBook: Compound L-Alanine, N-L-alanyl-
+
+PlantPepDB: ID PPepDB_1
+
+PubChem: CID 6992372
+
+SAPdb: 
+ID 1016
+
+SATPdb: ID satpdb12967
+
+SpectraBase: Compound L-Alanyl-L-alanine
+
+ZINC: ID ZINC01575493

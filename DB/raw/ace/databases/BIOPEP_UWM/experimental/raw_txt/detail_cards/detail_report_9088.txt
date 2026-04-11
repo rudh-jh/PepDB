@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9088 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AEL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 331.3638 
+
+ Monoisotopic mass 
+
+ 331.1737 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 57.10 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Suetsuna K., Chen J.-R. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of antihypertensive peptides from peptic digest of two microalgae, Chlorella vulgaris and Spirulina platensis. Marine Biotechnol., 3, 305–309, 2001 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2001 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C14H25N3O6/c1-7(2)6-10(14(22)23)17-13(21)9(4-5-11(18)19)16-12(20)8(3)15/h7-10H,4-6,15H2,1-3H3,(H,16,20)(H,17,21)(H,18,19)(H,22,23)/t8-,9-,10-/m0/s1
+
+InChIKey: HXNNRBHASOSVPG-GUBZILKMSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1033, 1864, 1868
+
+BioPepDB: ID biopep00009
+
+EROP-Moscow: ID E07054
+
+SATPdb: ID satpdb20578

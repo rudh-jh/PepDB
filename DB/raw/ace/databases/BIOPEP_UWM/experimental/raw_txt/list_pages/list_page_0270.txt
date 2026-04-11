@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 270
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=269bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-9774
-Prolyl endopeptidase inhibitor
-YPIPF
-635.7486
-635.3308
-87.70 IC_50
-Peptide
-Data
-9775
-Anti-inflammatory peptide
-EDDQMDPMAK
-1179.2774
-1178.4566
-0.00 IC_50
-Peptide
-Data
-9776
-ACE inhibitor
-YGNPVGGVGH
-956.0106
-955.4498
-522.04 IC_50
-Peptide
-Data
-9777
-Alpha-amylase inhibitor
-YGNPVGGVGH
-956.0106
-955.4498
-80.33 IC_50
-Peptide
-Data
-9778
-Pancreatic lipase inhibitor
-YGNPVGGVGH
-956.0106
-955.4498
-107.02 IC_50
-Peptide
-Data
-9779
-Lipoxygenase inhibitor
-YGNPVGGVGH
-956.0106
-955.4498
-127.33 IC_50
-Peptide
-Data
-9780
-Cyclooxygenase-1 inhibitor
-YGNPVGGVGH
-956.0106
-955.4498
-17.42 IC_50
-Peptide
-Data
-9781
-Cyclooxygenase-2 inhibitor
-YGNPVGGVGH
-956.0106
-955.4498
-16.25 IC_50
-Peptide
-Data
-9782
-ACE inhibitor
-GEHGGAGMGGGQFQPV
-1485.5777
-1484.6446
-490.55 IC_50
-Peptide
-Data
-9783
-Alpha-amylase inhibitor
-GEHGGAGMGGGQFQPV
-1485.5777
-1484.6446
-8.00 IC_50
-Peptide
-Data
-9784
-Pancreatic lipase inhibitor
-GEHGGAGMGGGQFQPV
-1485.5777
-1484.6446
-41.97 IC_50
-Peptide
-Data
-9785
-Lipoxygenase inhibitor
-GEHGGAGMGGGQFQPV
-1485.5777
-1484.6446
-68.48 IC_50
-Peptide
-Data
-9786
-Cyclooxygenase-1 inhibitor
-GEHGGAGMGGGQFQPV
-1485.5777
-1484.6446
-8.00 IC_50
-Peptide
-Data
-9787
-Cyclooxygenase-2 inhibitor
-GEHGGAGMGGGQFQPV
-1485.5777
-1484.6446
-30.18 IC_50
-Peptide
-Data
-9788
-ACE inhibitor
-GNPVGGVGHGTTGT
-1210.2509
-1209.5720
-434.55 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 270 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9774 
+
+ Prolyl endopeptidase inhibitor 
+
+ YPIPF 
+
+ 635.7486 
+
+ 635.3308 
+
+ 87.70 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9775 
+
+ Anti-inflammatory peptide 
+
+ EDDQMDPMAK 
+
+ 1179.2774 
+
+ 1178.4566 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9776 
+
+ ACE inhibitor 
+
+ YGNPVGGVGH 
+
+ 956.0106 
+
+ 955.4498 
+
+ 522.04 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9777 
+
+ Alpha-amylase inhibitor 
+
+ YGNPVGGVGH 
+
+ 956.0106 
+
+ 955.4498 
+
+ 80.33 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9778 
+
+ Pancreatic lipase inhibitor 
+
+ YGNPVGGVGH 
+
+ 956.0106 
+
+ 955.4498 
+
+ 107.02 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9779 
+
+ Lipoxygenase inhibitor 
+
+ YGNPVGGVGH 
+
+ 956.0106 
+
+ 955.4498 
+
+ 127.33 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9780 
+
+ Cyclooxygenase-1 inhibitor 
+
+ YGNPVGGVGH 
+
+ 956.0106 
+
+ 955.4498 
+
+ 17.42 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9781 
+
+ Cyclooxygenase-2 inhibitor 
+
+ YGNPVGGVGH 
+
+ 956.0106 
+
+ 955.4498 
+
+ 16.25 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9782 
+
+ ACE inhibitor 
+
+ GEHGGAGMGGGQFQPV 
+
+ 1485.5777 
+
+ 1484.6446 
+
+ 490.55 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9783 
+
+ Alpha-amylase inhibitor 
+
+ GEHGGAGMGGGQFQPV 
+
+ 1485.5777 
+
+ 1484.6446 
+
+ 8.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9784 
+
+ Pancreatic lipase inhibitor 
+
+ GEHGGAGMGGGQFQPV 
+
+ 1485.5777 
+
+ 1484.6446 
+
+ 41.97 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9785 
+
+ Lipoxygenase inhibitor 
+
+ GEHGGAGMGGGQFQPV 
+
+ 1485.5777 
+
+ 1484.6446 
+
+ 68.48 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9786 
+
+ Cyclooxygenase-1 inhibitor 
+
+ GEHGGAGMGGGQFQPV 
+
+ 1485.5777 
+
+ 1484.6446 
+
+ 8.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9787 
+
+ Cyclooxygenase-2 inhibitor 
+
+ GEHGGAGMGGGQFQPV 
+
+ 1485.5777 
+
+ 1484.6446 
+
+ 30.18 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9788 
+
+ ACE inhibitor 
+
+ GNPVGGVGHGTTGT 
+
+ 1210.2509 
+
+ 1209.5720 
+
+ 434.55 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 270 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

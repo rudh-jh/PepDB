@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10703 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VEF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 393.4331 
+
+ Monoisotopic mass 
+
+ 393.1893 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 23.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Qi C., Lin G., Zhang R., Wu W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Studies on the bioactivities of ACE-inhibitory Peptides with phenylalanine C-terminus Using 3D-QSAR, molecular docking and in vitro evaluation. Mol Inform. 36, 1600157, 2017 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C19H27N3O6/c1-11(2)16(20)18(26)21-13(8-9-15(23)24)17(25)22-14(19(27)28)10-12-6-4-3-5-7-12/h3-7,11,13-14,16H,8-10,20H2,1-2H3,(H,21,26)(H,22,25)(H,23,24)(H,27,28)/t13-,14-,16-/m0/s1
+
+InChIKey=FOADDSDHGRFUOC-DZKIICNBSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChEBI: 
+ID 166186 
+
+DFBP: ID DFBPACEI1973
+
+Metabolomics Workbench: 
+ID 86789 
+
+PubChem: CID 145458920

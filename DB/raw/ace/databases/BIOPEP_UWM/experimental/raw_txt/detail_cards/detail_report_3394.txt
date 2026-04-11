@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3394 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FPFEVFGK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 970.1180 
+
+ Monoisotopic mass 
+
+ 969.4944 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Maruyama S., Nakagomi K., Tomizuka N., Suzuki H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitor derived from an enzymatic hydrolysate of casein. II. Isolation and bradykinin-potentiating activity on the uterus and the ileum of rats. Agric Biol Chem 49, 1405-1409 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1985 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(Cc1ccccc1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCC(O)=O)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)NCC(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C50H67N9O11/c1-31(2)43(48(67)57-38(28-33-17-8-4-9-18-33)44(63)53-30-41(60)54-37(50(69)70)21-12-13-25-51)58-45(64)36(23-24-42(61)62)55-46(65)39(29-34-19-10-5-11-20-34)56-47(66)40-22-14-26-59(40)49(68)35(52)27-32-15-6-3-7-16-32/h3-11,15-20,31,35-40,43H,12-14,21-30,51-52H2,1-2H3,(H,53,63)(H,54,60)(H,55,65)(H,56,66)(H,57,67)(H,58,64)(H,61,62)(H,69,70)/t35-,36-,37-,38-,39-,40-,43-/m0/s1
+
+InChIKey=RHGGHUOJGJKAPD-GSCWUVFKS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

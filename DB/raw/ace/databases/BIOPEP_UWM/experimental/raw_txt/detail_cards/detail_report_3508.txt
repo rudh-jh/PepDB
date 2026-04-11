@@ -1,0 +1,218 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3508 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GLDIQK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 672.7687 
+
+ Monoisotopic mass 
+
+ 672.3794 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 580.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Pihlanto-Leppala A., Rokka T., Korhonen H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I converting enzyme inhibitory peptides derived from bovine milk proteins. Int. Dairy Journal 8, 325-331 (1998) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1998 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](C)(CC)[C@]([H])(NC(=O)[C@]([H])(CC(O)=O)NC(=O)[C@]([H])(CC(C)C)NC(=O)CN)C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C29H52N8O10/c1-5-16(4)24(28(45)34-17(9-10-21(32)38)25(42)35-18(29(46)47)8-6-7-11-30)37-27(44)20(13-23(40)41)36-26(43)19(12-15(2)3)33-22(39)14-31/h15-20,24H,5-14,30-31H2,1-4H3,(H2,32,38)(H,33,39)(H,34,45)(H,35,42)(H,36,43)(H,37,44)(H,40,41)(H,46,47)/t16-,17-,18-,19-,20-,24-/m0/s1
+
+InChIKey=MWFDECNXUFBANR-KCKIOEHISA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1138, 1296, 5353, 5899, 6427
+
+ChemSpider: 
+ID 8394423
+
+DFBP: ID DFBPACEI0360
+
+EROP-Moscow: ID E23810
+
+FeptideDB: 
+ID 3508
+
+J-GLOBAL: 
+ID 200907061111042186
+
+MBPDB: Peptide GLDIQK
+
+Nikkaji: ID J1.795.135A 
+
+PubChem: CID 10218931
+
+SATPdb: ID satpdb15107

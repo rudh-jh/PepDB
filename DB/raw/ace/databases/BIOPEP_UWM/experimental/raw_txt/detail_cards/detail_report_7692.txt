@@ -1,0 +1,268 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7692 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 293.3605 
+
+ Monoisotopic mass 
+
+ 293.1734 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 28.30 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Meisel H., Walsh D. J., Murray B., FitzGerald R. J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE inhibitory peptides. in: Nutraceutical proteins and peptides in health and disease. Mine Y., Shahidi F. (Eds.), CRC Taylor & Francis Group, Boca Raton, London, New York, 269-315. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CCCCN)C(=O)N[C@@H](Cc1ccccc1)C(=O)O
+
+InChI=1S/C15H23N3O3/c16-9-5-4-8-12(17)14(19)18-13(15(20)21)10-11-6-2-1-3-7-11/h1-3,6-7,12-13H,4-5,8-10,16-17H2,(H,18,19)(H,20,21)/t12-,13-/m0/s1
+
+InChIKey: QCZYYEFXOBKCNQ-STQMWFEESA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Another value of peptide EC50 = 7.23
+
+Li H., Aluko R. E., 2010, Identification and inhibitory properties of multifunctional peptides from pea protein hydrolysate. J. Agric. Food Chem., 58, 11471-11476
+
+Found in pea protein hydrolysate
+
+Li H., Aluko R. E., 2010, Identification and inhibitory properties of multifunctional peptides from pea protein hydrolysate. J. Agric. Food Chem., 58, 11471-11476
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID A01.007) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8248)
+
+Inhibitor of calmodulin-dependent phosphodiesterase 1 (CaMPDE) (EC 3.1.4.17) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8249) 
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8809)
+
+Inhibitor of Leucyltransferase (EC 2.3.2.6) according to the BRENDA database
+
+Bitter peptide according to BIOPEP-UWM database of sensory peptides and amino acids
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 6235-35-4
+
+AHTPDB: 
+ID 1447; 1456; 2673; 2774; 2850; 3010; 3040; 3269; 3318; 3433; 3507; 3966; 4737; 5158; 5424; 
+
+6259; 6678; 6875
+
+BindingDB: 
+ID 50049726
+
+BioPepDB: ID biopep00670
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8248; 8249; 8809
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 56
+
+BRENDA: Ligand Lys-Phe
+
+ChEBI: 
+ID 73605
+
+ChEMBL: ID CHEMBL3321994
+
+ChemIdPlus: 
+ID 6235-35-4
+
+ChemSpider: 
+ID 133442
+
+EROP-Moscow: ID E10439
+
+J-Global: 
+ID 200907094343429899
+
+Metabolights: ID MTBLC73605
+
+Nikkaji: ID J231.730C
+
+PubChem: CID 151410
+
+SATPdb: ID satpdb29026
+
+SureChEMBL: ID SCHEMBL1374146
+
+ZINC: ID ZINC02522657

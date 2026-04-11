@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10830 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KAF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 364.4382 
+
+ Monoisotopic mass 
+
+ 364.2104 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.63 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Li Z., He H., Liu J., Gu H., Fu C., Zeb A., Che T., Shen S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Preparation and vasodilation mechanism of angiotensin-I converting enzyme inhibitory peptide from Ulva prolifera protein. Marine Drugs, 22, 398, 2024 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2024 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C18H28N4O4/c1-12(21-17(24)14(20)9-5-6-10-19)16(23)22-15(18(25)26)11-13-7-3-2-4-8-13/h2-4,7-8,12,14-15H,5-6,9-11,19-20H2,1H3,(H,21,24)(H,22,23)(H,25,26)/t12-,14-,15-/m0/s1
+
+InChIKey=YIBOAHAOAWACDK-QEJZJMRPSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChEBI: 
+ID 159691 
+
+ChemSpider: 
+ID 17224312
+
+Metabolomics Workbench: 
+ID 83469 
+
+PubChem: CID 16064706

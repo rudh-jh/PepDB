@@ -1,0 +1,230 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7826 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EI 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 260.2861 
+
+ Monoisotopic mass 
+
+ 260.1367 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N[C@H](C(=O)O)[C@H](CC)C)CCC(=O)O
+
+InChI=1S/C11H20N2O5/c1-3-6(2)9(11(17)18)13-10(16)7(12)4-5-8(14)15/h6-7,9H,3-5,12H2,1-2H3,(H,13,16)(H,14,15)(H,17,18)/t6-,7-,9-/m0/s1
+
+InChIKey: SNFUTDLOCQQRQD-ZKWXMUAHSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8772)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 272)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3279; 3436; 3473; 3899; 6729
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8772
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 272
+
+ChEBI: 
+ID 141436
+
+ChemSpider: 
+ID 7989605
+
+FeptideDB: 
+ID 7826, 8772
+
+FooDB: ID FDB111866
+
+HMDB: ID HMDB0028822
+
+PubChem: CID 9813855
+
+SATPdb: ID satpdb11351
+
+SureChEMBL: ID SCHEMBL3708036

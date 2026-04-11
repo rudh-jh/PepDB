@@ -1,0 +1,256 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7615 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GE 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 204.1801 
+
+ Monoisotopic mass 
+
+ 204.0743 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 5400.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(CCC(=O)O)C(=O)O
+
+InChI=1S/C7H12N2O5/c8-3-5(10)9-4(7(13)14)1-2-6(11)12/h4H,1-3,8H2,(H,9,10)(H,11,12)(H,13,14)/t4-/m0/s1
+
+InChIKey=IEFJWDNGDZAYNZ-BYPYZUCNSA-N
+
+Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) according to the ChEMBL database; the EROP-Moscow database; the PubChem database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8781)
+
+Inhibitor of citrulline uptake in yeasts according to the ChEMBL database; the PubChem database
+
+Inhibitor of Dipeptidyl-peptidase III (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9487); the BRENDA database
+
+Inhibitor of Glutamate carboxypeptidase (EC 3.4.17.11) (MEROPS ID: M20.001) according to the BRENDA database
+
+Inhibitor of Glutamate carboxypeptidase II (EC 3.4.17.21) (MEROPS ID: M28.010) according to the BRENDA database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 137)
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1474; 3043; 3247; 3425; 3814; 3917; 4409; 4520; 4689; 6601
+
+BindingDB: 
+ID 50188529
+
+BioPepDB: ID biopep00330
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8781; 9487
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 137
+
+BRENDA: Ligand Gly-Glu
+
+ChEBI: 
+ID 73801
+
+ChEMBL: ID CHEMBL314532
+
+ChemIDplus: 
+ID 007412784
+
+ChemSpider ID: 89688
+
+EROP-Moscow: ID E10387
+
+J-GLOBAL: 
+ID 200907069620514802
+
+Metabolights: ID MTBLC73801
+
+Nikkaji： ID J149.621B
+
+PubChem: CID 99278
+
+SATPdb: ID satpdb13269
+
+SureChEMBL: ID SCHEMBL709721
+
+ZINC: ID ZINC02567986

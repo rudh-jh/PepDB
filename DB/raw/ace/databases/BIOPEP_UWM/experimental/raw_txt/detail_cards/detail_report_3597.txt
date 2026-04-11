@@ -1,0 +1,215 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3597 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AIP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 299.3650 
+
+ Monoisotopic mass 
+
+ 299.1839 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 670.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptide fragments of various beta-caseins. Agric. Biol. Chem. 54 (4), 1101-1102 (1990) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1990 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(N)C(=O)N[C@]([H])(C(=O)N1CCC[C@@]1([H])C(O)=O)[C@@]([H])(C)CC
+
+InChI=1S/C14H25N3O4/c1-4-8(2)11(16-12(18)9(3)15)13(19)17-7-5-6-10(17)14(20)21/h8-11H,4-7,15H2,1-3H3,(H,16,18)(H,20,21)/t8-,9-,10-,11-/m0/s1
+
+InChIKey=OKIKVSXTXVVFDV-NAKRPEOUSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide found also in amaranth protein hydrolysate. 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1121, 2258, 2268, 4752, 5191, 5580, 5862, 6044, 6473
+
+ChemSpider: 
+ID 8055028
+
+EROP-Moscow: ID E14563, E09239
+
+FeptideDB: 
+ID 3597
+
+PubChem: CID 9879351
+
+SATPdb: ID satpdb28416

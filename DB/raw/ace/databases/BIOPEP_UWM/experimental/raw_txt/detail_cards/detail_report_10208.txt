@@ -1,0 +1,202 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10208 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WGAP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 429.4685 
+
+ Monoisotopic mass 
+
+ 429.2006 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 140.70 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Chen J., Yu X., Huang W., Wang C., He Q. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ A novel angiotensin-converting enzyme inhibitory peptide from rabbit meat protein hydrolysate: identification, molecular mechanism, and antihypertensive effect in vivo. Food Funct., 12, 12077-12086, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C21H27N5O5/c1-12(20(29)26-8-4-7-17(26)21(30)31)25-18(27)11-24-19(28)15(22)9-13-10-23-16-6-3-2-5-14(13)16/h2-3,5-6,10,12,15,17,23H,4,7-9,11,22H2,1H3,(H,24,28)(H,25,27)(H,30,31)/t12-,15-,17-/m0/s1
+
+InChIKey=KCTZWUNTVGUVSA-NUTKFTJISA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10209)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 10209

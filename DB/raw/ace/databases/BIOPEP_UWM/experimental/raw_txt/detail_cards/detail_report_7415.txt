@@ -1,0 +1,182 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7415 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VLIVP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ This peptide was synthesized using solid-phase FMOC chemistry. The IC50 for ACE inhibition was 1.69 ± 0.17 micromole. The synthetic peptide was a potent competitive inhibitor of ACE with a Ki of 4.5 ± 0.25 × 10-6 M. This peptide was resistant to digestion by proteases of the gastrointestinal tract. The antihypertensive property of this peptide derived from glycinin might find importance in the development of therapeutic functional foods. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 539.7059 
+
+ Monoisotopic mass 
+
+ 539.3671 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1.69 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gouda K. G. M., Gowda L. R. A., Rao G. A., Prakash V. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-Converting Enzyme Inhibitory Peptide Derived from Glycinin, the 11S Globulin of Soybean (Glycine max) . J. Agric. Food Chem., 54 (13), 4568 -4573, 2006. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ Protease P was applied to hydrolyse the glycynin, the major storage protein of soybean. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

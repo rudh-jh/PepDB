@@ -1,0 +1,266 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7587 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 214.2608 
+
+ Monoisotopic mass 
+
+ 214.1313 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 420.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C10H18N2O3/c1-6(2)8(11)9(13)12-5-3-4-7(12)10(14)15/h6-8H,3-5,11H2,1-2H3,(H,14,15)/t7-,8-/m0/s1
+
+InChIKEY: GIAZPLMMQOERPN-YUMQZZPRSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 3181)
+
+Bitter peptide according to the EROP-Moscow database
+
+Sour peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 525)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 20488-27-1
+
+AHTPDB: 
+ID 1272, 1394, 1506, 1893, 2748, 3062, 3226, 3309, 3421, 3544, 3588, 3794, 4042, 4435, 4500, 4691, 5177, 5645, 6165, 6212, 6573 
+
+BindingDB: 
+ID 50348866
+
+BioPepDB: ID biopep01428
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3181
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 525
+
+BRENDA: Ligand Val-Pro
+
+ChEBI: 
+ID 73701
+
+ChEMBL: ID CHEMBL439762
+
+ChemIDplus: 
+ID 20488-27-1
+
+ChemSpider: 
+ID 8012993
+
+CTD: 
+ID 20488-27-1
+
+EROP-Moscow: ID E08852
+
+FeptideDB: 
+ID 3181; 7587
+
+FooDB: ID FDB098235
+
+HMDB: ID HMDB0029135
+
+J-GLOBAL: 
+ID 200907018295331255
+
+MBPDB: peptide VP
+
+MeSH: term Pro-Val
+
+Metabolights: ID MTBLC73701
+
+Nikkaji: ID J150.523H
+
+NIST WebBook: 
+ID 20488-27-1
+
+PubChem: CID 9837272
+
+SATPdb: ID satpdb24615
+
+SureChEMBL: ID SCHEMBL1647354
+
+ZINC: ID ZINC000004899618

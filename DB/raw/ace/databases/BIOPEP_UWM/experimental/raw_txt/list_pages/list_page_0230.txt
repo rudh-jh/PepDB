@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 230
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=229bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-9174
-Anticancer peptide
-RYLGYLE
-913.0255
-912.4690
-0.00 EC_50
-Peptide
-Data
-9175
-Antioxidative peptide
-AYFYPEL
-901.9980
-901.4207
-0.00 EC_50
-Peptide
-Data
-9176
-beta-casomorphin-7 anticancer
-YPFPGPI
-789.9147
-789.4048
-0.00 EC_50
-Peptide
-Data
-9177
-Antioxidative peptide
-YQK
-437.4888
-437.2267
-0.00 EC_50
-Peptide
-Data
-9178
-ACE inhibitor
-FYPEL
-667.7474
-667.3206
-81.62 IC_50
-Peptide
-Data
-9179
-Antioxidative peptide
-QYP
-406.4319
-406.1846
-0.00 EC_50
-Peptide
-Data
-9180
-Cytotoxic peptide
-KENPVLSLVNGMF
-1447.6948
-1446.7516
-0.00 EC_50
-Peptide
-Data
-9181
-ACE inhibitor
-IFVPAF
-692.8427
-692.3885
-3.40 IC_50
-Peptide
-Data
-9182
-ACE inhibitor
-KPPETV
-669.7648
-669.3685
-24.10 IC_50
-Peptide
-Data
-9183
-ACE inhibitor
-GTG
-233.2212
-233.1008
-5.54 IC_50
-Peptide
-Data
-9184
-ACE inhibitor
-ST
-206.1959
-206.0899
-4.03 IC_50
-Peptide
-Data
-9185
-ACE inhibitor
-YN
-295.2905
-295.1164
-51.00 IC_50
-Peptide
-Data
-9186
-ACE inhibitor
-EVMAGNLYPG
-1050.1839
-1049.4835
-18.40 IC_50
-Peptide
-Data
-9187
-ACE inhibitor
-MEGAQEAQGD
-1035.0422
-1034.3960
-15.90 IC_50
-Peptide
-Data
-9188
-ACE inhibitor
-VYAP
-448.5114
-448.2314
-6.10 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 230 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9174 
+
+ Anticancer peptide 
+
+ RYLGYLE 
+
+ 913.0255 
+
+ 912.4690 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9175 
+
+ Antioxidative peptide 
+
+ AYFYPEL 
+
+ 901.9980 
+
+ 901.4207 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9176 
+
+ beta-casomorphin-7 anticancer 
+
+ YPFPGPI 
+
+ 789.9147 
+
+ 789.4048 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9177 
+
+ Antioxidative peptide 
+
+ YQK 
+
+ 437.4888 
+
+ 437.2267 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9178 
+
+ ACE inhibitor 
+
+ FYPEL 
+
+ 667.7474 
+
+ 667.3206 
+
+ 81.62 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9179 
+
+ Antioxidative peptide 
+
+ QYP 
+
+ 406.4319 
+
+ 406.1846 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9180 
+
+ Cytotoxic peptide 
+
+ KENPVLSLVNGMF 
+
+ 1447.6948 
+
+ 1446.7516 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9181 
+
+ ACE inhibitor 
+
+ IFVPAF 
+
+ 692.8427 
+
+ 692.3885 
+
+ 3.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9182 
+
+ ACE inhibitor 
+
+ KPPETV 
+
+ 669.7648 
+
+ 669.3685 
+
+ 24.10 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9183 
+
+ ACE inhibitor 
+
+ GTG 
+
+ 233.2212 
+
+ 233.1008 
+
+ 5.54 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9184 
+
+ ACE inhibitor 
+
+ ST 
+
+ 206.1959 
+
+ 206.0899 
+
+ 4.03 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9185 
+
+ ACE inhibitor 
+
+ YN 
+
+ 295.2905 
+
+ 295.1164 
+
+ 51.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9186 
+
+ ACE inhibitor 
+
+ EVMAGNLYPG 
+
+ 1050.1839 
+
+ 1049.4835 
+
+ 18.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9187 
+
+ ACE inhibitor 
+
+ MEGAQEAQGD 
+
+ 1035.0422 
+
+ 1034.3960 
+
+ 15.90 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9188 
+
+ ACE inhibitor 
+
+ VYAP 
+
+ 448.5114 
+
+ 448.2314 
+
+ 6.10 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 230 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

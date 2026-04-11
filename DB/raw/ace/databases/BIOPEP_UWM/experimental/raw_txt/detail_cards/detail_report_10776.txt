@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10776 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FFFPK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 684.8224 
+
+ Monoisotopic mass 
+
+ 684.3624 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 510.67 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Chen L., Cheng F., Chen H., Shu G. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Preparation and identification of novel angiotensin-I-converting enzyme inhibitory peptides from Moringa oleifera leaf. LWT, 205, 116472, 2024 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2024 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C38H48N6O6/c39-21-11-10-19-30(38(49)50)41-36(47)33-20-12-22-44(33)37(48)32(25-28-17-8-3-9-18-28)43-35(46)31(24-27-15-6-2-7-16-27)42-34(45)29(40)23-26-13-4-1-5-14-26/h1-9,13-18,29-33H,10-12,19-25,39-40H2,(H,41,47)(H,42,45)(H,43,46)(H,49,50)/t29-,30-,31-,32-,33-/m0/s1
+
+InChIKey=OAFJTBPRQNXODT-ZTTXAYQISA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

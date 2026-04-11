@@ -1,0 +1,233 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3391 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LPP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 325.4022 
+
+ Monoisotopic mass 
+
+ 325.1995 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 9.60 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Maruyama S., Miyoshi S., Kaneko T., Tanaka H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory activities of synthetic peptides related to the tandem repeated sequence of a maize endosperm protein. Agric. Biol. Chem., 53, 1077-1081, 1989 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C16H27N3O4/c1-10(2)9-11(17)14(20)18-7-3-5-12(18)15(21)19-8-4-6-13(19)16(22)23/h10-13H,3-9,17H2,1-2H3,(H,22,23)/t11-,12-,13-/m0/s1
+
+InChIKey=DPURXCQCHSQPAN-AVGNSLFASA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide found also in amaranth protein hydrolysate. 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+Inhibitor of the Angiotensin 2-converting enzyme (EC 3.4.17.23) (MEROPS ID: M02.006) according to the BIOPEP-UWM database of bioactive peptides, the BRENDA database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1164, 1633, 3006, 3389, 3593, 3733, 4090, 4792, 5110, 5233, 5605, 5758, 6374
+
+BioPepDB: OD 3391 
+
+BIOPEP-UWM database of bioactive peptides: ID 
+
+BRENDA: Ligand Leu-Pro-Pro
+
+CAS: Registry No 121305-26-8
+
+ChEBI: 
+ID 159471
+
+DFBP: ID DFBPACEI0495
+
+EPAComPtox: ID DTXSID40153221
+
+EROP-Moscow: ID E25007, E09255
+
+Metabolomics Workbench: 
+ID 83350
+
+PlantPepDB: ID PPepDB_2925 
+
+PubChem: CID 3078466
+
+SATPdb: ID satpdb18241
+
+ZINC: ID ZINC000033901017

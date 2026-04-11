@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9260 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+HERDPTHIKWGD 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 12 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1490.5747 
+
+ Monoisotopic mass 
+
+ 1489.7041 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 8.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Hasan F., Kitagawa M., Kumada Y., Hashimoto N., Shiiba M., Katoh S., Terashima M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Production kinetics of angiotensin-I converting enzyme inhibitory peptides from bonito meat in artificial gastric juice. Process Biochem., 41, 505-511, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)O)CC(=O)O)Cc1c2ccccc2[nH]c1)CCCCN)[C@@H](C)CC)Cc1[nH]cnc1)[C@@H](C)O)CC(=O)O)CCCNC(=N)N)CCC(=O)O)Cc1[nH]cnc1
+
+InChI=1S/C65H95N21O20/c1-4-32(2)52(61(102)80-40(13-7-8-18-66)56(97)81-43(21-34-26-73-39-12-6-5-11-37(34)39)55(96)74-29-48(88)77-46(64(105)106)25-51(93)94)84-59(100)44(23-36-28-71-31-76-36)82-62(103)53(33(3)87)85-60(101)47-15-10-20-86(47)63(104)45(24-50(91)92)83-57(98)41(14-9-19-72-65(68)69)79-58(99)42(16-17-49(89)90)78-54(95)38(67)22-35-27-70-30-75-35/h5-6,11-12,26-28,30-33,38,40-47,52-53,73,87H,4,7-10,13-25,29,66-67H2,1-3H3,(H,70,75)(H,71,76)(H,74,96)(H,77,88)(H,78,95)(H,79,99)(H,80,102)(H,81,97)(H,82,103)(H,83,98)(H,84,100)(H,85,101)(H,89,90)(H,91,92)(H,93,94)(H,105,106)(H4,68,69,72)/t32-,33+,38-,40-,41-,42-,43-,44-,45-,46-,47-,52-,53-/m0/s1
+
+InChIKey: GTEYDIOJLDTETK-BXJXJFHOSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1077, 5680
+
+J-GLOBAL: 
+ID 200907023782387090
+
+Nikkaji: ID J2.291.148A
+
+SATPdb: ID satpdb28220

@@ -1,0 +1,222 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9211 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FKR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 449.5457 
+
+ Monoisotopic mass 
+
+ 449.2743 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 77.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu R., Zhu Y., Chen J., Wu H., Shi L., Wang X., Wang L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Characterization of ACE inhibitory peptides from Mactra veneriformis hydrolysate by nano-liquid chromatography electrospray ionization mass spectrometry (Nano-LC-ESI-MS) and molecular docking. Mar. Drugs, 12, 3917-3928, 2014 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C21H35N7O4/c22-11-5-4-9-16(27-18(29)15(23)13-14-7-2-1-3-8-14)19(30)28-17(20(31)32)10-6-12-26-21(24)25/h1-3,7-8,15-17H,4-6,9-13,22-23H2,(H,27,29)(H,28,30)(H,31,32)(H4,24,25,26)/t15-,16-,17-/m0/s1 
+
+InChIKey=DMEYUTSDVRCWRS-ULQDDVLXSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Antiviral peptide according to the BIOPEP-UWM database of bioactive peptides, the ChEMBL database, the PubChem database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChEBI: 
+ID 161674 
+
+ChEMBL: ID CHEMBL1271468
+
+ChemSpider: 
+ID 26363276
+
+DFBP: ID DFBPACEI1087
+
+EROP-Moscow: ID E24933
+
+Metabolomics Workbench: 
+ID 84477 
+
+PubChem: CID 52943303
+
+UniChem: 
+ID 959675
+
+Wikidata: ID Q106027804 
+
+ZINC: ID ZINC000039809575

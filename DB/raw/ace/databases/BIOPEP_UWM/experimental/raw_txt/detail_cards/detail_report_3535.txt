@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3535 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YPR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 434.4882 
+
+ Monoisotopic mass 
+
+ 434.2271 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 16.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Saito Y., Wanezaki K., Kawato A., Imayasu S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structure and activity of angiotensin I converting enzyme inhibitory peptides from sake and sake lees. Biosci.Biotech.Biochem.58(10),1767-1771(1994) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1994 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCCNC(N)=N)C(O)=O
+
+InChI=1S/C20H30N6O5/c21-14(11-12-5-7-13(27)8-6-12)18(29)26-10-2-4-16(26)17(28)25-15(19(30)31)3-1-9-24-20(22)23/h5-8,14-16,27H,1-4,9-11,21H2,(H,25,28)(H,30,31)(H4,22,23,24)/t14-,15-,16-/m0/s1
+
+InChIKey=AUZADXNWQMBZOO-JYJNAYRXSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

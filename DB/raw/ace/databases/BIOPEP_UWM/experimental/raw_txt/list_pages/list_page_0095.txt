@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 95
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=94bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-5446
-caeridin 1.1
-GLLDGLLGTLGLG
-1198.4052
-1197.6946
-0.00 EC_50
-Peptide
-Data
-5447
-cearidin 1.4
-GLLDGLLGGLGLG
-1154.3528
-1153.6685
-0.00 EC_50
-Peptide
-Data
-5448
-caeridin 7.1
-GLLDMVTGLLGNLG
-1372.6267
-1371.7407
-0.00 EC_50
-Peptide
-Data
-5449
-caeridin 2
-GLLDVVGNLLGGLGLG
-1466.7166
-1465.8477
-0.00 EC_50
-Peptide
-Data
-5450
-caeridin 3
-GLFDAIGNLLGGLGLG
-1486.7064
-1485.8165
-0.00 EC_50
-Peptide
-Data
-5451
-caeridin 4
-GLLDVVGNVLHSLGLG
-1562.8038
-1561.8800
-0.00 EC_50
-Peptide
-Data
-5452
-caeridin 5
-GLLGMVGSLLGGLGLG
-1413.7214
-1412.8035
-0.00 EC_50
-Peptide
-Data
-5453
-caeridin 6
-GLLGFVGSLLGGLGIG
-1429.6981
-1428.8314
-0.00 EC_50
-Peptide
-Data
-5454
-aurein 1.1
-GLFDIIKKIAESIG
-1503.7764
-1502.8680
-0.00 EC_50
-Peptide
-Data
-5455
-aurein 1.2
-GLFDIIKKIAESF
-1480.7415
-1479.8310
-0.00 EC_50
-Peptide
-Data
-5456
-Anticancer peptide
-LKK
-387.5160
-387.2837
-0.00 EC_50
-Peptide
-Data
-5457
-aurein 2.1.1
-LDIVKKVVGAFGSLG
-1502.7916
-1501.8840
-0.00 EC_50
-Peptide
-Data
-5458
-Cytotoxic peptide
-LKK
-387.5160
-387.2837
-0.00 EC_50
-Peptide
-Data
-5459
-Antifungal peptide
-FKCRRWQWRW
-1551.8173
-1550.7809
-0.00 EC_50
-Peptide
-Data
-5460
-aurein 2.4
-GLFDIVKKVVGTIAGL
-1629.9753
-1628.9834
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5446 
+
+ caeridin 1.1 
+
+ GLLDGLLGTLGLG 
+
+ 1198.4052 
+
+ 1197.6946 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5447 
+
+ cearidin 1.4 
+
+ GLLDGLLGGLGLG 
+
+ 1154.3528 
+
+ 1153.6685 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5448 
+
+ caeridin 7.1 
+
+ GLLDMVTGLLGNLG 
+
+ 1372.6267 
+
+ 1371.7407 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5449 
+
+ caeridin 2 
+
+ GLLDVVGNLLGGLGLG 
+
+ 1466.7166 
+
+ 1465.8477 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5450 
+
+ caeridin 3 
+
+ GLFDAIGNLLGGLGLG 
+
+ 1486.7064 
+
+ 1485.8165 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5451 
+
+ caeridin 4 
+
+ GLLDVVGNVLHSLGLG 
+
+ 1562.8038 
+
+ 1561.8800 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5452 
+
+ caeridin 5 
+
+ GLLGMVGSLLGGLGLG 
+
+ 1413.7214 
+
+ 1412.8035 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5453 
+
+ caeridin 6 
+
+ GLLGFVGSLLGGLGIG 
+
+ 1429.6981 
+
+ 1428.8314 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5454 
+
+ aurein 1.1 
+
+ GLFDIIKKIAESIG 
+
+ 1503.7764 
+
+ 1502.8680 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5455 
+
+ aurein 1.2 
+
+ GLFDIIKKIAESF 
+
+ 1480.7415 
+
+ 1479.8310 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5456 
+
+ Anticancer peptide 
+
+ LKK 
+
+ 387.5160 
+
+ 387.2837 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5457 
+
+ aurein 2.1.1 
+
+ LDIVKKVVGAFGSLG 
+
+ 1502.7916 
+
+ 1501.8840 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5458 
+
+ Cytotoxic peptide 
+
+ LKK 
+
+ 387.5160 
+
+ 387.2837 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5459 
+
+ Antifungal peptide 
+
+ FKCRRWQWRW 
+
+ 1551.8173 
+
+ 1550.7809 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5460 
+
+ aurein 2.4 
+
+ GLFDIVKKVVGTIAGL 
+
+ 1629.9753 
+
+ 1628.9834 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 95 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

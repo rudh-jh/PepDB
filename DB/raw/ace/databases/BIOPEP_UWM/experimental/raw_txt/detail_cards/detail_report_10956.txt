@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10956 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MAMPLW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 747.9681 
+
+ Monoisotopic mass 
+
+ 747.3436 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 35.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lan J., Dang K., Wang Y., Du L., Pan D., Dang Y., Gao X. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Evaluation of novel angiotensin I-converting enzyme and dipeptidyl peptidase IV inhibitory peptides derived from yak milk based on peptidomics and network pharmacology. Food Biosci., 67, 106030, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCSC)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCSC)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C35H7N7O7S2/c1-20(2)17-27(32(45)41-28(35(48)49)18-22-19-37-25-10-7-6-9-23(22)25)40-33(46)29-11-8-14-42(29)34(47)26(13-16-51-5)39-30(43)21(3)38-31(44)24(36)12-15-50-4/h21,24,26-29,37H/t21-,24-,26-,27-,28-,29-/m0/s1
+
+InChIKey=QMCOYCJPORXHKL-WHOVUKFXSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

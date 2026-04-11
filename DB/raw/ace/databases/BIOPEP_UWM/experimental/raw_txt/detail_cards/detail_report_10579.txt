@@ -1,0 +1,195 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10579 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+{Thea}{Thea}P 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 427.4939 
+
+ Monoisotopic mass 
+
+ 427.2423 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.92 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Qian B., Tian C., Huo J., Ding Z., Xu R., Zhu J., Yu L., Villarreal O. D. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Design and evaluation of four novel tripeptides as potent angiotensin converting enzyme (ACE) inhibitors with anti-hypertension activity. Peptides, 122, 170171, 2019 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2019 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)NCC)C(=O)N[C@@]([H])(CCC(=O)NCC)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C19H33N5O6/c1-3-21-15(25)9-7-12(20)17(27)23-13(8-10-16(26)22-4-2)18(28)24-11-5-6-14(24)19(29)30/h12-14H,3-11,20H2,1-2H3,(H,21,25)(H,22,26)(H,23,27)(H,29,30)/t12-,13-,14-/m0/s1
+
+InChIKey=HUEBKMFIYKSSCN-IHRRRGAJSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+{Thea} - Theanine; 
+ID 208 in the BIOPEP-UWM repository of amino acids and modifications
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

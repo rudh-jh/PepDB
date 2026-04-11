@@ -1,0 +1,188 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9732 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KEGGLGPL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 769.8836 
+
+ Monoisotopic mass 
+
+ 769.4320 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kęska P., Stadnik J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Ageing-Time Dependent Changes of Angiotensin I-Converting Enzyme-Inhibiting Activity of Protein Hydrolysates Obtained from Dry-Cured Pork Loins Inoculated with Probiotic Lactic Acid Bacteria. Int. J. Pept. Res.Ther., 25, 1173–1185, 2019 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2019 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CCCCN)C(=O)N[C@@H](CCC(=O)O)C(=O)NCC(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N1[C@@H](CCC1)C(=O)N[C@@H](CC(C)C)C(=O)O
+
+InChI=1S/C34H59N9O11/c1-19(2)14-23(32(51)39-18-28(46)43-13-7-9-25(43)33(52)42-24(34(53)54)15-20(3)4)40-27(45)17-37-26(44)16-38-31(50)22(10-11-29(47)48)41-30(49)21(36)8-5-6-12-35/h19-25H,5-18,35-36H2,1-4H3,(H,37,44)(H,38,50)(H,39,51)(H,40,45)(H,41,49)(H,42,52)(H,47,48)(H,53,54)/t21-,22-,23-,24-,25-/m0/s1
+
+InChIKey=JRWCSCHLICDGGB-KEOOTSPTSA-N 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

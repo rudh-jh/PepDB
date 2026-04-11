@@ -1,0 +1,254 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7581 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 228.2873 
+
+ Monoisotopic mass 
+
+ 228.1469 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 130.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C11H20N2O3/c1-3-7(2)9(12)10(14)13-6-4-5-8(13)11(15)16/h7-9H,3-6,12H2,1-2H3,(H,15,16)/t7-,8-,9-/m0/s1
+
+InChIKey=BBIXOODYWPFNDT-CIUDSAMLSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8501); the BRENDA database; the EROP-Moscow database; the MBPDB database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 489); the ChEMBL database; the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1501, 3018, 3075, 3220, 3352, 3418, 3500, 3565, 3788, 3862, 3952, 4443, 4494, 4673, 5865, 6567 
+
+BindingDB: 
+ID 50348850
+
+BioPepDB: ID biopep00554
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8501
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 489
+
+BRENDA: Ligand Ile-Pro
+
+ChEBI:
+ID 74076
+
+ChEMBL: ID CHEMBL1807684
+
+ChemSpider: 
+ID 392673
+
+EPA CompTox: ID DTXSID70332168
+
+EPA DSSTox: ID DTXCID70283262
+
+EROP-Moscow: ID E09205
+
+FeptideDB: 
+ID 7581; 8501
+
+HMDB: ID HMDB0011174
+
+J-GLOBAL: 
+ID 200907051126439176
+
+MBPDB: peptide IP
+
+Metabolights: ID MTBLC74076
+
+Nikkaji: ID J608.440K
+
+PlantPepDB: ID PPepDB_3826
+
+PubChem: CID 444876
+
+SATPdb: ID satpdb19409
+
+SureChEMBL: ID SCHEMBL231857
+
+ZINC: ID ZINC000001591038

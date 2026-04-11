@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9243 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PPEIN 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 568.6183 
+
+ Monoisotopic mass 
+
+ 568.2847 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.29 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Mao X.-Y., Ni J.-R., Sun W.-L., Hao P.-P., Fan L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Value-added utilization of yak milk casein for the production of angiotensin-I-converting enzyme inhibitory peptides. Food Chem., 2007, 103:1282-1287. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](CCC(O)=O)(NC(=O)[C@]1([H])CCCN1C(=O)[C@]1([H])CCCN1)C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N[C@@]([H])(CC(N)=O)C(O)=O
+
+InChI=1S/C25H40N6O9/c1-3-13(2)20(23(37)29-16(25(39)40)12-18(26)32)30-21(35)14(8-9-19(33)34)28-22(36)17-7-5-11-31(17)24(38)15-6-4-10-27-15/h13-17,20,27H,3-12H2,1-2H3,(H2,26,32)(H,28,36)(H,29,37)(H,30,35)(H,33,34)(H,39,40)/t13-,14-,15-,16-,17-,20-/m0/s1
+
+InChIKey: OEKNQVJIBKMALR-QXKNQTRRSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2698, 3674
+
+MBPDB: Peptide PPEIN
+
+SATPdb: ID satpdb23539

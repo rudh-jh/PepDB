@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 2975 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ALKAWSVAR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1001.1798 
+
+ Monoisotopic mass 
+
+ 1000.5801 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 3.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ FitzGerald R. J., Meisel H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Lactokinins: Whey protein-derived ACE inhibitory peptides. Nahrung 43(3), 165-167 (1999) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1999 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: 
+
+[H][C@@](C)(N)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC1=CNC2=C1C=CC=C2)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCCNC(N)=N)C(O)=O
+
+InChI=1S/C46H76N14O11/c1-23(2)19-33(57-37(62)25(5)48)41(66)55-31(15-10-11-17-47)40(65)53-26(6)39(64)58-34(20-28-21-52-30-14-9-8-13-29(28)30)42(67)59-35(22-61)43(68)60-36(24(3)4)44(69)54-27(7)38(63)56-32(45(70)71)16-12-18-51-46(49)50/h8-9,13-14,21,23-27,31-36,52,61H,10-12,15-20,22,47-48H2,1-7H3,(H,53,65)(H,54,69)(H,55,66)(H,56,63)(H,57,62)(H,58,64)(H,59,67)(H,60,68)(H,70,71)(H4,49,50,51)/t25-,26-,27-,31-,32-,33-,34-,35-,36-/m0/s1
+
+InChIKey=CWUCHJAUTZCVMY-YUIUFFEESA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1333, 2324, 4267, 4603, 6336
+
+BioPepDB: ID biopep00046
+
+SATPdb: ID satpdb26904

@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 12
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=11bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-2746
-peptide activating kinases and phosphatases
-EPFYVNVPD
-1079.1561
-1078.4954
-0.00 EC_50
-Peptide
-Data
-2747
-peptide activating kinases and phosphatases
-EPFYMNWPD
-1198.3010
-1197.4784
-0.00 EC_50
-Peptide
-Data
-2748
-peptide activating kinases and phosphatases
-EPFYENWPD
-1196.2179
-1195.4805
-0.00 EC_50
-Peptide
-Data
-2749
-peptide regulating ion flow
-DY
-296.2753
-296.1004
-0.00 EC_50
-Peptide
-Data
-2750
-peptide regulating ion flow
-TSLYR
-638.7112
-638.3377
-0.00 EC_50
-Peptide
-Data
-2751
-peptide activating kinases and phosphatases
-EPFYENDPF
-1157.1819
-1156.4696
-0.00 EC_50
-Peptide
-Data
-2752
-peptide activating kinases and phosphatases
-DPSYVNVQ
-920.9600
-920.4225
-0.00 EC_50
-Peptide
-Data
-2753
-peptide regulating the stomach mucosal membrane activity
-GP
-172.1813
-172.0845
-0.00 EC_50
-Peptide
-Data
-2754
-peptide regulating the stomach mucosal membrane activity
-PG
-172.1813
-172.0845
-0.00 EC_50
-Peptide
-Data
-2755
-peptide regulating the stomach mucosal membrane activity
-GPGG
-286.2837
-286.1273
-0.00 EC_50
-Peptide
-Data
-2756
-peptide regulating the stomach mucosal membrane activity
-PGP
-269.2962
-269.1371
-0.00 EC_50
-Peptide
-Data
-2757
-rat NP-4 defensin
-ACYCRIGACVSGERLTGACGLNGRIYRLCCR
-3338.9524
-3336.5656
-0.00 EC_50
-Peptide
-Data
-2758
-rat NP-3 defensin
-CSCRTSSCRFGERLSGACRLNGRIYRLCC
-3271.8238
-3269.4985
-0.00 EC_50
-Peptide
-Data
-2759
-rat NP-2 defensin
-VTCYCRSTRCGFRERLSGACGYRGRIYRLCCR
-3766.4117
-3763.7732
-0.00 EC_50
-Peptide
-Data
-2760
-rat NP-1 defensin
-VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR
-3835.5198
-3832.8422
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 12 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2746 
+
+ peptide activating kinases and phosphatases 
+
+ EPFYVNVPD 
+
+ 1079.1561 
+
+ 1078.4954 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2747 
+
+ peptide activating kinases and phosphatases 
+
+ EPFYMNWPD 
+
+ 1198.3010 
+
+ 1197.4784 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2748 
+
+ peptide activating kinases and phosphatases 
+
+ EPFYENWPD 
+
+ 1196.2179 
+
+ 1195.4805 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2749 
+
+ peptide regulating ion flow 
+
+ DY 
+
+ 296.2753 
+
+ 296.1004 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2750 
+
+ peptide regulating ion flow 
+
+ TSLYR 
+
+ 638.7112 
+
+ 638.3377 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2751 
+
+ peptide activating kinases and phosphatases 
+
+ EPFYENDPF 
+
+ 1157.1819 
+
+ 1156.4696 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2752 
+
+ peptide activating kinases and phosphatases 
+
+ DPSYVNVQ 
+
+ 920.9600 
+
+ 920.4225 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2753 
+
+ peptide regulating the stomach mucosal membrane activity 
+
+ GP 
+
+ 172.1813 
+
+ 172.0845 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2754 
+
+ peptide regulating the stomach mucosal membrane activity 
+
+ PG 
+
+ 172.1813 
+
+ 172.0845 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2755 
+
+ peptide regulating the stomach mucosal membrane activity 
+
+ GPGG 
+
+ 286.2837 
+
+ 286.1273 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2756 
+
+ peptide regulating the stomach mucosal membrane activity 
+
+ PGP 
+
+ 269.2962 
+
+ 269.1371 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2757 
+
+ rat NP-4 defensin 
+
+ ACYCRIGACVSGERLTGACGLNGRIYRLCCR 
+
+ 3338.9524 
+
+ 3336.5656 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2758 
+
+ rat NP-3 defensin 
+
+ CSCRTSSCRFGERLSGACRLNGRIYRLCC 
+
+ 3271.8238 
+
+ 3269.4985 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2759 
+
+ rat NP-2 defensin 
+
+ VTCYCRSTRCGFRERLSGACGYRGRIYRLCCR 
+
+ 3766.4117 
+
+ 3763.7732 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2760 
+
+ rat NP-1 defensin 
+
+ VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR 
+
+ 3835.5198 
+
+ 3832.8422 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 12 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

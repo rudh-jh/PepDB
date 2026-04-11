@@ -1,0 +1,244 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8185 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 266.2923 
+
+ Monoisotopic mass 
+
+ 266.1262 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 18.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Nogata Y., Nagamine T., Yanaka M., Ohta H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I converting enzyme inhibitory peptides produced by autolysis reactions from wheat bran. J. Agric. Food Chem., 57, 6618-6622, 2009 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2009 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)O
+
+InChI=1S/C13H18N2O4/c1-8(16)11(14)12(17)15-10(13(18)19)7-9-5-3-2-4-6-9/h2-6,8,10-11,16H,7,14H2,1H3,(H,15,17)(H,18,19)/t8-,10+,11+/m1/s1
+
+InChIKey=IQHUITKNHOKGFC-MIMYLULJSA-N
+
+Inhibitor of Dipeptidyl peptidase III (DPP-III) (EC 3.4.14.4) (MEROPS ID: M49.003) according to the BIOPEP-UWM database of bioactive peptides (ID:9486)
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8900)
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID: A01.007) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9471)
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1288, 1360, 1407, 1935, 2735, 2959, 3003, 4030, 4715, 5174, 5547, 6283, 6759
+
+BindingDB: 
+ID 50049727
+
+BioPepDB: ID biopep01280
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8900; 9471; 9486
+
+BRENDA: Ligand Thr-Phe
+
+ChEBI: 
+ID 74862
+
+ChEMBL: ID CHEMBL3321993
+
+ChemSpider: 
+ID 5374146
+
+EROP-Moscow: ID E04068
+
+J-GLOBAL: 
+ID 200907000712776838
+
+Metabolights: ID MTBLC74862
+
+MoNA: ID MT000062
+
+Nikkaji: ID J307.687C
+
+PubChem: CID 7010580
+
+SATPdb: ID satpdb15566
+
+SureChEMBL: ID SCHEMBL233445
+
+ZINC: ID ZINC000002391070

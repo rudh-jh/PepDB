@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9209 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VFKAF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 610.7424 
+
+ Monoisotopic mass 
+
+ 610.3468 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 100.10 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu R., Zhu Y., Chen J., Wu H., Shi L., Wang X., Wang L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Characterization of ACE inhibitory peptides from Mactra veneriformis hydrolysate by nano-liquid chromatography electrospray ionization mass spectrometry (Nano-LC-ESI-MS) and molecular docking. Mar. Drugs, 12, 3917-3928, 2014 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)O
+
+InChI=1S/C32H46N6O6/c1-20(2)27(34)31(42)37-25(18-22-12-6-4-7-13-22)30(41)36-24(16-10-11-17-33)29(40)35-21(3)28(39)38-26(32(43)44)19-23-14-8-5-9-15-23/h4-9,12-15,20-21,24-27H,10-11,16-19,33-34H2,1-3H3,(H,35,40)(H,36,41)(H,37,42)(H,38,39)(H,43,44)/t21-,24-,25-,26-,27-/m0/s1 
+
+InChIKey: BWIUDUFOASJMPX-SJSXQSQASA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

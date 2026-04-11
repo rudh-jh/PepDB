@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11158 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RNAVPITPTL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1081.2626 
+
+ Monoisotopic mass 
+
+ 1080.6272 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Magouz O., Ibrahim M. A. A., Mehanna N., Gensberger-Reigl S., Dalabasmaz S., Pischetsrieder M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of the heptapeptide PR7 and octapeptide SF8 with potent antioxidative and angiotensin converting enzyme inhibitory activity from the fermented dairy by-product “Buttermilk". Food Front., 6, 837–851, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C48H84N14O14/c1-10-24(6)35(43(71)60-37(27(9)64)46(74)62-19-13-16-32(62)42(70)59-36(26(8)63)44(72)56-30(47(75)76)20-22(2)3)58-41(69)31-15-12-18-61(31)45(73)34(23(4)5)57-38(66)25(7)54-40(68)29(21-33(50)65)55-39(67)28(49)14-11-17-53-48(51)52/h22-32,34-37,63-64H,10-21,49H2,1-9H3,(H2,50,65)(H,54,68)(H,55,67)(H,56,72)(H,57,66)(H,58,69)(H,59,70)(H,60,71)(H,75,76)(H4,51,52,53)/t24-,25-,26+,27+,28-,29-,30-,31-,32-,34-,35-,36-,37-/m0/s1
+
+InChIKey=JOPISTVULUNBPD-DAVTWUSNSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

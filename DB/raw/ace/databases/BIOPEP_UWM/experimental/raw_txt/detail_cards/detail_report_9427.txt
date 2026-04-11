@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9427 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+NCW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 421.4709 
+
+ Monoisotopic mass 
+
+ 421.1415 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 35.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yu Z., Wu S., Zhao W., Ding L., Shiuan D., Chen F., Li J., Liu J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification and the molecular mechanism of a novel myosin-derived ACE inhibitory peptide. Food and Function, 2018, 9, 364-370. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2018 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(N)=O)C(=O)N[C@@]([H])(CS)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(O)=O
+
+InChI=1S/C18H23N5O5S/c19-11(6-15(20)24)16(25)23-14(8-29)17(26)22-13(18(27)28)5-9-7-21-12-4-2-1-3-10(9)12/h1-4,7,11,13-14,21,29H,5-6,8,19H2,(H2,20,24)(H,22,26)(H,23,25)(H,27,28)/t11-,13-,14-/m0/s1
+
+InChIKey=FGYUMGXLCZYNQG-UBHSHLNASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ PubChem: CID 71472369

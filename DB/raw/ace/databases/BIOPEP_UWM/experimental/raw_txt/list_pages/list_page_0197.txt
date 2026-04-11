@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 197
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=196bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8679
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WI
-317.3819
-317.1734
-138.70 IC_50
-Peptide
-Data
-8680
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WN
-318.3271
-318.1324
-148.50 IC_50
-Peptide
-Data
-8681
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WWW
-576.6437
-576.2478
-216.00 IC_50
-Peptide
-Data
-8682
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WM
-335.4215
-335.1299
-243.10 IC_50
-Peptide
-Data
-8683
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WY
-367.3976
-367.1527
-281.00 IC_50
-Peptide
-Data
-8684
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WC
-307.3685
-307.0987
-420.00 IC_50
-Peptide
-Data
-8685
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WT
-305.3283
-305.1371
-482.10 IC_50
-Peptide
-Data
-8686
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WW
-390.4342
-390.1687
-554.80 IC_50
-Peptide
-Data
-8687
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WS
-291.3018
-291.1215
-643.50 IC_50
-Peptide
-Data
-8688
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-LW
-317.3819
-317.1734
-993.40 IC_50
-Peptide
-Data
-8689
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-LQP
-356.4162
-356.2053
-1181.10 IC_50
-Peptide
-Data
-8690
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-MW
-335.4215
-335.1299
-1691.40 IC_50
-Peptide
-Data
-8691
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WE
-333.3384
-333.1320
-0.00 IC_50
-Peptide
-Data
-8692
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WF
-351.3982
-351.1578
-0.00 IC_50
-Peptide
-Data
-8693
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-IQP
-356.4162
-356.2053
-0.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 197 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8679 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WI 
+
+ 317.3819 
+
+ 317.1734 
+
+ 138.70 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8680 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WN 
+
+ 318.3271 
+
+ 318.1324 
+
+ 148.50 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8681 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WWW 
+
+ 576.6437 
+
+ 576.2478 
+
+ 216.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8682 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WM 
+
+ 335.4215 
+
+ 335.1299 
+
+ 243.10 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8683 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WY 
+
+ 367.3976 
+
+ 367.1527 
+
+ 281.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8684 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WC 
+
+ 307.3685 
+
+ 307.0987 
+
+ 420.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8685 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WT 
+
+ 305.3283 
+
+ 305.1371 
+
+ 482.10 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8686 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WW 
+
+ 390.4342 
+
+ 390.1687 
+
+ 554.80 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8687 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WS 
+
+ 291.3018 
+
+ 291.1215 
+
+ 643.50 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8688 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ LW 
+
+ 317.3819 
+
+ 317.1734 
+
+ 993.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8689 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ LQP 
+
+ 356.4162 
+
+ 356.2053 
+
+ 1181.10 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8690 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ MW 
+
+ 335.4215 
+
+ 335.1299 
+
+ 1691.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8691 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WE 
+
+ 333.3384 
+
+ 333.1320 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8692 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WF 
+
+ 351.3982 
+
+ 351.1578 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8693 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ IQP 
+
+ 356.4162 
+
+ 356.2053 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 197 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

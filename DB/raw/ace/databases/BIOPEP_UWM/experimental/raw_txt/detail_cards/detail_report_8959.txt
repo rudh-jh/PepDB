@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8959 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IVRDPNGMGAW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 11 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1215.3792 
+
+ Monoisotopic mass 
+
+ 1214.5848 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Rawendra R. D. S., Aisha, Chang C., Aulanni'am, Chen H.-H., Huang T.-C., Hsu J.-L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ A novel angiotensin converting enzyme inhibitory peptide derived from proteolytic digest of Chinese soft-shelled turtle egg white proteins. J. Proteomics, 94, 359-369, 2013 
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2013 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: 
+
+[H][C@@](C)(NC(=O)CNC(=O)[C@]([H])(CCSC)NC(=O)CNC(=O)[C@]([H])(CC(N)=O)NC(=O)[C@]1([H])CCCN1C(=O)[C@]([H])(CC(O)=O)NC(=O)[C@]([H])(CCCNC(N)=N)NC(=O)[C@@]([H])(NC(=O)[C@@]([H])(N)[C@@H](C)CC)C(C)C)C(=O)N[C@@]([H])(CC1=CNC2=C1C=CC=C2)C(O)=O
+
+InChI=1S/C53H82N16O15S/c1-7-27(4)42(55)49(80)68-43(26(2)3)50(81)64-32(14-10-17-58-53(56)57)47(78)66-35(22-41(73)74)51(82)69-18-11-15-37(69)48(79)65-34(21-38(54)70)46(77)61-25-40(72)63-33(16-19-85-6)45(76)60-24-39(71)62-28(5)44(75)67-36(52(83)84)20-29-23-59-31-13-9-8-12-30(29)31/h8-9,12-13,23,26-28,32-37,42-43,59H,7,10-11,14-22,24-25,55H2,1-6H3,(H2,54,70)(H,60,76)(H,61,77)(H,62,71)(H,63,72)(H,64,81)(H,65,79)(H,66,78)(H,67,75)(H,68,80)(H,73,74)(H,83,84)(H4,56,57,58)/t27-,28-,32-,33-,34-,35-,36-,37-,42-,43-/m0/s1
+
+InChIKey: FZWSQNJZFFHMOR-NZTOELLASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ DFBP: DFBPANHY0930
+
+EROP-Moscow: ID E22684
+
+FeptideDB: 
+ID 8959

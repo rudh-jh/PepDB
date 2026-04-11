@@ -1,0 +1,236 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9074 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+DF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 280.2759 
+
+ Monoisotopic mass 
+
+ 280.1055 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 363.10 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)O
+
+InChI=1S/C13H16N2O5/c14-9(7-11(16)17)12(18)15-10(13(19)20)6-8-4-2-1-3-5-8/h1-5,9-10H,6-7,14H2,(H,15,18)(H,16,17)(H,19,20)/t9-,10-/m0/s1
+
+InChIKey: YZQCXOFQZKCETR-UWVGGRQHSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Diaminopimelate dehydrogenase (EC 1.4.1.16) according to the BRENDA database
+
+Inhibitor of Glutamate carboxypeptidase II (EC 3.4.17.21) according to the BRENDA database
+
+Bitter peptide according to the ChEMBL database; the PubChem database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1396, 4710, 5140, 5647
+
+BindingDB: 
+ID 50049759
+
+BioPepDB: ID biopep00124
+
+BRENDA: Ligand Asp-Phe
+
+ChEBI: 
+ID 73830
+
+ChEMBL: ID CHEMBL170376
+
+ChemIDplus: 
+ID 013433095
+
+ChemSpider: 
+ID 84028
+
+HMDB: ID HMDB0000706
+
+J-GLOBAL: 
+ID 200907071476921290
+
+Metabolights: ID MTBLC73830
+
+Nikkaji: ID J27.535B
+
+PubChem: CID 93078
+
+SATPdb: ID satpdb10720

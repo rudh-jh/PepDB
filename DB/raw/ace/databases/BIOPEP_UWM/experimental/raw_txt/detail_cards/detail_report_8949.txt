@@ -1,0 +1,198 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8949 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+APER 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 471.5067 
+
+ Monoisotopic mass 
+
+ 471.2434 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 530.21 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Salampessy J., Reddy N., Kailasapathy K., Phillips M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Functional and potential therapeutic ACE-inhibitory peptides derived from bromelain hydrolysis of trevally proteins. J. Funct. Foods 14, 716-725
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C19H33N7O7/c1-10(20)17(31)26-9-3-5-13(26)16(30)24-11(6-7-14(27)28)15(29)25-12(18(32)33)4-2-8-23-19(21)22/h10-13H,2-9,20H2,1H3,(H,24,30)(H,25,29)(H,27,28)(H,32,33)(H4,21,22,23)/t10-,11-,12-,13-/m0/s1
+
+InChIKey=ATDYYCAPQPTXQJ-CYDGBPFRSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ EROP-Moscow: ID E16893

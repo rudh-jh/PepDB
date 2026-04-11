@@ -1,0 +1,237 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10991 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WT 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 305.3283 
+
+ Monoisotopic mass 
+
+ 305.1371 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 632.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Norris R., Casey F., FitzGerald R. J., Shields D., Mooney C. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Predictive modelling of angiotensin converting enzyme inhibitory dipeptides. Food Chem., 133, 1349-1354, 2012 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2012 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)O
+
+InChI=1S/C15H19N3O4/c1-8(19)13(15(21)22)18-14(20)11(16)6-9-7-17-12-5-3-2-4-10(9)12/h2-5,7-8,11,13,17,19H,6,16H2,1H3,(H,18,20)(H,21,22)/t8-,11+,13+/m1/s1
+
+InChIKey=YBRHKUNWEYBZGT-WLTAIBSBSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8685)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6932
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8685
+
+BRENDA: Ligand WT
+
+ChEBI: 
+ID 141450 
+
+EROP-Moscow: ID E10414
+
+FooDB: ID FDB11209
+
+HMDB: ID HMDB0029093
+
+J-GLOBAL: 
+ID 200907084709713930
+
+Metabolomics Workbench: 
+ID 79012 
+
+Nikkaji: ID J934.697J 
+
+PMhub: ID MS000241751
+
+PubChem: CID 54499874
+
+SATPdb: ID satpdb23763
+
+SureChEMBL: ID SCHEMBL8525833
+
+UniChem: 
+ID 26688599
+
+Wikidata: Q106026404 
+
+ZINC: ID ZINC000040439754

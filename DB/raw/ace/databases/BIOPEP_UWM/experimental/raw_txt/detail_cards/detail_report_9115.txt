@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9115 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KGYGGVSLPEW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 11 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1192.3166 
+
+ Monoisotopic mass 
+
+ 1191.5905 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Tavares T., del Mar Contreras M., Amorim M., Pintado M., Recio I., Malcata F. X. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel whey-derived peptides with inhibitory effect against angiotensin-converting enzyme: in vitro effect and stability to gastrointestinal enzymes. Peptides, 32, 1013-1019, 2011 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2011 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CCCCN)C(=O)NCC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NCC(=O)NCC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(C)C)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)O
+
+InChI=1S/C56H81N13O16/c1-30(2)22-40(55(83)69-21-9-13-43(69)53(81)64-38(18-19-47(75)76)51(79)66-41(56(84)85)24-33-25-59-37-12-6-5-10-35(33)37)65-52(80)42(29-70)67-54(82)48(31(3)4)68-46(74)27-60-44(72)26-62-50(78)39(23-32-14-16-34(71)17-15-32)63-45(73)28-61-49(77)36(58)11-7-8-20-57/h5-6,10,12,14-17,25,30-31,36,38-43,48,59,70-71H,7-9,11,13,18-24,26-29,57-58H2,1-4H3,(H,60,72)(H,61,77)(H,62,78)(H,63,73)(H,64,81)(H,65,80)(H,66,79)(H,67,82)(H,68,74)(H,75,76)(H,84,85)/t36-,38-,39-,40-,41-,42-,43-,48-/m0/s1
+
+InChIKey: XGDNJXQHKBBJBC-HGOVXFOSSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1301, 2541
+
+BioPepDB: ID biopep00677
+
+MBPDB: Peptide KGYGGVSLPEW
+
+SATPdb: ID satpdb27543

@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9248 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VLSRYP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 733.8532 
+
+ Monoisotopic mass 
+
+ 733.4110 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 36.70 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Li Y., Sadiq F. A., Liu T. J., Chen J. C., He G. Q. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification and identification of novel peptides with inhibitory effect against angiotensin I-converting enzyme and optimization of process conditions in milk fermented with the yeast Kluyveromyces marxianus. J. Funct. Foods., 2015, 16:278-288. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(C(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCCNC(N)=N)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C34H55N9O9/c1-18(2)15-23(40-31(49)27(35)19(3)4)29(47)42-25(17-44)30(48)39-22(7-5-13-38-34(36)37)28(46)41-24(16-20-9-11-21(45)12-10-20)32(50)43-14-6-8-26(43)33(51)52/h9-12,18-19,22-27,44-45H,5-8,13-17,35H2,1-4H3,(H,39,48)(H,40,49)(H,41,46)(H,42,47)(H,51,52)(H4,36,37,38)/t22-,23-,24-,25-,26-,27-/m0/s1
+
+InChIKey: GWMMOCNECGMPES-QCOJBMJGSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ MBPDB: Peptide VLSRYP

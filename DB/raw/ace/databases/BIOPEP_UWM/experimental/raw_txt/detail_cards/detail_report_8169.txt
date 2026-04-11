@@ -1,0 +1,212 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8169 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GPVRGPFPII 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1052.2661 
+
+ Monoisotopic mass 
+
+ 1051.6160 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Hernandez-Ledesma B., Amigo L., Ramos M., Recio I. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitory activity in commercial fermented products. Formation of peptides under simulated gastrointestinal digestion. J. Agric. Food Chem. 52, 1504–1510, 2004 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2004 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)O
+
+InChI=1S/C51H81N13O11/c1-7-30(5)41(48(72)61-42(50(74)75)31(6)8-2)60-46(70)37-21-15-25-64(37)49(73)34(26-32-16-10-9-11-17-32)58-44(68)35-19-14-24-63(35)39(66)28-56-43(67)33(18-12-22-55-51(53)54)57-47(71)40(29(3)4)59-45(69)36-20-13-23-62(36)38(65)27-52/h9-11,16-17,29-31,33-37,40-42H,7-8,12-15,18-28,52H2,1-6H3,(H,56,67)(H,57,71)(H,58,68)(H,59,69)(H,60,70)(H,61,72)(H,74,75)(H4,53,54,55)/t30-,31-,33-,34-,35-,36-,37-,40-,41-,42-/m0/s1
+
+InChIKey=UMQRNERFPHYGAM-SNDBGJAESA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8286); the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6756
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8286
+
+DFBP: ID DFBPACEI0861; DFBPANOX0344; DFBPMUFU0185
+
+Peptipedia: 
+ID 291
+
+SATPdb: ID satpdb22162

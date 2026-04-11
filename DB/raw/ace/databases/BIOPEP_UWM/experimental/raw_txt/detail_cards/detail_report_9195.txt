@@ -1,0 +1,228 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9195 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FGG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 279.2911 
+
+ Monoisotopic mass 
+
+ 279.1215 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 82.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Balti R., Nedjar-Arroume N., Adje E. Y., Guillochon D., Nasri M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Analysis of novel angiotensin I-converting enzyme inhibitory peptides from enzymatic hydrolysates of cuttlefish (Sepia officinalis) muscle proteins. J. Agric. Food Chem., 58, 5763-5769, 2010 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2010 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)NCC(=O)NCC(=O)O)Cc1ccccc1
+
+InChI=1S/C13H17N3O4/c14-10(6-9-4-2-1-3-5-9)13(20)16-7-11(17)15-8-12(18)19/h1-5,10H,6-8,14H2,(H,15,17)(H,16,20)(H,18,19)/t10-/m0/s1
+
+InChIKey: NAXPHWZXEXNDIW-JTQLQIEISA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of alkaline phosphatase (EC 3.1.3.1) according to the BRENDA database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1061; 4553; 4838; 5200; 5467; 7530
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 20
+
+BRENDA: Ligand Phe-Gly-Gly
+
+ChEBI: 
+ID 74714
+
+ChemIDplus: 
+ID 023576423
+
+ChemSpider: 
+ID 134538
+
+EPA DSSTox: ID DTXCID30100704
+
+EROP-Moscow: ID E09367
+
+PubChem: 
+ID 152644
+
+SATPdb: ID satpdb16364
+
+ZINC: ID ZINC02170022

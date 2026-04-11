@@ -1,0 +1,252 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7606 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+DA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 204.1801 
+
+ Monoisotopic mass 
+
+ 204.0743 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 3800.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitors:Evolution of a new class of antihypertensive drugs (page 19). in: Horovitz Z. P. (Ed.)(1981), Mechanisms of action and clinical implications, Urban & Schwarzenberg. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1981 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC(=O)O)C(=O)N[C@@H](C)C(=O)O
+
+InChI=1S/C7H12N2O5/c1-3(7(13)14)9-6(12)4(8)2-5(10)11/h3-4H,2,8H2,1H3,(H,9,12)(H,10,11)(H,13,14)/t3-,4-/m0/s1
+
+InChIKey: DVUFTQLHHHJEMK-IMJSIDKUSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl-peptidase III (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9492), the BRENDA database
+
+Inhibitor of Glutamate carboxypeptidase II (EC 3.4.17.21) (MEROPS ID: M28.010) according to the BRENDA database
+
+Activator of Carbonic anhydrase (EC 4.2.1.1) according to the ChEMBL database; the PubChem database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 230)
+
+Umami peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 350)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 13433-02-8
+
+AHTPDB: 
+ID 1688; 3090; 3095; 3139; 3239; 3470; 3835; 3895; 4413; 4541; 4693; 6592
+
+BindingDB: 
+ID 50169166
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7606; 9492
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 230; 350
+
+BRENDA: Ligand Asp-Ala
+
+ChEBI: 
+ID 73826
+
+ChEMBL: ID CHEMBL17503
+
+ChemIDplus: 
+ID 3433-02-88
+
+ChemSpider: 
+ID 4590792
+
+EROP-Moscow: ID E01842
+
+J-GLOBAL: 
+ID 200907068654974784
+
+Metabolights: ID MTBLC73826
+
+Nikkaji: ID J81.614K
+
+PubChem: CID 5491963
+
+SATPdb: ID satpdb20092

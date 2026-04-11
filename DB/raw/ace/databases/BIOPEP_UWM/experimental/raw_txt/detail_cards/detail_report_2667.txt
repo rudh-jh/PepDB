@@ -1,0 +1,226 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 2667 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LHLPLP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 688.8556 
+
+ Monoisotopic mass 
+
+ 688.4259 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 2.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human beta-casein. Agric. Biol. Chem., 53(8), 2107-2114 (1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(Cc1cnc[nH]1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C34H56N8O7/c1-19(2)13-23(35)29(43)38-24(16-22-17-36-18-37-22)30(44)39-25(14-20(3)4)32(46)41-11-7-9-27(41)31(45)40-26(15-21(5)6)33(47)42-12-8-10-28(42)34(48)49/h17-21,23-28H,7-16,35H2,1-6H3,(H,36,37)(H,38,43)(H,39,44)(H,40,45)(H,48,49)/t23-,24-,25-,26-,27-,28-/m0/s1
+
+InChIKey: QLFCYFCBEUPIBA-QUQVWLGBSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Another value of peptide IC50(EC50)=5,5uM. 
+
+Hernández-Ledesma B., Quirós A., Amigo L., Recio I., 2007, Identification of bioactive peptides after digestion of human milk and infant formula with pepsin and pancreatin. Int. Dairy J., 17, 42-49
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1712, 1748, 1760, 1939, 2616, 3457, 3644, 3668, 4180, 4338, 5023, 5365, 5818, 5824, 6002, 6330, 6788, 6827
+
+BindingDB: 
+ID 50049852
+
+ChEMBL: ID CHEMBL3322134
+
+ChemSpider: 
+ID 8115463
+
+EROP-Moscow: ID E09375
+
+J-GLOBAL: 
+ID 200907056906210580
+
+MBPDB: Peptide LHLPLP
+
+Nikkaji: J2.550.474G
+
+PubChem: CID 9939842
+
+SATPdb: ID satpdb20721
+
+ZINC: ID ZINC000195981346

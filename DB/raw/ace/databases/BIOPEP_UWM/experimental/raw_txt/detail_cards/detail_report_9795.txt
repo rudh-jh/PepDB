@@ -1,0 +1,212 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9795 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EQGFLPGPEESGR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 13 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1402.4616 
+
+ Monoisotopic mass 
+
+ 1401.6503 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 457.42 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Złotek U., Jakubczyk A., Rybczyńska-Tkaczyk K., Ćwiek P., Baraniak B., Lewicki S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Characteristics of new peptides GQLGEHGGAGMG, GEHGGAGMGGGQFQPV, EQGFLPGPEESGR, RLARAGLAQ, YGNPVGGVGH, and GNPVGGVGHGTTGT as inhibitors of enzymes involved in metabolic syndrome and antimicrobial potential. Molecules, 25, 2492, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)NCC(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C60H91N17O22/c1-31(2)25-39(74-55(94)38(26-32-9-4-3-5-10-32)70-45(81)28-66-51(90)34(15-18-43(62)79)71-50(89)33(61)14-19-47(83)84)58(97)77-24-8-12-41(77)56(95)68-29-46(82)76-23-7-13-42(76)57(96)73-36(17-21-49(87)88)53(92)72-35(16-20-48(85)86)54(93)75-40(30-78)52(91)67-27-44(80)69-37(59(98)99)11-6-22-65-60(63)64/h3-5,9-10,31,33-42,78H,6-8,11-30,61H2,1-2H3,(H2,62,79)(H,66,90)(H,67,91)(H,68,95)(H,69,80)(H,70,81)(H,71,89)(H,72,92)(H,73,96)(H,74,94)(H,75,93)(H,83,84)(H,85,86)(H,87,88)(H,98,99)(H4,63,64,65)/t33-,34-,35-,36-,37-,38-,39-,40-,41-,42-/m0/s1
+
+InChIKey=CHJAORMWSLOKQH-NUDUWCFGSA-N
+
+Inhibitor of Alpha-amylase (EC 3.2.1.1) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9796)
+
+Inhibitor of pancreatic lipase according to the BIOPEP-UWM database of bioactive peptides (
+ID 9797)
+
+Inhibitor of lipoxygenase (LOX) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9798)
+
+Inhibitor of cyclooxygenase-1 (EC 1.14.99.1) (COX 1) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9799)
+
+Inhibitor of cyclooxygenase-2 (EC 1.14.99.1) (COX 2) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9800)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9796; 9797; 9798; 9799; 9800

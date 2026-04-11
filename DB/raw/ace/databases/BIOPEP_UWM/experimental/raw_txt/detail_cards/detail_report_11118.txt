@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11118 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GFPGLP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 586.6781 
+
+ Monoisotopic mass 
+
+ 586.3105 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liang Q., Zhou W., Peng S., Liang Z., Liu Z., Wang L., Mukhtar H., Mou H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Exploration of ACE inhibitory peptides from sea cucumber viscera with DPP-IV inhibitory activity: Virtual screening, characterization, and potential mechanism investigation. Int. J. Biol. Macromol., 311, 143843, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C29H42N6O7/c1-18(2)14-20(27(39)35-13-7-11-23(35)29(41)42)33-25(37)17-31-26(38)22-10-6-12-34(22)28(40)21(32-24(36)16-30)15-19-8-4-3-5-9-19/h3-5,8-9,18,20-23H,6-7,10-17,30H2,1-2H3,(H,31,38)(H,32,36)(H,33,37)(H,41,42)/t20-,21-,22-,23-/m0/s1
+
+InChIKey=SLGIQEPHAHGGJA-MLCQCVOFSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

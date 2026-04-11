@@ -1,0 +1,240 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9089 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 275.3024 
+
+ Monoisotopic mass 
+
+ 275.1266 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 275.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](C)C(=O)O
+
+InChI=1S/C14H17N3O3/c1-8(14(19)20)17-13(18)11(15)6-9-7-16-12-5-3-2-4-10(9)12/h2-5,7-8,11,16H,6,15H2,1H3,(H,17,18)(H,19,20)/t8-,11-/m0/s1
+
+InChIKey: OHGNSVACHBZKSS-KWQFWETISA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8528); the EROP-Moscow database
+
+Peptide activating ubiquitin-mediated proteolysis according to the BIOPEP-UWM database of bioactive peptides (
+ID 4007); the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1081, 1464, 2784, 4721, 5180, 6156
+
+BindingDB: 
+ID 50169160
+
+BioPepDB: ID biopep01514
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 4007; 8528
+
+BRENDA: Ligand Trp-Ala
+
+ChEBI: 
+ID 73710
+
+ChEMBL: ID CHEMBL188866
+
+ChemSpider: 
+ID 5361479
+
+EROP-Moscow: ID E09197
+
+J-GLOBAL: 
+ID 200907006406167567
+
+Metabolights: ID MTBLC73710
+
+Nikkaji: ID J149.637I
+
+PubChem: CID 6993401
+
+SATPdb: ID satpdb14491
+
+SureChEMBL: ID SCHEMBL1617917
+
+ZINC: ID ZINC000001638007

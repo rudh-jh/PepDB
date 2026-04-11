@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11327 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FFRNR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 738.8350 
+
+ Monoisotopic mass 
+
+ 738.3915 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yang W., Hu X., Zhang T., Zhao M., Li Q., Sang M., Fan J., Zhao Y., Zhang B. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Discovery and mechanistic insights into ACE inhibitory peptides from the gastrointestinal digest of royal jelly proteins: peptidomics, bioactivity profiling, in silico screening, and in vitro validation. Food Res. Int., 229, 118476, 2026 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2026 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C34H50N12O7/c35-22(17-20-9-3-1-4-10-20)28(48)45-25(18-21-11-5-2-6-12-21)30(50)43-23(13-7-15-41-33(37)38)29(49)46-26(19-27(36)47)31(51)44-24(32(52)53)14-8-16-42-34(39)40/h1-6,9-12,22-26H,7-8,13-19,35H2,(H2,36,47)(H,43,50)(H,44,51)(H,45,48)(H,46,49)(H,52,53)(H4,37,38,41)(H4,39,40,42)/t22-,23-,24-,25-,26-/m0/s1
+
+InChIKey=LSZZMOQDXGAVRL-LROMGURASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3496 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FFVAPFPFEVFGK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 13 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1531.7883 
+
+ Monoisotopic mass 
+
+ 1530.7886 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 77.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Maruyama S., Nakagomi K., Tomizuka N., Suzuki H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitor derived from an enzymatic hydrolysate of casein. Isolation and bradykinin-potentiating activity on the uterus.Agric.Biol.Chem.49(5),1405-1409(1985) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1985 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(Cc1ccccc1)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCC(O)=O)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)NCC(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C81H106N14O16/c1-49(2)68(93-74(103)62(46-55-31-17-9-18-32-55)88-70(99)57(83)43-52-25-11-6-12-26-52)77(106)85-51(5)79(108)94-41-23-36-64(94)76(105)91-63(47-56-33-19-10-20-34-56)80(109)95-42-24-37-65(95)75(104)89-61(45-54-29-15-8-16-30-54)73(102)87-58(38-39-67(97)98)72(101)92-69(50(3)4)78(107)90-60(44-53-27-13-7-14-28-53)71(100)84-48-66(96)86-59(81(110)111)35-21-22-40-82/h6-20,25-34,49-51,57-65,68-69H,21-24,35-48,82-83H2,1-5H3,(H,84,100)(H,85,106)(H,86,96)(H,87,102)(H,88,99)(H,89,104)(H,90,107)(H,91,105)(H,92,101)(H,93,103)(H,97,98)(H,110,111)/t51-,57-,58-,59-,60-,61-,62-,63-,64-,65-,68-,69-/m0/s1
+
+InChIKey=IFLAAXRMZSXTGW-FOPHCWOJSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

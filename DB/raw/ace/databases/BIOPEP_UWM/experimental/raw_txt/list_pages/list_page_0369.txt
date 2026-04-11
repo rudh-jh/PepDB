@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 369
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=368bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-11259
-Cytotoxic peptide
-HHWW~
-663.7274
-663.3023
-0.00 EC_50
-Peptide
-Data
-11260
-Cytotoxic peptide
-RRWW~
-701.8198
-701.3865
-0.00 EC_50
-Peptide
-Data
-11261
-Cytotoxic peptide
-KKWW~
-645.7930
-645.3741
-0.00 EC_50
-Peptide
-Data
-11262
-Cytotoxic peptide
-FFWW~
-683.7964
-683.3211
-0.00 EC_50
-Peptide
-Data
-11263
-Inhibitor of peptidylprolyl isomerase
-{C2:0}APF{~!ph[4NO2]}
-495.5265
-495.2111
-770.00 IC_50
-Peptide
-Data
-11264
-Inhibitor of peptidylprolyl isomerase
-{C2:0}APF{~!ph[4N(CH3)3]}
-508.6309
-508.2915
-7000.00 IC_50
-Peptide
-Data
-11265
-Inhibitor of peptidylprolyl isomerase
-{C3:0[3COOH]}AAP~
-356.3733
-356.1690
-14000.00 IC_50
-Peptide
-Data
-11266
-Inhibitor of peptidylprolyl isomerase
-{C3:0[3COOH]}AAPF{C2:0[2ph;6NH2]}
-637.6786
-637.2738
-4400.00 IC_50
-Peptide
-Data
-11267
-Inhibitor of peptidylprolyl isomerase
-{C3:0[3COOH]}AAP{~!ph[4NO2]}
-477.4667
-477.1853
-540.00 IC_50
-Peptide
-Data
-11268
-Microbial collagenase inhibitor
-GSH
-299.2825
-299.1226
-0.00 IC_50
-Peptide
-Data
-11269
-Inhibitor of peptidylprolyl isomerase
-{C3:0[3COOH]}APF{~!ph[4NH2]}
-523.5795
-523.2423
-5800.00 IC_50
-Peptide
-Data
-11270
-Inhibitor of peptidylprolyl isomerase
-{C3:0[3COOH]}APF{C2:0[2ph;6NH2]}
-566.6009
-566.2368
-700.00 IC_50
-Peptide
-Data
-11271
-Inhibitor of peptidylprolyl isomerase
-{C3:0[3COOH]}APF{~!ph[4NO2]}
-553.5625
-553.2165
-170.00 IC_50
-Peptide
-Data
-11272
-Inhibitor of peptidylprolyl isomerase
-{C3:0[3COOH]}PF{~!ph[4NO2]}
-482.4848
-482.1795
-1090.00 IC_50
-Peptide
-Data
-11273
-Inhibitor of peptidylprolyl isomerase
-{C2:0}AA{s[3*]}PL{~!ph[4NO2]}
-699.6449
-699.2619
-1.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 369 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11259 
+
+ Cytotoxic peptide 
+
+ HHWW~ 
+
+ 663.7274 
+
+ 663.3023 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11260 
+
+ Cytotoxic peptide 
+
+ RRWW~ 
+
+ 701.8198 
+
+ 701.3865 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11261 
+
+ Cytotoxic peptide 
+
+ KKWW~ 
+
+ 645.7930 
+
+ 645.3741 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11262 
+
+ Cytotoxic peptide 
+
+ FFWW~ 
+
+ 683.7964 
+
+ 683.3211 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11263 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C2:0}APF{~!ph[4NO2]} 
+
+ 495.5265 
+
+ 495.2111 
+
+ 770.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11264 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C2:0}APF{~!ph[4N(CH3)3]} 
+
+ 508.6309 
+
+ 508.2915 
+
+ 7000.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11265 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C3:0[3COOH]}AAP~ 
+
+ 356.3733 
+
+ 356.1690 
+
+ 14000.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11266 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C3:0[3COOH]}AAPF{C2:0[2ph;6NH2]} 
+
+ 637.6786 
+
+ 637.2738 
+
+ 4400.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11267 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C3:0[3COOH]}AAP{~!ph[4NO2]} 
+
+ 477.4667 
+
+ 477.1853 
+
+ 540.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11268 
+
+ Microbial collagenase inhibitor 
+
+ GSH 
+
+ 299.2825 
+
+ 299.1226 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11269 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C3:0[3COOH]}APF{~!ph[4NH2]} 
+
+ 523.5795 
+
+ 523.2423 
+
+ 5800.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11270 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C3:0[3COOH]}APF{C2:0[2ph;6NH2]} 
+
+ 566.6009 
+
+ 566.2368 
+
+ 700.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11271 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C3:0[3COOH]}APF{~!ph[4NO2]} 
+
+ 553.5625 
+
+ 553.2165 
+
+ 170.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11272 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C3:0[3COOH]}PF{~!ph[4NO2]} 
+
+ 482.4848 
+
+ 482.1795 
+
+ 1090.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11273 
+
+ Inhibitor of peptidylprolyl isomerase 
+
+ {C2:0}AA{s[3*]}PL{~!ph[4NO2]} 
+
+ 699.6449 
+
+ 699.2619 
+
+ 1.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 369 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

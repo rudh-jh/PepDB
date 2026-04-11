@@ -1,0 +1,203 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9978 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EFQL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 535.5885 
+
+ Monoisotopic mass 
+
+ 535.2633 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Girgih AT, He R, Malomo SA, Offengenden M, Wu J, Aluko RE. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural and functional characterization of hemp seed (Cannabis sativa L.) protein-derived antioxidant and antihypertensive peptides. J. Funct. Foods 6, 384–394. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI= 1S/C25H37N5O8/c1-14(2)12-19(25(37)38)30-23(35)17(9-10-20(27)31)28-24(36)18(13-15-6-4-3-5-7-15)29-22(34)16(26)8-11-21(32)33/h3-7,14,16-19H,8-13,26H2,1-2H3,(H2,27,31)(H,28,36)(H,29,34)(H,30,35)(H,32,33)(H,37,38)/t16-,17-,18-,19-/m0/s1
+
+InChIKey: UALPPFNABZWOFI-VJANTYMQSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9977)
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID A01.007) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9979)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9977; 9979

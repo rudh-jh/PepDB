@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9843 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FDPFPK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 749.8510 
+
+ Monoisotopic mass 
+
+ 749.3736 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 105.75 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zielińska E., Karaś M., Baraniak B., Jakubczyk A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Evaluation of ACE, alpha‑glucosidase, and lipase inhibitory activities of peptides obtained by in vitro digestion of selected species of edible insects. Eur. Food Res. Technol., 246, 1361-1369, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@]([H])(CC(=O)O)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C38H51N7O9/c39-18-8-7-15-27(38(53)54)41-34(49)30-16-9-19-44(30)36(51)28(22-25-13-5-2-6-14-25)43-35(50)31-17-10-20-45(31)37(52)29(23-32(46)47)42-33(48)26(40)21-24-11-3-1-4-12-24/h1-6,11-14,26-31H,7-10,15-23,39-40H2,(H,41,49)(H,42,48)(H,43,50)(H,46,47)(H,53,54)/t26-,27-,28-,29-,30-,31-/m0/s1
+
+InChIKey=DYMKEWHUWRCOCQ-HPMAGDRPSA-N
+
+Inhibitor of pancreatic lipase according to the BIOPEP-UWM database of bioactive peptides (
+ID 9844)
+
+Inhibitor of Alpha-glucosidase (EC 3.2.1.20) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9845)
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9446) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9446; 9844; 9845

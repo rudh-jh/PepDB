@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 298
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=297bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-10194
-Antioxidative peptide
-AYI
-365.4230
-365.1944
-0.00 EC_50
-Peptide
-Data
-10195
-Hypotensive peptide
-LVLPGE
-626.7401
-626.3627
-0.00 EC_50
-Peptide
-Data
-10196
-ACE inhibitor
-LVLPGE
-626.7401
-626.3627
-0.00 IC_50
-Peptide
-Data
-10197
-ACE inhibitor
-KYIPIQ
-760.9181
-760.4469
-7.28 IC_50
-Peptide
-Data
-10198
-ACE inhibitor
-LPLPLL
-664.8738
-664.4509
-10.46 IC_50
-Peptide
-Data
-10199
-ACE inhibitor
-PFPGPIPN
-837.9591
-837.4371
-12.79 IC_50
-Peptide
-Data
-10200
-ACE inhibitor
-GPEGPAGAR
-810.8529
-810.3972
-0.00 IC_50
-Peptide
-Data
-10201
-ACE inhibitor
-GETGPAGPAGAAGPAGPR
-1490.5730
-1489.7251
-0.00 IC_50
-Peptide
-Data
-10202
-Antibacterial peptide
-RKIKKRRKKWR~
-1581.9969
-1581.0665
-0.00 EC_50
-Peptide
-Data
-10203
-Antibacterial peptide
-RQIKIRRMKWR~
-1569.9644
-1568.9649
-0.00 EC_50
-Peptide
-Data
-10204
-Antibacterial peptide
-RWKMRRIKIQR~
-1569.9644
-1568.9649
-0.00 EC_50
-Peptide
-Data
-10205
-Antibacterial peptide
-RQPKIPRMPWR~
-1463.7949
-1462.8433
-0.00 EC_50
-Peptide
-Data
-10206
-Anti-inflammatory peptide
-WVSPLAGRT
-986.1223
-985.5329
-0.00 EC_50
-Peptide
-Data
-10207
-Anti-inflammatory peptide
-IGFLIIWV
-960.2089
-959.5826
-0.00 EC_50
-Peptide
-Data
-10208
-ACE inhibitor
-WGAP
-429.4685
-429.2006
-140.70 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 298 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10194 
+
+ Antioxidative peptide 
+
+ AYI 
+
+ 365.4230 
+
+ 365.1944 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10195 
+
+ Hypotensive peptide 
+
+ LVLPGE 
+
+ 626.7401 
+
+ 626.3627 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10196 
+
+ ACE inhibitor 
+
+ LVLPGE 
+
+ 626.7401 
+
+ 626.3627 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10197 
+
+ ACE inhibitor 
+
+ KYIPIQ 
+
+ 760.9181 
+
+ 760.4469 
+
+ 7.28 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10198 
+
+ ACE inhibitor 
+
+ LPLPLL 
+
+ 664.8738 
+
+ 664.4509 
+
+ 10.46 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10199 
+
+ ACE inhibitor 
+
+ PFPGPIPN 
+
+ 837.9591 
+
+ 837.4371 
+
+ 12.79 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10200 
+
+ ACE inhibitor 
+
+ GPEGPAGAR 
+
+ 810.8529 
+
+ 810.3972 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10201 
+
+ ACE inhibitor 
+
+ GETGPAGPAGAAGPAGPR 
+
+ 1490.5730 
+
+ 1489.7251 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10202 
+
+ Antibacterial peptide 
+
+ RKIKKRRKKWR~ 
+
+ 1581.9969 
+
+ 1581.0665 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10203 
+
+ Antibacterial peptide 
+
+ RQIKIRRMKWR~ 
+
+ 1569.9644 
+
+ 1568.9649 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10204 
+
+ Antibacterial peptide 
+
+ RWKMRRIKIQR~ 
+
+ 1569.9644 
+
+ 1568.9649 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10205 
+
+ Antibacterial peptide 
+
+ RQPKIPRMPWR~ 
+
+ 1463.7949 
+
+ 1462.8433 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10206 
+
+ Anti-inflammatory peptide 
+
+ WVSPLAGRT 
+
+ 986.1223 
+
+ 985.5329 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10207 
+
+ Anti-inflammatory peptide 
+
+ IGFLIIWV 
+
+ 960.2089 
+
+ 959.5826 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10208 
+
+ ACE inhibitor 
+
+ WGAP 
+
+ 429.4685 
+
+ 429.2006 
+
+ 140.70 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 298 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,230 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7618 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+SG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 162.1435 
+
+ Monoisotopic mass 
+
+ 162.0638 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 8500.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CO)C(=O)NCC(=O)O
+
+InChI=1S/C5H10N2O4/c6-3(2-8)5(11)7-1-4(9)10/h3,8H,1-2,6H2,(H,7,11)(H,9,10)/t3-/m0/s1
+
+InChIKey=WOUIMBGNEUWXQG-VKHMYHEASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 687-63-8
+
+AHTPDB: 
+ID 1488, 1692, 2996, 3024, 3070, 3250, 3314, 3585, 3821, 4026, 4402, 4527, 4651, 6605, 
+
+BioPepDB: ID biopep01239
+
+ChEBI: 
+ID 74814
+
+ChemIDplus: 
+ID 687-63-8
+
+EROP-Moscow: ID E10399
+
+FeptideDB: 
+ID 7618
+
+HMDB: ID HMDB0029039
+
+J-GLOBAL: 
+ID 200907053982513169
+
+MetaCyc: compound L-seryl-glycine
+
+Nikkaji: ID J149.642E
+
+PlantPepDB: ID PPepDB_185
+
+PubChem: CID 7009644
+
+SATPdb: ID satpdb13599
+
+ZINC: ID ZINC000002384922

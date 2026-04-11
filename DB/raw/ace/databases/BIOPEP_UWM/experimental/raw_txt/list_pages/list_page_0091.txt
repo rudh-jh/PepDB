@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 91
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=90bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-5386
-esculentin-2B
-GIFSLVKGAAKLAGKGLAKEGGKFGLELIACKIAKQC
-3719.4987
-3717.1135
-0.00 EC_50
-Peptide
-Data
-5387
-esculentin-1B
-GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC
-4802.7569
-4799.6870
-0.00 EC_50
-Peptide
-Data
-5388
-phylloxin
-GWMSKIASGIGTFLSGIGQQG
-2095.3732
-2094.0534
-0.00 EC_50
-Peptide
-Data
-5389
-dermaseptin B1
-AMWKDVLKKIGTVALHAGKAALGAVADTISQG
-3221.7621
-3219.7746
-0.00 EC_50
-Peptide
-Data
-5390
-dermaseptin B6
-ALWKDILKNAGKAALNEINQLVNQG
-2722.0955
-2720.4927
-0.00 EC_50
-Peptide
-Data
-5391
-ranalexin
-FLGGLIKIVPAMICAVTKKC
-2105.7122
-2104.1936
-0.00 EC_50
-Peptide
-Data
-5392
-rugosin A
-GLLNTFKDWAISIAKGAGKGVLTTLSCKLDKSCG
-3497.0839
-3494.8569
-0.00 EC_50
-Peptide
-Data
-5393
-rugosin B
-SLFSLIKAGAKFLGKNLLKQGAQYAACKVSKECG
-3573.2259
-3570.9357
-0.00 EC_50
-Peptide
-Data
-5394
-rugosin C
-GILDSFKQFAKGVGKDLIKGAAQGVLSTMSCKLAKTC
-3815.5195
-3813.0289
-0.00 EC_50
-Peptide
-Data
-5395
-gaegurin 1
-SLFSLIKAGAKFLGKNLLKQGACYAACKASKQC
-3462.1518
-3459.8498
-0.00 EC_50
-Peptide
-Data
-5396
-gaegurin 2
-GIMSIVKDVAKNAAKEAAKGALSTLSCKLAKTC
-3321.9659
-3319.7971
-0.00 EC_50
-Peptide
-Data
-5397
-Brevinin-2EF
-GIMDTLKNLAKTAGKGALQSLVKMASCKLSGQC
-3367.0308
-3364.7645
-0.00 EC_50
-Peptide
-Data
-5398
-brevinin-1
-FLPVLAGIAAKVVPALFCKITKKC
-2531.2105
-2529.4896
-0.00 EC_50
-Peptide
-Data
-5399
-brevinin-2
-GLLDSLKGFAATAGKGVLQSLLSTASCKLAKTC
-3253.8232
-3251.7564
-0.00 EC_50
-Peptide
-Data
-5400
-brevinin-2EE
-GIFDKLKNFAKGVAQSLLNKASCKLSGQC
-3069.5933
-3067.6259
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5386 
+
+ esculentin-2B 
+
+ GIFSLVKGAAKLAGKGLAKEGGKFGLELIACKIAKQC 
+
+ 3719.4987 
+
+ 3717.1135 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5387 
+
+ esculentin-1B 
+
+ GIFSKLAGKKLKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC 
+
+ 4802.7569 
+
+ 4799.6870 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5388 
+
+ phylloxin 
+
+ GWMSKIASGIGTFLSGIGQQG 
+
+ 2095.3732 
+
+ 2094.0534 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5389 
+
+ dermaseptin B1 
+
+ AMWKDVLKKIGTVALHAGKAALGAVADTISQG 
+
+ 3221.7621 
+
+ 3219.7746 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5390 
+
+ dermaseptin B6 
+
+ ALWKDILKNAGKAALNEINQLVNQG 
+
+ 2722.0955 
+
+ 2720.4927 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5391 
+
+ ranalexin 
+
+ FLGGLIKIVPAMICAVTKKC 
+
+ 2105.7122 
+
+ 2104.1936 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5392 
+
+ rugosin A 
+
+ GLLNTFKDWAISIAKGAGKGVLTTLSCKLDKSCG 
+
+ 3497.0839 
+
+ 3494.8569 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5393 
+
+ rugosin B 
+
+ SLFSLIKAGAKFLGKNLLKQGAQYAACKVSKECG 
+
+ 3573.2259 
+
+ 3570.9357 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5394 
+
+ rugosin C 
+
+ GILDSFKQFAKGVGKDLIKGAAQGVLSTMSCKLAKTC 
+
+ 3815.5195 
+
+ 3813.0289 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5395 
+
+ gaegurin 1 
+
+ SLFSLIKAGAKFLGKNLLKQGACYAACKASKQC 
+
+ 3462.1518 
+
+ 3459.8498 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5396 
+
+ gaegurin 2 
+
+ GIMSIVKDVAKNAAKEAAKGALSTLSCKLAKTC 
+
+ 3321.9659 
+
+ 3319.7971 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5397 
+
+ Brevinin-2EF 
+
+ GIMDTLKNLAKTAGKGALQSLVKMASCKLSGQC 
+
+ 3367.0308 
+
+ 3364.7645 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5398 
+
+ brevinin-1 
+
+ FLPVLAGIAAKVVPALFCKITKKC 
+
+ 2531.2105 
+
+ 2529.4896 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5399 
+
+ brevinin-2 
+
+ GLLDSLKGFAATAGKGVLQSLLSTASCKLAKTC 
+
+ 3253.8232 
+
+ 3251.7564 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5400 
+
+ brevinin-2EE 
+
+ GIFDKLKNFAKGVAQSLLNKASCKLSGQC 
+
+ 3069.5933 
+
+ 3067.6259 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 91 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,194 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9557 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TGAPCR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 603.6916 
+
+ Monoisotopic mass 
+
+ 603.2790 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 23.94 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Deng Z., Liu Y., Wang J., Wu S., Geng L., Sui Z., Zhang Q. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive effects of two novel angiotensin I-converting enzyme (ACE) inhibitory peptides from Gracilariopsis lemaneiformis (Rhodophyta) in spontaneously hypertensive rats (SHRs). Mar. Drugs, 16, Article No 299, 2018 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2018 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(O)C)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C23H41N9O8S/c1-11(29-16(34)9-28-20(37)17(24)12(2)33)21(38)32-8-4-6-15(32)19(36)31-14(10-41)18(35)30-13(22(39)40)5-3-7-27-23(25)26/h11-15,17,33,41H,3-10,24H2,1-2H3,(H,28,37)(H,29,34)(H,30,35)(H,31,36)(H,39,40)(H4,25,26,27)/t11-,12+,13-,14-,15-,17-/m0/s1
+
+InChIKey: VEVGFNGDPJDSTM-ODIPTECFSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+The peptide causes decrease of blood pressure in spontaneously hypertensive rats.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

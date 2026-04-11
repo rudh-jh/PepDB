@@ -1,0 +1,204 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9122 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IFENLQN 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 876.9505 
+
+ Monoisotopic mass 
+
+ 876.4327 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Aluko R. E., Girgih A. T., He R., Malomo S., Li H., Offengenden M., Wu J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural and functional characterization of yellow field pea seed (Pisum sativum L.) protein-derived antihypertensive peptides. Food Res. Int., 77, 10-16, 2015 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)CC(=O)N)CCC(=O)N)CC(C)C)CC(=O)N)CCC(=O)O)Cc1ccccc1)[C@H](CC)C
+
+InChI=1S/C39H60N10O13/c1-5-20(4)32(43)38(60)48-25(16-21-9-7-6-8-10-21)36(58)45-23(12-14-31(53)54)33(55)47-26(17-29(41)51)37(59)46-24(15-19(2)3)35(57)44-22(11-13-28(40)50)34(56)49-27(39(61)62)18-30(42)52/h6-10,19-20,22-27,32H,5,11-18,43H2,1-4H3,(H2,40,50)(H2,41,51)(H2,42,52)(H,44,57)(H,45,58)(H,46,59)(H,47,55)(H,48,60)(H,49,56)(H,53,54)(H,61,62)/t20-,22-,23-,24-,25-,26-,27-,32-/m0/s1
+
+InChIKey: SVUIGSYSODPZLU-FWXRAREPSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID A01.007) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9123)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9123

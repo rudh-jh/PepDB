@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9837 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GKDAVIV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 700.8217 
+
+ Monoisotopic mass 
+
+ 700.4106 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 18.30 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zielińska E., Karaś M., Baraniak B., Jakubczyk A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Evaluation of ACE, alpha‑glucosidase, and lipase inhibitory activities of peptides obtained by in vitro digestion of selected species of edible insects. Eur. Food Res. Technol., 246, 1361-1369, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C(C)C)C(=O)O
+
+InChI=1S/C31H56N8O10/c1-8-17(6)25(30(47)38-24(16(4)5)31(48)49)39-29(46)23(15(2)3)37-26(43)18(7)34-28(45)20(13-22(41)42)36-27(44)19(11-9-10-12-32)35-21(40)14-33/h15-20,23-25H,8-14,32-33H2,1-7H3,(H,34,45)(H,35,40)(H,36,44)(H,37,43)(H,38,47)(H,39,46)(H,41,42)(H,48,49)/t17-,18-,19-,20-,23-,24-,25-/m0/s1
+
+InChIKey=NRTXGGDOOQZQMA-UJRRAURJSA-N 
+
+Inhibitor of pancreatic lipase according to the BIOPEP-UWM database of bioactive peptides (
+ID 9838)
+
+Inhibitor of alpha-glucosidase (EC 3.2.1.20) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9839)
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9444)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9444; 9838; 9839

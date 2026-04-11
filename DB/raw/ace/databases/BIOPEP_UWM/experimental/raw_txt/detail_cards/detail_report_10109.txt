@@ -1,0 +1,202 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10109 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YLYSPAY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 875.9608 
+
+ Monoisotopic mass 
+
+ 875.4051 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 8.52 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zhou T., Liu Z., Pei J., Pan D., Gao X., Dang Y., Zhao Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel broccoli-derived peptides hydrolyzed by trypsin with dual-angiotensin I-converting enzymes and dipeptidyl peptidase-IV-inhibitory activities. J. Agric. Food Chem., 69, 10885–10892, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N3[C@@H](CCC3)C(=O)N[C@@H](C)C(=O)N[C@@H](CC4=CC=C(C=C4)O)C(=O)O
+
+InChI=1S/C44H57N7O12/c1-24(2)19-33(47-39(57)32(45)20-26-6-12-29(53)13-7-26)40(58)48-34(21-27-8-14-30(54)15-9-27)41(59)50-36(23-52)43(61)51-18-4-5-37(51)42(60)46-25(3)38(56)49-35(44(62)63)22-28-10-16-31(55)17-11-28/h6-17,24-25,32-37,52-55H,4-5,18-23,45H2,1-3H3,(H,46,60)(H,47,57)(H,48,58)(H,49,56)(H,50,59)(H,62,63)/t25-,32-,33-,34-,35-,36-,37-/m0/s1
+
+InChIKey=DRRQNXVHUXHWEP-JTOPVPOCSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003)
+
+According to the BIOPEP-UWM database of bioactive peptides (
+ID 10110)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 10110

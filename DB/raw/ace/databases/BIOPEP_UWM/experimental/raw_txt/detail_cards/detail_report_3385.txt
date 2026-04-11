@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3385 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 296.3855 
+
+ Monoisotopic mass 
+
+ 296.1190 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 45.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Matsufuji H., Matsui T., Seki E., Osajima K., Nakashima M., Osajima Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory peptides in an alkaline proteinase hydrolysate derived from sardine muscle. Biosci. Biotech. Biochem., 58, 2244-2245, 1994 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1994 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCSC)C(=O)N[C@@]([H])(Cc1ccccc1)C(O)=O
+
+InChI=1S/C14H20N2O3S/c1-20-8-7-11(15)13(17)16-12(14(18)19)9-10-5-3-2-4-6-10/h2-6,11-12H,7-9,15H2,1H3,(H,16,17)(H,18,19)/t11-,12-/m0/s1
+
+InChIKey=HGCNKOLVKRAVHD-RYUDHWBXSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001
+
+Another value of peptide IC50(EC50) = 1,45 uM. 
+
+Wu H., He H.-L., Chen X.-L., Sun C.-Y., Zhang Y.-Z., Zhou B.-C., 2008, Purification and identification of novel angiotensin-I-converting enzyme inhibitory peptides from shark meat hydrolysate. Process Biochem., 43, 457-461
+
+Isolated from shark meat
+
+Wu H., He H.-L., Chen X.-L., Sun C.-Y., Zhang Y.-Z., Zhou B.-C., 2008, Purification and identification of novel angiotensin-I-converting enzyme inhibitory peptides from shark meat hydrolysate. Process Biochem., 43, 457-461
+
+Found in amaranth protein hydrolysates
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

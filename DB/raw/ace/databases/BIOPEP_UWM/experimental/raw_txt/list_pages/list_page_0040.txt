@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 40
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=39bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-3209
-cecropin B analog (CB-1)
-KWKVFKKIEKMGRNIRNGIVKAGPKWKVFKKIEKG
-4171.0887
-4168.4743
-0.00 EC_50
-Peptide
-Data
-3210
-cecropin B analog (CB-1)
-KWKVFKKIEKMGRNIRNGIVKAGPKWKVFKKIEK~
-4113.0527
-4110.4689
-0.00 EC_50
-Peptide
-Data
-3211
-Precursor of cecropin A from Cecropia (moth)
-KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAKG
-4061.8050
-4059.3765
-0.00 EC_50
-Peptide
-Data
-3212
-Cecropin A from Cecropia (moth)
-KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK~
-4003.7690
-4001.3711
-0.00 EC_50
-Peptide
-Data
-3213
-Antithrombotic peptide
-HLGGAKQAGDV
-1052.1390
-1051.5394
-0.00 EC_50
-Peptide
-Data
-3214
-Casoxin from bovine kappa-casein fr: 35-41
-YPSYGLN
-812.8638
-812.3692
-0.00 EC_50
-Peptide
-Data
-3215
-ileum contracting peptide
-YIPIQYVLSR
-1251.4694
-1250.7001
-25.00 EC_50
-Peptide
-Data
-3216
-casoxin C
-YIPIQYVLSR
-1251.4694
-1250.7001
-50.00 EC_50
-Peptide
-Data
-3217
-casoxin (fr.33-38 of bovine kappa-casein)
-SRYPSY
-771.8153
-771.3540
-0.00 EC_50
-Peptide
-Data
-3218
-Casoxin
-YPYY
-604.6488
-604.2524
-0.00 EC_50
-Peptide
-Data
-3219
-Calpain 2 inhibitor
-TIPPEYR
-874.9776
-874.4534
-0.00 IC_50
-Peptide
-Data
-3220
-calpain inhibitor
-EKLGERDDTIPPEYRELLEKKTGVACE
-3119.4509
-3117.5600
-0.00 IC_50
-Peptide
-Data
-3221
-Precursor of antibacterial peptide
-GLLSVLGSVAKHVLPHVVPVIAEHLG
-2642.1381
-2640.5432
-0.00 EC_50
-Peptide
-Data
-3222
-Antibacterial peptide
-GLLSVLGSVAKHVLPHVVPVIAEHL~
-2584.1021
-2582.5378
-0.00 EC_50
-Peptide
-Data
-3223
-C-terminal fr. of human receptor of interleukin
-QRRQRKSRRTI
-1484.7087
-1483.8897
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3209 
+
+ cecropin B analog (CB-1) 
+
+ KWKVFKKIEKMGRNIRNGIVKAGPKWKVFKKIEKG 
+
+ 4171.0887 
+
+ 4168.4743 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3210 
+
+ cecropin B analog (CB-1) 
+
+ KWKVFKKIEKMGRNIRNGIVKAGPKWKVFKKIEK~ 
+
+ 4113.0527 
+
+ 4110.4689 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3211 
+
+ Precursor of cecropin A from Cecropia (moth) 
+
+ KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAKG 
+
+ 4061.8050 
+
+ 4059.3765 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3212 
+
+ Cecropin A from Cecropia (moth) 
+
+ KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK~ 
+
+ 4003.7690 
+
+ 4001.3711 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3213 
+
+ Antithrombotic peptide 
+
+ HLGGAKQAGDV 
+
+ 1052.1390 
+
+ 1051.5394 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3214 
+
+ Casoxin from bovine kappa-casein fr: 35-41 
+
+ YPSYGLN 
+
+ 812.8638 
+
+ 812.3692 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3215 
+
+ ileum contracting peptide 
+
+ YIPIQYVLSR 
+
+ 1251.4694 
+
+ 1250.7001 
+
+ 25.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3216 
+
+ casoxin C 
+
+ YIPIQYVLSR 
+
+ 1251.4694 
+
+ 1250.7001 
+
+ 50.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3217 
+
+ casoxin (fr.33-38 of bovine kappa-casein) 
+
+ SRYPSY 
+
+ 771.8153 
+
+ 771.3540 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3218 
+
+ Casoxin 
+
+ YPYY 
+
+ 604.6488 
+
+ 604.2524 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3219 
+
+ Calpain 2 inhibitor 
+
+ TIPPEYR 
+
+ 874.9776 
+
+ 874.4534 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3220 
+
+ calpain inhibitor 
+
+ EKLGERDDTIPPEYRELLEKKTGVACE 
+
+ 3119.4509 
+
+ 3117.5600 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3221 
+
+ Precursor of antibacterial peptide 
+
+ GLLSVLGSVAKHVLPHVVPVIAEHLG 
+
+ 2642.1381 
+
+ 2640.5432 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3222 
+
+ Antibacterial peptide 
+
+ GLLSVLGSVAKHVLPHVVPVIAEHL~ 
+
+ 2584.1021 
+
+ 2582.5378 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3223 
+
+ C-terminal fr. of human receptor of interleukin 
+
+ QRRQRKSRRTI 
+
+ 1484.7087 
+
+ 1483.8897 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 40 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

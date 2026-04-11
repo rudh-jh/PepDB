@@ -1,0 +1,237 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10922 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KKK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 402.5306 
+
+ Monoisotopic mass 
+
+ 402.2946 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Moreno-Mariscal C., Carrera-Alvarado G., Mora L., Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Neprilysin (NEP) and Angiotensin Converting Enzyme-I (ACE-I) inhibitory dipeptides from chicken carcass hydrolysates. LWT, 221, 117591, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCCCN)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C18H38N6O4/c19-10-4-1-7-13(22)16(25)23-14(8-2-5-11-20)17(26)24-15(18(27)28)9-3-6-12-21/h13-15H,1-12,19-22H2,(H,23,25)(H,24,26)(H,27,28)/t13-,14-,15-/m0/s1
+
+InChIKey=WBSCNDJQPKSPII-KKUMJFAQSA-N
+
+Bacterial permease ligand according to the BIOPEP-UWM database (
+ID 3752)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 25988-63-0
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3752
+
+BRENDA: Ligand Lys-Lys-Lys
+
+CAS: Registry No 25988-63-0
+
+ChEBI: ID CHEBI:160118 
+
+ChEMBL: ID CHEMBL1229077
+
+ChemSpider: 
+ID 65300 
+
+EPA CompTox: ID DTXSID40948891 
+
+J-GLOBAL: 
+ID 200907062475057037
+
+Metabolomics Workbench: 
+ID 83687
+
+Nikkaji: ID J535.915E 
+
+PubChem: CID 72363
+
+UNII: ID Y7F82M80K8 
+
+SureChEMBL: ID SCHEMBL3796535
+
+UniChem: 
+ID 638812
+
+Wikidata: ID Q27294355 
+
+ZINC: ID ZINC000004556777

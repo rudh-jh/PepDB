@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10113 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YLL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 407.5025 
+
+ Monoisotopic mass 
+
+ 407.2412 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 518.54 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Amigo L., Martínez-Maqueda D., Hernández-Ledesma B. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ In silico and in vitro analysis of multifunctionality of animal food-derived peptides. Foods, 9, 991, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [C@H](N)(CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(O)=O
+
+InChI= 1S/C21H33N3O5/c1-12(2)9-17(20(27)24-18(21(28)29)10-13(3)4)23-19(26)16(22)11-14-5-7-15(25)8-6-14/h5-8,12-13,16-18,25H,9-11,22H2,1-4H3,(H,23,26)(H,24,27)(H,28,29)/t16-,17-,18-/m0/s1
+
+InChIKey: KHCSOLAHNLOXJR-BZSNNMDCSA-N
+
+Relative antioxidative activity was: 81.76 mmol Fe/mol peptide
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9349); the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9349
+
+ChEBI: 
+ID 165141
+
+MBPDB: Peptide YLL
+
+PubChem: CID 145458693

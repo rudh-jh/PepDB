@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9236 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LRFF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 581.7046 
+
+ Monoisotopic mass 
+
+ 581.3316 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 116.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Li Y., Sadiq F. A., Liu T. J., Chen J. C., He G. Q. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification and identification of novel peptides with inhibitory effect against angiotensin I-converting enzyme and optimization of process conditions in milk fermented with the yeast Kluyveromyces marxianus. J. Funct. Foods. 2015, 16:278-288. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(CCCNC(N)=N)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(Cc1ccccc1)C(O)=O
+
+InChI=1S/C30H43N7O5/c1-19(2)16-22(31)26(38)35-23(14-9-15-34-30(32)33)27(39)36-24(17-20-10-5-3-6-11-20)28(40)37-25(29(41)42)18-21-12-7-4-8-13-21/h3-8,10-13,19,22-25H,9,14-18,31H2,1-2H3,(H,35,38)(H,36,39)(H,37,40)(H,41,42)(H4,32,33,34)/t22-,23-,24-,25-/m0/s1
+
+InChIKey=AFMAIKCAEUPEPI-QORCZRPOSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ MBPDB: Peptide LRFF

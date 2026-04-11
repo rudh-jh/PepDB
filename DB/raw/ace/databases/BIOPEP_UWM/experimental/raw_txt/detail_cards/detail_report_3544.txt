@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3544 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LNP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 342.3897 
+
+ Monoisotopic mass 
+
+ 342.1897 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 43.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Miyoshi S., Ishikawa H., Kaneko T., Fukui F., Tanaka H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structure and activity of angiotensin-converting enzyme inhibitors in alpha-zein hydrolysate. Agric. Biol. Chem., 55(5), 1313-1318 (1991) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1991 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(CC(N)=O)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C15H26N4O5/c1-8(2)6-9(16)13(21)18-10(7-12(17)20)14(22)19-5-3-4-11(19)15(23)24/h8-11H,3-7,16H2,1-2H3,(H2,17,20)(H,18,21)(H,23,24)/t9-,10-,11-/m0/s1
+
+InChIKey=WGNOPSQMIQERPK-DCAQKATOSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide found also in amaranth protein hydrolysate. 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ 
+
+FeptideDB: 
+ID 3544
+
+PubChem: CID 14889717

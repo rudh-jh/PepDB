@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 344
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=343bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-10884
-Pancreatic lipase inhibitor
-AGY
-309.3170
-309.1320
-1183.00 IC_50
-Peptide
-Data
-10885
-Hypotensive peptide
-TF
-266.2923
-266.1262
-0.00 IC_50
-Peptide
-Data
-10886
-Xanthine oxidase inhibitor
-ALPM
-430.5618
-430.2242
-5.01 IC_50
-Peptide
-Data
-10887
-Hypocholesterolemic peptide
-GLDIQK
-672.7687
-672.3794
-0.00 EC_50
-Peptide
-Data
-10888
-ACE inhibitor
-APFF
-480.5548
-480.2365
-0.00 IC_50
-Peptide
-Data
-10889
-ACE inhibitor
-VGPAPWGF
-829.9388
-829.4110
-0.00 IC_50
-Peptide
-Data
-10890
-ACE inhibitor
-AAIFPGGF
-778.8921
-778.4001
-0.00 IC_50
-Peptide
-Data
-10891
-ACE inhibitor
-LPFL
-488.6180
-488.2989
-0.00 IC_50
-Peptide
-Data
-10892
-ACE inhibitor
-APFL
-446.5385
-446.2521
-0.00 EC_50
-Peptide
-Data
-10893
-Antioxidative peptide
-DPPNPKNL
-893.9809
-893.4592
-0.00 EC_50
-Peptide
-Data
-10894
-Antioxidative peptide
-PAPPPPPP
-768.8972
-768.4157
-0.00 EC_50
-Peptide
-Data
-10895
-Antioxidative peptide
-VYPFPGPLPN
-1100.2627
-1099.5684
-0.00 EC_50
-Peptide
-Data
-10896
-Antioxidative peptide
-PFPGPLPN
-837.9591
-837.4371
-0.00 EC_50
-Peptide
-Data
-10897
-Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-APDPF
-545.5834
-545.2477
-0.00 IC_50
-Peptide
-Data
-10898
-Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-FDPF
-524.5643
-524.2263
-0.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 344 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10884 
+
+ Pancreatic lipase inhibitor 
+
+ AGY 
+
+ 309.3170 
+
+ 309.1320 
+
+ 1183.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10885 
+
+ Hypotensive peptide 
+
+ TF 
+
+ 266.2923 
+
+ 266.1262 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10886 
+
+ Xanthine oxidase inhibitor 
+
+ ALPM 
+
+ 430.5618 
+
+ 430.2242 
+
+ 5.01 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10887 
+
+ Hypocholesterolemic peptide 
+
+ GLDIQK 
+
+ 672.7687 
+
+ 672.3794 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10888 
+
+ ACE inhibitor 
+
+ APFF 
+
+ 480.5548 
+
+ 480.2365 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10889 
+
+ ACE inhibitor 
+
+ VGPAPWGF 
+
+ 829.9388 
+
+ 829.4110 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10890 
+
+ ACE inhibitor 
+
+ AAIFPGGF 
+
+ 778.8921 
+
+ 778.4001 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10891 
+
+ ACE inhibitor 
+
+ LPFL 
+
+ 488.6180 
+
+ 488.2989 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10892 
+
+ ACE inhibitor 
+
+ APFL 
+
+ 446.5385 
+
+ 446.2521 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10893 
+
+ Antioxidative peptide 
+
+ DPPNPKNL 
+
+ 893.9809 
+
+ 893.4592 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10894 
+
+ Antioxidative peptide 
+
+ PAPPPPPP 
+
+ 768.8972 
+
+ 768.4157 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10895 
+
+ Antioxidative peptide 
+
+ VYPFPGPLPN 
+
+ 1100.2627 
+
+ 1099.5684 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10896 
+
+ Antioxidative peptide 
+
+ PFPGPLPN 
+
+ 837.9591 
+
+ 837.4371 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10897 
+
+ Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ APDPF 
+
+ 545.5834 
+
+ 545.2477 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10898 
+
+ Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ FDPF 
+
+ 524.5643 
+
+ 524.2263 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 344 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

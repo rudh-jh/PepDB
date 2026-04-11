@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9829 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AAAPVAVAK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 796.9518 
+
+ Monoisotopic mass 
+
+ 796.4792 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 10.45 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zielińska E., Karaś M., Baraniak B., Jakubczyk A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Evaluation of ACE, alpha‑glucosidase, and lipase inhibitory activities of peptides obtained by in vitro digestion of selected species of edible insects. Eur. Food Res. Technol., 246, 1361-1369, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C36H64N10O10/c1-17(2)26(33(52)40-21(7)30(49)43-24(36(55)56)13-10-11-15-37)44-31(50)22(8)41-34(53)27(18(3)4)45-32(51)25-14-12-16-46(25)35(54)23(9)42-29(48)20(6)39-28(47)19(5)38/h17-27H,10-16,37-38H2,1-9H3,(H,39,47)(H,40,52)(H,41,53)(H,42,48)(H,43,49)(H,44,50)(H,45,51)(H,55,56)/t19-,20-,21-,22-,23-,24-,25-,26-,27-/m0/s1
+
+InChIKey=WUQCVEBPAYSGPV-JOXZBDCSSA-N 
+
+Pancreatic lipase inhibitor according to the BIOPEP-UWM database of bioactive peptides (
+ID 9830)
+
+Inhibitor of Alpha-glucosidase (EC 3.2.1.20) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9831)
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9441)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9441; 9830; 9831

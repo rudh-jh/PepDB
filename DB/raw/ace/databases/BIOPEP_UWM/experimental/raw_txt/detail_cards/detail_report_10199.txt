@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10199 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PFPGPIPN 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 837.9591 
+
+ Monoisotopic mass 
+
+ 837.4371 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 12.79 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lin K., Zhang L., Han X., Cheng D. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel angiotensin I-converting enzyme inhibitory peptides from protease hydrolysates of Qula casein: Quantitative structure-activity relationship modeling and molecular docking study. J. Funct. Foods, 32, 266-277, 2017 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N1[C@@]([H])(CCC1)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=O)N)C(=O)O
+
+InChI=1S/C41H59N9O10/c1-3-24(2)34(40(58)50-20-10-16-31(50)37(55)46-28(41(59)60)22-32(42)51)47-38(56)30-15-8-18-48(30)33(52)23-44-36(54)29-14-9-19-49(29)39(57)27(21-25-11-5-4-6-12-25)45-35(53)26-13-7-17-43-26/h4-6,11-12,24,26-31,34,43H,3,7-10,13-23H2,1-2H3,(H2,42,51)(H,44,54)(H,45,53)(H,46,55)(H,47,56)(H,59,60)/t24-,26-,27-,28-,29-,30-,31-,34-/m0/s1
+
+InChIKey=HKCGEBVAGCUYDX-NSIGZTGPSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

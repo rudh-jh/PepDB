@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10996 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RGGY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 451.4757 
+
+ Monoisotopic mass 
+
+ 451.2173 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu W.-Y., Zhang J.-T., Miyakawa T., Li G.-M., Gu R.-Z. Tanokura M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antioxidant properties and inhibition of angiotensin‑converting enzyme by highly active peptides from wheat gluten. Sci. Rep., 11, 5206, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCNC(=N)N)C(=O)NCC(=O)NCC(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+
+InChI=1S/C19H29N7O6/c20-13(2-1-7-23-19(21)22)17(30)25-9-15(28)24-10-16(29)26-14(18(31)32)8-11-3-5-12(27)6-4-11/h3-6,13-14,27H,1-2,7-10,20H2,(H,24,28)(H,25,30)(H,26,29)(H,31,32)(H4,21,22,23)/t13-,14-/m0/s1
+
+InChIKey=XMAZNIVIFRRLEX-KBPBESRZSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

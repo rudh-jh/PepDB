@@ -1,0 +1,250 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7838 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 333.3384 
+
+ Monoisotopic mass 
+
+ 333.1320 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)O)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C16H19N3O5/c17-11(5-6-14(20)21)15(22)19-13(16(23)24)7-9-8-18-12-4-2-1-3-10(9)12/h1-4,8,11,13,18H,5-7,17H2,(H,19,22)(H,20,21)(H,23,24)/t11-,13-/m0/s1
+
+InChIKey=LLEUXCDZPQOJMY-AAEUAGOBSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8776)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3290, 3340, 3476, 3902, 6741
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8776
+
+CAS: Registry No 38101-59-6
+
+ChEBI: 
+ID 73512
+
+ChEMBL: ID CHEMBL2111029
+
+ChemSpider: 
+ID 90450
+
+DFBP: ID DFBPACEI0844
+
+DrugBank: ID DB05779
+
+EPA CompTox: ID DTXSID10924324
+
+EROP-Moscow: ID E10445
+
+HMDB: ID HMDB0028830
+
+MeSH: Terms: alpha-glutamyltryptophan; Glu-Trp; L-alpha-glutamyl-L-tryptophan 
+
+Metabolomics Workbench: 
+ID 78793
+
+NCI Thesaurus: Code C76274
+
+NIAID: 
+ID 095357
+
+Nikkaji: ID J895.715K
+
+PlantPepDB: ID PPepDB_34 
+
+PubChem: CID 100094
+
+SATPdb: ID satpdb24324
+
+UniChem: 
+ID 26992329
+
+UNII: ID 4RHY598T5U
+
+Wikidata: Q4457491 
+
+ZINC: ID ZINC000001576164

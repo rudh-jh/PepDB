@@ -1,0 +1,203 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9250 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VPSERYL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 862.9669 
+
+ Monoisotopic mass 
+
+ 862.4534 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 232.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Sieber R., Bütikofer U., Egger C., Portmann R., Walther B., Weschsler D. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE-inhibitory activity and ACE-inhibiting peptides in different cheese varieties. Dairy Sci. Technol., 2010, 90:47-73. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2010 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(C(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CCC(O)=O)C(=O)N[C@@]([H])(CCCNC(N)=N)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(C)C)C(O)=O
+
+InChI=1S/C39H62N10O12/c1-20(2)17-27(38(60)61)47-34(56)26(18-22-9-11-23(51)12-10-22)46-32(54)24(7-5-15-43-39(41)42)44-33(55)25(13-14-30(52)53)45-35(57)28(19-50)48-36(58)29-8-6-16-49(29)37(59)31(40)21(3)4/h9-12,20-21,24-29,31,50-51H,5-8,13-19,40H2,1-4H3,(H,44,55)(H,45,57)(H,46,54)(H,47,56)(H,48,58)(H,52,53)(H,60,61)(H4,41,42,43)/t24-,25-,26-,27-,28-,29-,31-/m0/s1
+
+InChIKey: VTSANRNVZZOBGM-IRQHXVELSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1339, 5705
+
+EROP-Moscow: ID E10836
+
+MBPDB: Peptide VPSERYL
+
+SATPdb: ID satpdb28877

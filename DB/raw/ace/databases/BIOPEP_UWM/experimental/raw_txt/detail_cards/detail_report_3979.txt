@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3979 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VLDTDYK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 852.9258 
+
+ Monoisotopic mass 
+
+ 852.4214 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 946.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Pihlanto-Leppala A. et al. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory properties of whey protein digests: concentration and characterization of active peptides.J. Dairy Res., 67, 53-64 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2000 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](C)(O)[C@]([H])(NC(=O)[C@]([H])(CC(O)=O)NC(=O)[C@]([H])(CC(C)C)NC(=O)[C@@]([H])(N)C(C)C)C(=O)N[C@@]([H])(CC(O)=O)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C38H60N8O14/c1-18(2)14-24(44-36(57)30(40)19(3)4)32(53)43-27(17-29(51)52)35(56)46-31(20(5)47)37(58)45-26(16-28(49)50)34(55)42-25(15-21-9-11-22(48)12-10-21)33(54)41-23(38(59)60)8-6-7-13-39/h9-12,18-20,23-27,30-31,47-48H,6-8,13-17,39-40H2,1-5H3,(H,41,54)(H,42,55)(H,43,53)(H,44,57)(H,45,58)(H,46,56)(H,49,50)(H,51,52)(H,59,60)/t20-,23+,24+,25+,26+,27+,30+,31+/m1/s1
+
+InChIKey=NHWGJDKVDDBRRV-DPSUHZEXSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

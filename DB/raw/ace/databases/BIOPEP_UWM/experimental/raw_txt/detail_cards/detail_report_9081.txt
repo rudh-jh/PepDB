@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9081 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PDLVF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 589.6787 
+
+ Monoisotopic mass 
+
+ 589.3101 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 84.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Torkova A., Kononikhin A., Bugrova A., Khotchenkov V., Tsentalovich M., Medvedeva U. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Effect of in vitro gastrointestinal digestion on bioactivity of poultry protein hydrolysate. Curr. Res. Nutr. Food Sci., 4 (SI 2), 77-86, 2016 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2016 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)O
+
+InChI=1S/C29H43N5O8/c1-16(2)13-20(31-26(38)21(15-23(35)36)32-25(37)19-11-8-12-30-19)27(39)34-24(17(3)4)28(40)33-22(29(41)42)14-18-9-6-5-7-10-18/h5-7,9-10,16-17,19-22,24,30H,8,11-15H2,1-4H3,(H,31,38)(H,32,37)(H,33,40)(H,34,39)(H,35,36)(H,41,42)/t19-,20-,21-,22-,24-/m0/s1
+
+InChIKey: ANQBFBSKIMYBNS-YGQNSOCVSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

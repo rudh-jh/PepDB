@@ -1,0 +1,211 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10695 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VKK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 373.4895 
+
+ Monoisotopic mass 
+
+ 373.2681 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1045.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Tsai J. S., Lin T. C., Chen J. L., Pan B. S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ The inhibitory effects of freshwater clam (Corbicula fluminea, Muller) muscle protein hydrolysates on angiotensin I converting enzyme. Process Biochem., 41, 2276-2281, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C17H35N5O4/c1-11(2)14(20)16(24)21-12(7-3-5-9-18)15(23)22-13(17(25)26)8-4-6-10-19/h11-14H,3-10,18-20H2,1-2H3,(H,21,24)(H,22,23)(H,25,26)/t12-,13-,14-/m0/s1
+
+InChIKey=YMTOEGGOCHVGEH-IHRRRGAJSA-N
+
+Activator of Angiotensin 2-converting enzyme (ACE2) (EC 3.4.17.23) (MEROPS ID: M02.006) according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2817, 3697, 4787, 5258, 5739
+
+ChEBI: 
+ID 166286
+
+EROP-Moscow: ID E23528
+
+Metabolomics Workbench: 
+ID 86887 
+
+PubChem: CID 53340373
+
+SATPdb: ID satpdb25587

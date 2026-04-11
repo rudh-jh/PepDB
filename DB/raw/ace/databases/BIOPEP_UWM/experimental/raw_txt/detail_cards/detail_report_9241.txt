@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9241 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MAP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 317.4046 
+
+ Monoisotopic mass 
+
+ 317.1404 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Tonouchi H., Suzuki M., Uchida M., Oda M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive effect of an angiotensin converting enzyme inhibitory peptide from enzyme modified cheese, J. Dairy Res. 75 (2008) 284-290. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCSC)C(=O)N[C@@]([H])(C)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C13H23N3O4S/c1-8(15-11(17)9(14)5-7-21-2)12(18)16-6-3-4-10(16)13(19)20/h8-10H,3-7,14H2,1-2H3,(H,15,17)(H,19,20)/t8-,9-,10-/m0/s1
+
+InChIKey=ULNXMMYXQKGNPG-GUBZILKMSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2759, 4194, 4973
+
+ChemSpider: 
+ID 9476539
+
+MBPDB: Peptide MAP
+
+PubChem: CID 11301562
+
+SATPdb: ID satpdb11615

@@ -1,0 +1,222 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10059 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YLGYLE 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 756.8403 
+
+ Monoisotopic mass 
+
+ 756.3681 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 85.76 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Amigo L., Martínez-Maqueda D., Hernández-Ledesma B. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ In silico and in vitro analysis of multifunctionality of animal food-derived peptides. Foods, 9, 991, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(C)C)C(=O)NCC(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCC(O)=O)C(O)=O
+
+InChI=1S/C37H52N6O11/c1-20(2)15-28(42-33(49)26(38)17-22-5-9-24(44)10-6-22)34(50)39-19-31(46)40-30(18-23-7-11-25(45)12-8-23)36(52)43-29(16-21(3)4)35(51)41-27(37(53)54)13-14-32(47)48/h5-12,20-21,26-30,44-45H,13-19,38H2,1-4H3,(H,39,50)(H,40,46)(H,41,51)(H,42,49)(H,43,52)(H,47,48)(H,53,54)/t26-,27-,28-,29-,30-/m0/s1
+
+InChIKey=LEDKTLOMOHNIFX-IIZANFQQSA-N
+
+Opioid peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 3265); the MBPDB database
+
+Peptide stimulating mucin secretion in intestinal cells according to the BIOPEP-UWM database of bioactive peptides (
+ID 8338), the MBPDB database
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10057); the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 3265; 8338; 10057
+
+ChemSpider: 
+ID 8366175
+
+EPA-DSSTox: ID DTXSID50436517
+
+EROP-Moscow: ID E14751
+
+FeptideDB: 
+ID 3265
+
+MBPDB: Peptide YLGYLE
+
+PepBank: Peptide YLGYLE
+
+PubChem: CID 10190674

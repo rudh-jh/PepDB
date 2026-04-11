@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3417 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PTHIKWGD 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 953.0496 
+
+ Monoisotopic mass 
+
+ 952.4752 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohama Y., Matsumoto S., Oka H., Teramoto T., Okabe M., Mimura T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Isolation of angiotensin-converting enzyme inhibitor from tuna muscle. Biochem. Biophys. Res. Commun., 155, 332-337 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1988 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](C)(O)[C@]([H])(NC(=O)[C@]1([H])CCCN1)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@]([H])(C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)NCC(=O)N[C@@]([H])(CC(O)=O)C(O)=O)[C@@]([H])(C)CC
+
+InChI=1S/C44H64N12O12/c1-4-23(2)36(55-41(64)32(17-26-20-46-22-50-26)54-43(66)37(24(3)57)56-39(62)29-13-9-15-47-29)42(65)52-30(12-7-8-14-45)40(63)53-31(16-25-19-48-28-11-6-5-10-27(25)28)38(61)49-21-34(58)51-33(44(67)68)18-35(59)60/h5-6,10-11,19-20,22-24,29-33,36-37,47-48,57H,4,7-9,12-18,21,45H2,1-3H3,(H,46,50)(H,49,61)(H,51,58)(H,52,65)(H,53,63)(H,54,66)(H,55,64)(H,56,62)(H,59,60)(H,67,68)/t23-,24+,29-,30-,31-,32-,33-,36-,37-/m0/s1
+
+InChIKey=QEULPEXEDWQVEI-DAZSAYDVSA-N
+
+EC50 value from article: Murray B. A., FitzGerald R. J., 2007. Curr. Pharm. Des. 13, 8, 773-791. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

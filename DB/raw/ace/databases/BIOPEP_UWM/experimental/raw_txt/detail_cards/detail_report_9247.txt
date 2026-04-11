@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9247 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TYKEE 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 668.6909 
+
+ Monoisotopic mass 
+
+ 668.3006 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 18.58 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Donkor O. N., Henriksson A., Singh T. K., Vasiljevic T., Shah N. P. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE inhibitory activity of probiotic yoghurt. Int. Dairy J. 2007;17:1321-1331. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)O
+
+InChI=1S/C29H44N6O12/c1-15(36)24(31)28(45)35-21(14-16-5-7-17(37)8-6-16)27(44)32-18(4-2-3-13-30)25(42)33-19(9-11-22(38)39)26(43)34-20(29(46)47)10-12-23(40)41/h5-8,15,18-21,24,36-37H,2-4,9-14,30-31H2,1H3,(H,32,44)(H,33,42)(H,34,43)(H,35,45)(H,38,39)(H,40,41)(H,46,47)/t15-,18+,19+,20+,21+,24+/m1/s1
+
+InChIKey=QEWIMXUOOARVNE-MXAMYCJDSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ DFBP: ID DFBPACEI1112

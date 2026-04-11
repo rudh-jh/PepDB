@@ -1,0 +1,244 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11113 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 367.3976 
+
+ Monoisotopic mass 
+
+ 367.1527 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 113.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Foltz M., van Buren L., Klaffke W., Duchateau G. S. M. J. E. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Modeling of the relationship between dipeptide structure and dipeptide stability permeability and ACE inhibitory activity. J. Food Sci., 74, H234-H251, 2009 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2009 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+
+InChI=1S/C20H21N3O4/c21-16(10-13-11-22-17-4-2-1-3-15(13)17)19(25)23-18(20(26)27)9-12-5-7-14(24)8-6-12/h1-8,11,16,18,22,24H,9-10,21H2,(H,23,25)(H,26,27)/t16-,18-/m0/s1
+
+InChIKey=TYYLDKGBCJGJGW-WMZOPIPTSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 7898); the DFBP database; the EROP-Moscow database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8683), the ChEMBL database, the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6963 
+
+BindingDB: 
+ID 50188524
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7898, 8683
+
+CAS: Registry No 19653-76-0 
+
+ChEBI: 
+ID 74878 
+
+ChEMBL: ID CHEMBL39179 
+
+ChemSpider ID: 79554
+
+DFBP: ID DFBPACEI0077, DFBPANOX0290, DFBPMUFU0035
+
+EPA CompTox: ID DTXSID90941418
+
+EROP-Moscow: ID E10362
+
+FooDB: ID FDB112099
+
+HMDB: ID HMDB0029095 
+
+J-GLOBAL: 
+ID 200907018141468193
+
+Metabolomics Workbench: 
+ID 79014 
+
+Nikkaji: ID J151.290K 
+
+PubChem: CID 88184
+
+SATPdb: ID satpdb10615
+
+Wikidata: ID Q27144988 
+
+ZINC: ID ZINC000002384987

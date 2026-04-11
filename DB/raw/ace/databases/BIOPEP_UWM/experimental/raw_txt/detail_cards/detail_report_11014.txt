@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11014 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RWL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 473.5671 
+
+ Monoisotopic mass 
+
+ 473.2743 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 580.12 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zhu R., Zhang H., Wu Y., Li H., Tang H., Xu X., Zhao K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Exploration and molecular mechanism of novel ACE inhibitory peptides from goat milk protein: A combined in silico and in vitro study. Int. Dairy J., 167, 106265, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C23H35N7O4/c1-13(2)10-19(22(33)34)30-21(32)18(11-14-12-28-17-8-4-3-6-15(14)17)29-20(31)16(24)7-5-9-27-23(25)26/h3-4,6,8,12-13,16,18-19,28H,5,7,9-11,24H2,1-2H3,(H,29,31)(H,30,32)(H,33,34)(H4,25,26,27)/t16-,18-,19-/m0/s1
+
+InChIKey=YHZQOSXDTFRZKU-WDSOQIARSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChEBI: 
+ID 159378 
+
+Metabolomics Workbench: 
+ID 79806 
+
+PubChem: CID 25069730 
+
+UniChem: 
+ID 34579864
+
+Wikidata: ID Q106027111

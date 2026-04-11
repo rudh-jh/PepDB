@@ -1,0 +1,223 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9874 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IRW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 473.5671 
+
+ Monoisotopic mass 
+
+ 473.2743 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.61 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Majumder K., Wu J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification and characterisation of angiotensin I converting enzyme (ACE) inhibitory peptides derived from enzymatic hydrolysate of ovotransferrin. Food Chem., 126, 1614-1619, 2011 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2011 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H]([C@H](CC)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC1=C[N]([H])C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C23H35N7O4/c1-3-13(2)19(24)21(32)29-17(9-6-10-27-23(25)26)20(31)30-18(22(33)34)11-14-12-28-16-8-5-4-7-15(14)16/h4-5,7-8,12-13,17-19,28H,3,6,9-11,24H2,1-2H3,(H,29,32)(H,30,31)(H,33,34)(H4,25,26,27)/t13-,17-,18-,19-/m0/s1
+
+InChIKey=ZXJFURYTPZMUNY-VKOGCVSHSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8213)
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9875)
+
+Anti-inflammatory peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9876)
+
+Activator of Angiotensin 2-converting enzyme (EC 3.4.17.23) (MEROPS ID: M02.006) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9877); the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1938, 2041, 2211
+
+BioPepDB: ID biopep00589
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8213; 9875; 9876; 9877
+
+EROP-Moscow: ID E23666
+
+FeptideDB: 
+ID 8213
+
+PubChem: CID: 46912244
+
+SATPdb: ID satpdb10670

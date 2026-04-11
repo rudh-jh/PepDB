@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 281
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=280bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-9939
-ACE inhibitor
-SVYT
-468.4995
-468.2212
-63.00 IC_50
-Peptide
-Data
-9940
-ACE inhibitor
-WVYY
-629.7012
-629.2840
-27.00 IC_50
-Peptide
-Data
-9941
-ACE inhibitor
-WYT
-468.5012
-468.2002
-54.00 IC_50
-Peptide
-Data
-9942
-ACE inhibitor
-EF
-294.3024
-294.1211
-0.00 IC_50
-Peptide
-Data
-9943
-Antioxidative peptide
-FEQL
-535.5885
-535.2633
-0.00 EC_50
-Peptide
-Data
-9944
-ACE inhibitor
-ER
-303.3141
-303.1538
-270.00 IC_50
-Peptide
-Data
-9945
-ACE inhibitor
-SLR
-374.4347
-374.2271
-170.00 IC_50
-Peptide
-Data
-9946
-ACE inhibitor
-YY
-344.3610
-344.1367
-180.00 IC_50
-Peptide
-Data
-9947
-CaMPDE inhibitor
-AGA
-217.2218
-217.1059
-0.00 IC_50
-Peptide
-Data
-9948
-CaMPDE inhibitor
-AKLMS
-548.6958
-548.2982
-0.00 IC_50
-Peptide
-Data
-9949
-CaMPDE inhibitor
-KQLSTGC
-735.8488
-735.3573
-0.00 IC_50
-Peptide
-Data
-9950
-CaMPDE inhibitor
-QIAK
-458.5508
-458.2844
-0.00 IC_50
-Peptide
-Data
-9951
-CaMPDE inhibitor
-QQAKQ
-601.6514
-601.3174
-0.00 IC_50
-Peptide
-Data
-9952
-CaMPDE inhibitor
-RWIQ
-601.6960
-601.3327
-0.00 IC_50
-Peptide
-Data
-9953
-anxiolytic-like peptide
-YLG
-351.3965
-351.1788
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 281 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9939 
+
+ ACE inhibitor 
+
+ SVYT 
+
+ 468.4995 
+
+ 468.2212 
+
+ 63.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9940 
+
+ ACE inhibitor 
+
+ WVYY 
+
+ 629.7012 
+
+ 629.2840 
+
+ 27.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9941 
+
+ ACE inhibitor 
+
+ WYT 
+
+ 468.5012 
+
+ 468.2002 
+
+ 54.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9942 
+
+ ACE inhibitor 
+
+ EF 
+
+ 294.3024 
+
+ 294.1211 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9943 
+
+ Antioxidative peptide 
+
+ FEQL 
+
+ 535.5885 
+
+ 535.2633 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9944 
+
+ ACE inhibitor 
+
+ ER 
+
+ 303.3141 
+
+ 303.1538 
+
+ 270.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9945 
+
+ ACE inhibitor 
+
+ SLR 
+
+ 374.4347 
+
+ 374.2271 
+
+ 170.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9946 
+
+ ACE inhibitor 
+
+ YY 
+
+ 344.3610 
+
+ 344.1367 
+
+ 180.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9947 
+
+ CaMPDE inhibitor 
+
+ AGA 
+
+ 217.2218 
+
+ 217.1059 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9948 
+
+ CaMPDE inhibitor 
+
+ AKLMS 
+
+ 548.6958 
+
+ 548.2982 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9949 
+
+ CaMPDE inhibitor 
+
+ KQLSTGC 
+
+ 735.8488 
+
+ 735.3573 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9950 
+
+ CaMPDE inhibitor 
+
+ QIAK 
+
+ 458.5508 
+
+ 458.2844 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9951 
+
+ CaMPDE inhibitor 
+
+ QQAKQ 
+
+ 601.6514 
+
+ 601.3174 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9952 
+
+ CaMPDE inhibitor 
+
+ RWIQ 
+
+ 601.6960 
+
+ 601.3327 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9953 
+
+ anxiolytic-like peptide 
+
+ YLG 
+
+ 351.3965 
+
+ 351.1788 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 281 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11000 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ILR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 400.5148 
+
+ Monoisotopic mass 
+
+ 400.2790 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu W.-Y., Zhang J.-T., Miyakawa T., Li G.-M., Gu R.-Z. Tanokura M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antioxidant properties and inhibition of angiotensin‑converting enzyme by highly active peptides from wheat gluten. Sci. Rep., 11, 5206, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C18H36N6O4/c1-5-11(4)14(19)16(26)24-13(9-10(2)3)15(25)23-12(17(27)28)7-6-8-22-18(20)21/h10-14H,5-9,19H2,1-4H3,(H,23,25)(H,24,26)(H,27,28)(H4,20,21,22)/t11-,12-,13-,14-/m0/s1
+
+InChIKey=PKGGWLOLRLOPGK-XUXIUFHCSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChEBI: 
+ID 158532 
+
+Metabolomics Workbench: 
+ID 82857 
+
+PubChem: CID 25217846
+
+UniChem: 
+ID 32103705
+
+Wikidata: ID Q106026838

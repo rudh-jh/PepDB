@@ -1,0 +1,237 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9033 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GLY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 351.3965 
+
+ Monoisotopic mass 
+
+ 351.1788 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 8.91 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O
+
+InChI=1S/C17H25N3O5/c1-10(2)7-13(19-15(22)9-18)16(23)20-14(17(24)25)8-11-3-5-12(21)6-4-11/h3-6,10,13-14,21H,7-9,18H2,1-2H3,(H,19,22)(H,20,23)(H,24,25)/t13-,14-/m0/s1 
+
+InChIKey: AFWYPMDMDYCKMD-KBPBESRZSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide regulating phosphoinositol metabolism according to the BIOPEP-UWM database of bioactive peptides (
+ID 2739)
+
+Immunostimulating peptide according to the EROP-Moscow database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids, the ChEMBL database 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1548, 2682
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 2739
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 479
+
+Brenda: Ligand Gly-Leu-Tyr
+
+ChEMBL: ID CHEMBL55636
+
+ChemIDplus: 
+ID 004306245
+
+ChemSpider: 
+ID 87417
+
+EROP-Moscow: ID E09275
+
+J-GLOBAL: 
+ID 200907057286269771
+
+Nikkaji: ID J151.045B
+
+PubChem: CID 6992403
+
+SATPdb: ID satpdb12559
+
+SureChEMBL: ID SCHEMBL10520794
+
+ZINC: ID ZINC000001575534

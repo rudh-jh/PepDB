@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10232 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WLP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 414.4968 
+
+ Monoisotopic mass 
+
+ 414.2260 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Terashima M., Oe M., Ogura K., Matsumura S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition strength of short peptides derived from an ACE inhibitory peptide. J. Agric. Food Chem., 59, 11234-11237, 2011 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2011 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C22H30N4O4/c1-13(2)10-18(21(28)26-9-5-8-19(26)22(29)30)25-20(27)16(23)11-14-12-24-17-7-4-3-6-15(14)17/h3-4,6-7,12-13,16,18-19,24H,5,8-11,23H2,1-2H3,(H,25,27)(H,29,30)/t16-,18-,19-/m0/s1
+
+InChIKey=GWBWCGITOYODER-WDSOQIARSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10229)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2836
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 10229
+
+EROP-Moscow: ID E10374
+
+SATPdb: ID satpdb25845

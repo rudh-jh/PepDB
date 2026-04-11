@@ -1,0 +1,269 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7584 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 186.2078 
+
+ Monoisotopic mass 
+
+ 186.1001 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 230.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N1[C@H](C(=O)O)CCC1)C
+
+InChI=1S/C8H14N2O3/c1-5(9)7(11)10-4-2-3-6(10)8(12)13/h5-6H,2-4,9H2,1H3,(H,12,13)/t5-,6-/m0/s1
+
+InChIKey=WPWUFUBLGADILS-WDSKDSINSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 3177); the BRENDA database; the EROP-Moscow database;
+
+Inhibitor of Tripeptidyl peptidase 2 (TPP 2) (EC 3.4.14.10) (MEROPS ID: S08.090) according to the ChEMBL database; the PubChem database; the BRENDA database
+
+Inhibitor of Peptidylprolyl isomerase (EC 5.2.1.8) according to the BRENDA database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1079, 1118, 1504, 1507, 3223, 3420, 3468, 3554, 3607, 3706, 3792, 3890, 4060, 4438, 4498, 4685, 5135, 5639, 5675, 6162, 6570
+
+BindingDB: 
+ID 50020390
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3177
+
+BRENDA: Ligand Ala-Pro
+
+CAS: Registry No 13485-59-1 
+
+ChEBI: 
+ID 73393
+
+ChEMBL: ID CHEMBL414828
+
+ChemIDplus: 
+ID 013485591
+
+ChemSpider: 
+ID 75359
+
+EChA: 
+ID 236-795-8 
+
+EROP-Moscow: ID E09221
+
+FDA SRS: ID C6G5K79L0O
+
+FooDB: ID FDB098189
+
+HMDB: ID HMDB0028695 
+
+J-GLOBAL: 
+ID 200907099385554660
+
+MeSH: Terms Ala-Pro; L-alanyl-L-proline 
+
+Metabolights: ID MTBLC73393, MTBLC155848
+
+Metabolomics Workbench: 
+ID 78670 
+
+Nikkaji: ID J81.627B
+
+NMRShiftDB: 
+ID 60021737
+
+PlantPepDB: ID PPepDB_2898
+
+PubChem: 
+ID 83525
+
+Rhea: 
+ID 155848
+
+SATPdb: ID satpdb17029
+
+SureChEMBL: ID SCHEMBL152403
+
+UNII: ID C6G5K79L0O
+
+Wikidata: ID Q27140485 
+
+ZINC: ID ZINC04521128

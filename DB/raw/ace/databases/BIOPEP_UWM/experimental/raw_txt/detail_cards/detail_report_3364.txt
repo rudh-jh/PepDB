@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3364 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+HGLF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 472.5361 
+
+ Monoisotopic mass 
+
+ 472.2427 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Mullally M. M., Meisel H., FitzGerald R. J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Synthetic peptides corresponding to a-lactalbumin and a-lactoglobulin sequences with angiotensin-I-converting enzyme inhibitory activity. Biol. Chem. Hoppe-Seyler, 377, 259-261 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1996 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC1=CN=CN1)C(=O)NCC(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(O)=O
+
+InChI=1S/C23H32N6O5/c1-14(2)8-18(22(32)29-19(23(33)34)9-15-6-4-3-5-7-15)28-20(30)12-26-21(31)17(24)10-16-11-25-13-27-16/h3-7,11,13-14,17-19H,8-10,12,24H2,1-2H3,(H,25,27)(H,26,31)(H,28,30)(H,29,32)(H,33,34)/t17-,18-,19-/m0/s1
+
+InChIKey=JOAGXTNVDXKNBJ-FHWLQOOXSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

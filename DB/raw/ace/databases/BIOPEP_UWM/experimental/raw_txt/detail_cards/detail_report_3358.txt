@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3358 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YALPHA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 670.7546 
+
+ Monoisotopic mass 
+
+ 670.3428 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 9.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wako Y., Ishikawa S., Muramoto K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitors in autolysates of squid liver and mantle muscle. Biosci. Biotech. Biochem., 60, 1353-1355 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1996 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CC1=CN=CN1)C(=O)N[C@@]([H])(C)C(O)=O
+
+InChI=1S/C32H46N8O8/c1-17(2)12-25(39-27(42)18(3)36-28(43)23(33)13-20-7-9-22(41)10-8-20)31(46)40-11-5-6-26(40)30(45)38-24(14-21-15-34-16-35-21)29(44)37-19(4)32(47)48/h7-10,15-19,23-26,41H,5-6,11-14,33H2,1-4H3,(H,34,35)(H,36,43)(H,37,44)(H,38,45)(H,39,42)(H,47,48)/t18-,19-,23-,24-,25-,26-/m0/s1
+
+InChIKey=KHUGCVPFJKGJAB-AEVZMIFCSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

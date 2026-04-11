@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 2619 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TVYTKGRVMP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1151.3766 
+
+ Monoisotopic mass 
+
+ 1150.6149 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 38.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human beta-casein. Agric. Biol. Chem. 53, 2107-2114 (1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](C)(O)[C@]([H])(N)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@]([H])(C(=O)N[C@@]([H])(CCCCN)C(=O)NCC(=O)N[C@@]([H])(CCCNC(N)=N)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCSC)C(=O)N1CCC[C@@]1([H])C(O)=O)[C@@]([H])(C)O
+
+InChI=1S/C51H86N14O14S/c1-26(2)39(46(74)60-34(19-23-80-7)49(77)65-22-11-14-36(65)50(78)79)62-43(71)33(13-10-21-56-51(54)55)58-37(69)25-57-42(70)32(12-8-9-20-52)59-48(76)41(29(6)67)64-44(72)35(24-30-15-17-31(68)18-16-30)61-47(75)40(27(3)4)63-45(73)38(53)28(5)66/h15-18,26-29,32-36,38-41,66-68H,8-14,19-25,52-53H2,1-7H3,(H,57,70)(H,58,69)(H,59,76)(H,60,74)(H,61,75)(H,62,71)(H,63,73)(H,64,72)(H,78,79)(H4,54,55,56)/t28-,29-,32+,33+,34+,35+,36+,38+,39+,40+,41+/m1/s1
+
+InChIKey=VOTVRSWNNVBBHR-OJUFOGIPSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 5992, 6288, 6817
+
+EROP-Moscow: ID E14604
+
+MBPDB: Peptide TVYTKGRVMP
+
+SATPdb: ID satpdb25421

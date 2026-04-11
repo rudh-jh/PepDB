@@ -1,0 +1,197 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7502 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IVR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 386.4883 
+
+ Monoisotopic mass 
+
+ 386.2634 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.81 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Rawendra R. D. S., Aisha, Chen S.-H., Chang C.-I., Shih W.-L., Huang T.-C., Liao M.-H., Hsu J.-L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Isolation and characterization of a novel angiotensin-converting enzyme-inhibitory tripeptide from enzymatic hydrolysis of soft-shelled turtle (Pelodiscus sinensis) egg white: In vitro, in vivo, and in silico study. J. Agric. Food Chem., 62, 12178-12 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP database of bioactive peptides
+
+SMILES: N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O
+
+InChI=1S/C17H34N6O4/c1-5-10(4)12(18)14(24)23-13(9(2)3)15(25)22-11(16(26)27)7-6-8-21-17(19)20/h9-13H,5-8,18H2,1-4H3,(H,22,25)(H,23,24)(H,26,27)(H4,19,20,21)/t10-,11-,12-,13-/m0/s1
+
+InChIKey: IPFKIGNDTUOFAF-CYDGBPFRSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ PubChem: 
+ID 25217595

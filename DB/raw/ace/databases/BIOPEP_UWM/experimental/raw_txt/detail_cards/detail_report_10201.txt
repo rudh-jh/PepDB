@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10201 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GETGPAGPAGAAGPAGPR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 18 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1490.5730 
+
+ Monoisotopic mass 
+
+ 1489.7251 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Choonpicharn S., Tateing S., Jaturasitha S., Rakariyatham N., Suree N., Niamsup H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of bioactive peptide from Oreochromis niloticus skin gelatin. J. Food Sci. Technol., 53, 1222–1229, 2016 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2016 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C62H99N21O22/c1-30(51(94)68-26-44(87)81-21-9-14-39(81)57(100)75-33(4)53(96)70-28-46(89)83-23-11-16-41(83)59(102)78-37(61(104)105)12-7-19-66-62(64)65)73-54(97)34(5)72-43(86)25-67-50(93)31(2)74-56(99)38-13-8-20-80(38)45(88)27-69-52(95)32(3)76-58(101)40-15-10-22-82(40)47(90)29-71-60(103)49(35(6)84)79-55(98)36(17-18-48(91)92)77-42(85)24-63/h30-41,49,84H,7-29,63H2,1-6H3,(H,67,93)(H,68,94)(H,69,95)(H,70,96)(H,71,103)(H,72,86)(H,73,97)(H,74,99)(H,75,100)(H,76,101)(H,77,85)(H,78,102)(H,79,98)(H,91,92)(H,104,105)(H4,64,65,66)/t30-,31-,32-,33-,34-,35+,36-,37-,38-,39-,40-,41-,49-/m0/s1
+
+InChIKey=JCJQSSVOKLFWOK-CWLGETEUSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

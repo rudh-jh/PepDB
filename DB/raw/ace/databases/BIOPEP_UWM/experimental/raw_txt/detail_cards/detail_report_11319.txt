@@ -1,0 +1,229 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11319 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PPF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 359.4185 
+
+ Monoisotopic mass 
+
+ 359.1839 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 239.33 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gu J., Yue S., Yang X., Lu Z., Wang Z., Wei X., Zhou L., Zhao Z., Shi Z., Zhao Z. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Unlocking novel angiotensin-converting enzyme inhibitory peptides from Nili Ravi buffalo milk β-casein: A synergistic strategy combining targeted hydrolysis, 3D-QSAR modeling, and mechanistic insights. Food Biosci., 71, 107346, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+BIOPEP-UWM database of sensory peptides and amino acids
+
+SMILES: N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C19H25N3O4/c23-17(21-15(19(25)26)12-13-6-2-1-3-7-13)16-9-5-11-22(16)18(24)14-8-4-10-20-14/h1-3,6-7,14-16,20H,4-5,8-12H2,(H,21,23)(H,25,26)/t14-,15-,16-/m0/s1
+
+InChIKey=NAIPAPCKKRCMBL-JYJNAYRXSA-N
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 59)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 59
+
+ChEBI: 
+ID 162604 
+
+ChemSpider: 
+ID 8308601
+
+DFBP: ID DFBPACEI2317; DFBPACEI2446
+
+J-GLOBAL: 
+ID 200907063158029644
+
+Metabolomics Workbench: 
+ID 84949 
+
+Nikkaji: ID J1.735.080C 
+
+PubChem: CID 10133086
+
+SATPdb: ID satpdb14566
+
+SureChEMBL: ID SCHEMBL29484185
+
+UniChem: 
+ID 34695967
+
+Wikidata: ID Q106028093

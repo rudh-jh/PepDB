@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9129 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VSGAGRY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 708.7612 
+
+ Monoisotopic mass 
+
+ 708.3544 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 8.64 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Priyanto A. D., Doerksen R. J., Chang C.-I., Sung W.-C., Widjanarko S. B., Kusnadi J., Lin Y.-C., Wang T.-C., Hsu J.-L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Screening, discovery, and characterization of angiotensin-I converting enzyme inhibitory peptides derived from proteolytic hydrolysate of bitter melon seed proteins. J. Proteom., 128, 424-435, 2015 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)O
+
+InChI=1S/C30H48N10O10/c1-15(2)24(31)28(48)40-21(14-41)26(46)36-12-22(43)37-16(3)25(45)35-13-23(44)38-19(5-4-10-34-30(32)33)27(47)39-20(29(49)50)11-17-6-8-18(42)9-7-17/h6-9,15-16,19-21,24,41-42H,4-5,10-14,31H2,1-3H3,(H,35,45)(H,36,46)(H,37,43)(H,38,44)(H,39,47)(H,40,48)(H,49,50)(H4,32,33,34)/t16-,19-,20-,21-,24-/m0/s1
+
+InChIKey: CQBLVPOPZVSCAA-CYBFVLSLSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

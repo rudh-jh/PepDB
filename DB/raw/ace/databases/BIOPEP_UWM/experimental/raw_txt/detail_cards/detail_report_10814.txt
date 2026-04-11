@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10814 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LGAVPPRY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 872.0199 
+
+ Monoisotopic mass 
+
+ 871.4901 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 29.30 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Suleman D. N., Sutopo C. C. Y., Hsu J.-L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Characterization of novel angiotensin-I converting enzyme inhibitory peptides derived from Taiwan red quinoa (Chenopodium formosanum Koidz.) seed proteins using two sequential bioassay guided fractionations. Med. Chem. Res., 33, 107–116, 2024 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2024 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)NCC(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+
+InChI=1S/C41H65N11O10/c1-22(2)19-27(42)35(56)46-21-32(54)47-24(5)34(55)50-33(23(3)4)39(60)52-18-8-11-31(52)38(59)51-17-7-10-30(51)37(58)48-28(9-6-16-45-41(43)44)36(57)49-29(40(61)62)20-25-12-14-26(53)15-13-25/h12-15,22-24,27-31,33,53H,6-11,16-21,42H2,1-5H3,(H,46,56)(H,47,54)(H,48,58)(H,49,57)(H,50,55)(H,61,62)(H4,43,44,45)/t24-,27-,28-,29-,30-,31-,33-/m0/s1
+
+InChIKey=ZAFJOXKRKCSDCW-YHAIKQLXSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

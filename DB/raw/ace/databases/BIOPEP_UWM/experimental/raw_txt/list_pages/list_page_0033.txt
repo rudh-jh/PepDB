@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 33
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=32bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-3101
-beta-amyloid protein fragment:25-35
-GSNKGAIIGLM
-1060.2662
-1059.5728
-0.00 EC_50
-Peptide
-Data
-3102
-fragment of beta-amyloid protein:12-28
-VHHQKLVFFAEDVGSNK
-1955.1713
-1954.0030
-0.00 EC_50
-Peptide
-Data
-3103
-fragment of beta-amyloid protein: 1-28
-DAEFRHDSGYEVHHQKLVFFAEDVGSNK
-3262.4497
-3260.5227
-0.00 EC_50
-Peptide
-Data
-3104
-fragment of beta-amyloid protein: 1-16
-DAEFRHDSGYQVHHQK
-1954.0182
-1952.8851
-0.00 EC_50
-Peptide
-Data
-3105
-fragment of anafylatoxin C3a: 70-77
-ASHLGLAR
-823.9375
-823.4651
-0.00 EC_50
-Peptide
-Data
-3106
-adrenocorticotropic hormone Y fr: 4-9
-YMEHFRW
-1068.2058
-1067.4633
-0.00 EC_50
-Peptide
-Data
-3107
-adrenocorticotropin hormone fr. 7-38
-FRWGKPVGKKRRPVKVYPNGAEDESAEAFPLE
-3659.1045
-3656.9157
-0.00 EC_50
-Peptide
-Data
-3108
-adrenocorticotropin hormone fr.:4-11
-MEHFRWGK
-1090.2559
-1089.5163
-0.00 EC_50
-Peptide
-Data
-3109
-adrenocorticotropin hormone fr.: 4-10
-MEHFRWG
-962.0841
-961.4216
-0.00 EC_50
-Peptide
-Data
-3110
-adrenocorticotropin hormone fr.:11-24
-KPVGKKRRPVKVYP
-1652.0337
-1651.0380
-0.00 EC_50
-Peptide
-Data
-3111
-adrenocorticotropin hormone fr.: 1-4
-SYSM
-486.5391
-486.1777
-0.00 EC_50
-Peptide
-Data
-3112
-adrenocorticotropin hormone fr.: 1-24
-SYSMEHFRWGKPVGKKRRPVKVYP
-2933.4297
-2931.5760
-0.00 EC_50
-Peptide
-Data
-3113
-adrenocorticotropin hormone fr.: 1-17
-SYSMEHFRWGKPVGKKR
-2093.4086
-2092.0757
-0.00 EC_50
-Peptide
-Data
-3114
-adrenocorticotropin hormone fr.: 1-16
-SYSMEHFRWGKPVGKK
-1937.2234
-1935.9748
-0.00 EC_50
-Peptide
-Data
-3115
-adrenocorticotropin hormone fr.: 1-14
-SYSMEHFRWGKPVG
-1680.8798
-1679.7854
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 33 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3101 
+
+ beta-amyloid protein fragment:25-35 
+
+ GSNKGAIIGLM 
+
+ 1060.2662 
+
+ 1059.5728 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3102 
+
+ fragment of beta-amyloid protein:12-28 
+
+ VHHQKLVFFAEDVGSNK 
+
+ 1955.1713 
+
+ 1954.0030 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3103 
+
+ fragment of beta-amyloid protein: 1-28 
+
+ DAEFRHDSGYEVHHQKLVFFAEDVGSNK 
+
+ 3262.4497 
+
+ 3260.5227 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3104 
+
+ fragment of beta-amyloid protein: 1-16 
+
+ DAEFRHDSGYQVHHQK 
+
+ 1954.0182 
+
+ 1952.8851 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3105 
+
+ fragment of anafylatoxin C3a: 70-77 
+
+ ASHLGLAR 
+
+ 823.9375 
+
+ 823.4651 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3106 
+
+ adrenocorticotropic hormone Y fr: 4-9 
+
+ YMEHFRW 
+
+ 1068.2058 
+
+ 1067.4633 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3107 
+
+ adrenocorticotropin hormone fr. 7-38 
+
+ FRWGKPVGKKRRPVKVYPNGAEDESAEAFPLE 
+
+ 3659.1045 
+
+ 3656.9157 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3108 
+
+ adrenocorticotropin hormone fr.:4-11 
+
+ MEHFRWGK 
+
+ 1090.2559 
+
+ 1089.5163 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3109 
+
+ adrenocorticotropin hormone fr.: 4-10 
+
+ MEHFRWG 
+
+ 962.0841 
+
+ 961.4216 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3110 
+
+ adrenocorticotropin hormone fr.:11-24 
+
+ KPVGKKRRPVKVYP 
+
+ 1652.0337 
+
+ 1651.0380 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3111 
+
+ adrenocorticotropin hormone fr.: 1-4 
+
+ SYSM 
+
+ 486.5391 
+
+ 486.1777 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3112 
+
+ adrenocorticotropin hormone fr.: 1-24 
+
+ SYSMEHFRWGKPVGKKRRPVKVYP 
+
+ 2933.4297 
+
+ 2931.5760 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3113 
+
+ adrenocorticotropin hormone fr.: 1-17 
+
+ SYSMEHFRWGKPVGKKR 
+
+ 2093.4086 
+
+ 2092.0757 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3114 
+
+ adrenocorticotropin hormone fr.: 1-16 
+
+ SYSMEHFRWGKPVGKK 
+
+ 1937.2234 
+
+ 1935.9748 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3115 
+
+ adrenocorticotropin hormone fr.: 1-14 
+
+ SYSMEHFRWGKPVG 
+
+ 1680.8798 
+
+ 1679.7854 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 33 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

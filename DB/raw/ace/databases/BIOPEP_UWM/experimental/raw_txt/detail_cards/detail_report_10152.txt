@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10152 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VPLW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 513.6275 
+
+ Monoisotopic mass 
+
+ 513.2942 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 24.12 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Aiemratchanee P., Panyawechamontri K., Phaophu P., Reamtong O., Panbangred W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ In vitro antihypertensive activity of bioactive peptides derived from porcine blood corpuscle and plasma proteins. Int. J. Food Sci. Technol., 56, 2315–2324, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](C(C)C)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC2=C[N]([H])C3=CC=CC=C23)C(=O)O
+
+InChI=1S/C27H39N5O5/c1-15(2)12-20(30-25(34)22-10-7-11-32(22)26(35)23(28)16(3)4)24(33)31-21(27(36)37)13-17-14-29-19-9-6-5-8-18(17)19/h5-6,8-9,14-16,20-23,29H,7,10-13,28H2,1-4H3,(H,30,34)(H,31,33)(H,36,37)/t20-,21-,22-,23-/m0/s1
+
+InChIKey=FPRZYIUJYIBWJN-MLCQCVOFSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

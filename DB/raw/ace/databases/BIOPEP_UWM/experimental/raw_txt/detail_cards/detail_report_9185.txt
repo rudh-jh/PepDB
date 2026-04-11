@@ -1,0 +1,218 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9185 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YN 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 295.2905 
+
+ Monoisotopic mass 
+
+ 295.1164 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 51.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Tsai J.-S., Chen J.-L., Pan B. S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE-inhibitory peptides identified from the muscle protein hydrolysate of hard clam (Meretrix lusoria). Process Biochem., 43, 743-747, 2008 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CC(=O)N)C(=O)O
+
+InChI=1S/C13H17N3O5/c14-9(5-7-1-3-8(17)4-2-7)12(19)16-10(13(20)21)6-11(15)18/h1-4,9-10,17H,5-6,14H2,(H2,15,18)(H,16,19)(H,20,21)/t9-,10-/m0/s1
+
+InChIKey: ONWMQORSVZYVNH-UWVGGRQHSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8942)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1045, 4736, 5185, 5750
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8942
+
+ChemSpider: 
+ID 49745317
+
+PubChem: 
+ID 44230566
+
+SATPdb: ID satpdb27216
+
+PubChem: 
+ID 44230566
+
+SATPdb: ID satpdb27216

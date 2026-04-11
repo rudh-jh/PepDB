@@ -1,0 +1,225 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10255 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+HPHPHLSF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 971.0698 
+
+ Monoisotopic mass 
+
+ 970.4760 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gómez-Ruiz J. Á, Ramos M., Recio I. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of novel angiotensin-converting enzyme-inhibitory peptides from ovine milk proteins by CE-MS and chromatographic techniques. Electrophoresis, 22, 4202-4211, 2007 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CN=C[NH]1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C46H62N14O10/c1-26(2)14-32(39(62)58-36(22-61)41(64)57-35(46(69)70)15-27-8-4-3-5-9-27)54-40(63)33(17-29-20-49-24-52-29)55-42(65)38-11-7-13-60(38)45(68)34(18-30-21-50-25-53-30)56-43(66)37-10-6-12-59(37)44(67)31(47)16-28-19-48-23-51-28/h3-5,8-9,19-21,23-26,31-38,61H,6-7,10-18,22,47H2,1-2H3,(H,48,51)(H,49,52)(H,50,53)(H,54,63)(H,55,65)(H,56,66)(H,57,64)(H,58,62)(H,69,70)/t31-,32-,33-,34-,35-,36-,37-,38-/m0/s1
+
+InChIKey=CAUGYGWAFDJIGN-QSVFAHTRSA-N
+
+Osteoanabolic peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10251); the MBPDB database
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10254); the DFBP database
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10256); the DFBP database; the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1736, 4156, 4190, 5035
+
+BioPepDB: ID biopep00469
+
+BIOPEP-UWM database of bioactive peptides
+
+DFBP: ID DFBPACEI1466; DFBPANHY0968; DFBPANOX0258; DFBPMUFU0397
+
+EROP-Moscow: ID E14759
+
+J-GLOBAL: 
+ID 200907085393914110
+
+MBPDB: peptide HPHPHLSF
+
+Nikkaji: ID J2.666.949I
+
+PubChem: CID 102027191
+
+SATPdb: ID satpdb21333

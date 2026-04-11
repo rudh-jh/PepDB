@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9217 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TFPHGP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 654.7123 
+
+ Monoisotopic mass 
+
+ 654.3116 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 833.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Liu R., Zhu Y., Chen J., Wu H., Shi L., Wang X., Wang L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification and identification of antihypertensive peptides from seaweed pipefish (Syngnathus schlegeli) muscle protein hydrolysate. Food Res. Int., 44, 703-707, 2011 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2011 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)NCC(=O)N1CCC[C@H]1C(=O)O)Cc1[nH]cnc1)Cc1ccccc1)[C@@H](C)O
+
+InChI=1S/C31H42N8O8/c1-18(40)26(32)29(44)37-22(13-19-7-3-2-4-8-19)30(45)39-12-5-9-23(39)28(43)36-21(14-20-15-33-17-35-20)27(42)34-16-25(41)38-11-6-10-24(38)31(46)47/h2-4,7-8,15,17-18,21-24,26,40H,5-6,9-14,16,32H2,1H3,(H,33,35)(H,34,42)(H,36,43)(H,37,44)(H,46,47)/t18-,21+,22+,23+,24+,26+/m1/s1 
+
+InChIKey: VQSXVZFPJNVNNR-VXCGBPEZSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1106; 2813; 2918; 3704
+
+SATPdb: ID satpdb14137

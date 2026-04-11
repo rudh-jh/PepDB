@@ -1,0 +1,246 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10923 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 186.2078 
+
+ Monoisotopic mass 
+
+ 186.1001 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Moreno-Mariscal C., Carrera-Alvarado G., Mora L., Toldrá F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Neprilysin (NEP) and Angiotensin Converting Enzyme-I (ACE-I) inhibitory dipeptides from chicken carcass hydrolysates. LWT, 221, 117591, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(NC(=O)[C@]1([H])CCCN1)C(O)=O
+
+InChI=1S/C8H14N2O3/c1-5(8(12)13)10-7(11)6-3-2-4-9-6/h5-6,9H,2-4H2,1H3,(H,10,11)(H,12,13)/t5-,6-/m0/s1
+
+InChIKey=FELJDCNGZFDUNR-WDSKDSINSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database (
+ID 3179)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 472)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3871
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3179
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 472
+
+BRENDA: Ligand Pro-Ala
+
+CAS: Registry No 6422-36-2 
+
+ChEBI: 
+ID 74753
+
+ChEMBL: ID CHEMBL293555
+
+ChemSpider: 
+ID 4894114
+
+EROP-Moscow: ID E09231
+
+FooDB: ID FDB112026
+
+HMDB: ID HMDB0029010
+
+J-GLOBAL: 
+ID 200907046022308050
+
+Metabolomics Workbench: 
+ID 78936 
+
+Nikkaji: ID J149.647F
+
+PubChem: 
+ID 6347578
+
+SATPdb: ID satpdb21841
+
+SureChEMBL: ID SCHEMBL2841482
+
+Wikidata: ID Q27144880 
+
+ZINC: ID ZINC04038298

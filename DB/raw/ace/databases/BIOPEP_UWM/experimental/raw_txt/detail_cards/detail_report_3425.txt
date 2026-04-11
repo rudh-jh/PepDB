@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3425 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+NRVYVHPF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1031.1645 
+
+ Monoisotopic mass 
+
+ 1030.5333 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cushman D. W., Cheung H. S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Spectrophotometric assay and properties of the angiotensin-converting enzyme from rabbit lung. Biochem. Pharm., 20, 1637-1648 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1971 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(N)=O)C(=O)N[C@@]([H])(CCCNC(N)=N)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccccc1)C(O)=O
+
+InChI=1S/C49H70N14O11/c1-26(2)39(61-42(67)33(12-8-18-55-49(52)53)57-41(66)32(50)23-38(51)65)45(70)58-34(20-29-14-16-31(64)17-15-29)43(68)62-40(27(3)4)46(71)59-35(22-30-24-54-25-56-30)47(72)63-19-9-13-37(63)44(69)60-36(48(73)74)21-28-10-6-5-7-11-28/h5-7,10-11,14-17,24-27,32-37,39-40,64H,8-9,12-13,18-23,50H2,1-4H3,(H2,51,65)(H,54,56)(H,57,66)(H,58,70)(H,59,71)(H,60,69)(H,61,67)(H,62,68)(H,73,74)(H4,52,53,55)/t32-,33-,34-,35-,36-,37-,39-,40-/m0/s1
+
+InChIKey=JYPVVOOBQVVUQV-CGHBYZBKSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

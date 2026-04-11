@@ -1,0 +1,264 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7583 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 236.2664 
+
+ Monoisotopic mass 
+
+ 236.1157 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 190.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C12H16N2O3/c1-8(13)11(15)14-10(12(16)17)7-9-5-3-2-4-6-9/h2-6,8,10H,7,13H2,1H3,(H,14,15)(H,16,17)/t8-,10-/m0/s1
+
+InChIKey=OMNVYXHOSHNURL-WPRPVWTQSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Tripeptidyl peptidase 2 (EC 3.4.14.10) (MEROPS ID: S08.090 ) according to the BIOPEP-UWM database of bioactive peptides; the BRENDA database; the ChEMBL database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8759)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 50); ChEMBL database; EROP-Moscow database (ID E04069)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1271; 1363; 1410; 1503; 1678; 1892; 1896; 2591; 2747; 3031; 3222; 3344; 3419; 3465; 3790; 3846; 3886; 4441; 4496; 4679; 5429; 5787; 6211; 6569
+
+BindingDB: 
+ID 50188503
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8759
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 50
+
+BRENDA: Ligand Ala-Phe
+
+CAS: Registry No 3061-90-3 
+
+ChEBI: 
+ID 73807
+
+ChEMBL: ID CHEMBL57338
+
+ChemIDPlus: 
+ID 3061-90-3
+
+ChemSpider ID: 87414
+
+DFBP: ID DFBPACEI0116; 
+
+EPA CompTox: ID DTXSID801312981 
+
+EROP-Moscow: ID E04069; E03700
+
+FooDB: ID FDB111753
+
+HMDB: ID HMDB0028694 
+
+J-GLOBAL: 
+ID 200907056679638527 
+
+MeSH: Terms Ala-Phe; alanylphenylalanine; L-alanyl-L-phenylalanine
+
+Metabolights: ID MTBLC73807
+
+Metabolomics Workbench: 
+ID 78669 
+
+Nikkaji: ID J80.627G 
+
+NMRShiftDB: 
+ID 60022205
+
+PlantPepDB: ID PPepDB_241
+
+ProbesDrugs: ID PD165131
+
+PubChem: 
+ID 6992394
+
+ZINC: ID ZINC01575524

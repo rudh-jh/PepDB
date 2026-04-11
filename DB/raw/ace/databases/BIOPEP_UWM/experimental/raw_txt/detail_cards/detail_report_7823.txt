@@ -1,0 +1,211 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7823 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FAL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 349.4236 
+
+ Monoisotopic mass 
+
+ 349.1995 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 26.30 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Suetsuna K., Chen J. R. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of antihypertensive peptides from peptic digest of two microalgae, Chlorella vulgaris and Spirulina platensis. Marine Biotechnol., 3, 305-309, 2001 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2001 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](C)C(=O)N[C@@H](CC(C)C)C(=O)O
+
+InChI=1S/C18H27N3O4/c1-11(2)9-15(18(24)25)21-16(22)12(3)20-17(23)14(19)10-13-7-5-4-6-8-13/h4-8,11-12,14-15H,9-10,19H2,1-3H3,(H,20,23)(H,21,22)(H,24,25)/t12-,14-,15-/m0/s1
+
+InChIKey=BBDSZDHUCPSYAC-QEJZJMRPSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1032, 1571, 1863, 1867, 3478, 3904, 5100, 6726
+
+BioPepDB: ID biopep00207
+
+ChEBI: 
+ID 161260
+
+EROP-Moscow: ID E07053
+
+FeptideDB: 
+ID 7823
+
+PubChem: CID 145457126
+
+SATPdb: ID satpdb26947

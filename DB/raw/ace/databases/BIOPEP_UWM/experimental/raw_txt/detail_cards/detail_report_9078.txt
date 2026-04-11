@@ -1,0 +1,240 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9078 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YE 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 310.3018 
+
+ Monoisotopic mass 
+
+ 310.1160 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 630.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)O
+
+InChI=1S/C14H18N2O6/c15-10(7-8-1-3-9(17)4-2-8)13(20)16-11(14(21)22)5-6-12(18)19/h1-4,10-11,17H,5-7,15H2,(H,16,20)(H,18,19)(H,21,22)/t10-,11-/m0/s1
+
+InChIKey: PDSLRCZINIDLMU-QWRGUYRKSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8934)
+
+Inhibitor of Glutamate carboxypeptidase (EC 3.4.17.11) (MEROPS ID: M20.001) according to the BRENDA database
+
+Inhibitor of Glutamate carboxypeptidase II (EC 3.4.17.21) (MEROPS ID: M28.010) according to the BRENDA database
+
+Inhibitor of Tubulin-tyrosine ligase (EC 6.3.2.25) according to the BRENDA database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1417
+
+BioPepDB: ID biopep01551
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8934
+
+BRENDA: Ligand Tyr-Glu
+
+ChEBI: 
+ID 74883
+
+ChEMBL: ID CHEMBL1221519
+
+ChemSpider: 
+ID 5373208
+
+J-GLOBAL: 
+ID 200907003942622430
+
+Metabolights: ID MTBLC74883
+
+Nikkaji: ID J150.478I
+
+PubChem: CID 7009628
+
+SDBS: ID SDBS-9381
+
+SureChEMBL: ID SCHEMBL1374181
+
+ZINC: ID ZINC02384847

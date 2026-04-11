@@ -1,0 +1,184 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7607 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GS 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 162.1435 
+
+ Monoisotopic mass 
+
+ 162.0638 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 3800.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ This peptide was also identified in cuttlefish (Sepia officinalis) hydrolysate; IC50=1156.30 uM
+
+Balti R., Bougatef A., Sila A., Guillochon D., Dhulster P., Nedjar-Arroume N. 2015. Nine novel angiotensin I-converting enzyme (ACE) inhibitory peptides from cuttlefish (Sepia officinalis) muscle protein hydrolysates and antihypertensive effect of the potent active peptide in spontaneously hypertensive rats. Food Chemistry, 170, 519-525. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

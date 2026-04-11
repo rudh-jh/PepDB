@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3482 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+SFQPQPLIYP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1189.3556 
+
+ Monoisotopic mass 
+
+ 1188.6159 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human b-casein. Agric. Biol. Chem., 53, 2107-2114 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CO)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@]([H])(C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(O)=O)[C@@]([H])(C)CC
+
+InChI=1S/C58H84N12O15/c1-5-33(4)48(54(80)66-42(30-35-17-19-36(72)20-18-35)57(83)70-27-11-16-45(70)58(84)85)67-51(77)40(28-32(2)3)65-53(79)44-15-10-26-69(44)56(82)39(22-24-47(61)74)63-52(78)43-14-9-25-68(43)55(81)38(21-23-46(60)73)62-50(76)41(64-49(75)37(59)31-71)29-34-12-7-6-8-13-34/h6-8,12-13,17-20,32-33,37-45,48,71-72H,5,9-11,14-16,21-31,59H2,1-4H3,(H2,60,73)(H2,61,74)(H,62,76)(H,63,78)(H,64,75)(H,65,79)(H,66,80)(H,67,77)(H,84,85)/t33-,37-,38-,39-,40-,41-,42-,43-,44-,45-,48-/m0/s1
+
+InChIKey=VECYLVVDTMOQLJ-BMEMEHQISA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

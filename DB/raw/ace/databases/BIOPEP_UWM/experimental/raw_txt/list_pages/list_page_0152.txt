@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 152
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=151bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8003
-synthetic peptide
-LHW
-454.5209
-454.2322
-0.00 EC_50
-Peptide
-Data
-8004
-peptide derived from sardinelle by-products proteins (Sardinella aurita)
-LHY
-431.4843
-431.2162
-0.00 EC_50
-Peptide
-Data
-8005
-synthetic peptide
-LWA
-388.4596
-388.2104
-0.00 EC_50
-Peptide
-Data
-8006
-synthetic peptide
-LWD
-432.4691
-432.2002
-0.00 EC_50
-Peptide
-Data
-8007
-Antioxidative peptide
-LWE
-446.4956
-446.2158
-0.00 EC_50
-Peptide
-Data
-8008
-synthetic peptide
-LWF
-464.5554
-464.2416
-0.00 EC_50
-Peptide
-Data
-8009
-synthetic peptide
-LWG
-374.4331
-374.1948
-0.00 EC_50
-Peptide
-Data
-8010
-synthetic peptide
-LWH
-454.5209
-454.2322
-0.00 EC_50
-Peptide
-Data
-8011
-synthetic peptide
-LWI
-430.5391
-430.2572
-0.00 EC_50
-Peptide
-Data
-8012
-synthetic peptide
-LWK
-445.5537
-445.2681
-0.00 EC_50
-Peptide
-Data
-8013
-Antioxidative peptide
-LWM
-448.5787
-448.2137
-0.00 EC_50
-Peptide
-Data
-8014
-synthetic peptide
-LWN
-431.4843
-431.2162
-0.00 EC_50
-Peptide
-Data
-8015
-synthetic peptide
-LWQ
-445.5108
-445.2318
-0.00 EC_50
-Peptide
-Data
-8016
-synthetic peptide
-LWR
-473.5671
-473.2743
-0.00 EC_50
-Peptide
-Data
-8017
-synthetic peptide
-LWS
-404.4590
-404.2053
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 152 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8003 
+
+ synthetic peptide 
+
+ LHW 
+
+ 454.5209 
+
+ 454.2322 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8004 
+
+ peptide derived from sardinelle by-products proteins (Sardinella aurita) 
+
+ LHY 
+
+ 431.4843 
+
+ 431.2162 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8005 
+
+ synthetic peptide 
+
+ LWA 
+
+ 388.4596 
+
+ 388.2104 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8006 
+
+ synthetic peptide 
+
+ LWD 
+
+ 432.4691 
+
+ 432.2002 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8007 
+
+ Antioxidative peptide 
+
+ LWE 
+
+ 446.4956 
+
+ 446.2158 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8008 
+
+ synthetic peptide 
+
+ LWF 
+
+ 464.5554 
+
+ 464.2416 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8009 
+
+ synthetic peptide 
+
+ LWG 
+
+ 374.4331 
+
+ 374.1948 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8010 
+
+ synthetic peptide 
+
+ LWH 
+
+ 454.5209 
+
+ 454.2322 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8011 
+
+ synthetic peptide 
+
+ LWI 
+
+ 430.5391 
+
+ 430.2572 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8012 
+
+ synthetic peptide 
+
+ LWK 
+
+ 445.5537 
+
+ 445.2681 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8013 
+
+ Antioxidative peptide 
+
+ LWM 
+
+ 448.5787 
+
+ 448.2137 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8014 
+
+ synthetic peptide 
+
+ LWN 
+
+ 431.4843 
+
+ 431.2162 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8015 
+
+ synthetic peptide 
+
+ LWQ 
+
+ 445.5108 
+
+ 445.2318 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8016 
+
+ synthetic peptide 
+
+ LWR 
+
+ 473.5671 
+
+ 473.2743 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8017 
+
+ synthetic peptide 
+
+ LWS 
+
+ 404.4590 
+
+ 404.2053 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 152 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

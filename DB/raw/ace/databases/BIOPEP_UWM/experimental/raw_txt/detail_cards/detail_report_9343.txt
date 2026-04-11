@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9343 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IQW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 445.5108 
+
+ Monoisotopic mass 
+
+ 445.2318 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Majumder K., Chakrabarti S., Morton J.S., Panahi S., Kaufman S., Davidge S.T., Wu J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Egg-derived ACE-inhibitory peptides IQW and LKP reduce blood pressure in spontaneously hypertensive rats. Food Chem.,13, 50-60, 2015 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@](C(N[C@](C(N[C@](C(O)=O)(Cc1c2ccccc2[nH]c1)[H])=O)(CCC(N)=O)[H])=O)([C@@H](C)CC)[H]
+
+InChI=1S/C22H31N5O5/c1-3-12(2)19(24)21(30)26-16(8-9-18(23)28)20(29)27-17(22(31)32)10-13-11-25-15-7-5-4-6-14(13)15/h4-7,11-12,16-17,19,25H,3,8-10,24H2,1-2H3,(H2,23,28)(H,26,30)(H,27,29)(H,31,32)/t12-,16-,17-,19-/m0/s1
+
+InChIKey: MVLDERGQICFFLL-ZQINRCPSSA-N
+
+Peptide reveals blond pressure lowering activity in vivo.
+
+Majumder K., Chakrabarti S., Morton J.S., Panahi S., Kaufman S., Davidge S.T., Wu J., 2015, Egg-derived ACE-inhibitory peptides IQW and LKP reduce blood pressure in spontaneously hypertensive rats. Food Chem., 13, 50-60
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9161) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2042, 2206
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 9161
+
+PubChem: CID 46913346
+
+SATPdb: ID satpdb23379

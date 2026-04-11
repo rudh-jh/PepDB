@@ -1,0 +1,235 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7827 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IE 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 260.2861 
+
+ Monoisotopic mass 
+
+ 260.1367 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)O
+
+InChI=1S/C11H20N2O5/c1-3-6(2)9(12)10(16)13-7(11(17)18)4-5-8(14)15/h6-7,9H,3-5,12H2,1-2H3,(H,13,16)(H,14,15)(H,17,18)/t6-,7-,9-/m0/s1
+
+InChIKey=KTGFOCFYOZQVRJ-ZKWXMUAHSA-N
+
+Inhibitor of Glutamate carboxypeptidase (EC 3.4.17.11) (MEROPS ID: M20.001) according to the BRENDA database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 487); the ChENBL database; the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1701, 2987, 3033, 3113, 3280, 3356, 3437, 3867, 3946, 6730
+
+BioPepDB: ID biopep00496
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 487
+
+BRENDA: Ligand Ile-Glu
+
+ChEBI: 
+ID 137259
+
+ChEMBL: ID CHEMBL436551
+
+ChemSpider: 
+ID 5373205
+
+EROP-Moscow: ID E01850
+
+FeptideDB: 
+ID 7827
+
+J-GLOBAL: 
+ID 201407086499305160
+
+Nikkaji: ID J3.318.463H
+
+PubChem: CID 7009625
+
+SATPdb: ID satpdb19205
+
+SureChEMBL: ID SCHEMBL12496193
+
+ZINC: ID ZINC000002384845

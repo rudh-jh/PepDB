@@ -1,0 +1,233 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7828 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 246.2596 
+
+ Monoisotopic mass 
+
+ 246.1211 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP database of bioactive peptides
+
+SMILES: CC(C)[C@@H](C(=O)O)NC(=O)[C@H](CCC(=O)O)N
+
+InChI=1S/C10H18N2O5/c1-5(2)8(10(16)17)12-9(15)6(11)3-4-7(13)14/h5-6,8H,3-4,11H2,1-2H3,(H,12,15)(H,13,14)(H,16,17)/t6-,8-/m0/s1
+
+InChIKey: SITLTJHOQZFJGG-XPUUQOCRSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001
+
+Peptide found in chicken meat protein hydrolysate:
+
+Maehashi K., Matsuzaki M., Yamamoto Y., Udaka, S. 1999, Isolation of peptides from an enzymatic hydrolysate of food proteins and characterization of their taste properties. Biosci. Biotech. Biochem., 63, 555-559
+
+Sour peptide according to the BIOPEP database of sensory peptides and amino acids (
+ID 267) 
+
+Sweet peptide according to the BIOPEP database of sensory peptides and amino acids (
+ID 308) 
+
+Umami peptide according to the BIOPEP database of sensory peptides and amino acids (
+ID 309)
+
+Bitter peptide according to the BIOPEP database of sensory peptides and amino acids (
+ID 357) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3047; 3104; 3281; 3348; 3438; 3475; 3901; 5441; 6731
+
+BIOPEP database of sensory peptides and amino acids: 
+ID 267; 308; 309; 357
+
+ChEBI: 
+ID 68846
+
+ChemSpider: 
+ID 5360697
+
+EROP-Moscow: ID E03926; E06350
+
+Human Metabolome Database (HMDB): ID HMDB59717
+
+PubChem: 
+ID 6992567
+
+ZINC: ID ZINC01576296

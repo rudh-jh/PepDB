@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 185
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=184bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8499
-Antioxidative peptide
-DHG
-327.2926
-327.1175
-0.00 EC_50
-Peptide
-Data
-8500
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-APG
-243.2590
-243.1215
-40000.00 IC_50
-Peptide
-Data
-8501
-Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-IP
-228.2873
-228.1469
-410.00 IC_50
-Peptide
-Data
-8502
-Antioxidative peptide
-VGDI
-402.4415
-402.2107
-0.00 EC_50
-Peptide
-Data
-8503
-Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-TP
-216.2337
-216.1106
-2370.00 IC_50
-Peptide
-Data
-8504
-Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-WP
-301.3396
-301.1422
-4530.00 IC_50
-Peptide
-Data
-8505
-Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-SP
-202.2072
-202.0950
-5980.00 IC_50
-Peptide
-Data
-8506
-dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-FP
-262.3036
-262.1313
-363.00 IC_50
-Peptide
-Data
-8507
-ACE inhibitor from soybean
-LSW
-404.4590
-404.2053
-2.70 IC_50
-Peptide
-Data
-8508
-ACE inhibitor
-IVF
-377.4766
-377.2307
-33.11 IC_50
-Peptide
-Data
-8509
-ACE inhibitor from soybean
-LNF
-392.4483
-392.2053
-511.40 IC_50
-Peptide
-Data
-8510
-ACE inhibitor from soybean
-LEF
-407.4596
-407.2049
-655.20 IC_50
-Peptide
-Data
-8511
-ACE inhibitor from soya milk
-FFYY
-638.7080
-638.2731
-1.90 IC_50
-Peptide
-Data
-8512
-ACE inhibitor from soya milk
-WHP
-438.4786
-438.2010
-4.80 IC_50
-Peptide
-Data
-8513
-ACE inhibitor from soya milk
-FVP
-361.4343
-361.1995
-10.10 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 185 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8499 
+
+ Antioxidative peptide 
+
+ DHG 
+
+ 327.2926 
+
+ 327.1175 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8500 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ APG 
+
+ 243.2590 
+
+ 243.1215 
+
+ 40000.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8501 
+
+ Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ IP 
+
+ 228.2873 
+
+ 228.1469 
+
+ 410.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8502 
+
+ Antioxidative peptide 
+
+ VGDI 
+
+ 402.4415 
+
+ 402.2107 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8503 
+
+ Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ TP 
+
+ 216.2337 
+
+ 216.1106 
+
+ 2370.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8504 
+
+ Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ WP 
+
+ 301.3396 
+
+ 301.1422 
+
+ 4530.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8505 
+
+ Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ SP 
+
+ 202.2072 
+
+ 202.0950 
+
+ 5980.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8506 
+
+ dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ FP 
+
+ 262.3036 
+
+ 262.1313 
+
+ 363.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8507 
+
+ ACE inhibitor from soybean 
+
+ LSW 
+
+ 404.4590 
+
+ 404.2053 
+
+ 2.70 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8508 
+
+ ACE inhibitor 
+
+ IVF 
+
+ 377.4766 
+
+ 377.2307 
+
+ 33.11 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8509 
+
+ ACE inhibitor from soybean 
+
+ LNF 
+
+ 392.4483 
+
+ 392.2053 
+
+ 511.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8510 
+
+ ACE inhibitor from soybean 
+
+ LEF 
+
+ 407.4596 
+
+ 407.2049 
+
+ 655.20 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8511 
+
+ ACE inhibitor from soya milk 
+
+ FFYY 
+
+ 638.7080 
+
+ 638.2731 
+
+ 1.90 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8512 
+
+ ACE inhibitor from soya milk 
+
+ WHP 
+
+ 438.4786 
+
+ 438.2010 
+
+ 4.80 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8513 
+
+ ACE inhibitor from soya milk 
+
+ FVP 
+
+ 361.4343 
+
+ 361.1995 
+
+ 10.10 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 185 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

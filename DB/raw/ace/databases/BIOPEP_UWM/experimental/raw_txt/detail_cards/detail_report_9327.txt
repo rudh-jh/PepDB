@@ -1,0 +1,199 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9327 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RVR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 429.5163 
+
+ Monoisotopic mass 
+
+ 429.2805 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 526.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Orio L. P., Boschin G., Recca, T., Morelli C. F., Ragona L., Francescato P., Arnoldi A., Speranza G. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ New ACE-inhibitory peptides from hemp seed (Cannabis sativa L.) proteins. J. Agric. Food Chem.,65, 10482-10488, 2017 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCCNC(N)=N)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCCNC(N)=N)C(O)=O
+
+InChI=1S/C17H35N9O4/c1-9(2)12(26-13(27)10(18)5-3-7-23-16(19)20)14(28)25-11(15(29)30)6-4-8-24-17(21)22/h9-12H,3-8,18H2,1-2H3,(H,25,28)(H,26,27)(H,29,30)(H4,19,20,23)(H4,21,22,24)/t10-,11-,12-/m0/s1
+
+InChIKey: ISVACHFCVRKIDG-SRVKXCTJSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChemSpider: 
+ID 8356551
+
+PubChem: CID 10181049

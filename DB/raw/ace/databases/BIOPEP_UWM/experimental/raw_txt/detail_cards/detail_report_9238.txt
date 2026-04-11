@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9238 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LVYPFP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 734.8793 
+
+ Monoisotopic mass 
+
+ 734.3990 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 132.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gonzalez-Gonzalez C., Gibson T., Jauregi P. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel probiotic fermented milk with angiotensin I-converting enzyme inhibitory peptides produced by Bifidobacterium bifidum MF 20/5. Int. J. Food Microbiol. 2013, 167:131-137. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2013 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C39H54N6O8/c1-23(2)20-28(40)34(47)43-33(24(3)4)36(49)42-30(22-26-14-16-27(46)17-15-26)37(50)44-18-8-12-31(44)35(48)41-29(21-25-10-6-5-7-11-25)38(51)45-19-9-13-32(45)39(52)53/h5-7,10-11,14-17,23-24,28-33,46H,8-9,12-13,18-22,40H2,1-4H3,(H,41,48)(H,42,49)(H,43,47)(H,52,53)/t28-,29-,30-,31-,32-,33-/m0/s1
+
+InChIKey: YOZBZDNSPXFCAP-FSJACQRISA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4453
+
+MBPDB: Peptide LVYPFP
+
+SATPdb: ID satpdb20064

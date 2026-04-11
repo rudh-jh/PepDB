@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7070 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LDIQK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 615.7175 
+
+ Monoisotopic mass 
+
+ 615.3580 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 17.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Meisel H., Walsh D. J., Murray B., FitzGerald R. J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE inhibitory peptides. in: Nutraceutical proteins and peptides in health and disease. Mine Y., Shahidi F. (Eds.), CRC Taylor & Francis Group, Boca Raton, London, New York, 269-315, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C27H49N7O9/c1-5-15(4)22(34-25(40)19(13-21(36)37)33-23(38)16(29)12-14(2)3)26(41)31-17(9-10-20(30)35)24(39)32-18(27(42)43)8-6-7-11-28/h14-19,22H,5-13,28-29H2,1-4H3,(H2,30,35)(H,31,41)(H,32,39)(H,33,38)(H,34,40)(H,36,37)(H,42,43)/t15-,16-,17-,18-,19-,22-/m0/s1
+
+InChIKey=YBSCDHHMDIRQTJ-LXYCOOOUSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1308, 2485
+
+ChemSpider: 
+ID 8070893
+
+J-GLOBAL: 
+ID 200907033377164836
+
+Nikkaji: ID J2.319.172E 
+
+PubChem: CID 9895226
+
+SATPdb: ID satpdb17333

@@ -1,0 +1,248 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7836 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 212.2450 
+
+ Monoisotopic mass 
+
+ 212.1157 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: C1C[C@@H](C(=O)N2CCC[C@H]2C(=O)O)NC1
+
+InChI=1S/C10H16N2O3/c13-9(7-3-1-5-11-7)12-6-2-4-8(12)10(14)15/h7-8,11H,1-6H2,(H,14,15)/t7-,8-/m0/s1
+
+InChIKey: RWCOTTLHDJWHRS-YUMQZZPRSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of dipeptidyl peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 3170), the EROP-Moscow database (ID E09232)
+
+Inhibitor of alpha-glucosidase (EC 3.2.1.20) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9651)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3007; 3289; 3445; 3527; 3579; 4007; 5442; 6739
+
+BindingDB: 
+ID 50169141
+
+BioPepDB: ID biopep01074
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3170; 9651
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 5
+
+BRENDA: Ligand Pro-Pro 
+
+CHEBI: 
+ID 73646
+
+ChEMBL: ID CHEMBL371194
+
+ChemSpider: 
+ID 9797341
+
+EROP-Moscow: ID E01865; E09232
+
+HMDB: ID HMDB0011180
+
+J-GLOBAL: 
+ID 200907033363473135
+
+Metabolights: ID MTBLC73646
+
+Nikkaji: ID J364.500B
+
+NIST: 
+ID 20488-28-2
+
+PubChem: CID 11622593
+
+SATPdb: ID satpdb13817
+
+ZINC: ID ZINC04899613

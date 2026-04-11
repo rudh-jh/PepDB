@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 366
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=365bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-11214
-Pseudolysin inhibitor
-{H3PO4}LF
-358.3258
-358.1288
-0.00 IC_50
-Peptide
-Data
-11215
-Pseudolysin inhibitor
-{C2:0[2SH]}LF
-352.4486
-352.1451
-0.00 IC_50
-Peptide
-Data
-11216
-Pseudolysin inhibitor
-{C2:0[2SH]}FL
-352.4486
-352.1451
-0.00 IC_50
-Peptide
-Data
-11217
-Mycolysin inhibitor
-{C2:0[2SH]}LF
-352.4486
-352.1451
-0.00 IC_50
-Peptide
-Data
-11218
-Thermolysin inhibitor
-{H3PO4}LW
-397.3618
-397.1397
-0.00 IC_50
-Peptide
-Data
-11219
-Thermolysin inhibitor
-{H3PO4}IA
-282.2300
-282.0976
-0.00 IC_50
-Peptide
-Data
-11220
-Mycolysin inhibitor
-{C2:0[2SH]}FL
-352.4486
-352.1451
-0.00 IC_50
-Peptide
-Data
-11221
-Immunomodulating peptide
-AMKPWIQPK
-1098.3587
-1097.6037
-0.00 EC_50
-Peptide
-Data
-11222
-Immunomodulating peptide
-NPWDQVKR
-1042.1458
-1041.5340
-0.00 EC_50
-Peptide
-Data
-11223
-ACE inhibitor
-GPFPILV
-741.9148
-741.4411
-424.00 IC_50
-Peptide
-Data
-11224
-ACE inhibitor
-MPFPK
-618.7871
-618.3189
-261.32 IC_50
-Peptide
-Data
-11225
-ACE inhibitor
-TTMPLW
-747.9008
-747.3613
-905.43 IC_50
-Peptide
-Data
-11226
-Opioid
-EMPFPK
-747.9008
-747.3613
-0.00 EC_50
-Peptide
-Data
-11227
-Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor)
-GP{M[5O]}
-319.3775
-319.1197
-790.10 IC_50
-Peptide
-Data
-11228
-Antibacterial peptide
-HWW~
-526.5884
-526.2435
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 366 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11214 
+
+ Pseudolysin inhibitor 
+
+ {H3PO4}LF 
+
+ 358.3258 
+
+ 358.1288 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11215 
+
+ Pseudolysin inhibitor 
+
+ {C2:0[2SH]}LF 
+
+ 352.4486 
+
+ 352.1451 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11216 
+
+ Pseudolysin inhibitor 
+
+ {C2:0[2SH]}FL 
+
+ 352.4486 
+
+ 352.1451 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11217 
+
+ Mycolysin inhibitor 
+
+ {C2:0[2SH]}LF 
+
+ 352.4486 
+
+ 352.1451 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11218 
+
+ Thermolysin inhibitor 
+
+ {H3PO4}LW 
+
+ 397.3618 
+
+ 397.1397 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11219 
+
+ Thermolysin inhibitor 
+
+ {H3PO4}IA 
+
+ 282.2300 
+
+ 282.0976 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11220 
+
+ Mycolysin inhibitor 
+
+ {C2:0[2SH]}FL 
+
+ 352.4486 
+
+ 352.1451 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11221 
+
+ Immunomodulating peptide 
+
+ AMKPWIQPK 
+
+ 1098.3587 
+
+ 1097.6037 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11222 
+
+ Immunomodulating peptide 
+
+ NPWDQVKR 
+
+ 1042.1458 
+
+ 1041.5340 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11223 
+
+ ACE inhibitor 
+
+ GPFPILV 
+
+ 741.9148 
+
+ 741.4411 
+
+ 424.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11224 
+
+ ACE inhibitor 
+
+ MPFPK 
+
+ 618.7871 
+
+ 618.3189 
+
+ 261.32 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11225 
+
+ ACE inhibitor 
+
+ TTMPLW 
+
+ 747.9008 
+
+ 747.3613 
+
+ 905.43 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11226 
+
+ Opioid 
+
+ EMPFPK 
+
+ 747.9008 
+
+ 747.3613 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11227 
+
+ Dipeptidyl peptidase IV inhibitor (DPP IV inhibitor) 
+
+ GP{M[5O]} 
+
+ 319.3775 
+
+ 319.1197 
+
+ 790.10 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 11228 
+
+ Antibacterial peptide 
+
+ HWW~ 
+
+ 526.5884 
+
+ 526.2435 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 366 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

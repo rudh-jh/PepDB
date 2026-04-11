@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 158
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=157bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8093
-peptide derived from porcine collagen
-QGAR
-430.4582
-430.2282
-0.00 EC_50
-Peptide
-Data
-8094
-peptide derived from porcine collagen
-LQGM
-447.5493
-447.2144
-0.00 EC_50
-Peptide
-Data
-8095
-peptide derived from rice endosperm protein
-FRDEHKK
-959.0574
-958.4970
-0.00 EC_50
-Peptide
-Data
-8096
-ACE inhibitor
-AGSS
-320.2983
-320.1327
-672.10 EC_50
-Peptide
-Data
-8097
-NAP
-NAPVSIPQ
-824.9190
-824.4378
-0.00 EC_50
-Peptide
-Data
-8098
-ADNF-9
-SALLRSIPA
-927.0965
-926.5532
-0.00 EC_50
-Peptide
-Data
-8099
-peptide derived from extruded corn gluten
-FPLEMMPF
-1011.2565
-1010.4589
-0.00 EC_50
-Peptide
-Data
-8100
-peptide derived from oyster (Crassostrea gigas)
-LKQELEDLLEKQE
-1614.7874
-1613.8483
-0.00 EC_50
-Peptide
-Data
-8101
-peptide derived from bigeye tuna dark muscle (Thunnus obesus)
-LNLPTAVYMVT
-1221.4629
-1220.6453
-0.00 EC_50
-Peptide
-Data
-8102
-peptide derived from yellowfin sole frame protein (Limanda aspera)
-RPDFDLEPPY
-1248.3368
-1247.5803
-0.00 EC_50
-Peptide
-Data
-8103
-peptide derived from dried bonito
-VKL
-358.4749
-358.2572
-0.00 EC_50
-Peptide
-Data
-8104
-peptide derived from dried bonito
-VVKL
-457.6056
-457.3254
-0.00 EC_50
-Peptide
-Data
-8105
-peptide derived from dried bonito
-VKV
-344.4484
-344.2416
-0.00 EC_50
-Peptide
-Data
-8106
-peptide derived from dried bonito
-PKAV
-413.5103
-413.2630
-0.00 EC_50
-Peptide
-Data
-8107
-peptide derived from dried bonito
-IKL
-372.5014
-372.2728
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 158 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8093 
+
+ peptide derived from porcine collagen 
+
+ QGAR 
+
+ 430.4582 
+
+ 430.2282 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8094 
+
+ peptide derived from porcine collagen 
+
+ LQGM 
+
+ 447.5493 
+
+ 447.2144 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8095 
+
+ peptide derived from rice endosperm protein 
+
+ FRDEHKK 
+
+ 959.0574 
+
+ 958.4970 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8096 
+
+ ACE inhibitor 
+
+ AGSS 
+
+ 320.2983 
+
+ 320.1327 
+
+ 672.10 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8097 
+
+ NAP 
+
+ NAPVSIPQ 
+
+ 824.9190 
+
+ 824.4378 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8098 
+
+ ADNF-9 
+
+ SALLRSIPA 
+
+ 927.0965 
+
+ 926.5532 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8099 
+
+ peptide derived from extruded corn gluten 
+
+ FPLEMMPF 
+
+ 1011.2565 
+
+ 1010.4589 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8100 
+
+ peptide derived from oyster (Crassostrea gigas) 
+
+ LKQELEDLLEKQE 
+
+ 1614.7874 
+
+ 1613.8483 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8101 
+
+ peptide derived from bigeye tuna dark muscle (Thunnus obesus) 
+
+ LNLPTAVYMVT 
+
+ 1221.4629 
+
+ 1220.6453 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8102 
+
+ peptide derived from yellowfin sole frame protein (Limanda aspera) 
+
+ RPDFDLEPPY 
+
+ 1248.3368 
+
+ 1247.5803 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8103 
+
+ peptide derived from dried bonito 
+
+ VKL 
+
+ 358.4749 
+
+ 358.2572 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8104 
+
+ peptide derived from dried bonito 
+
+ VVKL 
+
+ 457.6056 
+
+ 457.3254 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8105 
+
+ peptide derived from dried bonito 
+
+ VKV 
+
+ 344.4484 
+
+ 344.2416 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8106 
+
+ peptide derived from dried bonito 
+
+ PKAV 
+
+ 413.5103 
+
+ 413.2630 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8107 
+
+ peptide derived from dried bonito 
+
+ IKL 
+
+ 372.5014 
+
+ 372.2728 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 158 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

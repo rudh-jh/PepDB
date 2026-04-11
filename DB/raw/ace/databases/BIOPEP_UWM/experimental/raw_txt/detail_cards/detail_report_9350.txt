@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9350 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TTW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 406.4319 
+
+ Monoisotopic mass 
+
+ 406.1846 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.61 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Xie J., Chen X., Wu J., Zhang Y., Zhou Y., Zhang L., Tang Y.-J., Wei D. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive effects, molecular docking study, and isothermal titration calorimetry assay of angiotensin I-converting enzyme inhibitory peptides from Chlorella vulgaris. J. Agric. Food Chem., 66, 1359-1368, 2018 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2018 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](Cc1c[nH]c2ccccc12)(NC(=O)[C@@]([H])(NC(=O)[C@@]([H])(N)[C@@H](C)O)[C@@H](C)O)C(O)=O
+
+InChI=1S/C19H26N4O6/c1-9(24)15(20)17(26)23-16(10(2)25)18(27)22-14(19(28)29)7-11-8-21-13-6-4-3-5-12(11)13/h3-6,8-10,14-16,21,24-25H,7,20H2,1-2H3,(H,22,27)(H,23,26)(H,28,29)/t9-,10-,14+,15+,16+/m1/s1
+
+InChIKey: CSZFFQBUTMGHAH-UAXMHLISSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

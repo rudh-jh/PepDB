@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 11
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=10bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-2731
-renin inhibitor
-PHPFHFFVY
-1190.3471
-1189.5692
-0.00 EC_50
-Peptide
-Data
-2732
-regulating the frequency of heart muscles contraction peptide
-GWFGGADWHA
-1103.1429
-1102.4607
-0.00 EC_50
-Peptide
-Data
-2733
-peptide regulating the frequency of heart muscles contraction
-DRFGDKDIAF
-1183.2669
-1182.5651
-0.00 EC_50
-Peptide
-Data
-2734
-peptide regulating the frequency of heart muscles contraction
-ARRCYNDPKC
-1225.4001
-1224.5475
-0.00 EC_50
-Peptide
-Data
-2735
-peptide regulating the frequency of heart muscles contraction
-IWGCSGKLIC
-1079.3352
-1078.5286
-0.00 EC_50
-Peptide
-Data
-2736
-Peptide regulating phosphoinositole mechanism
-GFW
-408.4494
-408.1792
-0.00 EC_50
-Peptide
-Data
-2737
-Peptide regulating phosphoinositol metabolism
-GFL
-335.3971
-335.1839
-0.00 EC_50
-Peptide
-Data
-2738
-Peptide regulating phosphoinositol metabolism
-LGY
-351.3965
-351.1788
-0.00 EC_50
-Peptide
-Data
-2739
-Peptide regulating phosphoinositol metabolism
-GLY
-351.3965
-351.1788
-0.00 EC_50
-Peptide
-Data
-2740
-Peptide regulating phosphoinositol metabolism
-GLF
-335.3971
-335.1839
-0.00 EC_50
-Peptide
-Data
-2741
-peptide regulating the frequency of heart muscles contraction
-KLDAPTNKWG
-1129.2625
-1128.5909
-0.00 EC_50
-Peptide
-Data
-2742
-peptide activating kinases and phosphatases
-EPFYVNWPD
-1166.2349
-1165.5063
-0.00 EC_50
-Peptide
-Data
-2743
-peptide activating kinases and phosphatases
-EPFYVNDPD
-1095.1126
-1094.4540
-0.00 EC_50
-Peptide
-Data
-2744
-peptide activating kinases and phosphatases
-EPFYENVPD
-1109.1391
-1108.4696
-0.00 EC_50
-Peptide
-Data
-2745
-peptide activating kinases and phosphatases
-EPFYQNVPD
-1108.1543
-1107.4856
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 11 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2731 
+
+ renin inhibitor 
+
+ PHPFHFFVY 
+
+ 1190.3471 
+
+ 1189.5692 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2732 
+
+ regulating the frequency of heart muscles contraction peptide 
+
+ GWFGGADWHA 
+
+ 1103.1429 
+
+ 1102.4607 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2733 
+
+ peptide regulating the frequency of heart muscles contraction 
+
+ DRFGDKDIAF 
+
+ 1183.2669 
+
+ 1182.5651 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2734 
+
+ peptide regulating the frequency of heart muscles contraction 
+
+ ARRCYNDPKC 
+
+ 1225.4001 
+
+ 1224.5475 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2735 
+
+ peptide regulating the frequency of heart muscles contraction 
+
+ IWGCSGKLIC 
+
+ 1079.3352 
+
+ 1078.5286 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2736 
+
+ Peptide regulating phosphoinositole mechanism 
+
+ GFW 
+
+ 408.4494 
+
+ 408.1792 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2737 
+
+ Peptide regulating phosphoinositol metabolism 
+
+ GFL 
+
+ 335.3971 
+
+ 335.1839 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2738 
+
+ Peptide regulating phosphoinositol metabolism 
+
+ LGY 
+
+ 351.3965 
+
+ 351.1788 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2739 
+
+ Peptide regulating phosphoinositol metabolism 
+
+ GLY 
+
+ 351.3965 
+
+ 351.1788 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2740 
+
+ Peptide regulating phosphoinositol metabolism 
+
+ GLF 
+
+ 335.3971 
+
+ 335.1839 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2741 
+
+ peptide regulating the frequency of heart muscles contraction 
+
+ KLDAPTNKWG 
+
+ 1129.2625 
+
+ 1128.5909 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2742 
+
+ peptide activating kinases and phosphatases 
+
+ EPFYVNWPD 
+
+ 1166.2349 
+
+ 1165.5063 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2743 
+
+ peptide activating kinases and phosphatases 
+
+ EPFYVNDPD 
+
+ 1095.1126 
+
+ 1094.4540 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2744 
+
+ peptide activating kinases and phosphatases 
+
+ EPFYENVPD 
+
+ 1109.1391 
+
+ 1108.4696 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2745 
+
+ peptide activating kinases and phosphatases 
+
+ EPFYQNVPD 
+
+ 1108.1543 
+
+ 1107.4856 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 11 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,300 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3532 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 238.2393 
+
+ Monoisotopic mass 
+
+ 238.0950 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 210.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+
+InChI=1S/C11H14N2O4/c12-6-10(15)13-9(11(16)17)5-7-1-3-8(14)4-2-7/h1-4,9,14H,5-6,12H2,(H,13,15)(H,16,17)/t9-/m0/s1
+
+InChIKey=XBGGUPMXALFZOT-VIFPVBQESA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Another value of peptide IC50 = 259 uM 
+
+Saito Y., Wanezaki K., Kawato A., Imayasu S., 1994, Antihypertensive effects of peptide in sake and its by-products on spontaneously antihypertensive rats. Biosci. Biotech. Biochem., 58, 812-816 
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8788)
+
+Inhibitor of tripeptidyl-peptidase II (EC 3.4.14.10) (MEROPS ID: S08.090) according to the BRENDA database
+
+Inhibitor of carboxypeptidase A (EC 3.4.17.1) (MEROPS ID: M14.001) according to the BRENDA database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 32)
+
+Isolated from silk fibroin hydrolysate. 
+
+Zhou F., Xue Z., Wang J., 2010, Antihypertensive effects of silk fibroin hydrolysate by alcalase and purification of an ACE inhibitory dipeptide. J. Agric. Food Chem., 58, 6735-6740 
+
+Found in amaranth (Amarantus hypochondriacus) protein hydrolysate:
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1110; 1140; 1270; 1372; 1380; 1400; 1419; 1809; 1891; 2653; 2746; 2790; 2934; 2980; 3101; 3301; 3496; 3843; 3938; 4075; 4230; 4250; 4251; 4440; 4497; 4682; 5153; 5430; 5591; 5740; 6210; 6450
+
+BindingDB: 
+ID 50188508
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8788
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 32
+
+BRENDA: Ligand Gly-Tyr
+
+CAS: Registry No 658-79-7 
+
+ChEBI: 
+ID 73517
+
+ChEMBL: ID CHEMBL53400
+
+ChemSpider ID: 83798
+
+DFBP: ID DFBPACEI1231, DFBPANHY0659, DFBPANHY0951, DFBPANHY0649, DFBPMUFU0266
+
+DrugBank: ID DB15991 
+
+EChA: 211-525-1
+
+EPA CompTox: ID DTXSID701316223 
+
+EROP-Moscow: ID E09245
+
+FDA SRS: ID A226496H4O
+
+FooDB: ID FDB111885
+
+GSRS: ID f8be4252-ac07-465c-887e-ec15d77e7d6a
+
+HMDB: ID HMDB0028853 
+
+J-GLOBAL: 
+ID 200907090094114372
+
+MeSH: Terms Gly-Tyr; glycyl-L-tyrosine 
+
+Metabolights: ID MTBLC73517
+
+MMDB: 
+ID 3008.2
+
+Metabolomics Workbench: 
+ID 78814 
+
+NIAID: 
+ID 192299, 192300, 192302, 192309
+
+Nikkaji: ID J149.623I 
+
+NMRShiftDB: 
+ID 60023651
+
+PLantPepDB: ID PPepDB_2967
+
+ProbesDrugs: ID PD143805
+
+PubChem: CID 92829
+
+SATPdb: ID satpdb13322
+
+SureChEMBL: ID SCHEMBL479126
+
+UNII: ID A226496H4O 
+
+VMH: ID GLYTYR
+
+Wikidata: Q27140599 
+
+ZINC: ID ZINC01730678

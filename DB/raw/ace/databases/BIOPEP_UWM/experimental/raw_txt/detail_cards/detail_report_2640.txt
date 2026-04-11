@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 2640 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KIYPSFQPQPLIYP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 14 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1690.9724 
+
+ Monoisotopic mass 
+
+ 1689.9101 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 8.60 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human beta-casein. Agric. Biol. Chem., 53(8), 2107-2114 (1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCCCN)C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C84H123N17O20/c1-7-48(5)69(96-71(107)55(86)20-12-13-37-85)78(114)93-60(44-51-25-29-53(103)30-26-51)82(118)100-40-16-23-65(100)77(113)95-62(46-102)74(110)91-59(43-50-18-10-9-11-19-50)72(108)89-56(33-35-67(87)105)80(116)98-38-14-21-63(98)75(111)90-57(34-36-68(88)106)81(117)99-39-15-22-64(99)76(112)92-58(42-47(3)4)73(109)97-70(49(6)8-2)79(115)94-61(45-52-27-31-54(104)32-28-52)83(119)101-41-17-24-66(101)84(120)121/h9-11,18-19,25-32,47-49,55-66,69-70,102-104H,7-8,12-17,20-24,33-46,85-86H2,1-6H3,(H2,87,105)(H2,88,106)(H,89,108)(H,90,111)(H,91,110)(H,92,112)(H,93,114)(H,94,115)(H,95,113)(H,96,107)(H,97,109)(H,120,121)/t48-,49-,55-,56-,57-,58-,59-,60-,61-,62-,63-,64-,65-,66-,69-,70-/m0/s1
+
+InChIKey: RTSOCYWPJUHTGE-JGLPHWPASA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 5977, 6307, 6802
+
+EROP-Moscow: ID E14593
+
+MBPDB: Peptide KIYPSFQPQPLIYP
+
+SATPdb: ID satpdb17547

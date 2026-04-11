@@ -1,0 +1,232 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10568 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WWW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 576.6437 
+
+ Monoisotopic mass 
+
+ 576.2478 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 536.02 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Panyayai T., Sangsawad P., Pacharawongsakda E., Sawatdichaikul O., Tongsima S., Choowongkomon K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ The potential peptides against angiotensin-I converting enzyme through a virtual tripeptide-constructing library. Comput. Biol. Chem., 77, 207-213, 2018 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2018 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C33H32N6O4/c34-25(13-19-16-35-26-10-4-1-7-22(19)26)31(40)38-29(14-20-17-36-27-11-5-2-8-23(20)27)32(41)39-30(33(42)43)15-21-18-37-28-12-6-3-9-24(21)28/h1-12,16-18,25,29-30,35-37H,13-15,34H2,(H,38,40)(H,39,41)(H,42,43)/t25-,29-,30-/m0/s1
+
+InChIKey=KRCAKIVDAFTTGJ-ARVREXMNSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8681)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 343)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BindingDB: 
+ID 50169218
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8681
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 343
+
+CAS: Registry No 59005-82-2
+
+ChEMBL: ID CHEMBL434535
+
+ChemSpider: 
+ID 23257174
+
+EPA CompTox: ID DTXSID80658740
+
+EROP-Moscow: ID E24731
+
+J-GLOBAL: 
+ID 200907051053602855
+
+Metabolomics Workbench: 
+ID 86213
+
+Nikkaji: ID J2.284.672H
+
+PubChem: CID 44398561
+
+SureChEMBL: ID SCHEMBL9868128

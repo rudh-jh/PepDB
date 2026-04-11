@@ -1,0 +1,210 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9665 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IAYKPAG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (ACE) (EC 3.4.15.1; MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 718.8386 
+
+ Monoisotopic mass 
+
+ 718.4001 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 4.20 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yang Y., Marczak E.D., Yokoo M., Usui H., Yoshikawa M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Isolation and antihypertensive effect of angiotensin I-converting enzyme (ACE) inhibitory peptides from spinach Rubisco. J. Agric. Food. Chem. 51(17): 4897-4902, 2003 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2003 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(CCCCN)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)O
+
+InChI=1S/C34H54N8O9/c1-5-19(2)28(36)33(50)39-21(4)30(47)41-25(17-22-11-13-23(43)14-12-22)31(48)40-24(9-6-7-15-35)34(51)42-16-8-10-26(42)32(49)38-20(3)29(46)37-18-27(44)45/h11-14,19-21,24-26,28,43H,5-10,15-18,35-36H2,1-4H3,(H,37,46)(H,38,49)(H,39,50)(H,40,48)(H,41,47)(H,44,45)/t19-,20-,21-,24-,25-,26-,28-/m0/s1
+
+InChIKey=GPOHMCMFILTZSA-NTHYOZQESA-N
+
+Inhibitor of Angiotensin-converting enzyme (ACE) (EC 3.4.15.1; MEROPS ID: M02-001) according to the AHTPDB database; the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2329, 2576, 6227
+
+BioPepDB: ID biopep00493
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 9656
+
+EROP-Moscow: ID E09160
+
+PubChem: CID 25003677
+
+SATPdb: ID satpdb15752

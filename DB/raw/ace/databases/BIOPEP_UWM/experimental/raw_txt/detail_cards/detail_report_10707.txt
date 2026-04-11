@@ -1,0 +1,210 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10707 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VENLHLPLPLL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 11 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1257.5168 
+
+ Monoisotopic mass 
+
+ 1256.7469 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 175.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Robert M. C., Razaname A., Mutter M., Juillerat M. A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of angiotensin-I-converting enzyme inhibitory peptides derived from sodium caseinate hydrolysates produced by Lactobacillus helveticus NCC 2765. J. Agric. Food. Chem., 52, 6923-6931, 2004 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2004 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C60H100N14O15/c1-30(2)21-38(66-54(82)41(27-47(61)75)68-50(78)37(17-18-48(76)77)65-57(85)49(62)35(11)12)51(79)67-40(26-36-28-63-29-64-36)53(81)70-42(23-32(5)6)58(86)74-20-14-16-46(74)56(84)71-43(24-33(7)8)59(87)73-19-13-15-45(73)55(83)69-39(22-31(3)4)52(80)72-44(60(88)89)25-34(9)10/h28-35,37-46,49H,13-27,62H2,1-12H3,(H2,61,75)(H,63,64)(H,65,85)(H,66,82)(H,67,79)(H,68,78)(H,69,83)(H,70,81)(H,71,84)(H,72,80)(H,76,77)(H,88,89)/t37-,38-,39-,40-,41-,42-,43-,44-,45-,46-,49-/m0/s1
+
+InChIKey=DBHLZNQDTOOIDF-PTPXOIFGSA-N
+
+Anticancer peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8317), the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: ID ahtpdb_6946
+
+BIOPEP-UWM database of bioactive peptides 
+ID 8317
+
+DFBP: ID DFBPACEI1438; DFBPANCA0094; DFBPANCA0109; DFBPMUFU0382
+
+EROP-Moscow: ID E09176
+
+MBPDB: Peptide VENLHLPLPLL
+
+SATPdb: ID satpdb15620

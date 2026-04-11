@@ -1,0 +1,254 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7589 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 252.2658 
+
+ Monoisotopic mass 
+
+ 252.1106 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 460.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitors: Evolution of a new class of antihypertensive drugs (page 19). in: Horovitz Z. P. (Ed.) (1981), Mechanisms of action and clinical implications, Urban & Schwarzenberg. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1981 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(C)C(=O)O
+
+InChI=1S/C12H16N2O4/c1-7(12(17)18)14-11(16)10(13)6-8-2-4-9(15)5-3-8/h2-5,7,10,15H,6,13H2,1H3,(H,14,16)(H,17,18)/t7-,10-/m0/s1 
+
+InChIKey: NLKUJNGEGZDXGO-XVKPBYJWSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001 
+
+Peptide found in cod protein hydrolysates:
+
+Geirsdóttir M., 2009, Isolation, purification and investigation of peptides from fish proteins with blood pressure decreasing properties. Report from the project funded by the AVS research fund under the Ministry of Fisheries in Iceland (project no. R-047-07). Matís Report 36-09, Matís, Reykjavik, Iceland, http://www.avs.is/media/avs/36-09_skyrsla_einangrun_peptida.pdf
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID A01.007) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9433)
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8932)
+
+Inhibitor of Alanine carboxypeptidase (EC 3.4.17.6) (MEROPS ID: M9E.002) according to the BRENDA database
+
+Inhibitor of Tubulin-tyrosine ligase (EC 6.3.2.25) according to the BRENDA database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3228, 3547, 3831, 4052, 4433, 4537, 4681, 6575
+
+BindingDB: 
+ID 50169129
+
+BioCyc: ID CPD-20389
+
+BioPepDB: ID biopep01546
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8932, 9433
+
+BRENDA: Ligand Tyr-Ala
+
+ChEBI: 
+ID 74879
+
+ChEMBL: ID CHEMBL316103
+
+ChemDB: 
+ID 192304, 192311
+
+ChemSpider: 
+ID 4593326
+
+J-GLOBAL: 
+ID 200907038195226293
+
+Metabolights: ID MTBLC74879
+
+Nikkaji: ID J150.477K
+
+PubChem: CID 7020632
+
+SATPdb: ID satpdb10716
+
+SDBS: 
+ID 9370
+
+SureChEMBL: ID SCHEMBL238988
+
+ZINC: ID ZINC000002566273

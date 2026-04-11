@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9124 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LSSGDVF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 723.7692 
+
+ Monoisotopic mass 
+
+ 723.3427 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Aluko R. E., Girgih A. T., He R., Malomo S., Li H., Offengenden M., Wu J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural and functional characterization of yellow field pea seed (Pisum sativum L.) protein-derived antihypertensive peptides. Food Res. Int., 77, 10-16, 2015 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)O
+
+InChI=1S/C32H49N7O12/c1-16(2)10-19(33)27(45)37-23(15-41)30(48)38-22(14-40)28(46)34-13-24(42)35-20(12-25(43)44)29(47)39-26(17(3)4)31(49)36-21(32(50)51)11-18-8-6-5-7-9-18/h5-9,16-17,19-23,26,40-41H,10-15,33H2,1-4H3,(H,34,46)(H,35,42)(H,36,49)(H,37,45)(H,38,48)(H,39,47)(H,43,44)(H,50,51)/t19-,20-,21-,22-,23-,26-/m0/s1
+
+InChIKey: IQVQAQNMZKTFKA-DAESNONBSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

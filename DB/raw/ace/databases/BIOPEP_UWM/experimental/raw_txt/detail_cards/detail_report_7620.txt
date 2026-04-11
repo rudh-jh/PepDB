@@ -1,0 +1,248 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7620 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GD 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 190.1536 
+
+ Monoisotopic mass 
+
+ 190.0587 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 9200.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(CC(=O)O)C(=O)O
+
+InChI=1S/C6H10N2O5/c7-2-4(9)8-3(6(12)13)1-5(10)11/h3H,1-2,7H2,(H,8,9)(H,10,11)(H,12,13)/t3-/m0/s1
+
+InChIKey=SCCPDJAQCXWPTF-VKHMYHEASA-N
+
+Inhibitor of Neprilysin (EC 3.4.24.11) (MEROPS ID: M13.001) according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1476, 1693, 3059, 3092, 3096, 3252, 3823, 3915, 4400, 4529, 4657, 6607
+
+BindingDB: 
+ID 50188493
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7620
+
+CAS: Registry No 4685-12-5
+
+ChEBI: 
+ID 73804
+
+ChEMBL: ID CHEMBL91392 
+
+ChemSpider: 
+ID 87881 
+
+DFBP: ID DFBPACEI1629
+
+ECHA: 225-140-1
+
+EROP-Moscow: ID E10390
+
+FooDB: ID FDB111876
+
+HMDB: ID HMDB0028837
+
+J-GLOBAL: 
+ID 200907049288254043
+
+Metabolomics Workbench: 
+ID 78799 
+
+Nikkaji: ID J149.619K 
+
+PlantPepDB: ID PPepDB_51
+
+PubChem: CID 97363
+
+SATPdb: ID satpdb27666
+
+SureChEMBL: ID SCHEMBL3207709
+
+UniChem: 
+ID 546586
+
+Wikidata: ID Q27144120 
+
+ZINC: ID ZINC000001708196

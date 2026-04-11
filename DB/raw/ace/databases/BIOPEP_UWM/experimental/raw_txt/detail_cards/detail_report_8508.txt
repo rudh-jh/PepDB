@@ -1,0 +1,232 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8508 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IVF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 377.4766 
+
+ Monoisotopic mass 
+
+ 377.2307 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 33.11 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Miguel M., Alvarez Y., Lopez-Fandino R., Alonso M. J., Salaices M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Vasodilator effects of peptides derived from egg white proteins. Regulatory Peptides, 140, 131-135, 2007 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C20H31N3O4/c1-5-13(4)16(21)18(24)23-17(12(2)3)19(25)22-15(20(26)27)11-14-9-7-6-8-10-14/h6-10,12-13,15-17H,5,11,21H2,1-4H3,(H,22,25)(H,23,24)(H,26,27)/t13-,15-,16-,17-/m0/s1
+
+InChIKey=WIYDLTIBHZSPKY-HJWJTTGWSA-N
+
+Hypotensive peptide according to the DFBP database; the EROP-Moscow database
+
+Antioxidative peptide according to the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4199, 4974, 5113, 5538
+
+ChEBI: 
+ID 158915
+
+ChemSpider: 
+ID 8040205
+
+DFBP: ID DFBPACEI0956; DFBPACEI1869; DFBPANHY0582; DFBPANOX0984; DFBPMUFU0507
+
+EROP-Moscow: ID E07456
+
+J-GLOBAL: 
+ID 200907073324649546
+
+Metabolomics Workbench: 
+ID 83049 
+
+Nikkaji: ID J2.263.889K
+
+PlantPepDB: ID PPepDB_3791
+
+PubChem: CID 9864513
+
+SATPdb: ID satpdb11295
+
+SureChEMBL: ID SCHEMBL4985114
+
+UniChem: 
+ID 26274429
+
+Wikidata: ID Q106026956

@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10475 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YYLLVR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 825.9913 
+
+ Monoisotopic mass 
+
+ 825.4734 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Song W., Fu J., Zeng Q., Lu H., Wang J., Fang L., Liu X., Min W., Liu C. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Improving ACE inhibitory activity of hazelnut peptide modified by plastein: Physicochemical properties and action mechanism. Food Chem. 402, 134498, 2023. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2023 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: 
+
+N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C41H63N9O9/c1-22(2)18-31(48-37(55)33(21-26-11-15-28(52)16-12-26)47-35(53)29(42)20-25-9-13-27(51)14-10-25)36(54)49-32(19-23(3)4)38(56)50-34(24(5)6)39(57)46-30(40(58)59)8-7-17-45-41(43)44/h9-16,22-24,29-34,51-52H,7-8,17-21,42H2,1-6H3,(H,46,57)(H,47,53)(H,48,55)(H,49,54)(H,50,56)(H,58,59)(H4,43,44,45)/t29-,30-,31-,32-,33-,34-/m0/s1
+
+InChIKey=IQEWIQZVMTWPSL-CVUOCSEZSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

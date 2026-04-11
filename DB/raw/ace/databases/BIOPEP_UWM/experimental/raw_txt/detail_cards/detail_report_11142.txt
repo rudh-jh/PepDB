@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11142 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+DVENLHLPLPL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 11 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1259.4468 
+
+ Monoisotopic mass 
+
+ 1258.6899 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Magouz O., Ibrahim M. A. A., Mehanna N., Gensberger-Reigl S., Dalabasmaz S., Pischetsrieder M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of the heptapeptide PR7 and octapeptide SF8 with potent antioxidative and angiotensin converting enzyme inhibitory activity from the fermented dairy by-product “Buttermilk". Food Front., 6, 837–851, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C58H94N14O17/c1-28(2)19-36(64-52(82)38(25-44(60)73)66-49(79)35(15-16-45(74)75)63-55(85)47(32(9)10)70-48(78)34(59)24-46(76)77)50(80)65-37(23-33-26-61-27-62-33)51(81)67-39(20-29(3)4)56(86)71-17-11-13-42(71)53(83)68-40(21-30(5)6)57(87)72-18-12-14-43(72)54(84)69-41(58(88)89)22-31(7)8/h26-32,34-43,47H,11-25,59H2,1-10H3,(H2,60,73)(H,61,62)(H,63,85)(H,64,82)(H,65,80)(H,66,79)(H,67,81)(H,68,83)(H,69,84)(H,70,78)(H,74,75)(H,76,77)(H,88,89)/t34-,35-,36-,37-,38-,39-,40-,41-,42-,43-,47-/m0/s1
+
+InChIKey=CQTUYSRLKPWJEZ-HAUAEBSWSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

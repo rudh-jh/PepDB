@@ -1,182 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 70
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=69bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-3696
-KKWHRRKK
-1166.4213
-1165.7290
-300.00 EC_50
-Peptide
-Data
-3697
-YPFGFNG
-800.8548
-800.3482
-0.03 EC_50
-Peptide
-Data
-3698
-YPFGFAG
-757.8301
-757.3424
-0.03 EC_50
-Peptide
-Data
-3699
-NRKQDK
-787.8625
-787.4288
-0.00 EC_50
-Peptide
-Data
-3700
-RKQDKR
-829.9453
-829.4869
-0.00 EC_50
-Peptide
-Data
-3701
-ENRKQDKRF
-1220.3349
-1219.6403
-0.00 EC_50
-Peptide
-Data
-3702
-VTKFY
-656.7677
-656.3522
-0.00 EC_50
-Peptide
-Data
-3703
-VTDFY
-643.6831
-643.2843
-0.00 EC_50
-Peptide
-Data
-3704
-YPFGFQG
-814.8813
-814.3638
-0.03 EC_50
-Peptide
-Data
-3705
-YPFGFKG
-814.9242
-814.4001
-0.02 EC_50
-Peptide
-Data
-3706
-YPFGFMG
-817.9492
-817.3457
-0.03 EC_50
-Peptide
-Data
-3707
-YPFGFRG
-842.9376
-842.4063
-0.01 EC_50
-Peptide
-Data
-3708
-RNKPFKFVL
-1148.3962
-1147.6846
-0.00 EC_50
-Peptide
-Data
-3709
-SSRDRNKPFKFML
-1625.8889
-1624.8482
-0.00 EC_50
-Peptide
-Data
-3710
-RNKPFKFML
-1180.4623
-1179.6567
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3696 
+
+ 
+
+ KKWHRRKK 
+
+ 1166.4213 
+
+ 1165.7290 
+
+ 300.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3697 
+
+ 
+
+ YPFGFNG 
+
+ 800.8548 
+
+ 800.3482 
+
+ 0.03 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3698 
+
+ 
+
+ YPFGFAG 
+
+ 757.8301 
+
+ 757.3424 
+
+ 0.03 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3699 
+
+ 
+
+ NRKQDK 
+
+ 787.8625 
+
+ 787.4288 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3700 
+
+ 
+
+ RKQDKR 
+
+ 829.9453 
+
+ 829.4869 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3701 
+
+ 
+
+ ENRKQDKRF 
+
+ 1220.3349 
+
+ 1219.6403 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3702 
+
+ 
+
+ VTKFY 
+
+ 656.7677 
+
+ 656.3522 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3703 
+
+ 
+
+ VTDFY 
+
+ 643.6831 
+
+ 643.2843 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3704 
+
+ 
+
+ YPFGFQG 
+
+ 814.8813 
+
+ 814.3638 
+
+ 0.03 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3705 
+
+ 
+
+ YPFGFKG 
+
+ 814.9242 
+
+ 814.4001 
+
+ 0.02 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3706 
+
+ 
+
+ YPFGFMG 
+
+ 817.9492 
+
+ 817.3457 
+
+ 0.03 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3707 
+
+ 
+
+ YPFGFRG 
+
+ 842.9376 
+
+ 842.4063 
+
+ 0.01 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3708 
+
+ 
+
+ RNKPFKFVL 
+
+ 1148.3962 
+
+ 1147.6846 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3709 
+
+ 
+
+ SSRDRNKPFKFML 
+
+ 1625.8889 
+
+ 1624.8482 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3710 
+
+ 
+
+ RNKPFKFML 
+
+ 1180.4623 
+
+ 1179.6567 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 70 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

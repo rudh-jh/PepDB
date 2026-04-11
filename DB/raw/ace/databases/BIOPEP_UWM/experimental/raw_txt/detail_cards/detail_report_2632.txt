@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 2632 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+QPQPLIYP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 955.1050 
+
+ Monoisotopic mass 
+
+ 954.5158 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 4.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human beta-casein. Agric. Biol. Chem., 53(8), 2107-2114 (1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCC(N)=O)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C46H70N10O12/c1-5-26(4)38(42(63)52-32(24-27-12-14-28(57)15-13-27)45(66)56-22-8-11-35(56)46(67)68)53-39(60)31(23-25(2)3)51-41(62)34-10-7-21-55(34)44(65)30(17-19-37(49)59)50-40(61)33-9-6-20-54(33)43(64)29(47)16-18-36(48)58/h12-15,25-26,29-35,38,57H,5-11,16-24,47H2,1-4H3,(H2,48,58)(H2,49,59)(H,50,61)(H,51,62)(H,52,63)(H,53,60)(H,67,68)/t26-,29-,30-,31-,32-,33-,34-,35-,38-/m0/s1
+
+InChIKey: WTJUWXYRNVDNPM-NGLZDHJISA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 5971, 6301, 6796
+
+EROP-Moscow: ID E14587
+
+MBPDB: Peptide QPQPLIYP
+
+SATPdb: ID satpdb11379

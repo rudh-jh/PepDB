@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10161 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LIIPEH 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 720.8544 
+
+ Monoisotopic mass 
+
+ 720.4157 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ He Z., Liu G., Qiao Z., Cao Y., Song M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel angiotensin-I converting enzyme inhibitory peptides isolated from rice wine lees: purification, characterization, and structure-activity relationship. Front. Nutr., 8, 746113, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)O
+
+InChI=1S/C34H56N8O9/c1-7-19(5)27(40-29(45)22(35)14-18(3)4)32(48)41-28(20(6)8-2)33(49)42-13-9-10-25(42)31(47)38-23(11-12-26(43)44)30(46)39-24(34(50)51)15-21-16-36-17-37-21/h16-20,22-25,27-28H,7-15,35H2,1-6H3,(H,36,37)(H,38,47)(H,39,46)(H,40,45)(H,41,48)(H,43,44)(H,50,51)/t19-,20-,22-,23-,24-,25-,27-,28-/m0/s1
+
+InChIKey=KHNTXTBHRLCAHV-MXCOTKAPSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

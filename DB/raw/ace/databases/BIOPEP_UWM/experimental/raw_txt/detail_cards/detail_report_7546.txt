@@ -1,0 +1,233 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7546 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IKW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 445.5537 
+
+ Monoisotopic mass 
+
+ 445.2681 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.21 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Fujita H., Yokoyama K., Yoshikawa M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Classification of antihypertensive activity of angiotensin I-converting enzyme inhibitory peptides derived from food proteins. J. Food Sci., 65, 564-569, 2000 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2000 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C23H35N5O4/c1-3-14(2)20(25)22(30)27-18(10-6-7-11-24)21(29)28-19(23(31)32)12-15-13-26-17-9-5-4-8-16(15)17/h4-5,8-9,13-14,18-20,26H,3,6-7,10-12,24-25H2,1-2H3,(H,27,30)(H,28,29)(H,31,32)/t14-,18-,19-,20-/m0/s1
+
+InChIKey=CEPIAEUVRKGPGP-DSYPUSFNSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide obtained also from arachin (Arachis hypogaea) protein hydrolysate; EC50 = 19 um 
+
+Jimsheena V. K., Gowda L. R., 2010, Arachin derived peptides as selective angiotensin I-converting enzyme (ACE) inhibitors: structure-activity relationship. Peptides, 31, 1165-1176 
+
+Peptide released from myosin by simulated gastric juice. 
+
+Terashima M., Baba T., Ikemoto N., Katayama M., Morimoto T., Matsumura S., 2010, Novel angiotensin-converting enzyme (ACE) inhibitory peptides derived from boneless chicken leg meat. J. Agric. Food Chem., 58, 7432-7436
+
+Activator of Angiotensin 2-converting enzyme (ACE2) (EC 3.4.17.23) (MEROPS ID: M02.006) according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1598, 1652, 2021, 2599, 2855, 2859, 2894, 3767, 4202, 4975, 5061, 5718, 6532 
+
+BRENDA: Ligand Ile-Lys-Trp
+
+ChEBI: 
+ID 158604
+
+ChemSpider: 
+ID 8000528
+
+DFBP: ID DFBPACEI0090; DFBPANHY0514; DFBPMUFU0042
+
+EROP-Moscow: ID E09190 
+
+J-Global: 
+ID 200907057574999709
+
+Metabolomics Workbench: 
+ID 82893 
+
+Nikkaji: ID J1.356.192C 
+
+PubChem: CID 9824781
+
+SATPdb: ID satpdb19180

@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 150
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=149bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-7973
-synthetic peptide
-YTY
-445.4646
-445.1842
-0.00 EC_50
-Peptide
-Data
-7974
-synthetic peptide
-SYY
-431.4381
-431.1686
-0.00 EC_50
-Peptide
-Data
-7975
-synthetic peptide
-TYY
-445.4646
-445.1842
-0.00 EC_50
-Peptide
-Data
-7976
-synthetic peptide
-YCY
-447.5048
-447.1458
-0.00 EC_50
-Peptide
-Data
-7977
-synthetic peptide
-CYY
-447.5048
-447.1458
-0.00 EC_50
-Peptide
-Data
-7978
-synthetic peptide
-DHH
-407.3804
-407.1549
-0.00 EC_50
-Peptide
-Data
-7979
-synthetic peptide
-EHH
-421.4069
-421.1705
-0.00 EC_50
-Peptide
-Data
-7980
-synthetic peptide
-HHH
-429.4322
-429.1869
-0.00 EC_50
-Peptide
-Data
-7981
-synthetic peptide
-HKH
-420.4650
-420.2228
-0.00 EC_50
-Peptide
-Data
-7982
-synthetic peptide
-HRH
-448.4784
-448.2290
-0.00 EC_50
-Peptide
-Data
-7983
-synthetic peptide
-HAH
-363.3709
-363.1651
-0.00 EC_50
-Peptide
-Data
-7984
-synthetic peptide
-HIH
-405.4504
-405.2119
-0.00 EC_50
-Peptide
-Data
-7985
-synthetic peptide
-HVH
-391.4239
-391.1963
-0.00 EC_50
-Peptide
-Data
-7986
-synthetic peptide
-KHH
-420.4650
-420.2228
-0.00 EC_50
-Peptide
-Data
-7987
-synthetic peptide
-RHH
-448.4784
-448.2290
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 150 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7973 
+
+ synthetic peptide 
+
+ YTY 
+
+ 445.4646 
+
+ 445.1842 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7974 
+
+ synthetic peptide 
+
+ SYY 
+
+ 431.4381 
+
+ 431.1686 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7975 
+
+ synthetic peptide 
+
+ TYY 
+
+ 445.4646 
+
+ 445.1842 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7976 
+
+ synthetic peptide 
+
+ YCY 
+
+ 447.5048 
+
+ 447.1458 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7977 
+
+ synthetic peptide 
+
+ CYY 
+
+ 447.5048 
+
+ 447.1458 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7978 
+
+ synthetic peptide 
+
+ DHH 
+
+ 407.3804 
+
+ 407.1549 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7979 
+
+ synthetic peptide 
+
+ EHH 
+
+ 421.4069 
+
+ 421.1705 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7980 
+
+ synthetic peptide 
+
+ HHH 
+
+ 429.4322 
+
+ 429.1869 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7981 
+
+ synthetic peptide 
+
+ HKH 
+
+ 420.4650 
+
+ 420.2228 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7982 
+
+ synthetic peptide 
+
+ HRH 
+
+ 448.4784 
+
+ 448.2290 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7983 
+
+ synthetic peptide 
+
+ HAH 
+
+ 363.3709 
+
+ 363.1651 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7984 
+
+ synthetic peptide 
+
+ HIH 
+
+ 405.4504 
+
+ 405.2119 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7985 
+
+ synthetic peptide 
+
+ HVH 
+
+ 391.4239 
+
+ 391.1963 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7986 
+
+ synthetic peptide 
+
+ KHH 
+
+ 420.4650 
+
+ 420.2228 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7987 
+
+ synthetic peptide 
+
+ RHH 
+
+ 448.4784 
+
+ 448.2290 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 150 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

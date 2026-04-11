@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 179
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=178bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8409
-ACE inhibitor from edible mushroom (Agaricus bisporus)
-PSSNK
-531.5585
-531.2644
-129.30 IC_50
-Peptide
-Data
-8410
-ACE inhibitor from porcine hemoglobin
-WVPSV
-586.6781
-586.3105
-0.37 IC_50
-Peptide
-Data
-8411
-ACE inhibitor from porcine hemoglobin
-YTVF
-528.5959
-528.2575
-0.23 IC_50
-Peptide
-Data
-8412
-ACE inhibitor from porcine hemoglobin
-QELPG
-542.5811
-542.2691
-0.02 IC_50
-Peptide
-Data
-8413
-ACE inhibitor from gluten hydrolysate
-IPALLKR
-810.0364
-809.5471
-43.00 IC_50
-Peptide
-Data
-8414
-ACE inhibitor from gluten hydrolysate
-AQQLAAQLPAMCR
-1400.6678
-1399.7042
-68.00 IC_50
-Peptide
-Data
-8415
-ACE inhibitor from rice protein
-VNP
-328.3632
-328.1741
-6.40 IC_50
-Peptide
-Data
-8416
-ACE inhibitor from soy protein by fermentation
-LIVTQ
-572.6928
-572.3522
-0.09 IC_50
-Peptide
-Data
-8417
-ACE inhibitor
-MVGSAPGVL
-830.0027
-829.4353
-3.09 EC_50
-Peptide
-Data
-8418
-ACE inhibitor
-LGPLGHQ
-720.8148
-720.3907
-4.22 IC_50
-Peptide
-Data
-8419
-ACE inhibitor from edible mushroom (Hypsizygus marmoreus)
-LSMGSASLSP
-949.0786
-948.4570
-0.19 IC_50
-Peptide
-Data
-8420
-ACE inhibitor from rice protein
-VWP
-400.4703
-400.2104
-4.50 IC_50
-Peptide
-Data
-8421
-Antioxidant peptide from olive seeds (Olea europaea)
-VLDTGLAGA
-815.9089
-815.4374
-0.00 EC_50
-Peptide
-Data
-8422
-Antioxidant peptide from olive seeds (Olea europaea)
-VPLSPT
-612.7136
-612.3471
-0.00 EC_50
-Peptide
-Data
-8423
-Antioxidant peptide from olive seeds (Olea europaea)
-FDGEVK
-693.7433
-693.3322
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 179 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8409 
+
+ ACE inhibitor from edible mushroom (Agaricus bisporus) 
+
+ PSSNK 
+
+ 531.5585 
+
+ 531.2644 
+
+ 129.30 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8410 
+
+ ACE inhibitor from porcine hemoglobin 
+
+ WVPSV 
+
+ 586.6781 
+
+ 586.3105 
+
+ 0.37 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8411 
+
+ ACE inhibitor from porcine hemoglobin 
+
+ YTVF 
+
+ 528.5959 
+
+ 528.2575 
+
+ 0.23 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8412 
+
+ ACE inhibitor from porcine hemoglobin 
+
+ QELPG 
+
+ 542.5811 
+
+ 542.2691 
+
+ 0.02 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8413 
+
+ ACE inhibitor from gluten hydrolysate 
+
+ IPALLKR 
+
+ 810.0364 
+
+ 809.5471 
+
+ 43.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8414 
+
+ ACE inhibitor from gluten hydrolysate 
+
+ AQQLAAQLPAMCR 
+
+ 1400.6678 
+
+ 1399.7042 
+
+ 68.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8415 
+
+ ACE inhibitor from rice protein 
+
+ VNP 
+
+ 328.3632 
+
+ 328.1741 
+
+ 6.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8416 
+
+ ACE inhibitor from soy protein by fermentation 
+
+ LIVTQ 
+
+ 572.6928 
+
+ 572.3522 
+
+ 0.09 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8417 
+
+ ACE inhibitor 
+
+ MVGSAPGVL 
+
+ 830.0027 
+
+ 829.4353 
+
+ 3.09 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8418 
+
+ ACE inhibitor 
+
+ LGPLGHQ 
+
+ 720.8148 
+
+ 720.3907 
+
+ 4.22 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8419 
+
+ ACE inhibitor from edible mushroom (Hypsizygus marmoreus) 
+
+ LSMGSASLSP 
+
+ 949.0786 
+
+ 948.4570 
+
+ 0.19 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8420 
+
+ ACE inhibitor from rice protein 
+
+ VWP 
+
+ 400.4703 
+
+ 400.2104 
+
+ 4.50 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8421 
+
+ Antioxidant peptide from olive seeds (Olea europaea) 
+
+ VLDTGLAGA 
+
+ 815.9089 
+
+ 815.4374 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8422 
+
+ Antioxidant peptide from olive seeds (Olea europaea) 
+
+ VPLSPT 
+
+ 612.7136 
+
+ 612.3471 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8423 
+
+ Antioxidant peptide from olive seeds (Olea europaea) 
+
+ FDGEVK 
+
+ 693.7433 
+
+ 693.3322 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 179 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

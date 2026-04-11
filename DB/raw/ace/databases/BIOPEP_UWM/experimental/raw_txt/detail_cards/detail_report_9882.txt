@@ -1,0 +1,231 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9882 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VM 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 248.3427 
+
+ Monoisotopic mass 
+
+ 248.1190 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yamada A, Sakurai T, Ochi D, Mitsuyama E, Yamauchi K, Abe F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel angiotensin I-converting enzyme inhibitory peptide derived from bovine casein. Food Chem., 141,3781-3789, 2013 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2013 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCSC)C(=O)O
+
+InChI=1S/C10H20N2O3S/c1-6(2)8(11)9(13)12-7(10(14)15)4-5-16-3/h6-8H,4-5,11H2,1-3H3,(H,12,13)(H,14,15)/t7-,8-/m0/s1
+
+InChIKey=YSGSDAIMSCVPHG-YUMQZZPRSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8923); the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BindingDB: 
+ID 50085119
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8923
+
+BRENDA: Ligand Val-Met-OH
+
+ChEBI: 
+ID 75015
+
+ChemSpider: 
+ID 5361146
+
+EROP-Moscow: ID E23995
+
+FeptideDB: 
+ID 7923
+
+FooDB: ID FDB112135
+
+HMDB: ID HMDB0029133
+
+J-GLOBAL: 
+ID 200907081349152886
+
+Nikkaji: ID J150.500I
+
+PubChem: CID 6993039
+
+SDBS: ID SDBS-9431
+
+ZINC: ID ZINC1601795

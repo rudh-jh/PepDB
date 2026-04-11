@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 89
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=88bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-5356
-Antimicrobial peptide THP1
-GKREKCLRRNGFCAFLKCPTLSVISGTCSRFQVCC
-3912.6746
-3909.9171
-0.00 EC_50
-Peptide
-Data
-5357
-Antimicrobial peptide CHP2 [Fragment]
-GRKSDCFRKNGFCAFLKCPYLTLISGLCSXFHLC
-3729.4398
-3726.8060
-0.00 EC_50
-Peptide
-Data
-5358
-Apolipoprotein A-II
-QAEESNLQSLVSQYFQTVADYGKDLVEKAKGSELQTQAKAYFEKTQEELTPFFKKAGTDLLNFLSSFIDPKKQPAT
-8566.4351
-8561.3343
-0.00 EC_50
-Peptide
-Data
-5359
-Myeloid antibacterial peptide 37(PMAP37 )
-GLLSRLRDFLSDRGRRLGEKIERIGQKIKDLSEFFQS
-4364.9508
-4362.3964
-0.00 EC_50
-Peptide
-Data
-5360
-cecropin1 (Ceratitis capitata)
-GWLKKIGKKIERVGQHTRDATIQTIAVAQQAANVAATARG
-4257.8443
-4255.3707
-0.00 EC_50
-Peptide
-Data
-5361
-Cecropin P1 (Sus scrofa)
-SWLSKTAKKLENSAKKRISEGIAIAIQGGPR
-3338.8473
-3336.8936
-0.00 EC_50
-Peptide
-Data
-5362
-Cecropin-like peptide B-2
-WNPFKELERAGQRVRDAVISAAPAVATVGQAAAIARG
-3848.3211
-3846.0703
-0.00 EC_50
-Peptide
-Data
-5363
-Antibacterial peptide CM-IV
-RWKIFKKIEKVGQNIRDGIVKAGPAVAVVGQAATIG
-3819.4912
-3817.2140
-0.00 EC_50
-Peptide
-Data
-5364
-Cecropin A
-RWKLFKKIEKVGRNVRDGLIKAGPAIAVIGQAKSLG
-3918.6681
-3916.3298
-0.00 EC_50
-Peptide
-Data
-5365
-Cecropin B
-GWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATARG
-4283.8848
-4281.3976
-0.00 EC_50
-Peptide
-Data
-5366
-cecropin B
-KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKALG
-3874.6553
-3872.3287
-0.00 EC_50
-Peptide
-Data
-5367
-Cecropin C
-GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATARG
-4255.8318
-4253.3664
-0.00 EC_50
-Peptide
-Data
-5368
-Sarcotoxin IC
-GWLRKIGKKIERVGQHTRDATIQVLGIAQQAANVAATARG
-4283.8848
-4281.3976
-0.00 EC_50
-Peptide
-Data
-5369
-Sarcotoxin ID
-GWIRDFGKRIERVGQHTRDATIQTIAVAQQAANVAATLKG
-4348.8689
-4346.3402
-0.00 EC_50
-Peptide
-Data
-5370
-Tachycitin
-MASSFMFAVVVLFISLAANVESYLAFRCGRYSPCLDDGPNVNLYSCCSFYNCHKCLARLENCPKGLHYNAYLKVCDWPSKAGCTSVNKECHLWKTGRK
-11030.7330
-11023.2047
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5356 
+
+ Antimicrobial peptide THP1 
+
+ GKREKCLRRNGFCAFLKCPTLSVISGTCSRFQVCC 
+
+ 3912.6746 
+
+ 3909.9171 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5357 
+
+ Antimicrobial peptide CHP2 [Fragment] 
+
+ GRKSDCFRKNGFCAFLKCPYLTLISGLCSXFHLC 
+
+ 3729.4398 
+
+ 3726.8060 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5358 
+
+ Apolipoprotein A-II 
+
+ QAEESNLQSLVSQYFQTVADYGKDLVEKAKGSELQTQAKAYFEKTQEELTPFFKKAGTDLLNFLSSFIDPKKQPAT 
+
+ 8566.4351 
+
+ 8561.3343 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5359 
+
+ Myeloid antibacterial peptide 37(PMAP37 ) 
+
+ GLLSRLRDFLSDRGRRLGEKIERIGQKIKDLSEFFQS 
+
+ 4364.9508 
+
+ 4362.3964 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5360 
+
+ cecropin1 (Ceratitis capitata) 
+
+ GWLKKIGKKIERVGQHTRDATIQTIAVAQQAANVAATARG 
+
+ 4257.8443 
+
+ 4255.3707 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5361 
+
+ Cecropin P1 (Sus scrofa) 
+
+ SWLSKTAKKLENSAKKRISEGIAIAIQGGPR 
+
+ 3338.8473 
+
+ 3336.8936 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5362 
+
+ Cecropin-like peptide B-2 
+
+ WNPFKELERAGQRVRDAVISAAPAVATVGQAAAIARG 
+
+ 3848.3211 
+
+ 3846.0703 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5363 
+
+ Antibacterial peptide CM-IV 
+
+ RWKIFKKIEKVGQNIRDGIVKAGPAVAVVGQAATIG 
+
+ 3819.4912 
+
+ 3817.2140 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5364 
+
+ Cecropin A 
+
+ RWKLFKKIEKVGRNVRDGLIKAGPAIAVIGQAKSLG 
+
+ 3918.6681 
+
+ 3916.3298 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5365 
+
+ Cecropin B 
+
+ GWLRKLGKKIERIGQHTRDASIQVLGIAQQAANVAATARG 
+
+ 4283.8848 
+
+ 4281.3976 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5366 
+
+ cecropin B 
+
+ KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKALG 
+
+ 3874.6553 
+
+ 3872.3287 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5367 
+
+ Cecropin C 
+
+ GWLKKLGKRIERIGQHTRDATIQGLGIAQQAANVAATARG 
+
+ 4255.8318 
+
+ 4253.3664 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5368 
+
+ Sarcotoxin IC 
+
+ GWLRKIGKKIERVGQHTRDATIQVLGIAQQAANVAATARG 
+
+ 4283.8848 
+
+ 4281.3976 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5369 
+
+ Sarcotoxin ID 
+
+ GWIRDFGKRIERVGQHTRDATIQTIAVAQQAANVAATLKG 
+
+ 4348.8689 
+
+ 4346.3402 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 5370 
+
+ Tachycitin 
+
+ MASSFMFAVVVLFISLAANVESYLAFRCGRYSPCLDDGPNVNLYSCCSFYNCHKCLARLENCPKGLHYNAYLKVCDWPSKAGCTSVNKECHLWKTGRK 
+
+ 11030.7330 
+
+ 11023.2047 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 89 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

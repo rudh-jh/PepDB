@@ -1,0 +1,207 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10098 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WIQP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5; MEROPS ID: S09.003) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 542.6257 
+
+ Monoisotopic mass 
+
+ 542.2844 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 14.20 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Norris R., O’Keeffe M. B., Poyarkov A., FitzGerald R. J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Peptide identification and angiotensin converting enzyme (ACE) inhibitory activity in prolyl endoproteinase digests of bovine alpha-s-casein. Food Chem., 188, 210-217, 2015 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[N]([H])C2=CC=CC=C12)C(=O)N[C@@H]([C@H](CC)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N3[C@@H](CCC3)C(=O)O
+
+InChI=1S/C27H38N6O6/c1-3-15(2)23(32-24(35)18(28)13-16-14-30-19-8-5-4-7-17(16)19)25(36)31-20(10-11-22(29)34)26(37)33-12-6-9-21(33)27(38)39/h4-5,7-8,14-15,18,20-21,23,30H,3,6,9-13,28H2,1-2H3,(H2,29,34)(H,31,36)(H,32,35)(H,38,39)/t15-,18-,20-,21-,23-/m0/s1
+
+InChIKey=REZGYTATDGOWRW-AZJJULKRSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8592); the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 8592
+
+EROP-Moscow: ID E24033
+
+FeptideDB: 
+ID 8592
+
+MBPDB: Peptide WIQP

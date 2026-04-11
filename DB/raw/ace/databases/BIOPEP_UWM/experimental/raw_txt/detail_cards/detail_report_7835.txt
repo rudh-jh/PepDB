@@ -1,0 +1,263 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7835 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AH 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 226.2319 
+
+ Monoisotopic mass 
+
+ 226.1063 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 9000.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](C)C(=O)N[C@@H](CC1=C[N]([H])C=N1)C(=O)O
+
+InChI=1S/C9H14N4O3/c1-5(10)8(14)13-7(9(15)16)2-6-3-11-4-12-6/h3-5,7H,2,10H2,1H3,(H,11,12)(H,13,14)(H,15,16)/t5-,7-/m0/s1
+
+InChIKey=XZWXFWBHYRFLEF-FSPLSTOPSA-N
+
+IC50 according to:
+
+Wang Z., Zhang S., Jin H., Wang W., Huo J., Zhou L., Wang Y., Feng F., Zhang L., 2011, Angiotensin-I-converting enzyme inhibitory peptides: Chemical feature based pharmacophore generation. Eur. J. Med. Chem., 46, 3428-3433
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the the BIOPEP-UWM database of bioactive peptides (
+ID 8761)
+
+Antioxidative peptide according to the the BIOPEP-UWM database of bioactive peptides (
+ID 7886); the EROP-Moscow database
+
+Umami peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 522)
+
+Sour peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 523)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1253, 3288, 3326, 3467, 3888, 6738
+
+BindingDB: 
+ID 50348857
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7886; 8761
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 522; 523
+
+BRENDA: Ligand Ala-His
+
+ChEBI: 
+ID 73771
+
+ChEMBL: ID CHEMBL1221620
+
+ChemSpider: 
+ID 8013175
+
+EChA: 
+ID 3253-17-6
+
+EPA DSSTox: ID DTXCID101474629
+
+EROP-Moscow: ID E09133
+
+FeptideDB: 
+ID 7835; 7886; 8761
+
+HMDB: ID HMDB0028689
+
+J-GLOBAL: 
+ID 200907012902688798
+
+MeSH: term alanylhistidine; ID C061116
+
+Metabolights: ID MTBLC73771
+
+MetaCyc: ID CPD-13401
+
+Nikkaji: ID J899K
+
+PubChem: CID 9837455
+
+SATPdb: ID satpdb24875
+
+Seed: ID cpd11584
+
+ZINC: ID ZINC000005115824

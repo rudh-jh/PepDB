@@ -1,0 +1,199 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9239 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LVYPFPGPIH 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1139.3416 
+
+ Monoisotopic mass 
+
+ 1138.6156 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 89.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Pihlanto A., Virtanen T., Korhonen H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I converting enzyme (ACE) inhibitory activity and antihypertensive effect of fermented milk. Int. Dairy J. 2010;20:3-10. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2010 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N1CCC[C@@]1([H])C(=O)NCC(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N[C@@]([H])(CC1=CN=CN1)C(O)=O
+
+InChI=1S/C58H82N12O12/c1-7-35(6)49(55(78)65-43(58(81)82)29-38-30-60-32-62-38)67-53(76)45-17-11-23-68(45)47(72)31-61-51(74)44-16-12-24-69(44)56(79)41(27-36-14-9-8-10-15-36)63-52(75)46-18-13-25-70(46)57(80)42(28-37-19-21-39(71)22-20-37)64-54(77)48(34(4)5)66-50(73)40(59)26-33(2)3/h8-10,14-15,19-22,30,32-35,40-46,48-49,71H,7,11-13,16-18,23-29,31,59H2,1-6H3,(H,60,62)(H,61,74)(H,63,75)(H,64,77)(H,65,78)(H,66,73)(H,67,76)(H,81,82)/t35-,40-,41-,42-,43-,44-,45-,46-,48-,49-/m0/s1
+
+InChIKey: PMCNOPFGOOIQMB-KRYSDLGTSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3643
+
+SATPdb: ID satpdb22656

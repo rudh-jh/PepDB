@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 299
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=298bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-10209
-Hypotensive peptide
-WGAP
-429.4685
-429.2006
-0.00 EC_50
-Peptide
-Data
-10210
-Pseudolysin inhibitor
-FF
-312.3622
-312.1469
-0.00 EC_50
-Peptide
-Data
-10211
-Acetylcholinesterase inhibitor
-RMLRTTRY
-1096.3049
-1095.5954
-102.20 IC_50
-Peptide
-Data
-10212
-Antioxidative peptide
-WPP
-398.4545
-398.1948
-0.00 EC_50
-Peptide
-Data
-10213
-Dipeptidyl peptidase IV (DPPIV) inhibitor
-VPLVM
-557.7455
-557.3236
-99.68 IC_50
-Peptide
-Data
-10214
-Antidiabetic peptide
-VPLVM
-557.7455
-557.3236
-99.68 IC_50
-Peptide
-Data
-10215
-Acetylcholinesterase inhibitor
-KFHEKHHS
-1049.1401
-1048.5188
-0.37 IC_50
-Peptide
-Data
-10216
-Acetylcholinesterase inhibitor
-KFVKKVVK
-975.2680
-974.6621
-0.80 IC_50
-Peptide
-Data
-10217
-Acetylcholinesterase inhibitor Snakin-Z
-CARLNCVPKGTSGNTETCPCYASLHSCRKYG
-3320.7775
-3318.4776
-174.65 IC_50
-Peptide
-Data
-10218
-Antioxidative peptide Snakin-Z
-CARLNCVPKGTSGNTETCPCYASLHSCRKYG
-3320.7775
-3318.4776
-0.00 EC_50
-Peptide
-Data
-10219
-Butyrylcholinesterase inhibitor Snakin-Z
-CARLNCVPKGTSGNTETCPCYASLHSCRKYG
-3320.7775
-3318.4776
-216.80 IC_50
-Peptide
-Data
-10220
-Tyrosinase inhibitor
-FPY
-425.4765
-425.1944
-0.00 EC_50
-Peptide
-Data
-10221
-Acetylcholinesterase inhibitor
-WTWYGYWVW
-1346.4845
-1345.5902
-16.00 IC_50
-Peptide
-Data
-10222
-Acetylcholinesterase inhibitor
-NHRMLTRRY
-1246.4427
-1245.6495
-23.60 IC_50
-Peptide
-Data
-10223
-Acetylcholinesterase inhibitor
-DNRMLRTTRY
-1325.4945
-1324.6650
-51.20 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 299 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10209 
+
+ Hypotensive peptide 
+
+ WGAP 
+
+ 429.4685 
+
+ 429.2006 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10210 
+
+ Pseudolysin inhibitor 
+
+ FF 
+
+ 312.3622 
+
+ 312.1469 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10211 
+
+ Acetylcholinesterase inhibitor 
+
+ RMLRTTRY 
+
+ 1096.3049 
+
+ 1095.5954 
+
+ 102.20 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10212 
+
+ Antioxidative peptide 
+
+ WPP 
+
+ 398.4545 
+
+ 398.1948 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10213 
+
+ Dipeptidyl peptidase IV (DPPIV) inhibitor 
+
+ VPLVM 
+
+ 557.7455 
+
+ 557.3236 
+
+ 99.68 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10214 
+
+ Antidiabetic peptide 
+
+ VPLVM 
+
+ 557.7455 
+
+ 557.3236 
+
+ 99.68 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10215 
+
+ Acetylcholinesterase inhibitor 
+
+ KFHEKHHS 
+
+ 1049.1401 
+
+ 1048.5188 
+
+ 0.37 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10216 
+
+ Acetylcholinesterase inhibitor 
+
+ KFVKKVVK 
+
+ 975.2680 
+
+ 974.6621 
+
+ 0.80 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10217 
+
+ Acetylcholinesterase inhibitor Snakin-Z 
+
+ CARLNCVPKGTSGNTETCPCYASLHSCRKYG 
+
+ 3320.7775 
+
+ 3318.4776 
+
+ 174.65 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10218 
+
+ Antioxidative peptide Snakin-Z 
+
+ CARLNCVPKGTSGNTETCPCYASLHSCRKYG 
+
+ 3320.7775 
+
+ 3318.4776 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10219 
+
+ Butyrylcholinesterase inhibitor Snakin-Z 
+
+ CARLNCVPKGTSGNTETCPCYASLHSCRKYG 
+
+ 3320.7775 
+
+ 3318.4776 
+
+ 216.80 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10220 
+
+ Tyrosinase inhibitor 
+
+ FPY 
+
+ 425.4765 
+
+ 425.1944 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10221 
+
+ Acetylcholinesterase inhibitor 
+
+ WTWYGYWVW 
+
+ 1346.4845 
+
+ 1345.5902 
+
+ 16.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10222 
+
+ Acetylcholinesterase inhibitor 
+
+ NHRMLTRRY 
+
+ 1246.4427 
+
+ 1245.6495 
+
+ 23.60 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10223 
+
+ Acetylcholinesterase inhibitor 
+
+ DNRMLRTTRY 
+
+ 1325.4945 
+
+ 1324.6650 
+
+ 51.20 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 299 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

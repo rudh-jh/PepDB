@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7904 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+SALAM 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 491.6017 
+
+ Monoisotopic mass 
+
+ 491.2405 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Miguel M., Manso M., Aleixandre A., Alonso M. J., Salaices M., López-Fandiño R. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Vascular effects, angiotensin I-converting enzyme (ACE)-inhibitory activity, and antihypertensive properties of peptides derived from egg white. J. Agric. Food Chem., 55, 10615-10621, 2007
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CO)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])(CCSC)C(=O)O
+
+InChI=1S/C20H37N5O7S/c1-10(2)8-15(25-17(28)11(3)22-18(29)13(21)9-26)19(30)23-12(4)16(27)24-14(20(31)32)6-7-33-5/h10-15,26H,6-9,21H2,1-5H3,(H,22,29)(H,23,30)(H,24,27)(H,25,28)(H,31,32)/t11-,12-,13-,14-,15-/m0/s1
+
+InChIKey=LDWDZYPQLLHBHC-YTFOTSKYSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides; the DFBP database; the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ DFBP: ID DFBPANOX0973; DFBPACEI1877; DFBPMUFU0581
+
+EROP-Moscow: ID E09213
+
+J-GLOBAL: 
+ID 200907023882857107
+
+Nikkaji: ID J2.047.295B
+
+PubChem: CID 101730517

@@ -1,0 +1,200 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8968 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ASL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 289.3272 
+
+ Monoisotopic mass 
+
+ 289.1632 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 102.15 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu S., Feng X., Lan X., Xu Y., Liao D. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ A novel angiotensin-I converting enzyme (ACE) inhibitory peptide from gastrointestinal protease hydrolysate of silkworm pupa (Bombyx mori) protein: Biochemical characterization and molecular docking study. Peptides, 68, 17-24 (2015)
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(N)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(O)=O
+
+InChI=1S/C12H23N3O5/c1-6(2)4-8(12(19)20)14-11(18)9(5-16)15-10(17)7(3)13/h6-9,16H,4-5,13H2,1-3H3,(H,14,18)(H,15,17)(H,19,20)/t7-,8-,9-/m0/s1
+
+InChIKey: HOVPGJUNRLMIOZ-CIUDSAMLSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ EROP-Moscow: ID E14359
+
+PubChem: CID 44230567

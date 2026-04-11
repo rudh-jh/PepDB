@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9730 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+NPR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 385.4177 
+
+ Monoisotopic mass 
+
+ 385.2068 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 285.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Manoharan S., Shuib A. S., Abdullah N., Bin Mohamad S., Aminudin N. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Characterisation of novel angiotensin-I-converting enzyme inhibitory tripeptide, Gly-Val-Arg derived from mycelium of Pleurotus pulmonarius. Process Biochem., 62, 215–222, 2017 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(=O)N)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C15H27N7O5/c16-8(7-11(17)23)13(25)22-6-2-4-10(22)12(24)21-9(14(26)27)3-1-5-20-15(18)19/h8-10H,1-7,16H2,(H2,17,23)(H,21,24)(H,26,27)(H4,18,19,20)/t8-,9-,10-/m0/s1
+
+InChIKey=QXOPPIDJKPEKCW-GUBZILKMSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ PubChem: CID 145454234

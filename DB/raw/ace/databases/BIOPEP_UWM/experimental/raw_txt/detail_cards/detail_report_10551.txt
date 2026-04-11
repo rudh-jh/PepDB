@@ -1,0 +1,212 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10551 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PRP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 368.4302 
+
+ Monoisotopic mass 
+
+ 368.2166 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 420.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cai X., Huang M., Huang X., Liu H., Wang T., Li L., Yang W., Luo H., Lu Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Properties of ACE inhibitory peptides isolated from Sipunculus nudus L and a DSPE-PEG modification for sustained release anti-hypertension agent. Process Biochem., 127, 56–65, 2023 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2023 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C16H28N6O4/c17-16(18)20-8-2-5-11(21-13(23)10-4-1-7-19-10)14(24)22-9-3-6-12(22)15(25)26/h10-12,19H,1-9H2,(H,21,23)(H,25,26)(H4,17,18,20)/t10-,11-,12-/m0/s1
+
+InChIKey=ICTZKEXYDDZZFP-SRVKXCTJSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BRENDA: Ligand PRP
+
+CAS: Registry No 56610-49-2
+
+ChEBI: 
+ID 144903
+
+ChemSpider: 
+ID 10162559
+
+EPA CompTox: ID DTXSID00475330
+
+PubChem: CID 11990092 
+
+SureChEMBL: ID SCHEMBL7351817

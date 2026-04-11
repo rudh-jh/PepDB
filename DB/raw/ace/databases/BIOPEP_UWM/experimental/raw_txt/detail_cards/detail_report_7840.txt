@@ -1,0 +1,251 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7840 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1; MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 275.3007 
+
+ Monoisotopic mass 
+
+ 275.1476 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ van Platerink C. J., Janssen H.-G. M., Haverkamp J. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Application of at-line two-dimensional liquid chromatography-mass spectrometry for identification of small hydrophilic angiotensin I-inhibiting peptides in milk hydrolysates. Anal. Bioanal. Chem., 2008, 391, 299-307. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: C(CCN)C[C@@H](C(=O)O)NC(=O)[C@H](CCC(=O)O)N
+
+InChI=1S/C11H21N3O5/c12-6-2-1-3-8(11(18)19)14-10(17)7(13)4-5-9(15)16/h7-8H,1-6,12-13H2,(H,14,17)(H,15,16)(H,18,19)/t7-,8-/m0/s1
+
+InChIKey=BBBXWRGITSUJPB-YUMQZZPRSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5; MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8558), the EROP-Moscow database
+
+Umami peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 364)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 3292; 3328; 3447; 3474; 3900; 6743
+
+BindingDB: 
+ID 50169173
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8558
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 364
+
+CAS: Registry No 5891-53-2 
+
+ChEBI: 
+ID 73521
+
+ChEMBL: ID CHEMBL190361
+
+ChemSpider: 
+ID 5378736
+
+DFBP: ID DFBPDPIV0033; DFBPACEI0846; DFBPMUFU0493
+
+EROP-Moscow: ID E10604
+
+FooDB: ID FDB023334
+
+HMDB: ID MDB00000443
+
+J-GLOBAL: 
+ID 200907083472142979
+
+MarkerDB: ID MDB00000443
+
+Metabolomics Workbench: 
+ID 78787 
+
+Nikkaji: ID J662.650E 
+
+PubChem: 
+ID 7015703
+
+SATPdb: ID satpdb10282
+
+SureChEMBL: ID SCHEMBL170727
+
+Wikidata: ID Q27140603 
+
+ZINC: ID ZINC000002516165

@@ -1,0 +1,216 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10705 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+NLHLPLPLL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1029.2724 
+
+ Monoisotopic mass 
+
+ 1028.6363 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 15.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Robert M. C., Razaname A., Mutter M., Juillerat M. A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of angiotensin-I-converting enzyme inhibitory peptides derived from sodium caseinate hydrolysates produced by Lactobacillus helveticus NCC 2765. J. Agric. Food. Chem., 52, 6923-6931, 2004 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2004 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@H](CC1=CN=C[NH]1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C50H84N12O11/c1-26(2)17-33(55-42(64)32(51)23-41(52)63)43(65)56-35(22-31-24-53-25-54-31)45(67)58-36(19-28(5)6)48(70)62-16-12-14-40(62)47(69)59-37(20-29(7)8)49(71)61-15-11-13-39(61)46(68)57-34(18-27(3)4)44(66)60-38(50(72)73)21-30(9)10/h24-30,32-40H,11-23,51H2,1-10H3,(H2,52,63)(H,53,54)(H,55,64)(H,56,65)(H,57,68)(H,58,67)(H,59,69)(H,60,66)(H,72,73)/t32-,33-,34-,35-,36-,37-,38-,39-,40-/m0/s1
+
+InChIKey=PLSNHYPQMRIMOR-LCQMPJFHSA-N
+
+Anticancer peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 8315), the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1773, 6069 
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8315
+
+ChemSpider: 
+ID 9941237
+
+DFBP: ID DFBPACEI1436; DFBPANCA0092; DFBPANCA0107; DFBPMUFU0380
+
+EROP-Moscow: ID E09174
+
+MBPDB: Peptide NLHLPLPLL
+
+PubChem: CID 11766550 
+
+SATPdb: ID satpdb22978

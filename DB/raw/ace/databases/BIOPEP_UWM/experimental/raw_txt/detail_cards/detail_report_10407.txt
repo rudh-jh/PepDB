@@ -1,0 +1,210 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10407 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GIL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 301.3808 
+
+ Monoisotopic mass 
+
+ 301.1995 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Rao S., Sun J., Liu Y., Zeng H., Su Y., Yang Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE inhibitory peptides and antioxidant peptides derived from in vitro digestion hydrolysate of hen egg white lysozyme. Food Chem., 135, 1245-1252, 2012 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2012 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM Database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C14H27N3O4/c1-5-9(4)12(17-11(18)7-15)13(19)16-10(14(20)21)6-8(2)3/h8-10,12H,5-7,15H2,1-4H3,(H,16,19)(H,17,18)(H,20,21)/t9-,10-,12-/m0/s1
+
+InChIKey=UESJMAMHDLEHGM-NHCYSSNCSA-N
+
+Predicted bitter taste according to the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ChEBI: 
+ID 163768
+
+DFBP: ID DFBPACEI0153
+
+EROP-Moscow: ID E23979
+
+Metabolomics Workbench: 
+ID 82046
+
+PubChem: CID 71667726
+
+SureChEMBL: ID SCHEMBL3396696

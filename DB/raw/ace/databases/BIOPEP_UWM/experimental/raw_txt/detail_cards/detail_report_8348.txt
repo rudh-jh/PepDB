@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8348 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+SFHPYFSY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1047.1161 
+
+ Monoisotopic mass 
+
+ 1046.4483 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 82.71 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Balti R., Bougatef A., Sila A., Guillochon D., Dhulster P., Nedjar-Arroume N. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Nine novel angiotensin I-converting enzyme (ACE) inhibitory peptides from cuttlefish (Sepia officinalis) muscle protein hydrolysates and antihypertensive effect of the potent active peptide in spontaneously hypertensive rats. Food Chem., 170, 519-525 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: 
+
+[C@H](N)(CO)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC2=C[N]([H])C=N2)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC4=CC=C(C=C4)O)C(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC6=CC=C(C=C6)O)C(O)=O
+
+InChI=1S/C53H62N10O13/c54-38(28-64)46(68)57-39(22-31-8-3-1-4-9-31)48(70)60-42(26-35-27-55-30-56-35)52(74)63-21-7-12-45(63)51(73)59-41(24-33-13-17-36(66)18-14-33)47(69)58-40(23-32-10-5-2-6-11-32)49(71)62-44(29-65)50(72)61-43(53(75)76)25-34-15-19-37(67)20-16-34/h1-6,8-11,13-20,27,30,38-45,64-67H,7,12,21-26,28-29,54H2,(H,55,56)(H,57,68)(H,58,69)(H,59,73)(H,60,70)(H,61,72)(H,62,71)(H,75,76)/t38-,39-,40-,41-,42-,43-,44-,45-/m0/s1
+
+InChIKey: MKNMHSVYIOXONG-FKRLEHQTSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ EROP-Moscow: ID E21349
+
+FeptideDB: 
+ID 8348

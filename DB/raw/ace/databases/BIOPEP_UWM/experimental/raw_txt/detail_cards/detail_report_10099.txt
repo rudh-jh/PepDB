@@ -1,0 +1,215 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10099 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IPPLTQTPV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5; MEROPS ID: S09.003) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 965.1411 
+
+ Monoisotopic mass 
+
+ 964.5575 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gobbetti M., Ferranti P., Smacchi E., Goffredi F., Addeo F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Production of angiotensin-I-converting-enzyme-inhibitory peptides in fermented milks started by Lactobacillus delbrueckii subsp. bulgaricus SS1 and Lactococcus lactis subsp. cremoris FT4. Appl. Env. Microbiol., 66, 3898-3904, 2000 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2000 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C(C)C)C(=O)O
+
+InChI=1S/C45H76N10O13/c1-9-24(6)33(47)43(65)55-20-12-15-31(55)42(64)53-18-10-13-29(53)39(61)49-28(21-22(2)3)38(60)51-35(25(7)56)41(63)48-27(16-17-32(46)58)37(59)52-36(26(8)57)44(66)54-19-11-14-30(54)40(62)50-34(23(4)5)45(67)68/h22-31,33-36,56-57H,9-21,47H2,1-8H3,(H2,46,58)(H,48,63)(H,49,61)(H,50,62)(H,51,60)(H,52,59)(H,67,68)/t24-,25+,26+,27-,28-,29-,30-,31-,33-,34-,35-,36-/m0/s1
+
+InChIKey=NUUZJLGEZRQVGA-DOCGQKLASA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8660), the EROP-Moscow database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 5953
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8660
+
+ChemSpider: 
+ID 13163541
+
+EROP-Moscow: ID E07416
+
+FeptideDB: 
+ID 8660
+
+PubChem: CID 16034938
+
+SATPdb: ID satpdb28884

@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10123 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LPYY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 554.6331 
+
+ Monoisotopic mass 
+
+ 554.2731 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 116.26 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Li J., Su J., Chen M., Chen J., Ding W., Li Y., Yin H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ 
+
+Two novel potent ACEI peptides isolated from Pinctada fucata meat hydrolysates using in silico analysis: identification, screening and inhibitory mechanisms. RSC Adv., 11, 12172-12182, 2021
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [C@H](N)(CC(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(O)=O
+
+InChI=1S/C29H38N4O7/c1-17(2)14-22(30)28(38)33-13-3-4-25(33)27(37)31-23(15-18-5-9-20(34)10-6-18)26(36)32-24(29(39)40)16-19-7-11-21(35)12-8-19/h5-12,17,22-25,34-35H,3-4,13-16,30H2,1-2H3,(H,31,37)(H,32,36)(H,39,40)/t22-,23-,24-,25-/m0/s1
+
+InChIKey=FZHFSHYCWQZWFU-QORCZRPOSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 3309)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3309
+
+FeptideDB: 
+ID 3309

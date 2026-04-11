@@ -1,0 +1,206 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3975 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VPK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 342.4326 
+
+ Monoisotopic mass 
+
+ 342.2260 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Pihlanto-Leppälä A., Koskinen P., Piilola K., Tupasela T., Korhonen H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory properties of whey protein digests: concentration and characterization of active peptides. J. Dairy Res., 67, 53-64, 2000 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2000 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(C(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C16H30N4O4/c1-10(2)13(18)15(22)20-9-5-7-12(20)14(21)19-11(16(23)24)6-3-4-8-17/h10-13H,3-9,17-18H2,1-2H3,(H,19,21)(H,23,24)/t11-,12-,13-/m0/s1
+
+InChIKey=BGXVHVMJZCSOCA-AVGNSLFASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6482
+
+BioPepDB: ID biopep01430
+
+FeptideDB: 
+ID 3975
+
+PubChem: CID 145459026
+
+SATPdb: ID satpdb23543

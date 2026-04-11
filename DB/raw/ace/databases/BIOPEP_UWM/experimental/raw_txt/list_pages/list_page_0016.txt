@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 16
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=15bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-2818
-PEP inhibitor
-KPPV
-439.5475
-439.2786
-270.00 IC_50
-Peptide
-Data
-2819
-PEP inhibitor
-PRPQPHPQPHP
-1287.4256
-1286.6614
-400.00 IC_50
-Peptide
-Data
-2820
-PEP inhibitor
-LPPV
-424.5329
-424.2677
-240.00 IC_50
-Peptide
-Data
-2821
-PEP inhibitor
-TPPV
-412.4793
-412.2314
-0.00 IC_50
-Peptide
-Data
-2822
-PEP inhibitor
-PPPPGGPQPRPPQG
-1378.5310
-1377.7132
-0.00 IC_50
-Peptide
-Data
-2823
-PEP inhibitor
-RYDWWPYGNLFGGHTFISP
-2313.5193
-2312.0770
-0.00 IC_50
-Peptide
-Data
-2824
-PEP inhibitor
-MPPPLPTRVDFSLAGALN
-1896.2095
-1894.9943
-0.00 IC_50
-Peptide
-Data
-2825
-PEP inhibitor
-LPPPPLPPLA
-1011.2539
-1010.6145
-0.00 IC_50
-Peptide
-Data
-2826
-PEP inhibitor
-APTMPPPLPP
-1017.2399
-1016.5347
-0.00 IC_50
-Peptide
-Data
-2827
-PEP inhibitor
-MPPPLPA
-721.9065
-721.3820
-0.00 IC_50
-Peptide
-Data
-2828
-PEP inhibitor
-PPAYPPPPVP
-1031.2008
-1030.5470
-0.00 IC_50
-Peptide
-Data
-2829
-PEP inhibitor
-APPTPPPLPP
-983.1580
-982.5470
-0.00 IC_50
-Peptide
-Data
-2830
-PEP inhibitor
-PPPV
-408.4906
-408.2365
-0.00 IC_50
-Peptide
-Data
-2831
-Teriparatide - parathyroid hormone (PTH) 1-34
-SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF
-4117.7057
-4115.1244
-0.00 EC_50
-Peptide
-Data
-2832
-Renin inhibitor
-LW
-317.3819
-317.1734
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 16 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2818 
+
+ PEP inhibitor 
+
+ KPPV 
+
+ 439.5475 
+
+ 439.2786 
+
+ 270.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2819 
+
+ PEP inhibitor 
+
+ PRPQPHPQPHP 
+
+ 1287.4256 
+
+ 1286.6614 
+
+ 400.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2820 
+
+ PEP inhibitor 
+
+ LPPV 
+
+ 424.5329 
+
+ 424.2677 
+
+ 240.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2821 
+
+ PEP inhibitor 
+
+ TPPV 
+
+ 412.4793 
+
+ 412.2314 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2822 
+
+ PEP inhibitor 
+
+ PPPPGGPQPRPPQG 
+
+ 1378.5310 
+
+ 1377.7132 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2823 
+
+ PEP inhibitor 
+
+ RYDWWPYGNLFGGHTFISP 
+
+ 2313.5193 
+
+ 2312.0770 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2824 
+
+ PEP inhibitor 
+
+ MPPPLPTRVDFSLAGALN 
+
+ 1896.2095 
+
+ 1894.9943 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2825 
+
+ PEP inhibitor 
+
+ LPPPPLPPLA 
+
+ 1011.2539 
+
+ 1010.6145 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2826 
+
+ PEP inhibitor 
+
+ APTMPPPLPP 
+
+ 1017.2399 
+
+ 1016.5347 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2827 
+
+ PEP inhibitor 
+
+ MPPPLPA 
+
+ 721.9065 
+
+ 721.3820 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2828 
+
+ PEP inhibitor 
+
+ PPAYPPPPVP 
+
+ 1031.2008 
+
+ 1030.5470 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2829 
+
+ PEP inhibitor 
+
+ APPTPPPLPP 
+
+ 983.1580 
+
+ 982.5470 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2830 
+
+ PEP inhibitor 
+
+ PPPV 
+
+ 408.4906 
+
+ 408.2365 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2831 
+
+ Teriparatide - parathyroid hormone (PTH) 1-34 
+
+ SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF 
+
+ 4117.7057 
+
+ 4115.1244 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2832 
+
+ Renin inhibitor 
+
+ LW 
+
+ 317.3819 
+
+ 317.1734 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 16 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

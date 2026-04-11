@@ -1,183 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 76
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=75bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-3788
-YPLSL
-591.6945
-591.3257
-200.00 EC_50
-Peptide
-Data
-3789
-YPASL
-549.6150
-549.2789
-0.00 EC_50
-Peptide
-Data
-3790
-YPTSL
-579.6409
-579.2894
-0.00 EC_50
-Peptide
-Data
-3791
-YPFSL
-625.7108
-625.3101
-70.00 EC_50
-Peptide
-Data
-3792
-peptide from soybean b-conglycinin (Glycine max)
-VNPHDHQN
-959.9597
-959.4197
-0.00 EC_50
-Peptide
-Data
-3793
-QRPR
-555.6294
-555.3233
-0.00 EC_50
-Peptide
-Data
-3794
-RYYP
-597.6611
-597.2902
-190.00 EC_50
-Peptide
-Data
-3795
-WWPR~
-642.7495
-642.3382
-0.01 EC_50
-Peptide
-Data
-3796
-WWPKHH~
-889.0141
-888.4496
-0.01 EC_50
-Peptide
-Data
-3797
-WWPKHK~
-880.0469
-879.4855
-0.01 EC_50
-Peptide
-Data
-3798
-WWPKHN~
-865.9775
-865.4336
-0.01 EC_50
-Peptide
-Data
-3799
-GILSKLGKALKKAAKHAAKA~
-2003.4747
-2002.2854
-0.00 EC_50
-Peptide
-Data
-3800
-SIQFLKVSLNLDRKQAKWKIIVKLNDGRELSLD
-3869.5019
-3867.2030
-0.00 EC_50
-Peptide
-Data
-3801
-SIQDLKVSLNLFRKQAKWKIIVKLNDGRELSLD
-3869.5019
-3867.2030
-0.00 EC_50
-Peptide
-Data
-3802
-SIQDLNLSMKLFRKQAKWKIIVKLNDGRELSLD
-3901.5680
-3899.1751
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3788 
+
+ 
+
+ YPLSL 
+
+ 591.6945 
+
+ 591.3257 
+
+ 200.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3789 
+
+ 
+
+ YPASL 
+
+ 549.6150 
+
+ 549.2789 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3790 
+
+ 
+
+ YPTSL 
+
+ 579.6409 
+
+ 579.2894 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3791 
+
+ 
+
+ YPFSL 
+
+ 625.7108 
+
+ 625.3101 
+
+ 70.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3792 
+
+ peptide from soybean b-conglycinin (Glycine max) 
+
+ VNPHDHQN 
+
+ 959.9597 
+
+ 959.4197 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3793 
+
+ 
+
+ QRPR 
+
+ 555.6294 
+
+ 555.3233 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3794 
+
+ 
+
+ RYYP 
+
+ 597.6611 
+
+ 597.2902 
+
+ 190.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3795 
+
+ 
+
+ WWPR~ 
+
+ 642.7495 
+
+ 642.3382 
+
+ 0.01 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3796 
+
+ 
+
+ WWPKHH~ 
+
+ 889.0141 
+
+ 888.4496 
+
+ 0.01 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3797 
+
+ 
+
+ WWPKHK~ 
+
+ 880.0469 
+
+ 879.4855 
+
+ 0.01 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3798 
+
+ 
+
+ WWPKHN~ 
+
+ 865.9775 
+
+ 865.4336 
+
+ 0.01 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3799 
+
+ 
+
+ GILSKLGKALKKAAKHAAKA~ 
+
+ 2003.4747 
+
+ 2002.2854 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3800 
+
+ 
+
+ SIQFLKVSLNLDRKQAKWKIIVKLNDGRELSLD 
+
+ 3869.5019 
+
+ 3867.2030 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3801 
+
+ 
+
+ SIQDLKVSLNLFRKQAKWKIIVKLNDGRELSLD 
+
+ 3869.5019 
+
+ 3867.2030 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3802 
+
+ 
+
+ SIQDLNLSMKLFRKQAKWKIIVKLNDGRELSLD 
+
+ 3901.5680 
+
+ 3899.1751 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 76 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

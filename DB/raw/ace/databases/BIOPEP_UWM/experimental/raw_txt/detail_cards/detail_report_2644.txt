@@ -1,0 +1,203 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 2644 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TDQHQDKIYP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1244.3068 
+
+ Monoisotopic mass 
+
+ 1243.5814 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 380.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human beta-casein. Agric. Biol. Chem., 53(8), 2107-2114 (1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](CCCCN)(NC(=O)[C@]([H])(CC(O)=O)NC(=O)[C@]([H])(CCC(N)=O)NC(=O)[C@]([H])(Cc1cnc[nH]1)NC(=O)[C@]([H])(CCC(N)=O)NC(=O)[C@]([H])(CC(O)=O)NC(=O)[C@@]([H])(N)[C@@H](C)O)C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C54H81N15O19/c1-4-26(2)44(52(85)67-37(20-28-10-12-30(71)13-11-28)53(86)69-19-7-9-38(69)54(87)88)68-47(80)31(8-5-6-18-55)61-49(82)35(22-41(74)75)65-46(79)33(15-17-40(57)73)62-48(81)34(21-29-24-59-25-60-29)64-45(78)32(14-16-39(56)72)63-50(83)36(23-42(76)77)66-51(84)43(58)27(3)70/h10-13,24-27,31-38,43-44,70-71H,4-9,14-23,55,58H2,1-3H3,(H2,56,72)(H2,57,73)(H,59,60)(H,61,82)(H,62,81)(H,63,83)(H,64,78)(H,65,79)(H,66,84)(H,67,85)(H,68,80)(H,74,75)(H,76,77)(H,87,88)/t26-,27+,31-,32-,33-,34-,35-,36-,37-,38-,43-,44-/m0/s1
+
+InChIKey: VTJZYUHCIFXLFY-DKZBFBCOSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2484, 5964, 6311, 6789
+
+EROP-Moscow: ID E14580
+
+SATPdb: ID satpdb19434

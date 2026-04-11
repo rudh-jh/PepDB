@@ -1,0 +1,229 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9077 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YV 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 280.3188 
+
+ Monoisotopic mass 
+
+ 280.1418 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 575.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(C(C)C)C(=O)O
+
+InChI=1S/C14H20N2O4/c1-8(2)12(14(19)20)16-13(18)11(15)7-9-3-5-10(17)6-4-9/h3-6,8,11-12,17H,7,15H2,1-2H3,(H,16,18)(H,19,20)/t11-,12-/m0/s1
+
+InChIKey: OYOQKMOWUDVWCR-RYUDHWBXSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Another reference concerning peptide:
+
+Khueychai S., Jangpromma N., Choowongkomon K., Joompang A., Daduang S., Vesaratchavest M., Payoungkiattikun W., Tachibana S., Klaynongsruang S., A novel ACE inhibitory peptide derived from alkaline hydrolysis of ostrich (Struthio camelus) egg white ovalbumin. Process Biochem. 73, 235-245
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8946)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1416, 2688
+
+BioPepDB: ID biopep01639
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8946
+
+ChEBI: 
+ID 75007
+
+ChemSpider: 
+ID 5373139
+
+J-GLOBAL: 
+ID 200907025118841649
+
+Nikkaji: ID J149.636K
+
+PubChem: CID 7009560
+
+SATPdb: ID satpdb13043
+
+SDBS: 
+ID 4355

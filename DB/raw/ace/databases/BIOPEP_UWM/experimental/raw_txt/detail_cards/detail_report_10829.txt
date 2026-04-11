@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10829 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ADDFYYQ 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 920.9155 
+
+ Monoisotopic mass 
+
+ 920.3539 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wang Y., Chen S., Shi W., Liu S., Chen X., Pan N., Wang X., Su Y., Liu Z. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Targeted affinity purification and mechanism of action of angiotensin-converting enzyme (ACE) inhibitory peptides from sea cucumber gonads. Mar. Drugs, 22, 90, 2024 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2024 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)O
+
+InChI=1S/C43H52N8O15/c1-22(44)37(59)47-32(20-35(55)56)41(63)51-33(21-36(57)58)42(64)50-29(17-23-5-3-2-4-6-23)39(61)49-31(19-25-9-13-27(53)14-10-25)40(62)48-30(18-24-7-11-26(52)12-8-24)38(60)46-28(43(65)66)15-16-34(45)54/h2-14,22,28-33,52-53H,15-21,44H2,1H3,(H2,45,54)(H,46,60)(H,47,59)(H,48,62)(H,49,61)(H,50,64)(H,51,63)(H,55,56)(H,57,58)(H,65,66)/t22-,28-,29-,30-,31-,32-,33-/m0/s1
+
+InChIKey=VHCLLNDIPNLIQA-RWWMWHHFSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

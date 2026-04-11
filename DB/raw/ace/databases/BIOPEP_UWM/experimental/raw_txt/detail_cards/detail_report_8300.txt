@@ -1,0 +1,186 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8300 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EKERERQ 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: XM02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 974.0274 
+
+ Monoisotopic mass 
+
+ 973.4926 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 552.50 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Katayama K., Anggraeni H. E., Mori T., Ahmed A. M., Kawahara S., Sugiyama M., Nakayama T., Maruyama M., Muguruma M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Porcine skeletal muscle troponin is a good source of peptides with angiotensin-I converting enzyme inhibitory activity and antihypertensive effects in spontaneously hypertensive rats. J. Agric. Food Chem., 56, 355-360, 2008 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: XM02-001 
+
+Peptide released by simulated gastric juice. 
+
+Terashima M., Baba T., Ikemoto N., Katayama M., Morimoto T., Matsumura S., 2010, Novel angiotensin-converting enzyme (ACE) inhibitory peptides derived from boneless chicken leg meat. J. Agric. Food Chem., 58, 7432-7436 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

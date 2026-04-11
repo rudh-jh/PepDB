@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 118
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=117bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-7467
-coeliac toxic peptide
-PQPQPFPSQQPY
-1413.5288
-1412.6703
-0.00 EC_50
-Peptide
-Data
-7468
-Anticancer peptide
-ALNENLLRFFVAPFPEVFG
-2180.4960
-2179.1430
-0.00 EC_50
-Peptide
-Data
-7469
-coeliac toxic peptide
-VVKVGGSSSLGW
-1175.3307
-1174.6326
-0.00 EC_50
-Peptide
-Data
-7470
-coeliac toxic peptide
-VIQVGGSNVLDI
-1213.3769
-1212.6692
-0.00 EC_50
-Peptide
-Data
-7471
-coeliac toxic peptide
-VIPVGGSSALGA
-1027.1691
-1026.5691
-0.00 EC_50
-Peptide
-Data
-7472
-coeliac toxic peptide
-VIRVGGASEVEV
-1214.3650
-1213.6645
-0.00 EC_50
-Peptide
-Data
-7473
-coeliac toxic peptide
-RIRVGQSMNMGS
-1335.5550
-1334.6527
-0.00 EC_50
-Peptide
-Data
-7474
-coeliac toxic peptide
-VLKVGGTSDVEV
-1202.3510
-1201.6532
-0.00 EC_50
-Peptide
-Data
-7475
-coeliac toxic peptide
-VEKIGGASSRGE
-1189.2730
-1188.6079
-0.00 EC_50
-Peptide
-Data
-7476
-coeliac toxic peptide
-VLKMAGNSFQEN
-1337.4986
-1336.6424
-0.00 EC_50
-Peptide
-Data
-7477
-33mer coeliac toxic peptide
-LQLQPFPQPQLPYPQPQLPYPQPQLPYPQPQPF
-3911.4496
-3909.0230
-0.00 EC_50
-Peptide
-Data
-7478
-ACE inhibitor
-HHL
-405.4504
-405.2119
-5.43 IC_50
-Peptide
-Data
-7479
-ACE inhibitor
-HLL
-381.4686
-381.2369
-22.20 IC_50
-Peptide
-Data
-7480
-ACE inhibitor (fragment of as2-casein)
-FALPQY
-737.8403
-737.3736
-4.30 IC_50
-Peptide
-Data
-7481
-ACE inhibitor (fragment of k-casein: 185-190)
-VTSTAV
-576.6386
-576.3108
-52.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 118 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7467 
+
+ coeliac toxic peptide 
+
+ PQPQPFPSQQPY 
+
+ 1413.5288 
+
+ 1412.6703 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7468 
+
+ Anticancer peptide 
+
+ ALNENLLRFFVAPFPEVFG 
+
+ 2180.4960 
+
+ 2179.1430 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7469 
+
+ coeliac toxic peptide 
+
+ VVKVGGSSSLGW 
+
+ 1175.3307 
+
+ 1174.6326 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7470 
+
+ coeliac toxic peptide 
+
+ VIQVGGSNVLDI 
+
+ 1213.3769 
+
+ 1212.6692 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7471 
+
+ coeliac toxic peptide 
+
+ VIPVGGSSALGA 
+
+ 1027.1691 
+
+ 1026.5691 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7472 
+
+ coeliac toxic peptide 
+
+ VIRVGGASEVEV 
+
+ 1214.3650 
+
+ 1213.6645 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7473 
+
+ coeliac toxic peptide 
+
+ RIRVGQSMNMGS 
+
+ 1335.5550 
+
+ 1334.6527 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7474 
+
+ coeliac toxic peptide 
+
+ VLKVGGTSDVEV 
+
+ 1202.3510 
+
+ 1201.6532 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7475 
+
+ coeliac toxic peptide 
+
+ VEKIGGASSRGE 
+
+ 1189.2730 
+
+ 1188.6079 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7476 
+
+ coeliac toxic peptide 
+
+ VLKMAGNSFQEN 
+
+ 1337.4986 
+
+ 1336.6424 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7477 
+
+ 33mer coeliac toxic peptide 
+
+ LQLQPFPQPQLPYPQPQLPYPQPQLPYPQPQPF 
+
+ 3911.4496 
+
+ 3909.0230 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7478 
+
+ ACE inhibitor 
+
+ HHL 
+
+ 405.4504 
+
+ 405.2119 
+
+ 5.43 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7479 
+
+ ACE inhibitor 
+
+ HLL 
+
+ 381.4686 
+
+ 381.2369 
+
+ 22.20 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7480 
+
+ ACE inhibitor (fragment of as2-casein) 
+
+ FALPQY 
+
+ 737.8403 
+
+ 737.3736 
+
+ 4.30 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7481 
+
+ ACE inhibitor (fragment of k-casein: 185-190) 
+
+ VTSTAV 
+
+ 576.6386 
+
+ 576.3108 
+
+ 52.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 118 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

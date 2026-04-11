@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 2673 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LENLHLPLP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1045.2289 
+
+ Monoisotopic mass 
+
+ 1044.5949 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 86.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohmura M., Nio N., Kubo K., Minoshima Y., Munekata E., Ariyoshi Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition of angiotensin-converting enzyme by synthetic peptides of human beta-casein. Agric. Biol. Chem., 53(8), 2107-2114 (1989) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWN database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(CCC(O)=O)C(=O)N[C@@]([H])(CC(N)=O)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(Cc1cnc[nH]1)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C49H80N12O13/c1-25(2)17-30(50)41(65)54-31(13-14-40(63)64)42(66)57-34(22-39(51)62)45(69)55-32(18-26(3)4)43(67)56-33(21-29-23-52-24-53-29)44(68)58-35(19-27(5)6)47(71)60-15-9-11-37(60)46(70)59-36(20-28(7)8)48(72)61-16-10-12-38(61)49(73)74/h23-28,30-38H,9-22,50H2,1-8H3,(H2,51,62)(H,52,53)(H,54,65)(H,55,69)(H,56,67)(H,57,66)(H,58,68)(H,59,70)(H,63,64)(H,73,74)/t30-,31-,32-,33-,34-,35-,36-,37-,38-/m0/s1
+
+InChIKey: RFAVCANCGUGWMW-IWLMWFOOSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6005, 6335, 6830
+
+EROP-Moscow: ID E14613
+
+MBPDB: Peptide LENLHLPLP
+
+SATPdb: ID satpdb24320

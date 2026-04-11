@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10890 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AAIFPGGF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 778.8921 
+
+ Monoisotopic mass 
+
+ 778.4001 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Deng Z., Li M., Zhang Z., Chen C., Qu X., Wang Z., Zhang D., Zhang C., Wu B., Sang X. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification and in silico characterization of the novel inhibitory peptides of angiotensin converting enzyme from donkey meat. Int. J. Pept. Res. Therapeut., 31, 16, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)NCC(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C39H54N8O9/c1-5-23(2)33(46-35(51)25(4)43-34(50)24(3)40)37(53)45-28(19-26-13-8-6-9-14-26)38(54)47-18-12-17-30(47)36(52)42-21-31(48)41-22-32(49)44-29(39(55)56)20-27-15-10-7-11-16-27/h6-11,13-16,23-25,28-30,33H,5,12,17-22,40H2,1-4H3,(H,41,48)(H,42,52)(H,43,50)(H,44,49)(H,45,53)(H,46,51)(H,55,56)/t23-,24-,25-,28-,29-,30-,33-/m0/s1
+
+InChIKey=SEAIWIVDZTYAGT-YLDWQYRQSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

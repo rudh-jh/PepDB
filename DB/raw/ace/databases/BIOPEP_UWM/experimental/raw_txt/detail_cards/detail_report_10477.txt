@@ -1,0 +1,194 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10477 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YPQY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 569.6048 
+
+ Monoisotopic mass 
+
+ 569.2477 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 142.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Tang H., Wang C., Cao S., Wang F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel angiotensin I-converting enzyme (ACE) inhibitory peptides from walnut protein isolate: Separation, identification and molecular docking study. J. Food Biochem., 46, e14411, 2022. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2022 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: 
+
+N[C@@H](CC1=CC=C(C=C1)O)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O
+
+InChI=1S/C28H35N5O8/c29-20(14-16-3-7-18(34)8-4-16)27(39)33-13-1-2-23(33)26(38)31-21(11-12-24(30)36)25(37)32-22(28(40)41)15-17-5-9-19(35)10-6-17/h3-10,20-23,34-35H,1-2,11-15,29H2,(H2,30,36)(H,31,38)(H,32,37)(H,40,41)/t20-,21-,22-,23-/m0/s1
+
+InChIKey=AMKSMNMYJLJRQM-MLCQCVOFSA-N
+
+The IC50 value was calculated in μmol/L.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

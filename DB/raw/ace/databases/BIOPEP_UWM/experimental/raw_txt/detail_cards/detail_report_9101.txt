@@ -1,0 +1,204 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9101 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LSNGK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 517.5749 
+
+ Monoisotopic mass 
+
+ 517.2851 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 130.60 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Luna-Vital D. A., Gonzalez de Mejia E., Mendoza S., Loarca-Pina G. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Peptides present in the non-digestible fraction of common beans (Phaseolus vulgaris L.) inhibit the angiotensin-I converting enzyme by interacting with its catalytic cavity independent of their antioxidant capacity. Food Funct., 6, 1470-1479, 2015 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(=O)N)C(=O)NCC(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C21H39N7O8/c1-11(2)7-12(23)18(32)28-15(10-29)20(34)27-14(8-16(24)30)19(33)25-9-17(31)26-13(21(35)36)5-3-4-6-22/h11-15,29H,3-10,22-23H2,1-2H3,(H2,24,30)(H,25,33)(H,26,31)(H,27,34)(H,28,32)(H,35,36)/t12-,13-,14-,15-/m0/s1 
+
+InChIKey: JHQFEFOCJCVJCJ-AJNGGQMLSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9102)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9102

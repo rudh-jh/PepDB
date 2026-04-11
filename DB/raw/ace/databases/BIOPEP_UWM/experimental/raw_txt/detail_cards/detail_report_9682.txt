@@ -1,0 +1,221 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9682 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LPYP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 488.5751 
+
+ Monoisotopic mass 
+
+ 488.2626 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 5.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Dellafiora L., Pugliese R., Bollati C., Gelain F., Galaverna G., Arnoldi A., Lammi C. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ "Bottom-Up" strategy for the identification of novel soybean peptides with angiotensin-converting enzyme inhibitory activity. J. Agric. Food Chem., 68, 2082-2090, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C25H36N4O6/c1-15(2)13-18(26)23(32)28-11-3-5-20(28)22(31)27-19(14-16-7-9-17(30)10-8-16)24(33)29-12-4-6-21(29)25(34)35/h7-10,15,18-21,30H,3-6,11-14,26H2,1-2H3,(H,27,31)(H,34,35)/t18-,19-,20-,21-/m0/s1
+
+InChIKey: NRJZAOVJHXKFRI-TUFLPTIASA-N
+
+Inhibitor of HMG-CoA reductase (EC 1.1.1.34) according to the BindingDB database; the BIOPEP-UWM database of bioactive peptides (
+ID 9605); the BRENDA database; the ChEMBL database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BindingDB: 
+ID 50226159
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 9605
+
+BRENDA: Ligand LPYP
+
+ChEMBL: ID CHEMBL412060
+
+ChemSpider: 
+ID 23319380
+
+EPA CompTox: ID DTXSID90659167
+
+EPA DSSTox: ID DTXCID00609916
+
+J-GLOBAL: 
+ID 201707003233025250
+
+Nikkaji: ID J3.595.388D
+
+PubChem: CID 44451976

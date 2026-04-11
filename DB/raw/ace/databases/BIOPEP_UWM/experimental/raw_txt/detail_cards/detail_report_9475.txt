@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9475 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FhL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 399.4855 
+
+ Monoisotopic mass 
+
+ 399.2264 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 0.05 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Savitha M. N., Siddesha J. M., Suvilesh K. N., Yariswamy M., Vivek H. K., D’Souza C. J. M., Umashankar M., Vishwanath B. S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Active-site directed peptide L-Phe-D-His-L-Leu inhibits angiotensin converting enzyme activity and dexamethasone-induced hypertension in rats. Peptides, 112, 34–42, 2019 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2019 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=CC=C1)C(=O)N[C@H](CC2=C[N]([H])C=N2)C(=O)N[C@@H](CC(C)C)C(=O)O
+
+InChI=1S/C21H29N5O4/c1-13(2)8-18(21(29)30)26-20(28)17(10-15-11-23-12-24-15)25-19(27)16(22)9-14-6-4-3-5-7-14/h3-7,11-13,16-18H,8-10,22H2,1-2H3,(H,23,24)(H,25,27)(H,26,28)(H,29,30)/t16-,17+,18-/m0/s1 
+
+InChIKey: VADLTGVIOIOKGM-KSZLIROESA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

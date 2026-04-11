@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9062 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ITF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 379.4495 
+
+ Monoisotopic mass 
+
+ 379.2100 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 48.98 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Li C.-H., Matsui T., Matsumoto K., Yamasaki R., Kawasaki T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Latent production of Angiotensin I-converting enzyme inhibitors from buckwheat protein. J. Peptide Sci., 8, 267-274, 2002 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2002 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ 
+
+BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)O)Cc1ccccc1)[C@H](O)C)[C@H](CC)C
+
+InChI=1S/C19H29N3O5/c1-4-11(2)15(20)17(24)22-16(12(3)23)18(25)21-14(19(26)27)10-13-8-6-5-7-9-13/h5-9,11-12,14-16,23H,4,10,20H2,1-3H3,(H,21,25)(H,22,24)(H,26,27)/t11-,12+,14-,15-,16-/m0/s1
+
+InChIKey: WXLYNEHOGRYNFU-URLPEUOOSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1624, 2693, 5123
+
+BioPepDB: ID biopep00597
+
+BRENDA: Ligand Ile-Thr-Phe
+
+EROP-Moscow: ID E04103
+
+SATPdb: ID satpdb20212

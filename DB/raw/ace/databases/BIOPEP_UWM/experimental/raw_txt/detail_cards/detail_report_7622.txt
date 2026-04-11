@@ -1,0 +1,238 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7622 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 204.1801 
+
+ Monoisotopic mass 
+
+ 204.0743 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 10000.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)NCC(=O)O)CCC(=O)O
+
+InChI=1S/C7H12N2O5/c8-4(1-2-5(10)11)7(14)9-3-6(12)13/h4H,1-3,8H2,(H,9,14)(H,10,11)(H,12,13)/t4-/m0/s1
+
+InChIKey=LSPKYLAFTPBWIL-BYPYZUCNSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8770)
+
+Antagonist of neuroexcitatory amino acids according to the ChEMBL database; the PubChem database
+
+Bitter peptide according to BIOPEP-UWM database of sensory peptides and amino acids (
+ID 232)
+
+Umami peptide according to BIOPEP-UWM database of sensory peptides and amino acids (
+ID 358)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1487; 3142; 3254; 3335; 3825; 3898; 4398; 4531; 4663; 6609
+
+BindingDB: 
+ID 50188507
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8770
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 232; 358
+
+ChEBI: 
+ID 73505
+
+ChEMBL: ID CHEMBL421361
+
+ChemSpider: 
+ID 4932470
+
+DFBP: ID DFBPACEI1627
+
+EROP-Moscow: ID E01847
+
+PubChem: 
+ID 6427052
+
+SATpdb: ID satpdb21475
+
+ZINC: ID ZINC01731776

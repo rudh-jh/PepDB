@@ -1,0 +1,281 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7591 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 222.2399 
+
+ Monoisotopic mass 
+
+ 222.1001 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 630.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@H](C(=O)O)Cc1ccccc1
+
+InChI=1S/C11H14N2O3/c12-7-10(14)13-9(11(15)16)6-8-4-2-1-3-5-8/h1-5,9H,6-7,12H2,(H,13,14)(H,15,16)/t9-/m0/s1
+
+InChIKey: JBCLFWXMTIKCCB-VIFPVBQESA-N
+
+Inhibitor of cholecystokinin-8-inactivating peptidase (tripeptidyl-peptidase II) (EC 3.4.14.10) (MEROPS ID: S08.090) according to the BRENDA database, the PubChem database
+
+Inhibitor of acylaminoacyl-peptidase (EC 3.4.19.1) (MEROPS ID: S09.004) according to the BRENDA database
+
+Inhibitor of dipeptidyl-peptidase III (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (ID: 9488), the BRENDA database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8782)
+
+Antimalarial peptide according to the Parapep database
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 19), the BitterDB database, the ChEMBL database, the EROP-Moscow database (ID E03703), the PubChem database
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 3321-03-7
+
+AHTPDB: 
+ID 1112; 1383; 1402; 1421; 1681; 1813; 2657; 2791; 2936; 3023; 3176; 3483; 3796; 3841; 3918; 4232; 4430; 4502; 4697; 5149; 5427; 5455; 5744; 6577
+
+BindingDB: 
+ID 50188491
+
+BioPepDB: ID biopep00334
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8782, 9488
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 19
+
+BitterDB: 
+ID 835
+
+BRENDA: Ligand Gly-Phe
+
+ChEBI: 
+ID 73912
+
+ChEMBL: ID CHEMBL299889
+
+ChemIDplus: 
+ID 3321-03-7
+
+ChemSpider: 
+ID 83909
+
+ECHA: compound N-glycyl-3-phenylalanine
+
+eChemPortal: 
+ID 3321-03-7
+
+EROP-Moscow: ID E03703; E09345
+
+Golm Metabolome Database: ID M001062
+
+J-GLOBAL: 
+ID 200907093284113983
+
+MassBank: ID MT000058
+
+Metabolights: ID MTBLC73912
+
+MetaCyc: compound glycyl-L-phenylalanine
+
+NIAID: 
+ID 335273, 335277
+
+Nikkaji: ID J149.622K
+
+NIST Webbook: compound Glycyl-L-phenyl alanine
+
+ParaPep: 
+ID 1161
+
+Pitt Quantum Repository: compound Glycyl-Phenylalanine
+
+PubChem: CID 92953
+
+SATPdb: ID satpdb12994
+
+SDBS: ID MS-NW-2034; NMR-CDS-03-391
+
+ZINC: ID ZINC01569529

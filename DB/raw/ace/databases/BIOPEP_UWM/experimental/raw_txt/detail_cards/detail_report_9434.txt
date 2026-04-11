@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9434 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RVCLP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 586.7470 
+
+ Monoisotopic mass 
+
+ 586.3251 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 175.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu S., Feng X., Lan X., Xu Y., Liao D. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Puriﬁcation and identiﬁcation of Angiotensin-I Converting Enzyme (ACE) inhibitory peptide from lizard ﬁsh (Saurida elongata) hydrolysate. J. Funct. Foods, 13, 295-299 (2015)
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCCNC(N)=N)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CS)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C25H46N8O6S/c1-13(2)11-16(23(37)33-10-6-8-18(33)24(38)39)30-21(35)17(12-40)31-22(36)19(14(3)4)32-20(34)15(26)7-5-9-29-25(27)28/h13-19,40H,5-12,26H2,1-4H3,(H,30,35)(H,31,36)(H,32,34)(H,38,39)(H4,27,28,29)/t15-,16-,17-,18-,19-/m0/s1
+
+InChIKey: BIYLPYGMGOUNEQ-VMXHOPILSA-N 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

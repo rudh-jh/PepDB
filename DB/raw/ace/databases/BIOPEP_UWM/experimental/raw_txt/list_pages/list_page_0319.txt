@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 319
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=318bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-10509
-Alpha-glucosidase inhibitor
-AVPYPQRDMIQAF
-1535.7617
-1534.7578
-0.00 IC_50
-Peptide
-Data
-10510
-Butyrylcholinestrase inhibitor
-SQSQ
-448.4272
-448.1911
-8511.38 IC_50
-Peptide
-Data
-10511
-Butyrylcholinestrase inhibitor
-QSQS
-448.4272
-448.1911
-18620.87 IC_50
-Peptide
-Data
-10512
-Butyrylcholinestrase inhibitor
-QHNAL
-581.6204
-581.2913
-1949.84 IC_50
-Peptide
-Data
-10513
-Butyrylcholinestrase inhibitor
-LQHNA
-581.6204
-581.2913
-1047.13 IC_50
-Peptide
-Data
-10514
-Butyrylcholinestrase inhibitor
-RSQSQ
-604.6124
-604.2920
-602.56 IC_50
-Peptide
-Data
-10515
-Butyrylcholinestrase inhibitor
-SQSRS
-563.5606
-563.2655
-2041.74 IC_50
-Peptide
-Data
-10516
-Butyrylcholinestrase inhibitor
-ETRSQ
-619.6237
-619.2916
-1122.02 IC_50
-Peptide
-Data
-10517
-Butyrylcholinestrase inhibitor
-TRSQE
-619.6237
-619.2916
-1096.48 IC_50
-Peptide
-Data
-10518
-Butyrylcholinestrase inhibitor
-PQDER
-643.6451
-643.2916
-724.44 IC_50
-Peptide
-Data
-10519
-Butyrylcholinestrase inhibitor
-PLMLLA
-656.8762
-656.3918
-851.14 IC_50
-Peptide
-Data
-10520
-Butyrylcholinestrase inhibitor
-VNRPGK
-669.7714
-669.3911
-537.03 IC_50
-Peptide
-Data
-10521
-Butyrylcholinestrase inhibitor
-VNRFR
-690.7922
-690.3915
-478.63 IC_50
-Peptide
-Data
-10522
-Butyrylcholinestrase inhibitor
-QSHFAD
-703.6986
-703.2916
-389.05 IC_50
-Peptide
-Data
-10523
-Butyrylcholinestrase inhibitor
-HPVAINA
-720.8148
-720.3907
-512.86 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 319 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10509 
+
+ Alpha-glucosidase inhibitor 
+
+ AVPYPQRDMIQAF 
+
+ 1535.7617 
+
+ 1534.7578 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10510 
+
+ Butyrylcholinestrase inhibitor 
+
+ SQSQ 
+
+ 448.4272 
+
+ 448.1911 
+
+ 8511.38 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10511 
+
+ Butyrylcholinestrase inhibitor 
+
+ QSQS 
+
+ 448.4272 
+
+ 448.1911 
+
+ 18620.87 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10512 
+
+ Butyrylcholinestrase inhibitor 
+
+ QHNAL 
+
+ 581.6204 
+
+ 581.2913 
+
+ 1949.84 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10513 
+
+ Butyrylcholinestrase inhibitor 
+
+ LQHNA 
+
+ 581.6204 
+
+ 581.2913 
+
+ 1047.13 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10514 
+
+ Butyrylcholinestrase inhibitor 
+
+ RSQSQ 
+
+ 604.6124 
+
+ 604.2920 
+
+ 602.56 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10515 
+
+ Butyrylcholinestrase inhibitor 
+
+ SQSRS 
+
+ 563.5606 
+
+ 563.2655 
+
+ 2041.74 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10516 
+
+ Butyrylcholinestrase inhibitor 
+
+ ETRSQ 
+
+ 619.6237 
+
+ 619.2916 
+
+ 1122.02 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10517 
+
+ Butyrylcholinestrase inhibitor 
+
+ TRSQE 
+
+ 619.6237 
+
+ 619.2916 
+
+ 1096.48 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10518 
+
+ Butyrylcholinestrase inhibitor 
+
+ PQDER 
+
+ 643.6451 
+
+ 643.2916 
+
+ 724.44 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10519 
+
+ Butyrylcholinestrase inhibitor 
+
+ PLMLLA 
+
+ 656.8762 
+
+ 656.3918 
+
+ 851.14 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10520 
+
+ Butyrylcholinestrase inhibitor 
+
+ VNRPGK 
+
+ 669.7714 
+
+ 669.3911 
+
+ 537.03 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10521 
+
+ Butyrylcholinestrase inhibitor 
+
+ VNRFR 
+
+ 690.7922 
+
+ 690.3915 
+
+ 478.63 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10522 
+
+ Butyrylcholinestrase inhibitor 
+
+ QSHFAD 
+
+ 703.6986 
+
+ 703.2916 
+
+ 389.05 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 10523 
+
+ Butyrylcholinestrase inhibitor 
+
+ HPVAINA 
+
+ 720.8148 
+
+ 720.3907 
+
+ 512.86 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 319 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,218 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9192 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AGS 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 233.2212 
+
+ Monoisotopic mass 
+
+ 233.1008 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 527.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Balti R., Nedjar-Arroume N., Adje E. Y., Guillochon D., Nasri M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Analysis of novel angiotensin I-converting enzyme inhibitory peptides from enzymatic hydrolysates of cuttlefish (Sepia officinalis) muscle proteins. J. Agric. Food Chem., 58, 5763-5769, 2010 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2010 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CO)C(=O)O
+
+InChI=1S/C8H15N3O5/c1-4(9)7(14)10-2-6(13)11-5(3-12)8(15)16/h4-5,12H,2-3,9H2,1H3,(H,10,14)(H,11,13)(H,15,16)/t4-,5-/m0/s1
+
+InChIKey: NBTGEURICRTMGL-WHFBIAKZSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1055, 4749, 5190, 5724
+
+BRENDA: Ligand Ala-Gly-Ser
+
+ChEBI: 
+ID 73350
+
+ChemIDplus: 
+ID 85807-50-7
+
+ChemSpider: 
+ID 119047
+
+EPA DSSTox: ID DTXCID10157579
+
+EROP-Moscow: ID E09361
+
+PubChem: CID 135103
+
+SATPdb: ID satpdb23386

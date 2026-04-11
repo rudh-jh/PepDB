@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3423 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+QVSLNSGYY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1030.0856 
+
+ Monoisotopic mass 
+
+ 1029.4751 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gobetti M., Ferranti P., Smacchi E., Goffredi F., Addeo F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Production of angiotensin-I-converting-enzyme-inhibitory peptides in fermented milks strated by Lactobacillus delbrueckii ssp. bulgaricus SS1 and Lactococcus lactis ssp. cremoris FT4. Appl. Environ. Microbiol., 66(9), 3898-3904 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2000 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCC(N)=O)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(CC(N)=O)C(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(O)=O
+
+InChI=1S/C46H67N11O16/c1-22(2)15-29(52-44(70)34(21-59)56-45(71)38(23(3)4)57-39(65)28(47)13-14-35(48)62)41(67)53-31(18-36(49)63)43(69)55-33(20-58)40(66)50-19-37(64)51-30(16-24-5-9-26(60)10-6-24)42(68)54-32(46(72)73)17-25-7-11-27(61)12-8-25/h5-12,22-23,28-34,38,58-61H,13-21,47H2,1-4H3,(H2,48,62)(H2,49,63)(H,50,66)(H,51,64)(H,52,70)(H,53,67)(H,54,68)(H,55,69)(H,56,71)(H,57,65)(H,72,73)/t28-,29-,30-,31-,32-,33-,34-,38-/m0/s1
+
+InChIKey=IOPQJTAYLWZRMD-DWIHLTNRSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

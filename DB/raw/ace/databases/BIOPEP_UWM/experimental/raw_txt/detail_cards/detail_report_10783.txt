@@ -1,0 +1,216 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10783 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LGF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 335.3971 
+
+ Monoisotopic mass 
+
+ 335.1839 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 290.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Ma K., Wang Y., Wang M., Wang Z., Wang X., Ju X., He R. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive activity of the ACE–renin inhibitory peptide derived from Moringa oleifera protein. Food Funct., 12, 8994–9006, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(C)C)C(=O)NCC(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)O
+
+InChI=1S/C17H25N3O4/c1-11(2)8-13(18)16(22)19-10-15(21)20-14(17(23)24)9-12-6-4-3-5-7-12/h3-7,11,13-14H,8-10,18H2,1-2H3,(H,19,22)(H,20,21)(H,23,24)/t13-,14-/m0/s1
+
+InChIKey=KEVYYIMVELOXCT-KBPBESRZSA-N
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10226)
+
+Inhibitor of Renin (EC 3.4.23.15) (MEROPS ID: A01.007) according to the BIOPEP-UWM database of bioactive peptides; the DFBP database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 10226
+
+CAS: 
+ID 17608-53-6
+
+ChemSpider: 
+ID 5362669
+
+DFBP: ID DFBPRENI0040; DFBPACEI2221; DFBPANHY0995; DFBPMUFU0648
+
+EPA CompTox: ID DTXSID50426392
+
+PubChem: CID 699467

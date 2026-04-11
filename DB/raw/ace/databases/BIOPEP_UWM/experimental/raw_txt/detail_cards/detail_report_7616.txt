@@ -1,0 +1,267 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7616 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 132.1176 
+
+ Monoisotopic mass 
+
+ 132.0533 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 7200.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin converting enzyme inhibitors:Evolution of a new class of antihypertensive drugs (page 19). in: Horovitz Z. P. (Ed.)(1981), Mechanisms of action and clinical implications, Urban & Schwarzenberg. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1981 
+
+ book 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)NCC(=O)O
+
+InChI=1S/C4H8N2O3/c5-1-3(7)6-2-4(8)9/h1-2,5H2,(H,6,7)(H,8,9)
+
+InChIKey=YMAWOPBAYDPSLA-UHFFFAOYSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8783)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1371, 1475, 2995, 3014, 3036, 3044, 3069, 3126, 3129, 3248, 3313, ahtpdb_3557, 3819, 3919, 4404, 4525, 4703, 6602
+
+BindingDB: 
+ID 50169222
+
+BioCyc: ID GLYCYLGLYCINE
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8783
+
+CAS: Registry No 556-50-3 
+
+ChEBI 
+ID 17201 
+
+ChEMBL: ID CHEMBL292467
+
+Chemspider: 
+ID 10690
+
+DFBP: ID DFBPACEI1353 
+
+ECHA: 
+ID 209-127-8
+
+EPA CompTox: ID DTXSID90862194 
+
+EROP-Moscow: ID E10389
+
+FooDB: ID FDB028413
+
+Golm Metabolome Database: 
+ID 33903968-DDB2-47F2-9B6C-7C232D1962DA
+
+HMDB: ID HMDB0011733 
+
+KEGG: ID C02037 
+
+J-GLOBAL: 
+ID 200907052080333889
+
+KNApSAcK: ID C00053264
+
+MeSH: Terms Diglycine, Glycyl Glycine, Glycyl-Glycine, Glycylglycine 
+
+Metabolomics Workbench: 
+ID 71575 
+
+Milk Composition Database: ID BMDB11733
+
+NIAID: 
+ID 018854
+
+Nikkaji: ID J2.659J 
+
+NMRShiftDB: 
+ID 10016979
+
+PubChem: CID 11163
+
+Sabio-RK: 
+ID 255572362
+
+SATPdb: ID satpdb12484
+
+UNII: ID 10525P22U0 
+
+Wikidata: ID Q10634568

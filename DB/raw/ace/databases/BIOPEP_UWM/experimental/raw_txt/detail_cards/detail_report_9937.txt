@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9937 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GPRGF 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 532.5912 
+
+ Monoisotopic mass 
+
+ 532.2750 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Fu Y, Young JF, Rasmussen MK, Dalsgaard TK, Lametsch R, Aluko RE, Therkildsen M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I–converting enzyme–inhibitory peptides from bovine collagen: insights into inhibitory mechanism and transepithelial transport. Food Res. Int. 89, 373–381, 2016
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2016 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N1[C@@H](CCC1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)N[C@@H](CC2=CC=CC=C2)C(=O)O
+
+InChI=1S/C24H36N8O6/c25-13-20(34)32-11-5-9-18(32)22(36)31-16(8-4-10-28-24(26)27)21(35)29-14-19(33)30-17(23(37)38)12-15-6-2-1-3-7-15/h1-3,6-7,16-18H,4-5,8-14,25H2,(H,29,35)(H,30,33)(H,31,36)(H,37,38)(H4,26,27,28)/t16-,17-,18-/m0/s1
+
+InChIKey= MJBUJCWRACBOFZ-BZSNNMDCSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

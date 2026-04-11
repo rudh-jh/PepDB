@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 59
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=58bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-3527
-ACE inhibitor
-VHLPPP
-658.7868
-658.3791
-200.00 IC_50
-Peptide
-Data
-3528
-ACE inhibitor
-LVR
-386.4883
-386.2634
-14.00 IC_50
-Peptide
-Data
-3529
-ACE inhibitor
-AVNPIR
-668.7833
-668.3958
-13.00 IC_50
-Peptide
-Data
-3530
-ACE inhibitor (fr. of alpha s1-casein, 194-199)
-TTMPLW
-747.9008
-747.3613
-16.00 IC_50
-Peptide
-Data
-3531
-ACE inhibitor from alphas1-CN
-PLW
-414.4968
-414.2260
-36.00 IC_50
-Peptide
-Data
-3532
-ACE inhibitor
-GY
-238.2393
-238.0950
-210.00 IC_50
-Peptide
-Data
-3534
-ACE inhibitor
-YPRY
-597.6611
-597.2902
-17.40 IC_50
-Peptide
-Data
-3535
-ACE inhibitor
-YPR
-434.4882
-434.2271
-16.50 IC_50
-Peptide
-Data
-3536
-ACE inhibitor
-PRY
-434.4882
-434.2271
-2.50 IC_50
-Peptide
-Data
-3537
-ACE inhibitor
-PR
-271.3153
-271.1640
-4.10 IC_50
-Peptide
-Data
-3538
-ACE inhibitor
-VSP
-301.3379
-301.1632
-10.00 IC_50
-Peptide
-Data
-3539
-ACE inhibitor from alpha-zein
-LAA
-273.3278
-273.1683
-13.00 IC_50
-Peptide
-Data
-3540
-ACE inhibitor
-IYPR
-547.6454
-547.3109
-10.00 IC_50
-Peptide
-Data
-3541
-ACE inhibitor
-LSP
-315.3644
-315.1788
-1.70 IC_50
-Peptide
-Data
-3542
-ACE inhibitor
-LQP
-356.4162
-356.2053
-1.90 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3527 
+
+ ACE inhibitor 
+
+ VHLPPP 
+
+ 658.7868 
+
+ 658.3791 
+
+ 200.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3528 
+
+ ACE inhibitor 
+
+ LVR 
+
+ 386.4883 
+
+ 386.2634 
+
+ 14.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3529 
+
+ ACE inhibitor 
+
+ AVNPIR 
+
+ 668.7833 
+
+ 668.3958 
+
+ 13.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3530 
+
+ ACE inhibitor (fr. of alpha s1-casein, 194-199) 
+
+ TTMPLW 
+
+ 747.9008 
+
+ 747.3613 
+
+ 16.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3531 
+
+ ACE inhibitor from alphas1-CN 
+
+ PLW 
+
+ 414.4968 
+
+ 414.2260 
+
+ 36.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3532 
+
+ ACE inhibitor 
+
+ GY 
+
+ 238.2393 
+
+ 238.0950 
+
+ 210.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3534 
+
+ ACE inhibitor 
+
+ YPRY 
+
+ 597.6611 
+
+ 597.2902 
+
+ 17.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3535 
+
+ ACE inhibitor 
+
+ YPR 
+
+ 434.4882 
+
+ 434.2271 
+
+ 16.50 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3536 
+
+ ACE inhibitor 
+
+ PRY 
+
+ 434.4882 
+
+ 434.2271 
+
+ 2.50 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3537 
+
+ ACE inhibitor 
+
+ PR 
+
+ 271.3153 
+
+ 271.1640 
+
+ 4.10 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3538 
+
+ ACE inhibitor 
+
+ VSP 
+
+ 301.3379 
+
+ 301.1632 
+
+ 10.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3539 
+
+ ACE inhibitor from alpha-zein 
+
+ LAA 
+
+ 273.3278 
+
+ 273.1683 
+
+ 13.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3540 
+
+ ACE inhibitor 
+
+ IYPR 
+
+ 547.6454 
+
+ 547.3109 
+
+ 10.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3541 
+
+ ACE inhibitor 
+
+ LSP 
+
+ 315.3644 
+
+ 315.1788 
+
+ 1.70 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 3542 
+
+ ACE inhibitor 
+
+ LQP 
+
+ 356.4162 
+
+ 356.2053 
+
+ 1.90 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 59 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

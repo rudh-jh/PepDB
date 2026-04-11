@@ -1,0 +1,199 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8417 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MVGSAPGVL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 830.0027 
+
+ Monoisotopic mass 
+
+ 829.4353 
+
+ 
+
+ 
+
+ EC50 : 
+
+ 3.09 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Ngo D.H., Ryu B., Kim S.K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Active peptides from skate (Okamejei kenojei) skin gelatin diminish angiotensin-I converting enzyme activity and intracellular free radical-mediated oxidation. Food Chemistry 143, 246-255, 2014 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCSC)C(=O)N[C@@]([H])(C(C)C)C(=O)NCC(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(C)C(=O)N1CCC[C@@]1([H])C(=O)NCC(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CC(C)C)C(O)=O
+
+InChI=1S/C36H63N9O11S/c1-18(2)14-23(36(55)56)42-34(53)29(20(5)6)43-27(48)16-38-32(51)25-10-9-12-45(25)35(54)21(7)40-31(50)24(17-46)41-26(47)15-39-33(52)28(19(3)4)44-30(49)22(37)11-13-57-8/h18-25,28-29,46H,9-17,37H2,1-8H3,(H,38,51)(H,39,52)(H,40,50)(H,41,47)(H,42,53)(H,43,48)(H,44,49)(H,55,56)/t21-,22-,23-,24-,25-,28-,29-/m0/s1
+
+InChIKey: LQEXMYMFFWFJDO-DAOOESDTSA-N 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 6781
+
+BioPepDB: ID biopep00983
+
+SATPdb: ID satpdb24192

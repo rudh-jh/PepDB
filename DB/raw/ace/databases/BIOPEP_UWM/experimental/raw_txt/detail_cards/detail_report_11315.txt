@@ -1,0 +1,203 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11315 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VEP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 343.3745 
+
+ Monoisotopic mass 
+
+ 343.1737 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 40.88 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Gu J., Yue S., Yang X., Lu Z., Wang Z., Wei X., Zhou L., Zhao Z., Shi Z., Zhao Z. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Unlocking novel angiotensin-converting enzyme inhibitory peptides from Nili Ravi buffalo milk β-casein: A synergistic strategy combining targeted hydrolysis, 3D-QSAR modeling, and mechanistic insights. Food Biosci., 71, 107346, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCC(=O)O)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C15H25N3O6/c1-8(2)12(16)13(21)17-9(5-6-11(19)20)14(22)18-7-3-4-10(18)15(23)24/h8-10,12H,3-7,16H2,1-2H3,(H,17,21)(H,19,20)(H,23,24)/t9-,10-,12-/m0/s1
+
+InChIKey=WDIGUPHXPBMODF-NHCYSSNCSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ J-GLOBAL: 
+ID 201407047670328577
+
+Nikkaji: ID J3.268.621D 
+
+PubChem: CID 102222129
+
+SureChEMBL: ID SCHEMBL30069169

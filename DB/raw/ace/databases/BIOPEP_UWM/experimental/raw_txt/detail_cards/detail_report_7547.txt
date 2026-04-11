@@ -1,0 +1,221 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7547 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IRP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 384.4725 
+
+ Monoisotopic mass 
+
+ 384.2478 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 1.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Matsumura N., Fujii M., Takeda Y., Sugita K., Shimizu T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory peptides derived from bonito bowels autolysate. Biosci. Biotech. Biochem., 57, 695-697, 1993 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1993 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])([C@]([H])(CC)C)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C17H32N6O4/c1-3-10(2)13(18)14(24)22-11(6-4-8-21-17(19)20)15(25)23-9-5-7-12(23)16(26)27/h10-13H,3-9,18H2,1-2H3,(H,22,24)(H,26,27)(H4,19,20,21)/t10-,11-,12-,13-/m0/s1
+
+InChIKey=DMHGKBGOUAJRHU-CYDGBPFRSA-N
+
+Activator of Angiotensin 2-converting enzyme (ACE2) (EC 3.4.17.23) (MEROPS ID: M02.006) according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1632, 2038, 2209, 2566, 2571, 3215, 4759, 5097, 5222, 5670, 6533
+
+BindingDB: 
+ID 50049812
+
+ChEMBL: ID CHEMBL3322013 
+
+ChemSpider: ID ID10112049
+
+DFBP: ID DFBPACEI1646
+
+EROP-Moscow: ID E09041
+
+J-GLOBAL: 
+ID 200907047003951851
+
+Nikkaji: ID J568.019K 
+
+PubChem: CID 11937730 
+
+SATPdb: ID satpdb27620
+
+ZINC: ZINC000008076380

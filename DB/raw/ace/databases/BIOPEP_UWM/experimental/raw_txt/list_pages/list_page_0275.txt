@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 275
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=274bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-9849
-Alpha-glucosidase inhibitor
-SWLRL
-673.8014
-673.3900
-182.05 IC_50
-Peptide
-Data
-9850
-Alpha-glucosidase inhibitor
-WLRL
-586.7243
-586.3581
-162.29 IC_50
-Peptide
-Data
-9851
-Peptide stimulating mucin secretion
-YPVEPF
-750.8358
-750.3576
-0.00 EC_50
-Peptide
-Data
-9852
-Neocasomorphin
-YPVEPF
-750.8358
-750.3576
-0.00 EC_50
-Peptide
-Data
-9853
-Peptide stimulating mucin secretion
-GVSKVKEAMAPKHKEMPFPKYPVEPFTESQ
-3417.9414
-3415.7252
-0.00 EC_50
-Peptide
-Data
-9854
-Peptide stimulating mucin secretion
-GVSKVKEAMAPKHKE
-1638.9256
-1637.8895
-0.00 EC_50
-Peptide
-Data
-9855
-Peptide stimulating mucin secretion
-EPFTESQ
-836.8406
-836.3539
-0.00 EC_50
-Peptide
-Data
-9856
-Anti-inflammatory peptide
-PY
-278.3030
-278.1262
-0.00 EC_50
-Peptide
-Data
-9857
-Anti-inflammatory peptide
-VYY
-443.4917
-443.2049
-0.00 EC_50
-Peptide
-Data
-9858
-Anti-inflammatory peptide
-LGGW
-431.4843
-431.2162
-0.00 EC_50
-Peptide
-Data
-9859
-Anti-inflammatory peptide
-GVYY
-500.5429
-500.2263
-0.00 EC_50
-Peptide
-Data
-9860
-Anti-inflammatory peptide
-SACV
-378.4445
-378.1567
-0.00 EC_50
-Peptide
-Data
-9861
-Anti-inflammatory peptide
-LLPF
-488.6180
-488.2989
-0.00 EC_50
-Peptide
-Data
-9862
-Anti-inflammatory peptide
-APTLW
-586.6781
-586.3105
-0.00 EC_50
-Peptide
-Data
-9863
-Anti-inflammatory peptide
-AAFAATY
-713.7760
-713.3373
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 275 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9849 
+
+ Alpha-glucosidase inhibitor 
+
+ SWLRL 
+
+ 673.8014 
+
+ 673.3900 
+
+ 182.05 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9850 
+
+ Alpha-glucosidase inhibitor 
+
+ WLRL 
+
+ 586.7243 
+
+ 586.3581 
+
+ 162.29 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9851 
+
+ Peptide stimulating mucin secretion 
+
+ YPVEPF 
+
+ 750.8358 
+
+ 750.3576 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9852 
+
+ Neocasomorphin 
+
+ YPVEPF 
+
+ 750.8358 
+
+ 750.3576 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9853 
+
+ Peptide stimulating mucin secretion 
+
+ GVSKVKEAMAPKHKEMPFPKYPVEPFTESQ 
+
+ 3417.9414 
+
+ 3415.7252 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9854 
+
+ Peptide stimulating mucin secretion 
+
+ GVSKVKEAMAPKHKE 
+
+ 1638.9256 
+
+ 1637.8895 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9855 
+
+ Peptide stimulating mucin secretion 
+
+ EPFTESQ 
+
+ 836.8406 
+
+ 836.3539 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9856 
+
+ Anti-inflammatory peptide 
+
+ PY 
+
+ 278.3030 
+
+ 278.1262 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9857 
+
+ Anti-inflammatory peptide 
+
+ VYY 
+
+ 443.4917 
+
+ 443.2049 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9858 
+
+ Anti-inflammatory peptide 
+
+ LGGW 
+
+ 431.4843 
+
+ 431.2162 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9859 
+
+ Anti-inflammatory peptide 
+
+ GVYY 
+
+ 500.5429 
+
+ 500.2263 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9860 
+
+ Anti-inflammatory peptide 
+
+ SACV 
+
+ 378.4445 
+
+ 378.1567 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9861 
+
+ Anti-inflammatory peptide 
+
+ LLPF 
+
+ 488.6180 
+
+ 488.2989 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9862 
+
+ Anti-inflammatory peptide 
+
+ APTLW 
+
+ 586.6781 
+
+ 586.3105 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9863 
+
+ Anti-inflammatory peptide 
+
+ AAFAATY 
+
+ 713.7760 
+
+ 713.3373 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 275 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9552 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+KFPQY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 681.7772 
+
+ Monoisotopic mass 
+
+ 681.3475 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 12.37 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lin K., Zhang L., Han X., Meng Z., Zhang J., Wu Y., Cheng D. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Quantitative Structure-Activity Relationship modeling coupled with molecular docking analysis in screening of angiotensin I-converting enzyme inhibitory peptides from qula casein hydrolysates obtained by two-enzyme combination hydrolysis. J. Agric. F 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2018 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CCCCN)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N2[C@@H](CCC2)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)O
+
+InChI=1S/C34H47N7O8/c35-17-5-4-9-24(36)30(44)39-26(19-21-7-2-1-3-8-21)33(47)41-18-6-10-28(41)32(46)38-25(15-16-29(37)43)31(45)40-27(34(48)49)20-22-11-13-23(42)14-12-22/h1-3,7-8,11-14,24-28,42H,4-6,9-10,15-20,35-36H2,(H2,37,43)(H,38,46)(H,39,44)(H,40,45)(H,48,49)/t24-,25-,26-,27-,28-/m0/s1
+
+InChIKey: KAAGJUDHRNOSIF-XLIKFSOKSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

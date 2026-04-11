@@ -1,0 +1,200 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10787 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FAGDDAPRR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 9 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1004.0550 
+
+ Monoisotopic mass 
+
+ 1003.4821 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 262.98 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cao J., Xiang B., Dou B., Hu J., Zhang L., Kang X., Lyu M., Wang S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel angiotensin-converting enzyme-inhibitory peptides obtained from Trichiurus lepturus: preparation, identification and potential antihypertensive mechanism. Biomolecules, 14, 581, 2024 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2024 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C42H65N15O14/c1-21(51-34(64)24(43)17-23-9-4-3-5-10-23)33(63)50-20-30(58)53-27(18-31(59)60)37(67)56-28(19-32(61)62)36(66)52-22(2)39(69)57-16-8-13-29(57)38(68)54-25(11-6-14-48-41(44)45)35(65)55-26(40(70)71)12-7-15-49-42(46)47/h3-5,9-10,21-22,24-29H,6-8,11-20,43H2,1-2H3,(H,50,63)(H,51,64)(H,52,66)(H,53,58)(H,54,68)(H,55,65)(H,56,67)(H,59,60)(H,61,62)(H,70,71)(H4,44,45,48)(H4,46,47,49)/t21-,22-,24-,25-,26-,27-,28-,29-/m0/s1
+
+InChIKey=KIUCQUXUCFQDHF-PNZHTLIDSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides

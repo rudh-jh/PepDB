@@ -1,0 +1,192 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10574 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WYQQVPGSGL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1134.2377 
+
+ Monoisotopic mass 
+
+ 1133.5488 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 39.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu C.-L., Ni Z.-F., Kuang X.-Y., Li M.-F., Zong M.-H., Fan X.-D., Lou W.-Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Novel multitarget ACE inhibitory peptides from bovine colostrum immunoglobulin G: cellular transport, efficacy in regulating endothelial dysfunction, and network pharmacology studies. J. Agric. Food Chem., 72, 4155–4169, 2024 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2024 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(CCC(=O)N)C(=O)N[C@@]([H])(C(C)C)C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)N[C@@]([H])(CO)C(=O)NCC(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C53H75N13O15/c1-27(2)20-38(53(80)81)60-43(71)24-58-47(74)39(26-67)61-44(72)25-59-51(78)40-10-7-19-66(40)52(79)45(28(3)4)65-49(76)36(16-18-42(56)70)62-48(75)35(15-17-41(55)69)63-50(77)37(21-29-11-13-31(68)14-12-29)64-46(73)33(54)22-30-23-57-34-9-6-5-8-32(30)34/h5-6,8-9,11-14,23,27-28,33,35-40,45,57,67-68H,7,10,15-22,24-26,54H2,1-4H3,(H2,55,69)(H2,56,70)(H,58,74)(H,59,78)(H,60,71)(H,61,72)(H,62,75)(H,63,77)(H,64,73)(H,65,76)(H,80,81)/t33-,35-,36-,37-,38-,39-,40-,45-/m0/s1
+
+InChIKey=BYJMYEWUEALPIR-QVQHPJHJSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

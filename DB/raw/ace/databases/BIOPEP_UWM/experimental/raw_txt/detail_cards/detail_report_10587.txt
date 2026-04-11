@@ -1,0 +1,188 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10587 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YRP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 434.4882 
+
+ Monoisotopic mass 
+
+ 434.2271 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 89.56 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu N., Li P., Shuang Q., Wuhanqimuge 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Screening and molecular dynamics simulation of ACE inhibitory tripeptides derived from milk fermented with Lactobacillus delbrueckii QS306. Food Funct., 15, 2655-2667, 2024 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2024 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C20H30N6O5/c21-14(11-12-5-7-13(27)8-6-12)17(28)25-15(3-1-9-24-20(22)23)18(29)26-10-2-4-16(26)19(30)31/h5-8,14-16,27H,1-4,9-11,21H2,(H,25,28)(H,30,31)(H4,22,23,24)/t14-,15-,16-/m0/s1
+
+InChIKey=CRWOSTCODDFEKZ-JYJNAYRXSA-N 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

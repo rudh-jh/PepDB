@@ -1,0 +1,277 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11103 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 278.3459 
+
+ Monoisotopic mass 
+
+ 278.1625 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 13.60 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Ono S., Hosokawa M., Miyashita K., Takahashi K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Inhibition properties of dipeptides from salmon muscle hydrolysate on angiotensin I-converting enzyme. Int. J. Food Sci. Technol., 41, 383-386, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C15H22N2O3/c1-10(2)8-13(15(19)20)17-14(18)12(16)9-11-6-4-3-5-7-11/h3-7,10,12-13H,8-9,16H2,1-2H3,(H,17,18)(H,19,20)/t12-,13-/m0/s1
+
+InChIKey=RFCVXVPWSPOMFJ-STQMWFEESA-N
+
+Anxiolytic peptide according to the BIOPEP-UWM database of bioactive peptides
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to BIOPEP-UWM database of bioactive peptides; the EROP-Moscow database
+
+Inhibitor of pseudolysin (EC 3.4.24.26) (MEROPS ID: M04.005) according to the BRENDA database
+
+Inhibitor of Aminopeptidase B (EC 3.4.11.6) (MEROPS ID: M01.014) according to the BindingDB database; the ChEMBL database
+
+Inhibitor of Membrane alanyl aminopeptidase (EC 3.4.11.2) (MEROPS ID: M01.001 (another names: aminopeptidase M; aminopeptidase N) according to the BindingDB database; the ChEMBL database
+
+Inhibitor of Neprilysin (EC 3.4.24.11) (MEROPS ID: M13.001) according to the BindingDB database; the ChEMBL database
+
+Inhibitor of Dipeptidyl peptidase-III (DPP-III) (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9505)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids (
+ID 42); the BitterDB database; the ChEMBL database; the PubChem database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 3303-55-7
+
+AHTPDB: 
+ID 1219; 1436; 1988; 3877; 5411; 5415
+
+BindingDB: 
+ID 50282727
+
+BioPepDB: ID biopep00251
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8555
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 42
+
+BitterDB: 
+ID 836
+
+BRENDA: Ligand Phe-Leu
+
+CAS: Registry No 3303-55-7 
+
+ChEBI: 
+ID 91150 
+
+ChEMBL: ID CHEMBL37879
+
+ChemIDplus: 
+ID 3303-55-7
+
+ChemSpider ID: 69264
+
+CTD: 
+ID 3303-55-7
+
+DFBP: ID DFBPACEI0246; DFBPANOX0759; DFBPDPIV0177; DFBPMUFU0081
+
+EPA CompTox: ID DTXSID60954651 
+
+EROP-Moscow: ID E01597
+
+J-GLOBAL: 
+ID 200907070370465370
+
+MBPDB: Peptide FL
+
+Metabolights: ID MTBLC91150
+
+Metabolomics Workbench: 
+ID 78926 
+
+Nikkaji: ID J80.688I
+
+PubChem: CID 76808
+
+SATPdb: ID satpdb22674
+
+SureChEMBL: ID SCHEMBL1396480
+
+Wikidata: ID Q27163086 
+
+ZINC: ID ZINC000002390944

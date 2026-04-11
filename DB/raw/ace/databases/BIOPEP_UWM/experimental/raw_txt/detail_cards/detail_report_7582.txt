@@ -1,0 +1,246 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7582 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 271.3153 
+
+ Monoisotopic mass 
+
+ 271.1640 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 180.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: C1C[C@H](N(C1)C(=O)[C@H](CCCN=C(N)N)N)C(=O)O
+
+InChI=1S/C11H21N5O3/c12-7(3-1-5-15-11(13)14)9(17)16-6-2-4-8(16)10(18)19/h7-8H,1-6,12H2,(H,18,19)(H4,13,14,15)/t7-,8-/m0/s1
+
+InChIKey: LQJAALCCPOTJGB-YUMQZZPRSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001 
+
+Inhibitor of the neurolysin (EC 3.4.24.16) (MEROPS ID: M03.002) according to the BIOPEP-UWM database of bioactive peptides; the BRENDA database
+
+Antinociceptive activity according to the ChEMBL database; the PubChem database
+
+Affinity to neurotensin receptor according to the ChEMBL database; the PubChem database
+
+Antiviral peptide according to the AVPdb database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP database of bioactive peptides (
+ID 8518)
+
+Bitter peptide according to the BIOPEP database of sensory peptides and amino acids (
+ID 11)
+
+Salty taste enhancing peptide according to the BIOPEP database of sensory peptides and amino acids (
+ID 419)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 2418-69-1
+
+AHTPDB: 
+ID 1120; 1390; 1470; 1502; 2793; 3054; 3056; 3083; 3179; 3221; 3533; 3583; 3789; 4021; 4442; 4495; 4676; 5423; 5452; 5641; 5676; 6114; 6568
+
+AVPdb: ID AVP1054
+
+BIOPEP database of bioactive peptides: 
+ID 8518; 10116; 10171 
+
+BIOPEP database of sensory peptides and amino acids: 
+ID 11; 419
+
+BRENDA: Ligand Arg-Pro
+
+ChEMBL: ID CHEMBL48223
+
+ChemIDplus: 
+ID 002418691
+
+ChemSpider: 
+ID 133095
+
+EROP-Moscow: ID E10402
+
+PubChem: 
+ID 151003
+
+SATPdb: ID satpdb23927
+
+ZINC: ID ZINC04899739

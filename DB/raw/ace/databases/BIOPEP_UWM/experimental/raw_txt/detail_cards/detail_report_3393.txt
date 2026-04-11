@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3393 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FAP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 333.3813 
+
+ Monoisotopic mass 
+
+ 333.1683 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 3.80 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Maruyama S., Mitachi H., Tanaka H., Tomizuka N., Suzuki H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Studies on the active site and antihypertensive activity of angiotensin I-converting enzyme inhibitors derived from casein. Agric. Biol. Chem., 51, 1581-1586 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1987 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(Cc1ccccc1)C(=O)N[C@@]([H])(C)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C17H23N3O4/c1-11(16(22)20-9-5-8-14(20)17(23)24)19-15(21)13(18)10-12-6-3-2-4-7-12/h2-4,6-7,11,13-14H,5,8-10,18H2,1H3,(H,19,21)(H,23,24)/t11-,13-,14-/m0/s1
+
+InChIKey=QMMRHASQEVCJGR-UBHSHLNASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

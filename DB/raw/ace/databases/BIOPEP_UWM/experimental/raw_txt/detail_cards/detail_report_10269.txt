@@ -1,0 +1,212 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10269 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MAIPPK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 655.8485 
+
+ Monoisotopic mass 
+
+ 655.3715 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Manso M. A., López-Fandiño R. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I converting enzyme-inhibitory activity of bovine, ovine, and caprine kappa-casein macropeptides and their tryptic hydrolysates. J. Food Prot., 66, 1686-1692, 2003 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2003 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCSC)C(=O)N[C@@]([H])(C)C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N1CCC[C@@]1([H])C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCCCN)C(O)=O
+
+InChI=1S/C30H53N7O7S/c1-5-18(2)24(35-25(38)19(3)33-26(39)20(32)13-17-45-4)29(42)37-16-9-12-23(37)28(41)36-15-8-11-22(36)27(40)34-21(30(43)44)10-6-7-14-31/h18-24H,5-17,31-32H2,1-4H3,(H,33,39)(H,34,40)(H,35,38)(H,43,44)/t18-,19-,20-,21-,22-,23-,24-/m0/s1
+
+InChIKey=CSPBULXTZDBZNA-LQDRYOBXSA-N
+
+Antithrombotic peptide according to the BIOPEP-UWM database (
+ID 3293)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 4298, 4324
+
+BioPepDB: ID biopep00945
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3293
+
+DFBP: ID DFBPACEI0290; DFBPANTH0041; DFBPMUFU0088
+
+FeptideDB: 
+ID 3293
+
+SATPdb: ID satpdb11538

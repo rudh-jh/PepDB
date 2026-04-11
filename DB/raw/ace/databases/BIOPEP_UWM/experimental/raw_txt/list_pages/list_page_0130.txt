@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 130
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=129bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-7672
-ACE inhibitor from b-CN (49-59), mouse
-SSIQSQPQAFT
-1193.2601
-1192.5705
-1001.00 IC_50
-Peptide
-Data
-7673
-ACE inhibitor from b-CN (48-59), mouse
-HSSIQSQPQAFT
-1330.3991
-1329.6293
-1001.00 IC_50
-Peptide
-Data
-7674
-ACE inhibitor from b-CN (47-59), mouse
-VHSSIQSQPQAFT
-1429.5298
-1428.6975
-1001.00 IC_50
-Peptide
-Data
-7675
-ACE inhibitor from b-CN (46-59), mouse
-KVHSSIQSQPQAFT
-1557.7016
-1556.7922
-1001.00 IC_50
-Peptide
-Data
-7676
-ACE inhibitor from b-CN (48-59), rat
-HSGIQSEPKAIP
-1263.3959
-1262.6598
-1001.00 EC_50
-Peptide
-Data
-7677
-ACE inhibitor from b-CN (46-59), rat
-KFHSGIQSEPKAIP
-1538.7412
-1537.8227
-1001.00 EC_50
-Peptide
-Data
-7678
-ACE inhibitor from dried bonito
-LKPNM
-601.7583
-601.3247
-2.40 IC_50
-Peptide
-Data
-7679
-ACE inhibitor from bonito bowels
-YRPY
-597.6611
-597.2902
-320.00 IC_50
-Peptide
-Data
-7680
-ACE inhibitor from pea vicilin
-QK
-274.3159
-274.1636
-885.00 IC_50
-Peptide
-Data
-7681
-ACE inhibitor from soy
-DG
-190.1536
-190.0587
-12.30 IC_50
-Peptide
-Data
-7682
-ACE inhibitor from garlic
-NY
-295.2905
-295.1164
-32.60 IC_50
-Peptide
-Data
-7683
-ACE inhibitor from garlic
-NF
-279.2911
-279.1215
-46.30 IC_50
-Peptide
-Data
-7684
-ACE inhibitor from garlic
-SY
-268.2652
-268.1055
-66.30 IC_50
-Peptide
-Data
-7685
-ACE inhibitor from garlic
-SF
-252.2658
-252.1106
-130.20 IC_50
-Peptide
-Data
-7686
-ACE inhibitor from ovalbumin
-FFGRCVSP
-912.0651
-911.4310
-0.40 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 130 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7672 
+
+ ACE inhibitor from b-CN (49-59), mouse 
+
+ SSIQSQPQAFT 
+
+ 1193.2601 
+
+ 1192.5705 
+
+ 1001.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7673 
+
+ ACE inhibitor from b-CN (48-59), mouse 
+
+ HSSIQSQPQAFT 
+
+ 1330.3991 
+
+ 1329.6293 
+
+ 1001.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7674 
+
+ ACE inhibitor from b-CN (47-59), mouse 
+
+ VHSSIQSQPQAFT 
+
+ 1429.5298 
+
+ 1428.6975 
+
+ 1001.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7675 
+
+ ACE inhibitor from b-CN (46-59), mouse 
+
+ KVHSSIQSQPQAFT 
+
+ 1557.7016 
+
+ 1556.7922 
+
+ 1001.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7676 
+
+ ACE inhibitor from b-CN (48-59), rat 
+
+ HSGIQSEPKAIP 
+
+ 1263.3959 
+
+ 1262.6598 
+
+ 1001.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7677 
+
+ ACE inhibitor from b-CN (46-59), rat 
+
+ KFHSGIQSEPKAIP 
+
+ 1538.7412 
+
+ 1537.8227 
+
+ 1001.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7678 
+
+ ACE inhibitor from dried bonito 
+
+ LKPNM 
+
+ 601.7583 
+
+ 601.3247 
+
+ 2.40 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7679 
+
+ ACE inhibitor from bonito bowels 
+
+ YRPY 
+
+ 597.6611 
+
+ 597.2902 
+
+ 320.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7680 
+
+ ACE inhibitor from pea vicilin 
+
+ QK 
+
+ 274.3159 
+
+ 274.1636 
+
+ 885.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7681 
+
+ ACE inhibitor from soy 
+
+ DG 
+
+ 190.1536 
+
+ 190.0587 
+
+ 12.30 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7682 
+
+ ACE inhibitor from garlic 
+
+ NY 
+
+ 295.2905 
+
+ 295.1164 
+
+ 32.60 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7683 
+
+ ACE inhibitor from garlic 
+
+ NF 
+
+ 279.2911 
+
+ 279.1215 
+
+ 46.30 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7684 
+
+ ACE inhibitor from garlic 
+
+ SY 
+
+ 268.2652 
+
+ 268.1055 
+
+ 66.30 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7685 
+
+ ACE inhibitor from garlic 
+
+ SF 
+
+ 252.2658 
+
+ 252.1106 
+
+ 130.20 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7686 
+
+ ACE inhibitor from ovalbumin 
+
+ FFGRCVSP 
+
+ 912.0651 
+
+ 911.4310 
+
+ 0.40 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 130 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

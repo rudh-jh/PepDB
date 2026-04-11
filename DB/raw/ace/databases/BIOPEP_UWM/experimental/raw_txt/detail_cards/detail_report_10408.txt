@@ -1,0 +1,237 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10408 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+DL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 246.2596 
+
+ Monoisotopic mass 
+
+ 246.1211 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory activity and insulin secretion stimulative activity of fermented fish sauce. J. Biosci. Bioeng., 96, 496-499, 2003 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2003 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C10H18N2O5/c1-5(2)3-7(10(16)17)12-9(15)6(11)4-8(13)14/h5-7H,3-4,11H2,1-2H3,(H,12,15)(H,13,14)(H,16,17)/t6-,7-/m0/s1
+
+InChIKey= ZVDPYSVOZFINEE-BQBZGAKWSA-N
+
+Bitter peptide (
+ID 231) and umami peptide (
+ID 353) according to the BIOPEP-UWM database of sensory peptides and amino acids.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1399; 6168
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 231, 353
+
+BRENDA: Ligand Asp-Leu
+
+CAS: Registry No 3062-14-4
+
+ChEBI: 
+ID 68596
+
+ChemSpider: 
+ID 5360507
+
+COCONUT: ID CNP0346655
+
+DFBP: ID DFBPACEI1715
+
+EROP-Moscow: E01844
+
+J-GLOBAL: 
+ID 200907002129479402
+
+Metabolomic Workbench: 
+ID 78726
+
+Nikkai: ID J80.628E
+
+PubChem: 
+ID 6992367
+
+SASTPdb: ID satpdb12677
+
+SureChEMBL: ID SCHEMBL3783635
+
+ZINC: ID ZINC01575282

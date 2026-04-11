@@ -1,0 +1,226 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9724 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YPYY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 604.6488 
+
+ Monoisotopic mass 
+
+ 604.2524 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 90.90 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Tsai J.-S., Chen T.-J., Pan B. S., Gong S.-D., Chung M.-Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive effect of bioactive peptides produced by protease-facilitated lactic acid fermentation of milk. Food Chem., 106, 552-558, 2008 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2008 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(O)=O
+
+InChI=1S/C32H36N4O8/c33-25(16-19-3-9-22(37)10-4-19)31(42)36-15-1-2-28(36)30(41)34-26(17-20-5-11-23(38)12-6-20)29(40)35-27(32(43)44)18-21-7-13-24(39)14-8-21/h3-14,25-28,37-39H,1-2,15-18,33H2,(H,34,41)(H,35,40)(H,43,44)/t25-,26-,27-,28-/m0/s1
+
+InChIKey=GINKSLAFZJESRI-LJWNLINESA-N
+
+Opioid antagonist according to the BIOPEP-UWM database of bioactive peptides (
+ID 3218); the EROP-Moscow database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8615)
+
+Ileum contracting peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9725)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1014, 4173, 4885, 4989
+
+BioPepDB: ID biopep01613
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 3218; 8615; 9725
+
+EROP-Moscow: ID E07424
+
+J-GLOBAL: 
+ID 200907040748245172
+
+MBPDB: peptide YPYY
+
+Nikkaji: ID J448.894F
+
+PepBank: peptide YPYY
+
+PubChem: CID 71352082
+
+SATPdb: ID satpdb29145

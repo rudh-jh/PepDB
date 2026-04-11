@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11225 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+TTMPLW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 747.9008 
+
+ Monoisotopic mass 
+
+ 747.3613 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 905.43 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zhang Z., Shu G., Nan J., Meng F., Zhang M., Chen L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Exploring the healthy potential of goat milk fermented by novel isolated lactic acid bacteria: Genetic identification, bioactive peptides, nutritional mechanism and sensory evaluation. Int. J. Food Microbiol., 442, 111354, 2025 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2025 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@H](CC1=CC=C(C=C1))C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(CCCCN)C(=O)O
+
+InChI=1S/C32H42N6O10/c33-14-8-7-13-22(32(47)48)35-30(45)24(17-26(39)40)38-31(46)25(18-27(41)42)37-29(44)23(16-20-11-5-2-6-12-20)36-28(43)21(34)15-19-9-3-1-4-10-19/h1-6,9-12,21-25H,7-8,13-18,33-34H2,(H,35,45)(H,36,43)(H,37,44)(H,38,46)(H,39,40)(H,41,42)(H,47,48)/t21-,22-,23-,24-,25-/m0/s1
+
+InChIKey=VNFLYRBAHMJSJE-KEOOTSPTSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

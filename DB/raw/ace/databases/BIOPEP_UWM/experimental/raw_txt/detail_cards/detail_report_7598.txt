@@ -1,0 +1,268 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7598 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GA 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1)(MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 146.1441 
+
+ Monoisotopic mass 
+
+ 146.0689 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 2000.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@]([H])(C)C(=O)O
+
+InChI=1S/C5H10N2O3/c1-3(5(9)10)7-4(8)2-6/h3H,2,6H2,1H3,(H,7,8)(H,9,10)/t3-/m0/s1
+
+InChIKey=VPZXBVLAVMBEQI-VKHMYHEASA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8524); the BRENDA database; the DFBP database
+
+Inhibitor of Alanine carboxypeptidase (EC 3.4.17.6) (MEROPS ID: M9E.002) according to the BRENDA database
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 3695-73-6
+
+AHTPDB: 
+ID 1424, 1685, 3013, 3035, 3057, 3088, 3093, 3128, 3233, 3482, 3802, 3914, 4422, 4508, 4653, 6584
+
+BindingDB: 
+ID 50188530
+
+BioPepDB: ID biopep00319
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8524
+
+BRENDA: Ligand Gly-Ala
+
+CAS: Registry No 3695-73-6
+
+ChEBI: 
+ID 73855 
+
+ChEMBL: ID CHEMBL91241 
+
+ChemSpider: 
+ID 1267926
+
+DFBP: ID DFBPACEI1637; DFBPDPIV0129; DFBPMUFU0462
+
+ECHA: 
+ID 223-019-8
+
+EPA CompTox: ID DTXSID501316691 
+
+EROP Moscow: ID E10381
+
+FDA SRS: 2M7GF488BL
+
+GSRS: ID 2618d861-af53-4b37-af43-4b8c5956d06b
+
+J-GLOBAL: 
+ID 200907054642999454
+
+Metabolights: ID MTBLC73855
+
+Metabolomics Workbench: 
+ID 78796
+
+NIAID: 
+ID 335272335276 
+
+Nikkaji: ID J139.227A 
+
+PubChem: CID 1551643
+
+SAPdb: 
+ID 1390; 1931
+
+SATPdb: ID satpdb27196
+
+SureChEMBL: ID SCHEMBL564562
+
+UNII: ID 2M7GF488BL
+
+Wikidata: ID Q27144182
+
+ZINC: ID ZINC000001730665

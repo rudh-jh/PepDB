@@ -1,0 +1,232 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9051 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+RPP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 368.4302 
+
+ Monoisotopic mass 
+
+ 368.2166 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wu J., Aluko R. E., Nakai S. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structural requirements of angiotensin I-converting enzyme inhibitory activity: quantitative structure-activity relationship study of di- and tripeptides. J. Agric. Food Chem., 54, 732-738, 2006 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2006 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCCNC(=N)N)C(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C16H28N6O4/c17-10(4-1-7-20-16(18)19)13(23)21-8-2-5-11(21)14(24)22-9-3-6-12(22)15(25)26/h10-12H,1-9,17H2,(H,25,26)(H4,18,19,20)/t10-,11-,12-/m0/s1
+
+InChIKey: YCYXHLZRUSJITQ-SRVKXCTJSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Inhibitor of Neurolysin (EC 3.4.24.16) (MEROPS ID: M03.002) according to the BRENDA database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ ACToR: 
+ID 23815-91-0
+
+AHTPDB: 
+ID 1584
+
+BioPepDB: ID biopep01218
+
+BRENDA: Ligand Arg-Pro-Pro
+
+ChemIDplus: 
+ID 023815910
+
+ChemSpider: 
+ID 134551
+
+CTD: 
+ID 23815-91-0
+
+J-GLOBAL: 
+ID 200907087830984354
+
+Nikkaji: ID J523.864A
+
+PubChem: CID 152660
+
+SATPdb: ID satpdb25900
+
+SureChEMBL: ID SCHEMBL7272757
+
+UniChem: Compound YCYXHLZRUSJITQ-SRVKXCTJSA-N
+
+ZINC: ID ZINC000004899557

@@ -1,0 +1,211 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10088 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YGFL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5; MEROPS ID: S09.003) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 4 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 498.5700 
+
+ Monoisotopic mass 
+
+ 498.2470 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Amigo L., Martínez-Maqueda D., Hernández-Ledesma B. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ In silico and in vitro analysis of multifunctionality of animal food-derived peptides. Foods, 9, 991, 2020 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2020 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1)O)C(=O)NCC(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CC(C)C)C(=O)O
+
+InChI=1S/C26H34N4O6/c1-16(2)12-22(26(35)36)30-25(34)21(14-17-6-4-3-5-7-17)29-23(32)15-28-24(33)20(27)13-18-8-10-19(31)11-9-18/h3-11,16,20-22,31H,12-15,27H2,1-2H3,(H,28,33)(H,29,32)(H,30,34)(H,35,36)/t20-,21-,22-/m0/s1
+
+InChIKey=NJQMBFDOYQGROG-FKBYEOEOSA-N
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10089); the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 10089
+
+ChEMBL: ID CHEMBL15695
+
+ChemSpider: 
+ID 23114285
+
+EPA DSSTOX: ID DTXSID00575703
+
+MBPDB: Peptide YGFL
+
+PubChem: CID 15609829

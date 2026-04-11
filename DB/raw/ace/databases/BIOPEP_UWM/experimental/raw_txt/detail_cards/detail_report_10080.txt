@@ -1,0 +1,188 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10080 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+FCLYELAR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1014.1964 
+
+ Monoisotopic mass 
+
+ 1013.4988 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 31.63 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kaewsahnguan T., Noitang S., Sangtanoo P., Srimongkol P., Saisavoey T., Reamtong O., Choowongkomon K., Karnchanatat A. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ A novel angiotensin I-converting enzyme inhibitory peptide derived from the trypsin hydrolysates of salmon bone proteins. PLoS ONE, 16, e0256595, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CS)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O
+
+InChI=1S/C47H71N11O12S/c1-25(2)20-34(42(65)52-27(5)39(62)54-33(46(69)70)12-9-19-51-47(49)50)55-41(64)32(17-18-38(60)61)53-44(67)36(23-29-13-15-30(59)16-14-29)57-43(66)35(21-26(3)4)56-45(68)37(24-71)58-40(63)31(48)22-28-10-7-6-8-11-28/h6-8,10-11,13-16,25-27,31-37,59,71H,9,12,17-24,48H2,1-5H3,(H,52,65)(H,53,67)(H,54,62)(H,55,64)(H,56,68)(H,57,66)(H,58,63)(H,60,61)(H,69,70)(H4,49,50,51)/t27-,31-,32-,33-,34-,35-,36-,37-/m0/s1
+
+InChIKey=VPZWDZGLXNQJAV-IFUGPJDHSA-N 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

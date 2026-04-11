@@ -1,0 +1,266 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 7579 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+GW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 261.2759 
+
+ Monoisotopic mass 
+
+ 261.1110 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 30.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Cheung H.-S., Wang F.-L., Ondetti M. A., Sabo E. F., Cushman D. W. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Binding of peptide substrates and inhibitors of angiotensin-converting enzyme. J. Biol. Chem., 255, 401-407, 1980 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1980 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: NCC(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C13H15N3O3/c14-6-12(17)16-11(13(18)19)5-8-7-15-10-4-2-1-3-9(8)10/h1-4,7,11,15H,5-6,14H2,(H,16,17)(H,18,19)/t11-/m0/s1
+
+InChIKey=AJHCSUXXECOXOY-NSHDSACASA-N
+
+Inhibitor of Dipeptidyl peptidase IV (DPP IV) (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (ID: 8787)
+
+Inhibitor of tripeptidyl peptidase II (EC 3.4.14.10) (MEROPS ID: S08.090) according to the BRENDA database; the ChEMBL database
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 10472)
+
+Bitter peptide according to the ChEMBL database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1267, 1418, 1888, 2743, 2846, 3351, 3495, 3785, 3842, 3937, 4446, 4491, 4664, 6207, 6565
+
+BindingDB: 
+ID 50188499
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8787, 10472
+
+BRENDA: Ligand Gly-Trp
+
+CAS: Registry No 2390-74-1
+
+CHEBI: 
+ID 73921
+
+ChEMBL: ID CHEMBL299759
+
+ChemSpider: 
+ID 83223
+
+DFBP: ID DFBPACEI1228
+
+ECHA: 
+ID 219-235-7
+
+eChemPortal: 
+ID 2390-74-1
+
+EPA CompTox: ID DTXSID301315473
+
+EROP-Moscow: ID E09037
+
+FDA SRS: ID 35BKX0QF16
+
+GSRS: ID 310513ff-0bb3-4266-8034-7c28ae2ca5bb
+
+J-Global: 
+ID 200907021832427001
+
+MeSH: terms Gly-Trp, glycyl-L-tryptophan, glycyltryptophan
+
+Metabolights: ID MTBLC73921
+
+Metabolomics Workbench: 
+ID 78813
+
+Nikkaji: ID J151.152A
+
+NIST Chemistry Webbook: Compound Glycyl-L-tryptophan
+
+PlantPepDB: ID PPepDB_72
+
+PubChem: CID 92181
+
+SATPdb: ID satpdb11189
+
+SureChEMBL: ID SCHEMBL1407979
+
+UNII: ID 35BKX0QF16
+
+ZINC: ID ZINC000001708201

@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9240 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+LVYPFPGPIPNSLPQN 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 16 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1753.0004 
+
+ Monoisotopic mass 
+
+ 1751.9217 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 71.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Pihlanto A., Virtanen T., Korhonen H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I converting enzyme (ACE) inhibitory activity and antihypertensive effect of fermented milk. Int. Dairy J. 2010;20:3-10. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2010 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CC(C)C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N1CCC[C@@]1([H])C(=O)NCC(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])([C@@H](C)CC)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CC(N)=O)C(=O)N[C@@]([H])(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N[C@@]([H])(CC(N)=O)C(O)=O
+
+InChI=1S/C84H125N19O22/c1-9-47(8)69(83(123)103-35-17-24-63(103)76(116)91-53(40-65(87)107)72(112)96-58(43-104)73(113)92-54(37-45(4)5)80(120)101-33-15-22-61(101)75(115)90-52(29-30-64(86)106)71(111)95-57(84(124)125)41-66(88)108)98-78(118)60-21-13-31-99(60)67(109)42-89-74(114)59-20-14-32-100(59)81(121)55(38-48-18-11-10-12-19-48)93-77(117)62-23-16-34-102(62)82(122)56(39-49-25-27-50(105)28-26-49)94-79(119)68(46(6)7)97-70(110)51(85)36-44(2)3/h10-12,18-19,25-28,44-47,51-63,68-69,104-105H,9,13-17,20-24,29-43,85H2,1-8H3,(H2,86,106)(H2,87,107)(H2,88,108)(H,89,114)(H,90,115)(H,91,116)(H,92,113)(H,93,117)(H,94,119)(H,95,111)(H,96,112)(H,97,110)(H,98,118)(H,124,125)/t47-,51-,52-,53-,54-,55-,56-,57-,58-,59-,60-,61-,62-,63-,68-,69-/m0/s1
+
+InChIKey: KPYXVSJVTTZPIV-LSIRXQCASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1708, 1749, 2341, a3454, 4179, 5056, 5822, 6078, 6550
+
+MBPDB: Peptide LVYPFPGPIPNSLPQN
+
+SATPdb: ID satpdb18882

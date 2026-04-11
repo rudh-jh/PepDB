@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9246 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+SLPQN 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 557.5957 
+
+ Monoisotopic mass 
+
+ 557.2800 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 9.49 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Donkor O. N., Henriksson A., Singh T. K., Vasiljevic T., Shah N. P. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ ACE inhibitory activity of probiotic yoghurt. Int. Dairy J. 2007;17:1321-1331. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CO)C(=O)N[C@@]([H])(CC(C)C)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(CCC(N)=O)C(=O)N[C@@]([H])(CC(N)=O)C(O)=O
+
+InChI=1S/C23H39N7O9/c1-11(2)8-14(28-19(34)12(24)10-31)22(37)30-7-3-4-16(30)21(36)27-13(5-6-17(25)32)20(35)29-15(23(38)39)9-18(26)33/h11-16,31H,3-10,24H2,1-2H3,(H2,25,32)(H2,26,33)(H,27,36)(H,28,34)(H,29,35)(H,38,39)/t12-,13-,14-,15-,16-/m0/s1
+
+InChIKey: IFSROECVRGDWKR-QXKUPLGCSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ MBPDB: Peptide SLPQN

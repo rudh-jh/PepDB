@@ -1,0 +1,247 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9060 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+AVL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 301.3808 
+
+ Monoisotopic mass 
+
+ 301.1995 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 7.11 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Matsui T., Yukiyoshi A., Doi S., Sugimoto H., Yamada H., Matsumoto K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Gastrointestinal enzyme production of bioactive peptides from royal jelly protein and their antihypertensive ability in SHR. J. Nutr. Biochem., 13, 80-86, 2002 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2002 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CC(C)C)C(=O)O
+
+InChI=1S/C14H27N3O4/c1-7(2)6-10(14(20)21)16-13(19)11(8(3)4)17-12(18)9(5)15/h7-11H,6,15H2,1-5H3,(H,16,19)(H,17,18)(H,20,21)/t9-,10-,11-/m0/s1
+
+InChIKey=RFJNDTQGEJRBHO-DCAQKATOSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Predicted ligand of calpain 1 (EC 3.4.22.52) (MEROPS ID: C02.001) (AlphaFold ID: AF-P07384-F1) according to the BIOPEP-UWM Virtual database (
+ID 266)
+
+Predicted ligand of ubiquitin ligase (XIAP) (EC 2.3.2.27) (Alpha Fold ID AF-P98170-F1-model-v2) according to the BIOPEP-UWM Virtual database (
+ID 279)
+
+Predicted ligand of cyclooxygenase-2 (COX-2) (EC 1.14.99.1) (PDB ID: 5K1R) according to the BIOPEP-UWM Virtual database: (
+ID 285)
+
+Predicted inhibitor of Dipeptidyl peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) (PDB ID: 3Q8W) according to the BIOPEP-UWM Virtual database: (
+ID 288)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1620, 2681 
+
+BindingDB: 
+ID 50350463
+
+BioPepDB: ID biopep00085
+
+BIOPEP-UWM Virtual database: 
+ID 266; 279; 285; 288
+
+CAS: Registry No 93414-38-1
+
+ChEBI: 
+ID 158661
+
+ChEMBL: ID CHEMBL1814489
+
+ChemSpider: 
+ID 5384361
+
+DFBP: ID DFBPANHY0635
+
+EROP-Moscow: ID E06686
+
+J-GLOBAL: 
+ID 200907067216016588
+
+Metabolomics Workbench: 
+ID 79446
+
+Nikkaji: ID J1.717.209C
+
+PubChem: CID 7021452
+
+SATPdb: ID satpdb23086
+
+ZINC: ID ZINC000002572102

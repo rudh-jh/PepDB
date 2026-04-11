@@ -1,0 +1,203 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 8958 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MKP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 374.4987 
+
+ Monoisotopic mass 
+
+ 374.1981 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.43 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yamada A., Sakurai T., Ochi D., Mitsuyama E., Yamauchi K., Abe F. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Antihypertensive effect of the bovine casein-derived peptide Met-Lys-Pro. Food Chem.,172, 441-446, 2015
+
+ 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2015 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@](N)(CCSC)C(=O)N[C@@]([H])(CCCCN)C(=O)N1CCC[C@@]1([H])C(O)=O
+
+InChI=1S/C16H30N4O4S/c1-25-10-7-11(18)14(21)19-12(5-2-3-8-17)15(22)20-9-4-6-13(20)16(23)24/h11-13H,2-10,17-18H2,1H3,(H,19,21)(H,23,24)/t11-,12-,13-/m0/s1
+
+InChIKey=IRVONVRHHJXWTK-AVGNSLFASA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2107
+
+MBPDB: Peptide MKP
+
+SATPdb: ID satpdb26442

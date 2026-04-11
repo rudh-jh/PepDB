@@ -1,0 +1,239 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 11114 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+YI 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 294.3453 
+
+ Monoisotopic mass 
+
+ 294.1574 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 316.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Foltz M., van Buren L., Klaffke W., Duchateau G. S. M. J. E. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Modeling of the relationship between dipeptide structure and dipeptide stability permeability and ACE inhibitory activity. J. Food Sci., 74, H234-H251, 2009 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2009 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=CC=C(C=C1)O)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)O
+
+InChI=1S/C15H22N2O4/c1-3-9(2)13(15(20)21)17-14(19)12(16)8-10-4-6-11(18)7-5-10/h4-7,9,12-13,18H,3,8,16H2,1-2H3,(H,17,19)(H,20,21)/t9-,12-,13-/m0/s1
+
+InChIKey=QJKMCQRFHJRIPU-XDTLVQLUSA-N
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8938); the BRENDA database
+
+Antinociceptive peptide according to the BIOPEP-UWM database of bioactive peptides; the ChEMBL database
+
+Inhibitor of Dipeptidyl peptidase-III (DPP-III) (EC 3.4.14.4) (MEROPS ID: M49.001) according to the BIOPEP-UWM database of bioactive peptides (
+ID 9510)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 8938, 9510
+
+BRENDA: Ligand L-Tyr-L-Ile
+
+ChEBI: 
+ID 74993
+
+ChEMBL: ID CHEMBL299835
+
+ChemSpider: 
+ID 5382077
+
+EROP-Moscow: ID E10360
+
+FooDB: ID FDB112112
+
+HMDB: ID HMDB0029108
+
+J-GLOBAL: 
+ID 200907081806717444
+
+Metabolights: ID MTBLC74993
+
+Metabolomics Workbench: 
+ID 79025 
+
+Nikkaji: J535.352A
+
+PubChem: CID 7019109
+
+SureChEMBL: ID SCHEMBL9822685
+
+Wikidata: ID Q27145058 
+
+ZINC: ID ZINC000002556667

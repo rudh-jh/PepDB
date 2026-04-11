@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 6
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=5bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-2645
-ACE inhibitor
-HQIYP
-656.7281
-656.3272
-110.00 IC_50
-Peptide
-Data
-2646
-ACE inhibitor
-PHQIYP
-753.8430
-753.3798
-30.00 IC_50
-Peptide
-Data
-2649
-ACE inhibitor
-NPPHQIYP
-965.0603
-964.4752
-37.00 EC_50
-Peptide
-Data
-2651
-ACE inhibitor
-VLPYPV
-686.8365
-686.3990
-420.00 IC_50
-Peptide
-Data
-2652
-ACE inhibitor
-VLPYP
-587.7058
-587.3308
-36.00 IC_50
-Peptide
-Data
-2653
-ACE inhibitor
-VLP
-327.4180
-327.2151
-320.00 IC_50
-Peptide
-Data
-2654
-ACE inhibitor
-PQEVLP
-681.7755
-681.3685
-910.00 IC_50
-Peptide
-Data
-2655
-ACE inhibitor
-IPQEVLP
-794.9327
-794.4523
-690.00 IC_50
-Peptide
-Data
-2656
-ACE inhibitor
-VLPIPQ
-665.8190
-665.4099
-5300.00 IC_50
-Peptide
-Data
-2657
-ACE inhibitor
-VLPIP
-537.6901
-537.3515
-31.00 IC_50
-Peptide
-Data
-2658
-ACE inhibitor
-PQTLALP
-738.8696
-738.4262
-110.00 IC_50
-Peptide
-Data
-2660
-ACE inhibitor
-QPIP
-453.5311
-453.2579
-860.00 IC_50
-Peptide
-Data
-2661
-ACE inhibitor
-PQPIP
-550.6460
-550.3105
-340.00 IC_50
-Peptide
-Data
-2662
-ACE inhibitor
-VPQPIP
-649.7767
-649.3787
-290.00 EC_50
-Peptide
-Data
-2663
-ACE inhibitor
-QVPQPIP
-777.9056
-777.4371
-660.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 374 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2645 
+
+ ACE inhibitor 
+
+ HQIYP 
+
+ 656.7281 
+
+ 656.3272 
+
+ 110.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2646 
+
+ ACE inhibitor 
+
+ PHQIYP 
+
+ 753.8430 
+
+ 753.3798 
+
+ 30.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2649 
+
+ ACE inhibitor 
+
+ NPPHQIYP 
+
+ 965.0603 
+
+ 964.4752 
+
+ 37.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2651 
+
+ ACE inhibitor 
+
+ VLPYPV 
+
+ 686.8365 
+
+ 686.3990 
+
+ 420.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2652 
+
+ ACE inhibitor 
+
+ VLPYP 
+
+ 587.7058 
+
+ 587.3308 
+
+ 36.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2653 
+
+ ACE inhibitor 
+
+ VLP 
+
+ 327.4180 
+
+ 327.2151 
+
+ 320.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2654 
+
+ ACE inhibitor 
+
+ PQEVLP 
+
+ 681.7755 
+
+ 681.3685 
+
+ 910.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2655 
+
+ ACE inhibitor 
+
+ IPQEVLP 
+
+ 794.9327 
+
+ 794.4523 
+
+ 690.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2656 
+
+ ACE inhibitor 
+
+ VLPIPQ 
+
+ 665.8190 
+
+ 665.4099 
+
+ 5300.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2657 
+
+ ACE inhibitor 
+
+ VLPIP 
+
+ 537.6901 
+
+ 537.3515 
+
+ 31.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2658 
+
+ ACE inhibitor 
+
+ PQTLALP 
+
+ 738.8696 
+
+ 738.4262 
+
+ 110.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2660 
+
+ ACE inhibitor 
+
+ QPIP 
+
+ 453.5311 
+
+ 453.2579 
+
+ 860.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2661 
+
+ ACE inhibitor 
+
+ PQPIP 
+
+ 550.6460 
+
+ 550.3105 
+
+ 340.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2662 
+
+ ACE inhibitor 
+
+ VPQPIP 
+
+ 649.7767 
+
+ 649.3787 
+
+ 290.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 2663 
+
+ ACE inhibitor 
+
+ QVPQPIP 
+
+ 777.9056 
+
+ 777.4371 
+
+ 660.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 6 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

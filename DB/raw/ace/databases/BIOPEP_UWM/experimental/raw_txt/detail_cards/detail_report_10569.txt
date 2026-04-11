@@ -1,0 +1,196 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10569 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WWI 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 503.5914 
+
+ Monoisotopic mass 
+
+ 503.2525 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 752.91 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Panyayai T., Sangsawad P., Pacharawongsakda E., Sawatdichaikul O., Tongsima S., Choowongkomon K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ The potential peptides against angiotensin-I converting enzyme through a virtual tripeptide-constructing library. Comput. Biol. Chem., 77, 207-213, 2018 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2018 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@]([H])([C@]([H])(CC)C)C(=O)O
+
+InChI=1S/C28H33N5O3/c1-3-17(2)26(16-34)33-28(36)25(13-19-15-31-24-11-7-5-9-21(19)24)32-27(35)22(29)12-18-14-30-23-10-6-4-8-20(18)23/h4-11,14-17,22,25-26,30-31H,3,12-13,29H2,1-2H3,(H,32,35)(H,33,36)/t17-,22-,25-,26+/m0/s1
+
+InChIKey=CJGQMJSGJUHMOJ-VLGYIPKHSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ EROP-Moscow: ID E24732

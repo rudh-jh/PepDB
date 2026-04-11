@@ -1,0 +1,221 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3538 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+VSP 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 3 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 301.3379 
+
+ Monoisotopic mass 
+
+ 301.1632 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 10.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Miyoshi S., Ishikawa H., Kaneko T., Fukui F., Tanaka H. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Structure and activity of angiotensin-converting enzyme inhibitors in alpha-zein hydrolysate. Agric. Biol. Chem., 55(5), 1313-1318 (1991) 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1991 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CO)C(=O)N1[C@@]([H])(CCC1)C(=O)O
+
+InChI=1S/C13H23N3O5/c1-7(2)10(14)11(18)15-8(6-17)12(19)16-5-3-4-9(16)13(20)21/h7-10,17H,3-6,14H2,1-2H3,(H,15,18)(H,20,21)/t8-,9-,10-/m0/s1
+
+InChIKey=GBIUHAYJGWVNLN-GUBZILKMSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Peptide found also in amaranth protein hydrolysate. 
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111 
+
+Predicted ligand of Lipoxin A4 receptor (PDB ID: 6LW5) according to the BIOPEP-UWM Virtual Database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1638, 2237, 3153, 4047, 4808, 5265, 5631, 5802, 5872, 6455
+
+BindingDB: ID BDBM50049723
+
+BIOPEP-UWM Virtual database
+
+ChEMBL: ID CHEMBL3322003
+
+DFBP: ID DFBPACEI0582; DFBPACEI1935
+
+EROP-Moscow: ID E14714
+
+PubChem: CID 118709853
+
+SATPdb: ID satpdb27914
+
+ZINC: ID ZINC000238763778

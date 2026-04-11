@@ -1,0 +1,209 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9230 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IIAEK 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 572.6928 
+
+ Monoisotopic mass 
+
+ 572.3522 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 63.70 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ O. Power, A. Fernández, R. Norris, F.A. Riera, R.J. FitzGerald 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Selective enrichment of bioactive properties during ultrafiltration of a tryptic digest of beta-lactoglobulin, J. Funct. Foods, 9 (2014), 38-47 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2014 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@](C(N[C@](C(N[C@](C(N[C@](C(N[C@](C(O)=O)(CCCCN)[H])=O)(CCC(O)=O)[H])=O)(C)[H])=O)([C@@H](C)CC)[H])=O)([C@@H](C)CC)[H]
+
+InChI=1S/C26H48N6O8/c1-6-14(3)20(28)24(37)32-21(15(4)7-2)25(38)29-16(5)22(35)30-17(11-12-19(33)34)23(36)31-18(26(39)40)10-8-9-13-27/h14-18,20-21H,6-13,27-28H2,1-5H3,(H,29,38)(H,30,35)(H,31,36)(H,32,37)(H,33,34)(H,39,40)/t14-,15-,16-,17-,18-,20-,21-/m0/s1
+
+InChIKey: LMAFCBRBDQCUTK-HGDYXINXSA-N
+
+Hypocholesterolemic peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9621); the MBPDB database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9621
+
+ChemSpider: 
+ID 8005310
+
+MBPDB: Peptide IIAEK
+
+MolInstincts: Compound lactostatin
+
+PubChem: CID 9829575

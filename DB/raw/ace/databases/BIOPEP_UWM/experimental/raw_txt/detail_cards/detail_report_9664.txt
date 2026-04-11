@@ -1,0 +1,219 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9664 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+MRWRD 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (ACE) (EC 3.4.15.1; MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 762.8791 
+
+ Monoisotopic mass 
+
+ 762.3585 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 2.10 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Yang Y., Marczak E.D., Yokoo M., Usui H., Yoshikawa M. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Isolation and antihypertensive effect of angiotensin I-converting enzyme (ACE) inhibitory peptides from spinach Rubisco. J. Agric. Food. Chem., 51(17): 4897-4902, 2003 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2003 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CCSC)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC1=C[N]([H])C2=CC=CC=C12)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)O)C(=O)O
+
+InChI=1S/C32H50N12O8S/c1-53-13-10-19(33)26(47)41-21(8-4-11-38-31(34)35)27(48)43-23(14-17-16-40-20-7-3-2-6-18(17)20)29(50)42-22(9-5-12-39-32(36)37)28(49)44-24(30(51)52)15-25(45)46/h2-3,6-7,16,19,21-24,40H,4-5,8-15,33H2,1H3,(H,41,47)(H,42,50)(H,43,48)(H,44,49)(H,45,46)(H,51,52)(H4,34,35,38)(H4,36,37,39)/t19-,21-,22-,23-,24-/m0/s1
+
+InChIKey: SMZWMXSYYZOAMD-DUSBTPNUSA-N
+
+Antihypertensive peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9655)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1922, 2315, 2573, 5331, 6228
+
+BioPepDB: ID biopep00982
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 9655
+
+ChemSpider: 
+ID 818594
+
+EROP-Moscow: ID E09161
+
+J-GLOBAL: 
+ID 200907009703006687
+
+Nikkaji: ID J1.754.753D
+
+PubChem: CID 10010362
+
+SATPdb: ID satpdb13657

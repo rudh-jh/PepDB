@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9186 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+EVMAGNLYPG 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 10 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 1050.1839 
+
+ Monoisotopic mass 
+
+ 1049.4835 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 18.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Je J.-Y., Park P.-J., Byun H.-G. Jung W.-K., Kim S.-K. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I converting enzyme (ACE) inhibitory peptide derived from the sauce of fermented blue mussel, Mytilus edulis. Bioresource Technol., 96, 1624-1629, 2005 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2005 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CCC(=O)O)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(CCSC)C(=O)N[C@@]([H])(C)C(=O)NCC(=O)N[C@@]([H])(CC(=O)N)C(=O)N[C@@]([H])(CC(C)C)C(=O)N[C@@]([H])(Cc1ccc(O)cc1)C(=O)N1[C@@]([H])(CCC1)C(=O)NCC(=O)O
+
+InChI=1S/C46H71N11O15S/c1-23(2)18-30(42(68)55-32(19-26-9-11-27(58)12-10-26)46(72)57-16-7-8-33(57)44(70)50-22-37(63)64)54-43(69)31(20-34(48)59)52-35(60)21-49-39(65)25(5)51-41(67)29(15-17-73-6)53-45(71)38(24(3)4)56-40(66)28(47)13-14-36(61)62/h9-12,23-25,28-33,38,58H,7-8,13-22,47H2,1-6H3,(H2,48,59)(H,49,65)(H,50,70)(H,51,67)(H,52,60)(H,53,71)(H,54,69)(H,55,68)(H,56,66)(H,61,62)(H,63,64)/t25-,28-,29-,30-,31-,32-,33-,38-/m0/s1
+
+InChIKey: DBZMTNPXRLPAKO-DTRKZRJBSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1046, 2738, 5655
+
+SATPdb: ID satpdb24797

@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 107
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=106bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-7065
-coeliac toxic peptide
-QQQQPPFSQQQQSPFSQQQQ
-2402.4850
-2401.1012
-0.00 EC_50
-Peptide
-Data
-7066
-coeliac toxic peptide
-QPFPQPQLPYPQPQLPY
-2038.2977
-2037.0327
-0.00 EC_50
-Peptide
-Data
-7067
-coeliac toxic peptide
-PYPQPQLPY
-1102.2356
-1101.5477
-0.00 EC_50
-Peptide
-Data
-7068
-coeliac toxic peptide
-FPQQPQQPYPQQP
-1582.7095
-1581.7552
-0.00 EC_50
-Peptide
-Data
-7069
-coeliac toxic peptide
-FSQPQQQFPQPQ
-1459.5574
-1458.6870
-0.00 EC_50
-Peptide
-Data
-7070
-ACE inhibitor
-LDIQK
-615.7175
-615.3580
-17.00 IC_50
-Peptide
-Data
-7308
-celiac sprue gluten epitope from alpha-gliadin
-QYPQPQQPI
-1098.2056
-1097.5488
-0.00 EC_50
-Peptide
-Data
-7309
-celiac sprue gluten epitope from gamma-gliadin
-IFPQPQQTF
-1105.2395
-1104.5586
-0.00 EC_50
-Peptide
-Data
-7310
-celiac sprue gluten epitope from gamma-gliadin
-PFPQPQQPQ
-1066.1639
-1065.5227
-0.00 EC_50
-Peptide
-Data
-7311
-celiac sprue gluten epitope from gamma-gliadin
-PFPQPQQQF
-1116.2225
-1115.5383
-0.00 EC_50
-Peptide
-Data
-7312
-celiac sprue gluten epitope from gamma-gliadin
-PFPQPQQQL
-1082.2062
-1081.5539
-0.00 EC_50
-Peptide
-Data
-7313
-celiac sprue gluten epitope from gamma-gliadin
-PFPQPQQTF
-1089.1972
-1088.5274
-0.00 EC_50
-Peptide
-Data
-7314
-celiac sprue gluten epitope from gamma-gliadin
-PFPQQPQQQ
-1097.1779
-1096.5285
-0.00 EC_50
-Peptide
-Data
-7315
-celiac sprue gluten epitope from gamma-gliadin
-PFPQQPQQT
-1070.1526
-1069.5176
-0.00 EC_50
-Peptide
-Data
-7316
-celiac sprue gluten epitope from gamma-gliadin
-PFPQQQQPL
-1082.2062
-1081.5539
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 107 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7065 
+
+ coeliac toxic peptide 
+
+ QQQQPPFSQQQQSPFSQQQQ 
+
+ 2402.4850 
+
+ 2401.1012 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7066 
+
+ coeliac toxic peptide 
+
+ QPFPQPQLPYPQPQLPY 
+
+ 2038.2977 
+
+ 2037.0327 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7067 
+
+ coeliac toxic peptide 
+
+ PYPQPQLPY 
+
+ 1102.2356 
+
+ 1101.5477 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7068 
+
+ coeliac toxic peptide 
+
+ FPQQPQQPYPQQP 
+
+ 1582.7095 
+
+ 1581.7552 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7069 
+
+ coeliac toxic peptide 
+
+ FSQPQQQFPQPQ 
+
+ 1459.5574 
+
+ 1458.6870 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7070 
+
+ ACE inhibitor 
+
+ LDIQK 
+
+ 615.7175 
+
+ 615.3580 
+
+ 17.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7308 
+
+ celiac sprue gluten epitope from alpha-gliadin 
+
+ QYPQPQQPI 
+
+ 1098.2056 
+
+ 1097.5488 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7309 
+
+ celiac sprue gluten epitope from gamma-gliadin 
+
+ IFPQPQQTF 
+
+ 1105.2395 
+
+ 1104.5586 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7310 
+
+ celiac sprue gluten epitope from gamma-gliadin 
+
+ PFPQPQQPQ 
+
+ 1066.1639 
+
+ 1065.5227 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7311 
+
+ celiac sprue gluten epitope from gamma-gliadin 
+
+ PFPQPQQQF 
+
+ 1116.2225 
+
+ 1115.5383 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7312 
+
+ celiac sprue gluten epitope from gamma-gliadin 
+
+ PFPQPQQQL 
+
+ 1082.2062 
+
+ 1081.5539 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7313 
+
+ celiac sprue gluten epitope from gamma-gliadin 
+
+ PFPQPQQTF 
+
+ 1089.1972 
+
+ 1088.5274 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7314 
+
+ celiac sprue gluten epitope from gamma-gliadin 
+
+ PFPQQPQQQ 
+
+ 1097.1779 
+
+ 1096.5285 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7315 
+
+ celiac sprue gluten epitope from gamma-gliadin 
+
+ PFPQQPQQT 
+
+ 1070.1526 
+
+ 1069.5176 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 7316 
+
+ celiac sprue gluten epitope from gamma-gliadin 
+
+ PFPQQQQPL 
+
+ 1082.2062 
+
+ 1081.5539 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 107 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

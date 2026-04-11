@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 274
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=273bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-9834
-ACE inhibitor
-AGDDAPR
-700.6963
-700.3130
-11.91 IC_50
-Peptide
-Data
-9835
-Pancreatic lipase inhibitor
-AGDDAPR
-700.6963
-700.3130
-110.61 IC_50
-Peptide
-Data
-9836
-Alpha-glucosidase inhibitor
-AGDDAPR
-700.6963
-700.3130
-27.77 IC_50
-Peptide
-Data
-9837
-ACE inhibitor
-GKDAVIV
-700.8217
-700.4106
-18.30 IC_50
-Peptide
-Data
-9838
-Pancreatic lipase inhibitor
-GKDAVIV
-700.8217
-700.4106
-110.59 IC_50
-Peptide
-Data
-9839
-Alpha-glucosidase inhibitor
-GKDAVIV
-700.8217
-700.4106
-22.74 IC_50
-Peptide
-Data
-9840
-ACE inhibitor
-AIGVGAIER
-885.0170
-884.5064
-16.31 IC_50
-Peptide
-Data
-9841
-Pancreatic lipase inhibitor
-AIGVGAIER
-885.0170
-884.5064
-56.47 IC_50
-Peptide
-Data
-9842
-Alpha-glucosidase inhibitor
-AIGVGAIER
-885.0170
-884.5064
-14.73 IC_50
-Peptide
-Data
-9843
-ACE inhibitor
-FDPFPK
-749.8510
-749.3736
-105.75 IC_50
-Peptide
-Data
-9844
-Pancreatic lipase inhibitor
-FDPFPK
-749.8510
-749.3736
-129.11 IC_50
-Peptide
-Data
-9845
-Alpha-glucosidase inhibitor
-FDPFPK
-749.8510
-749.3736
-7.93 IC_50
-Peptide
-Data
-9846
-ACE inhibitor
-YETGNGIK
-880.9392
-880.4276
-3.69 IC_50
-Peptide
-Data
-9847
-Pancreatic lipase inhibitor
-YETGNGIK
-880.9392
-880.4276
-107.80 IC_50
-Peptide
-Data
-9848
-Alpha-glucosidase inhibitor
-LLPLPVLK
-892.1763
-891.6138
-237.43 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 274 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9834 
+
+ ACE inhibitor 
+
+ AGDDAPR 
+
+ 700.6963 
+
+ 700.3130 
+
+ 11.91 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9835 
+
+ Pancreatic lipase inhibitor 
+
+ AGDDAPR 
+
+ 700.6963 
+
+ 700.3130 
+
+ 110.61 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9836 
+
+ Alpha-glucosidase inhibitor 
+
+ AGDDAPR 
+
+ 700.6963 
+
+ 700.3130 
+
+ 27.77 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9837 
+
+ ACE inhibitor 
+
+ GKDAVIV 
+
+ 700.8217 
+
+ 700.4106 
+
+ 18.30 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9838 
+
+ Pancreatic lipase inhibitor 
+
+ GKDAVIV 
+
+ 700.8217 
+
+ 700.4106 
+
+ 110.59 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9839 
+
+ Alpha-glucosidase inhibitor 
+
+ GKDAVIV 
+
+ 700.8217 
+
+ 700.4106 
+
+ 22.74 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9840 
+
+ ACE inhibitor 
+
+ AIGVGAIER 
+
+ 885.0170 
+
+ 884.5064 
+
+ 16.31 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9841 
+
+ Pancreatic lipase inhibitor 
+
+ AIGVGAIER 
+
+ 885.0170 
+
+ 884.5064 
+
+ 56.47 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9842 
+
+ Alpha-glucosidase inhibitor 
+
+ AIGVGAIER 
+
+ 885.0170 
+
+ 884.5064 
+
+ 14.73 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9843 
+
+ ACE inhibitor 
+
+ FDPFPK 
+
+ 749.8510 
+
+ 749.3736 
+
+ 105.75 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9844 
+
+ Pancreatic lipase inhibitor 
+
+ FDPFPK 
+
+ 749.8510 
+
+ 749.3736 
+
+ 129.11 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9845 
+
+ Alpha-glucosidase inhibitor 
+
+ FDPFPK 
+
+ 749.8510 
+
+ 749.3736 
+
+ 7.93 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9846 
+
+ ACE inhibitor 
+
+ YETGNGIK 
+
+ 880.9392 
+
+ 880.4276 
+
+ 3.69 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9847 
+
+ Pancreatic lipase inhibitor 
+
+ YETGNGIK 
+
+ 880.9392 
+
+ 880.4276 
+
+ 107.80 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9848 
+
+ Alpha-glucosidase inhibitor 
+
+ LLPLPVLK 
+
+ 892.1763 
+
+ 891.6138 
+
+ 237.43 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 274 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

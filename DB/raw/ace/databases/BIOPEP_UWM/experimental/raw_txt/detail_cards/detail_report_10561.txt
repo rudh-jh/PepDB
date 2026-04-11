@@ -1,0 +1,233 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10561 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+WW 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-converting enzyme (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 390.4342 
+
+ Monoisotopic mass 
+
+ 390.1687 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 68.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Lunow D., Kaiser S., Brückner S., Gotsch A., Henle T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Selective release of ACE-inhibiting tryptophan-containing dipeptides from food proteins by enzymatic hydrolysis. Eur. Food Res. Technol., 237, 27–37, 2013 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2013 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)N[C@@H](CC1=C[NH]C2=CC=CC=C12)C(=O)O
+
+InChI=1S/C22H22N4O3/c23-17(9-13-11-24-18-7-3-1-5-15(13)18)21(27)26-20(22(28)29)10-14-12-25-19-8-4-2-6-16(14)19/h1-8,11-12,17,20,24-25H,9-10,23H2,(H,26,27)(H,28,29)/t17-,20-/m0/s1
+
+InChIKey=NQIHMZLGCZNZBN-PXNSSMCTSA-N
+
+Inhibitor of hemoglobin S gelation according to the ChEMBL database, the PubChem database
+
+Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5) (MEROPS ID: S09.003) according to the BIOPEP-UWM database of bioactive peptides (
+ID 8686)
+
+Bitter peptide according to the BIOPEP-UWM database of sensory peptides and amino acids, the BitterDB database, the ChEMBL database, the PubChem database
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BindingDB: 
+ID 50188479
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 8686
+
+BIOPEP-UWM database of sensory peptides and amino acids: 
+ID 342
+
+BitterDB: 
+ID 832
+
+BRENDA: Ligand Trp-Trp
+
+ChEBI: 
+ID 74876
+
+ChEMBL: ID CHEMBL286852
+
+ChemIDplus: 
+ID 020696600
+
+ChemSpider: 
+ID 79994
+
+EROP-Moscow: ID E10612
+
+PubChem: 
+ID 88656
+
+ZINC: ID ZINC01557161

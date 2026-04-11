@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 10093 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+NGGPPT 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Dipeptidyl Peptidase IV (EC 3.4.14.5; MEROPS ID: S09.003) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 6 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 541.5534 
+
+ Monoisotopic mass 
+
+ 541.2488 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 307.40 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Wei D., Fan W., Xu Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Identification of water-soluble peptides in distilled spent grain and its angiotensin converting enzyme (ACE) inhibitory activity based on UPLC-Q-TOF-MS and proteomics analysis. Food Chem., 353, 129521, 2021 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2021 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(CC(=O)N)C(=O)NCC(=O)NCC(=O)N1[C@@]([H])(CCC1)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])([C@]([H])(O)C)C(=O)O
+
+InChI=1S/C22H35N7O9/c1-11(30)18(22(37)38)27-20(35)13-4-2-7-29(13)21(36)14-5-3-6-28(14)17(33)10-25-16(32)9-26-19(34)12(23)8-15(24)31/h11-14,18,30H,2-10,23H2,1H3,(H2,24,31)(H,25,32)(H,26,34)(H,27,35)(H,37,38)/t11-,12+,13+,14+,18+/m1/s1
+
+InChIKey=SWEFKAVJZMNXFK-LLLAAFKUSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

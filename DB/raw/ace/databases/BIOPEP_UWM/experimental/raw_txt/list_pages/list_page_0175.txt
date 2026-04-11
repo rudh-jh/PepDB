@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 175
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=174bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8349
-ACE inhibitor
-AFVGYVLP
-865.0240
-864.4730
-18.02 IC_50
-Peptide
-Data
-8350
-ACE inhibitor from cuttlefish (Sepia officinalis)
-KNGDGY
-652.6519
-652.2807
-51.63 IC_50
-Peptide
-Data
-8351
-ACE inhibitor from cuttlefish (Sepia officinalis)
-STHGVY
-662.6897
-662.3014
-19.30 IC_50
-Peptide
-Data
-8352
-ACE inhibitor from cuttlefish (Sepia officinalis)
-RSIKGF
-706.8312
-706.4114
-32.74 IC_50
-Peptide
-Data
-8353
-ACE inhibitor from cuttlefish (Sepia officinalis)
-VELYP
-619.7046
-619.3206
-5.22 IC_50
-Peptide
-Data
-8354
-ACE inhibitor from the skin secretions of the frog (Rana ridibunda)
-FLKPLFNAALKLLP
-1584.9794
-1583.9773
-22.19 IC_50
-Peptide
-Data
-8355
-ACE inhibitor from cuttlefish (Sepia officinalis)
-GIHETTY
-819.8564
-819.3750
-25.66 IC_50
-Peptide
-Data
-8356
-ACE inhibitor from cuttlefish (Sepia officinalis)
-EKSYELP
-864.9365
-864.4214
-14.41 IC_50
-Peptide
-Data
-8357
-ACE inhibitor from bovine aphas1-CN (90-93)
-RYLG
-507.5817
-507.2797
-225.00 IC_50
-Peptide
-Data
-8358
-ACE inhibitor from bovine alphas1-CN (90-94)
-RYLGY
-670.7546
-670.3428
-0.71 IC_50
-Peptide
-Data
-8359
-ACE inhibitor from bovine alphas1-CN (143-149)
-AYFYPEL
-901.9980
-901.4207
-6.58 IC_50
-Peptide
-Data
-8360
-ACE inhibitor from olive seeds (Olea europaea)
-LTPTSN
-631.6740
-631.3166
-0.00 IC_50
-Peptide
-Data
-8361
-ACE inhibitor from olive seeds (Olea europaea)
-LVVDGEGY
-850.9100
-850.4058
-0.00 IC_50
-Peptide
-Data
-8362
-ACE inhibitor from olive seeds (Olea europaea)
-AFDAVGVK
-805.9157
-805.4320
-0.00 IC_50
-Peptide
-Data
-8363
-ACE inhibitor from olive seeds (Olea europaea)
-VGVPGGV
-583.6758
-583.3319
-0.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 175 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8349 
+
+ ACE inhibitor 
+
+ AFVGYVLP 
+
+ 865.0240 
+
+ 864.4730 
+
+ 18.02 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8350 
+
+ ACE inhibitor from cuttlefish (Sepia officinalis) 
+
+ KNGDGY 
+
+ 652.6519 
+
+ 652.2807 
+
+ 51.63 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8351 
+
+ ACE inhibitor from cuttlefish (Sepia officinalis) 
+
+ STHGVY 
+
+ 662.6897 
+
+ 662.3014 
+
+ 19.30 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8352 
+
+ ACE inhibitor from cuttlefish (Sepia officinalis) 
+
+ RSIKGF 
+
+ 706.8312 
+
+ 706.4114 
+
+ 32.74 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8353 
+
+ ACE inhibitor from cuttlefish (Sepia officinalis) 
+
+ VELYP 
+
+ 619.7046 
+
+ 619.3206 
+
+ 5.22 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8354 
+
+ ACE inhibitor from the skin secretions of the frog (Rana ridibunda) 
+
+ FLKPLFNAALKLLP 
+
+ 1584.9794 
+
+ 1583.9773 
+
+ 22.19 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8355 
+
+ ACE inhibitor from cuttlefish (Sepia officinalis) 
+
+ GIHETTY 
+
+ 819.8564 
+
+ 819.3750 
+
+ 25.66 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8356 
+
+ ACE inhibitor from cuttlefish (Sepia officinalis) 
+
+ EKSYELP 
+
+ 864.9365 
+
+ 864.4214 
+
+ 14.41 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8357 
+
+ ACE inhibitor from bovine aphas1-CN (90-93) 
+
+ RYLG 
+
+ 507.5817 
+
+ 507.2797 
+
+ 225.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8358 
+
+ ACE inhibitor from bovine alphas1-CN (90-94) 
+
+ RYLGY 
+
+ 670.7546 
+
+ 670.3428 
+
+ 0.71 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8359 
+
+ ACE inhibitor from bovine alphas1-CN (143-149) 
+
+ AYFYPEL 
+
+ 901.9980 
+
+ 901.4207 
+
+ 6.58 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8360 
+
+ ACE inhibitor from olive seeds (Olea europaea) 
+
+ LTPTSN 
+
+ 631.6740 
+
+ 631.3166 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8361 
+
+ ACE inhibitor from olive seeds (Olea europaea) 
+
+ LVVDGEGY 
+
+ 850.9100 
+
+ 850.4058 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8362 
+
+ ACE inhibitor from olive seeds (Olea europaea) 
+
+ AFDAVGVK 
+
+ 805.9157 
+
+ 805.4320 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8363 
+
+ ACE inhibitor from olive seeds (Olea europaea) 
+
+ VGVPGGV 
+
+ 583.6758 
+
+ 583.3319 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 175 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

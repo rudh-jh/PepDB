@@ -1,0 +1,190 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3415 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PANIKWGD 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 8 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 899.9871 
+
+ Monoisotopic mass 
+
+ 899.4487 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 21.00 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Kohama Y., Oka H., Yamamoto K., Teramoto T., Okabe M., Mimura T., Nagase Y., Chiba Y., Fujita T. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Induction of angiotensin-converting enzyme inhibitory activity by acid-limited proteolysis of glyceraldehyde-3-phosphate dehydrogenase. Biochem. Biophys. Res. Commun., 161, 456-460 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1989 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](C)(NC(=O)[C@]1([H])CCCN1)C(=O)N[C@@]([H])(CC(N)=O)C(=O)N[C@]([H])(C(=O)N[C@@]([H])(CCCCN)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)NCC(=O)N[C@@]([H])(CC(O)=O)C(O)=O)[C@@]([H])(C)CC
+
+InChI=1S/C41H61N11O12/c1-4-21(2)34(52-39(61)29(17-31(43)53)50-35(57)22(3)47-37(59)26-13-9-15-44-26)40(62)49-27(12-7-8-14-42)38(60)51-28(16-23-19-45-25-11-6-5-10-24(23)25)36(58)46-20-32(54)48-30(41(63)64)18-33(55)56/h5-6,10-11,19,21-22,26-30,34,44-45H,4,7-9,12-18,20,42H2,1-3H3,(H2,43,53)(H,46,58)(H,47,59)(H,48,54)(H,49,62)(H,50,57)(H,51,60)(H,52,61)(H,55,56)(H,63,64)/t21-,22-,26-,27-,28-,29-,30-,34-/m0/s1
+
+InChIKey=HPIKMKCHEDDBFC-RVVDMIPZSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference:

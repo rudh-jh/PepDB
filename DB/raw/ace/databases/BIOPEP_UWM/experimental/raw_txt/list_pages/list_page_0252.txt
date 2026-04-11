@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 252
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=251bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-9504
-DPP-III inhibitor
-PE
-244.2438
-244.1055
-0.00 IC_50
-Peptide
-Data
-9505
-DPP-III inhibitor
-PF
-262.3036
-262.1313
-0.00 IC_50
-Peptide
-Data
-9506
-DPP-III inhibitor
-WM
-335.4215
-335.1299
-0.00 IC_50
-Peptide
-Data
-9507
-DPP-III inhibitor
-SM
-236.2891
-236.0827
-0.00 IC_50
-Peptide
-Data
-9508
-DPP-III inhibitor
-YG
-238.2393
-238.0950
-0.00 IC_50
-Peptide
-Data
-9509
-DPP-III inhibitor
-VY
-280.3188
-280.1418
-0.00 IC_50
-Peptide
-Data
-9510
-DPP-III inhibitor
-YI
-294.3453
-294.1574
-0.00 IC_50
-Peptide
-Data
-9511
-DPP-III inhibitor
-KA
-217.2647
-217.1422
-0.00 IC_50
-Peptide
-Data
-9512
-DPP-III inhibitor
-GFL
-335.3971
-335.1839
-0.00 IC_50
-Peptide
-Data
-9513
-DPP-III inhibitor
-LWM
-448.5787
-448.2137
-0.00 IC_50
-Peptide
-Data
-9514
-DPP-III inhibitor
-RFA
-392.4516
-392.2166
-0.00 IC_50
-Peptide
-Data
-9515
-DPP-III inhibitor
-GGFL
-392.4483
-392.2053
-0.00 IC_50
-Peptide
-Data
-9516
-DPP-III inhibitor
-AAAA
-302.3260
-302.1585
-0.00 IC_50
-Peptide
-Data
-9517
-DPP-III inhibitor
-YGGF
-442.4640
-442.1846
-0.00 IC_50
-Peptide
-Data
-9518
-DPP-III inhibitor
-WMDF
-597.6822
-597.2249
-0.00 IC_50
-First
-Previous
-Page:
-Next
-Last
-Page 252 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9504 
+
+ DPP-III inhibitor 
+
+ PE 
+
+ 244.2438 
+
+ 244.1055 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9505 
+
+ DPP-III inhibitor 
+
+ PF 
+
+ 262.3036 
+
+ 262.1313 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9506 
+
+ DPP-III inhibitor 
+
+ WM 
+
+ 335.4215 
+
+ 335.1299 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9507 
+
+ DPP-III inhibitor 
+
+ SM 
+
+ 236.2891 
+
+ 236.0827 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9508 
+
+ DPP-III inhibitor 
+
+ YG 
+
+ 238.2393 
+
+ 238.0950 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9509 
+
+ DPP-III inhibitor 
+
+ VY 
+
+ 280.3188 
+
+ 280.1418 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9510 
+
+ DPP-III inhibitor 
+
+ YI 
+
+ 294.3453 
+
+ 294.1574 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9511 
+
+ DPP-III inhibitor 
+
+ KA 
+
+ 217.2647 
+
+ 217.1422 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9512 
+
+ DPP-III inhibitor 
+
+ GFL 
+
+ 335.3971 
+
+ 335.1839 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9513 
+
+ DPP-III inhibitor 
+
+ LWM 
+
+ 448.5787 
+
+ 448.2137 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9514 
+
+ DPP-III inhibitor 
+
+ RFA 
+
+ 392.4516 
+
+ 392.2166 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9515 
+
+ DPP-III inhibitor 
+
+ GGFL 
+
+ 392.4483 
+
+ 392.2053 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9516 
+
+ DPP-III inhibitor 
+
+ AAAA 
+
+ 302.3260 
+
+ 302.1585 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9517 
+
+ DPP-III inhibitor 
+
+ YGGF 
+
+ 442.4640 
+
+ 442.1846 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 9518 
+
+ DPP-III inhibitor 
+
+ WMDF 
+
+ 597.6822 
+
+ 597.2249 
+
+ 0.00 IC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 252 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)

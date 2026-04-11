@@ -1,0 +1,205 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9700 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+ADVFNPR 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 7 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 817.8868 
+
+ Monoisotopic mass 
+
+ 817.4070 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 485.70 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Zheng Y., Li Y., Zhang Y., Ruan X., Zhang R. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Purification, characterization, synthesis, in vitro ACE inhibition and in vivo antihypertensive activity of bioactive peptides derived from oil palm kernel glutelin-2 hydrolysates. J. Funct. Foods, 28, 48-58, 2017 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2017 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@@]([H])(C)C(=O)N[C@@]([H])(CC(=O)O)C(=O)N[C@@]([H])(C(C)C)C(=O)N[C@@]([H])(Cc1ccccc1)C(=O)N[C@@]([H])(CC(=O)N)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(CCCNC(=N)N)C(=O)O
+
+InChI=1S/C36H55N11O11/c1-18(2)28(46-31(53)23(17-27(49)50)43-29(51)19(3)37)33(55)44-22(15-20-9-5-4-6-10-20)30(52)45-24(16-26(38)48)34(56)47-14-8-12-25(47)32(54)42-21(35(57)58)11-7-13-41-36(39)40/h4-6,9-10,18-19,21-25,28H,7-8,11-17,37H2,1-3H3,(H2,38,48)(H,42,54)(H,43,51)(H,44,55)(H,45,52)(H,46,53)(H,49,50)(H,57,58)(H4,39,40,41)/t19-,21-,22-,23-,24-,25-,28-/m0/s1
+
+InChIKey: KDGPICQIDWPGDU-IVXOHGEOSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+Hypotensive peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9711)
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 9712)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides: 
+ID 9711; 9712

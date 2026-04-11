@@ -1,0 +1,201 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 9242 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+PLPLL 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 5 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 551.7166 
+
+ Monoisotopic mass 
+
+ 551.3671 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 0.53 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Mao X.-Y., Ni J.-R., Sun W.-L., Hao P.-P., Fan L. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Value-added utilization of yak milk casein for the production of angiotensin-I-converting enzyme inhibitory peptides. Food Chem., 2007, 103:1282-1287. 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 2007 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: [H][C@@](CC(C)C)(NC(=O)[C@]([H])(CC(C)C)NC(=O)[C@]1([H])CCCN1C(=O)[C@]([H])(CC(C)C)NC(=O)[C@]1([H])CCCN1)C(O)=O
+
+InChI=1S/C28H49N5O6/c1-16(2)13-20(25(35)32-22(28(38)39)15-18(5)6)30-26(36)23-10-8-12-33(23)27(37)21(14-17(3)4)31-24(34)19-9-7-11-29-19/h16-23,29H,7-15H2,1-6H3,(H,30,36)(H,31,34)(H,32,35)(H,38,39)/t19-,20-,21-,22-,23-/m0/s1
+
+InChIKey: OPOVRYNTDLCLJR-VUBDRERZSA-N
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 2699, 3675
+
+MBPDB: Peptide PLPLL
+
+SATPdb: ID satpdb25323

@@ -1,0 +1,261 @@
+﻿Untitled Document 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Report
+
+ 
+
+ 
+
+ 
+ID 3383 
+
+ 
+
+ 
+
+ Name 
+
+ ACE inhibitor 
+
+ 
+
+ 
+
+ 
+
+ sequence 
+
+ 
+
+ 
+
+IY 
+
+ 
+
+ 
+
+ 
+
+ Function: 
+
+ 
+
+ 
+
+ Inhibitor of Angiotensin-Converting Enzyme (ACE) (EC 3.4.15.1) (MEROPS ID: M02-001) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of residues 
+
+ 2 
+ 
+
+ Activity code 
+
+ ah 
+ 
+
+ 
+
+ 
+
+ 
+
+ Activity : 
+
+ ACE inhibitor 
+ 
+
+ 
+
+ 
+
+ Chemical mass 
+
+ 294.3453 
+
+ Monoisotopic mass 
+
+ 294.1574 
+
+ 
+
+ 
+
+ IC50 : 
+
+ 2.10 µM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Bibliographic data: 
+
+ 
+
+ 
+
+ Authors 
+
+ 
+
+ 
+
+ Matsufuji H., Matsui T., Seki E., Osajima K., Nakashima M., Osajima Y. 
+
+ 
+
+ 
+
+ Title 
+
+ 
+
+ 
+
+ Angiotensin I-converting enzyme inhibitory peptides in an alkaline proteinase hydrolysate derived from sardine muscle. Biosci. Biotech. Biochem., 58, 2244-2245, 1994 
+
+ 
+
+ 
+
+ Year 
+
+ Source 
+
+ 
+
+ 
+
+ 1994 
+
+ Journal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Additional information: 
+
+ 
+
+ 
+
+ BIOPEP-UWM database of bioactive peptides
+
+SMILES: N[C@H](C(=O)N[C@H](C(=O)O)Cc1ccc(cc1)O)[C@H](CC)C
+
+InChI=1S/C15H22N2O4/c1-3-9(2)13(16)14(19)17-12(15(20)21)8-10-4-6-11(18)7-5-10/h4-7,9,12-13,18H,3,8,16H2,1-2H3,(H,17,19)(H,20,21)/t9-,12-,13-/m0/s1
+
+InChIKey: MUFXDFWAJSPHIQ-XDTLVQLUSA-N
+
+Information concerning Angiotensin-Converting Enzyme (ACE) is available in MEROPS database of proteolytic enzymes (http://merops.sanger.ac.uk/); ID: M02-001
+
+IC50(EC50) of peptide ranges from 2,1 to 3,7 uM. 
+
+Loponen J., 2004, Angiotensin converting enzyme inhibitory peptides in Finnish cereals: a database survey. Agric. Food Sci., 13, 39-45
+
+Peptide obtained from the following resources:
+
+soybean protein hydrolysate
+
+Beermann C., Euler M., Herzberg J., Stahl B., 2009, Anti-oxidative capacity of enzymatically released peptides from soybean protein isolate. Eur. Food Res. Technol., 229, 637&#8211;644
+
+amaranth proteins:
+
+Barba de la Rosa A. P., Barba Montoya A., Martínez-Cuevas P., Hernández-Ledesma B., León-Galván M. F., De León-Rodríguez A., González C., 2010, Tryptic amaranth glutelin digests induce endothelial nitric oxide production through inhibition of ACE: antihypertensive role of amaranth peptides. Nitric Oxide, 23, 106-111
+
+bovine collagen hydrolysate: 
+
+Herregods G., Van Camp J., Morel N., Ghesqui&#232;re B., Gevaert K., Vercruysse L., Dierckx S., Quanten E., Smagghe G., 2011, Angiotensin I-converting enzyme inhibitory activity of gelatin hydrolysates and identification of bioactive peptides. J. Agric. Food Chem., 59, 552-558
+
+Antioxidative peptide according to the BIOPEP-UWM database of bioactive peptides (
+ID 7873); the PlantPepDB database 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Database reference: 
+
+ 
+
+ 
+
+ AHTPDB: 
+ID 1070; 1098; 1150, 1287, 1348, 1353, 1373, 1377, 1411, 1440, 1495, 1510, 1818, 1855, 1903, 1934, 1948, 2583, 2734, 2778, 2956, 2988, 2992, 3064, 3166, 3171, 3197, 3504, 3781, 3962, 4083, 4226, 4248, 4253, 4259, 4450, 4487, 4652, 4947, 4955, 4956, 4957, 5156, 5598, 5661, 6140, 6143, 6176, 6263, 6268, 6282, 6367, 6879
+
+Binding DB: 
+ID 50038069
+
+BioPepDB: ID biopep00619
+
+BIOPEP-UWM database of bioactive peptides: 
+ID 7873
+
+BRENDA: Ligand Ile-Tyr
+
+ChEBI: 
+ID 74326
+
+ChEMBL: ID CHEMBL91090
+
+ChemSpider: 
+ID 5730945
+
+EROP-Moscow: ID E01439
+
+FeptideDB: 
+ID 3383; 7873
+
+J-GLOBAL: 
+ID 200907037450857360
+
+Metabolights: ID MTBLC74326
+
+Metabolomics Workbench: 
+ID 71683
+
+Nikkaji: ID J535.351C
+
+PlantPepDB: ID PPepDB_3792
+
+PubChem: CID 7408194
+
+SATPdb: ID satpdb18728
+
+SureChEMBL: ID SCHEMBL4261778
+
+ZINC: ID ZINC000004899517

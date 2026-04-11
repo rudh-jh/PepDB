@@ -1,197 +1,436 @@
-﻿BIOPEP-UWM experimental 列表页
-页码: 165
-URL: https://biochemia.uwm.edu.pl/biopep/peptide_data.php?pageNum_result1=164bbb
+﻿Untitled Document 
 
-Untitled Document
-<!--
-//document.onkeydown = keyDown
-function oki(msg,msg1,msg2) { //v1.0
-//alert(msg);
-var keycode = event.keyCode
-var realkey = String.fromCharCode(event.keyCode)
-//alert("keycode: " + keycode + "\nrealkey: " + realkey)
-if (keycode==13 || (typeof keycode == "undefined")){
-// alert(msg);
-var text,adres,adres2,text2,text3,text4;
-text=document.fm_raporty.elements["textfield"].value
-text4=msg
-// text="peptide_data.php?pageNum_result1="+msg+"&totalRows_result1="+msg1;
-// alert(text);
-text=text+"-1";
-text4=text4+"-1";
-adres=eval(text)
-msg=eval(text4)
-adres=parseInt(adres)
-adres2=parseInt(msg2)
-text2="Enter value <="+msg2
-text3="Enter value >=1"
-if (adres>=adres2) {
-alert(text2)
-adres=msg
-}
-if (adres<0) {
-alert(text3)
-adres=msg
-}
-document.fm_raporty.elements["pageNum_result1"].value=adres
-document.fm_raporty.elements["totalRows_result1"].value=msg1
-document.fm_raporty.submit()
-}
-}
-function submitform()
-{
-document.forms['fm_raporty1'].submit();
-}
-//-->
-BIOPEP-UWM: Bioactive peptides
-Number of peptides in database: 5601
-ID
-Name
-Sequence
-Chem. mass
-Monois. mass
-Peptide
-Data
-8198
-f(92-100) of bovine b-lactoglobulin
-VLVLDTDYK
-1065.2137
-1064.5734
-0.00 EC_50
-Peptide
-Data
-8199
-ACE inhibitor
-KAPVA
-484.5880
-484.3000
-46.56 IC_50
-Peptide
-Data
-8200
-ACE inhibitor
-PTPVP
-509.5942
-509.2840
-256.41 IC_50
-Peptide
-Data
-8201
-ACE inhibitor
-MYPGIA
-650.7859
-650.3087
-641.02 IC_50
-Peptide
-Data
-8202
-ACE inhibitor
-VIPEL
-569.6889
-569.3413
-799.24 IC_50
-Peptide
-Data
-8203
-peptide from Cornu Bubali (Bubalus Bubalis horn)
-QYDQGV
-708.7150
-708.3068
-0.00 EC_50
-Peptide
-Data
-8204
-peptide from Cornu Bubali (Bubalus Bubalis horn)
-YEDCTDCGN
-1019.0210
-1018.2995
-0.00 EC_50
-Peptide
-Data
-8205
-peptide from Cornu Bubali (Bubalus Bubalis horn)
-AADNANELFPPN
-1272.3169
-1271.5763
-0.00 EC_50
-Peptide
-Data
-8206
-Antioxidin-RL - peptide from frog skin (Odorrana livida)
-AMRLTYNRPCIYAT
-1672.9663
-1671.8199
-0.00 EC_50
-Peptide
-Data
-8207
-RL-Y6/G6 - synthetic peptide
-AMRLTGNRPCLYAT
-1566.8446
-1565.7782
-0.00 EC_50
-Peptide
-Data
-8208
-RL-C10/G10 - synthetic peptide
-AMRLTYNRPGLYAT
-1626.8737
-1625.8322
-0.00 EC_50
-Peptide
-Data
-8209
-RL-Y6C10/G6G10 - synthetic peptide
-AMRLTGNRPGLYAT
-1520.7520
-1519.7905
-0.00 EC_50
-Peptide
-Data
-8210
-RL-Y12/G12 - synthetic peptide
-AMRLTYNRPCLGAT
-1566.8446
-1565.7782
-0.00 EC_50
-Peptide
-Data
-8211
-RL-C10Y12/G10G12 - synthetic peptide
-AMRLTYNRPGLGAT
-1520.7520
-1519.7905
-0.00 EC_50
-Peptide
-Data
-8212
-RL-Y6Y12/G6G12 - synthetic peptide
-AMRLTGNRPCIGAT
-1460.7229
-1459.7365
-0.00 EC_50
-First
-Previous
-Page:
-Next
-Last
-Page 165 / 374
-Search:
-by:
-ID
-Name
-Activity
-Reference
-Sequence
-Number of amino ...
-Mass
-InChIKey
-exact
-ID (e.g. 2572)
-Name (e.g. lactorphin)
-Activity (e. g. antioxidative) List of activities
-Mass (e.g. 700-1200)
-Reference (e.g. Meisel)
-Sequence (e.g. IPP)
-Number of residues (e.g. 2)
-InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ BIOPEP-UWM: Bioactive peptides
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Number of peptides in database: 5601 
+
+ 
+
+ 
+
+ 
+
+ ID 
+
+ Name 
+
+ Sequence 
+
+ Chem. mass 
+
+ Monois. mass 
+
+ 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8198 
+
+ f(92-100) of bovine b-lactoglobulin 
+
+ VLVLDTDYK 
+
+ 1065.2137 
+
+ 1064.5734 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8199 
+
+ ACE inhibitor 
+
+ KAPVA 
+
+ 484.5880 
+
+ 484.3000 
+
+ 46.56 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8200 
+
+ ACE inhibitor 
+
+ PTPVP 
+
+ 509.5942 
+
+ 509.2840 
+
+ 256.41 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8201 
+
+ ACE inhibitor 
+
+ MYPGIA 
+
+ 650.7859 
+
+ 650.3087 
+
+ 641.02 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8202 
+
+ ACE inhibitor 
+
+ VIPEL 
+
+ 569.6889 
+
+ 569.3413 
+
+ 799.24 IC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8203 
+
+ peptide from Cornu Bubali (Bubalus Bubalis horn) 
+
+ QYDQGV 
+
+ 708.7150 
+
+ 708.3068 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8204 
+
+ peptide from Cornu Bubali (Bubalus Bubalis horn) 
+
+ YEDCTDCGN 
+
+ 1019.0210 
+
+ 1018.2995 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8205 
+
+ peptide from Cornu Bubali (Bubalus Bubalis horn) 
+
+ AADNANELFPPN 
+
+ 1272.3169 
+
+ 1271.5763 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8206 
+
+ Antioxidin-RL - peptide from frog skin (Odorrana livida) 
+
+ AMRLTYNRPCIYAT 
+
+ 1672.9663 
+
+ 1671.8199 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8207 
+
+ RL-Y6/G6 - synthetic peptide 
+
+ AMRLTGNRPCLYAT 
+
+ 1566.8446 
+
+ 1565.7782 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8208 
+
+ RL-C10/G10 - synthetic peptide 
+
+ AMRLTYNRPGLYAT 
+
+ 1626.8737 
+
+ 1625.8322 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8209 
+
+ RL-Y6C10/G6G10 - synthetic peptide 
+
+ AMRLTGNRPGLYAT 
+
+ 1520.7520 
+
+ 1519.7905 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8210 
+
+ RL-Y12/G12 - synthetic peptide 
+
+ AMRLTYNRPCLGAT 
+
+ 1566.8446 
+
+ 1565.7782 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8211 
+
+ RL-C10Y12/G10G12 - synthetic peptide 
+
+ AMRLTYNRPGLGAT 
+
+ 1520.7520 
+
+ 1519.7905 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ Peptide 
+
+ Data 
+
+ 8212 
+
+ RL-Y6Y12/G6G12 - synthetic peptide 
+
+ AMRLTGNRPCIGAT 
+
+ 1460.7229 
+
+ 1459.7365 
+
+ 0.00 EC50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ First 
+
+ Previous 
+
+ Page: 
+
+ 
+
+ 
+
+ Next 
+
+ Last 
+
+ 
+
+ Page 165 / 374 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Search: 
+
+ 
+
+ by: 
+
+ 
+
+ ID 
+
+ Name 
+
+ Activity 
+
+ Reference 
+
+ Sequence 
+
+ Number of amino ... 
+
+ Mass 
+
+ InChIKey 
+
+ 
+
+ 
+
+ 
+
+ exact 
+
+ 
+
+ ID (e.g. 2572)
+
+ Name (e.g. lactorphin)
+
+ Activity (e. g. antioxidative) List of activities 
+
+ Mass (e.g. 700-1200)
+
+ Reference (e.g. Meisel)
+
+ Sequence (e.g. IPP)
+
+ Number of residues (e.g. 2)
+
+ InChIKey (e.g. JNTMAZFVYNDPLB-PEDHHIEDSA-N)
