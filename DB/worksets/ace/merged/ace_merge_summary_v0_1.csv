@@ -1,0 +1,17 @@
+﻿metric,value
+ahtpdb_input_rows,5978
+biopep_input_rows,801
+ahtpdb_kept_rows,3152
+biopep_kept_rows,801
+merged_record_level_rows,3953
+merged_short_2_3_record_level_rows,1873
+merged_short_2_3_sequence_level_rows,563
+merged_source::AHTPDB,3152
+merged_source::BIOPEP-UWM,801
+short_source::AHTPDB,1537
+short_source::BIOPEP-UWM,336
+short_seq_stability::conflicting,206
+short_seq_stability::singleton,219
+short_seq_stability::cross_source_consistent,76
+short_seq_stability::unknown,14
+short_seq_stability::within_range_consistent,48
