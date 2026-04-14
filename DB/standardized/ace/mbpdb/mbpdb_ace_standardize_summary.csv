@@ -1,10 +1,10 @@
 ﻿metric,value
 input_filename,mbpdb_ace_inhibitory_export_2026-04-14.tsv
 input_rows,364
-skipped_empty_rows,0
-master_rows,364
+skipped_empty_rows,1
+master_rows,363
 ic50_parse_status::exact_molar,334
-ic50_parse_status::missing,30
+ic50_parse_status::missing,29
 rows_with_multiple_ic50_values_in_single_cell,45
 rows_with_noncanonical_sequence,0
 species::Bos taurus,240

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-MBPDB ACE TSV 标准化脚本（纯标准库版，修正版）
-=============================================
+MBPDB ACE TSV 标准化脚本（纯标准库版，最终修正版）
+=================================================
 
 输入
 ----
@@ -27,11 +27,8 @@ DB/analysis/ace/mbpdb/标准化检查/
 - 当前输入应为 MBPDB 的 ACE-inhibitory 手工导出 TSV
 - 不做网页抓取，不做详情页 enrich
 - IC50 列标题是 "IC50 (μM)"，默认统一解析为 uM
-- 对一个单元格内出现多个 IC50 数值的情况，默认取中位数作为 ic50_value/ic50_uM，
-  同时在 parse_log 和 notes 中保留痕迹
-- 修复点：
-  1) 不再把 1) / 2) / 3) 这种编号当成 IC50 数值
-  2) 自动跳过空白异常行
+- 对一个单元格内出现多个 IC50 数值的情况，默认取中位数作为 ic50_value/ic50_uM
+- 自动跳过导出 TSV 中的说明行/异常空行
 """
 
 from __future__ import annotations
@@ -263,11 +260,10 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
     - 单值：exact_molar
     - 阈值：molar_threshold
     - 多值：取中位数作为 ic50_value / ic50_uM
-    - 关键修复：先移除 1) / 2) / 3) 这种编号，避免把编号当成数值
     """
     result = {
         "ic50_value": None,
-        "ic50_unit": None,
+        "ic50_unit": "uM",
         "ic50_relation": None,
         "ic50_uM": None,
         "ic50_parse_status": "missing",
@@ -281,6 +277,7 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
 
     text = clean_text(raw_value)
     if text is None:
+        result["ic50_unit"] = None
         return result
 
     work_text = text
@@ -294,15 +291,18 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
     elif work_text.startswith("≥"):
         relation = "≥"
 
-    # 去掉列表编号，例如：1) 315.0, 2) 205.0, 3) 315.0
-    work_text = re.sub(r'(?<!\d)\b\d+\s*[\)\.]\s*', ' ', work_text)
+    # 去掉前导关系符，避免干扰后续提取
+    work_text = re.sub(r"^\s*[<>≤≥]\s*", "", work_text)
 
-    # 统一常见分隔符
+    # 只去掉形如 "1) "、"2) " 的列表编号
+    # 不碰小数点，避免把 52.8 截成 8
+    work_text = re.sub(r'(?:(?<=^)|(?<=[,;]\s)|(?<=\s))\d+\)\s*', '', work_text)
+
+    # 统一分隔符
     work_text = work_text.replace("；", ";").replace("，", ",")
-    work_text = work_text.replace("/", " / ")
+    work_text = normalize_spaces(work_text)
 
-    # 只抓真正数值；不再把编号抓进去
-    numeric_strings = re.findall(r'(?<![A-Za-z])[-+]?\d+(?:\.\d+)?(?!\s*[\)\.])', work_text)
+    numeric_strings = re.findall(r'[-+]?\d+(?:\.\d+)?', work_text)
 
     values = []
     for x in numeric_strings:
@@ -312,6 +312,7 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
             continue
 
     if not values:
+        result["ic50_unit"] = None
         result["ic50_parse_status"] = "unparsed_text"
         result["ic50_parse_note"] = "text_present_but_no_numeric_value_found"
         return result
@@ -320,7 +321,6 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
     median_value = statistics.median(values_sorted)
 
     result["ic50_value"] = median_value
-    result["ic50_unit"] = "uM"
     result["ic50_relation"] = relation
     result["ic50_uM"] = median_value
     result["ic50_parse_status"] = "exact_molar" if relation == "=" else "molar_threshold"
@@ -340,19 +340,29 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
 
 def is_effectively_empty_row(row: Dict[str, Optional[str]]) -> bool:
     """
-    过滤掉导出 TSV 中偶发的空白/异常行。
-    只要核心字段几乎全空，就不进入主表。
+    过滤掉导出 TSV 中的空白行、说明行、异常元数据行。
     """
+    protein_id = clean_text(row.get("Protein ID"))
+    peptide = clean_text(row.get("Peptide"))
+    function_raw = clean_text(row.get("Function"))
+    ic50_raw = clean_text(row.get("IC50 (μM)"))
+
     core_fields = [
-        row.get("Protein ID"),
-        row.get("Peptide"),
-        row.get("Function"),
-        row.get("IC50 (μM)"),
-        row.get("Title"),
-        row.get("Authors"),
-        row.get("DOI"),
+        protein_id,
+        peptide,
+        function_raw,
+        ic50_raw,
+        clean_text(row.get("Title")),
+        clean_text(row.get("Authors")),
+        clean_text(row.get("DOI")),
     ]
-    return all(clean_text(x) is None for x in core_fields)
+    if all(x is None for x in core_fields):
+        return True
+
+    if protein_id and protein_id.startswith("#Advanced search parameters"):
+        return True
+
+    return False
 
 
 def build_notes(row: Dict[str, Optional[str]], sequence: Optional[str], ic50_info: Dict[str, object]) -> Optional[str]:
@@ -530,7 +540,7 @@ def build_summary_rows(
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="MBPDB ACE TSV 标准化脚本（纯标准库版，修正版）")
+    parser = argparse.ArgumentParser(description="MBPDB ACE TSV 标准化脚本（纯标准库版，最终修正版）")
     parser.add_argument(
         "--project-root",
         type=str,
@@ -613,7 +623,7 @@ def main() -> int:
     write_csv(summary_path, summary_rows, ["metric", "value"])
 
     print("=" * 80)
-    print("MBPDB ACE TSV 标准化完成（修正版）")
+    print("MBPDB ACE TSV 标准化完成（最终修正版）")
     print(f"项目根目录：{project_root}")
     print(f"输入文件：{input_path}")
     print(f"主表输出：{output_path}")
