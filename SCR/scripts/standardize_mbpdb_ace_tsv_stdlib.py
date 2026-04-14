@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-MBPDB ACE TSV 标准化脚本（纯标准库版）
-====================================
+MBPDB ACE TSV 标准化脚本（纯标准库版，修正版）
+=============================================
 
 输入
 ----
@@ -29,6 +29,9 @@ DB/analysis/ace/mbpdb/标准化检查/
 - IC50 列标题是 "IC50 (μM)"，默认统一解析为 uM
 - 对一个单元格内出现多个 IC50 数值的情况，默认取中位数作为 ic50_value/ic50_uM，
   同时在 parse_log 和 notes 中保留痕迹
+- 修复点：
+  1) 不再把 1) / 2) / 3) 这种编号当成 IC50 数值
+  2) 自动跳过空白异常行
 """
 
 from __future__ import annotations
@@ -220,12 +223,12 @@ def resolve_input_tsv(input_path: Optional[str], project_root: Path) -> Path:
     for pattern in INPUT_GLOB_PATTERNS:
         candidates.extend(sorted(manual_dir.glob(pattern)))
 
-    # 去重，保留顺序
     seen = set()
     unique_candidates = []
     for p in candidates:
-        if p.resolve() not in seen:
-            seen.add(p.resolve())
+        rp = p.resolve()
+        if rp not in seen:
+            seen.add(rp)
             unique_candidates.append(p)
 
     if not unique_candidates:
@@ -243,6 +246,7 @@ def build_source_record_id(row: Dict[str, Optional[str]]) -> str:
     intervals = clean_text(row.get("Intervals")) or "NA"
     intervals = re.sub(r"[^A-Za-z0-9._-]+", "_", intervals)
     return f"MBPDB_{protein_id}_{peptide}_{intervals}"
+
 
 def parse_ic50_um(raw_value: object) -> Dict[str, object]:
     """
@@ -280,7 +284,6 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
         return result
 
     work_text = text
-
     relation = "="
     if work_text.startswith("<"):
         relation = "<"
@@ -291,14 +294,14 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
     elif work_text.startswith("≥"):
         relation = "≥"
 
-    # 先移除列表编号：1) 2) 3) / 1. 2. 3.
+    # 去掉列表编号，例如：1) 315.0, 2) 205.0, 3) 315.0
     work_text = re.sub(r'(?<!\d)\b\d+\s*[\)\.]\s*', ' ', work_text)
 
-    # 统一分隔符
+    # 统一常见分隔符
     work_text = work_text.replace("；", ";").replace("，", ",")
     work_text = work_text.replace("/", " / ")
 
-    # 只抓真正的数值，不再把编号抓进去
+    # 只抓真正数值；不再把编号抓进去
     numeric_strings = re.findall(r'(?<![A-Za-z])[-+]?\d+(?:\.\d+)?(?!\s*[\)\.])', work_text)
 
     values = []
@@ -334,6 +337,7 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
 
     return result
 
+
 def is_effectively_empty_row(row: Dict[str, Optional[str]]) -> bool:
     """
     过滤掉导出 TSV 中偶发的空白/异常行。
@@ -349,6 +353,7 @@ def is_effectively_empty_row(row: Dict[str, Optional[str]]) -> bool:
         row.get("DOI"),
     ]
     return all(clean_text(x) is None for x in core_fields)
+
 
 def build_notes(row: Dict[str, Optional[str]], sequence: Optional[str], ic50_info: Dict[str, object]) -> Optional[str]:
     notes = []
@@ -525,7 +530,7 @@ def build_summary_rows(
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="MBPDB ACE TSV 标准化脚本（纯标准库版）")
+    parser = argparse.ArgumentParser(description="MBPDB ACE TSV 标准化脚本（纯标准库版，修正版）")
     parser.add_argument(
         "--project-root",
         type=str,
@@ -568,7 +573,6 @@ def main() -> int:
 
     master_rows: List[Dict[str, object]] = []
     parse_logs: List[Dict[str, object]] = []
-
     skipped_empty_rows = 0
 
     for row in input_rows:
@@ -609,13 +613,13 @@ def main() -> int:
     write_csv(summary_path, summary_rows, ["metric", "value"])
 
     print("=" * 80)
-    print("MBPDB ACE TSV 标准化完成")
+    print("MBPDB ACE TSV 标准化完成（修正版）")
     print(f"项目根目录：{project_root}")
     print(f"输入文件：{input_path}")
     print(f"主表输出：{output_path}")
     print(f"解析日志：{parse_log_path}")
     print(f"检查目录：{analysis_dir}")
-    print(f"input_rows={len(input_rows)} master_rows={len(master_rows)}")
+    print(f"input_rows={len(input_rows)} skipped_empty_rows={skipped_empty_rows} master_rows={len(master_rows)}")
     print("=" * 80)
     return 0
 
