@@ -1,0 +1,10 @@
+﻿metric,value
+total_rows,837
+detail_txt_found_rows,837
+ic50_changed_rows,807
+resolved_ic50_rows_before,0
+resolved_ic50_rows_after,807
+resolved_ic50_rows_gain,807
+before_status::numeric_no_unit,837
+after_status::exact_molar,807
+after_status::numeric_no_unit,30
