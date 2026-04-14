@@ -1,6 +1,7 @@
 ﻿metric,value
 input_filename,mbpdb_ace_inhibitory_export_2026-04-14.tsv
 input_rows,364
+skipped_empty_rows,0
 master_rows,364
 ic50_parse_status::exact_molar,334
 ic50_parse_status::missing,30

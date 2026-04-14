@@ -244,19 +244,22 @@ def build_source_record_id(row: Dict[str, Optional[str]]) -> str:
     intervals = re.sub(r"[^A-Za-z0-9._-]+", "_", intervals)
     return f"MBPDB_{protein_id}_{peptide}_{intervals}"
 
-
 def parse_ic50_um(raw_value: object) -> Dict[str, object]:
     """
     解析 TSV 中的 "IC50 (μM)" 列。
+
     常见格式：
     - 52.8
+    - < 20
     - 1) 315.0, 2) 205.0, 3) 315.0
+    - 315.0; 205.0; 315.0
     - 空值
 
     规则：
     - 单值：exact_molar
-    - 多值：仍记为 exact_molar，但取中位数作为 ic50_value / ic50_uM；
-            在 note/log 中说明 multi_value_median_used
+    - 阈值：molar_threshold
+    - 多值：取中位数作为 ic50_value / ic50_uM
+    - 关键修复：先移除 1) / 2) / 3) 这种编号，避免把编号当成数值
     """
     result = {
         "ic50_value": None,
@@ -276,17 +279,28 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
     if text is None:
         return result
 
+    work_text = text
+
     relation = "="
-    if text.startswith("<"):
+    if work_text.startswith("<"):
         relation = "<"
-    elif text.startswith(">"):
+    elif work_text.startswith(">"):
         relation = ">"
-    elif text.startswith("≤"):
+    elif work_text.startswith("≤"):
         relation = "≤"
-    elif text.startswith("≥"):
+    elif work_text.startswith("≥"):
         relation = "≥"
 
-    numeric_strings = re.findall(r"[-+]?\d+(?:\.\d+)?", text)
+    # 先移除列表编号：1) 2) 3) / 1. 2. 3.
+    work_text = re.sub(r'(?<!\d)\b\d+\s*[\)\.]\s*', ' ', work_text)
+
+    # 统一分隔符
+    work_text = work_text.replace("；", ";").replace("，", ",")
+    work_text = work_text.replace("/", " / ")
+
+    # 只抓真正的数值，不再把编号抓进去
+    numeric_strings = re.findall(r'(?<![A-Za-z])[-+]?\d+(?:\.\d+)?(?!\s*[\)\.])', work_text)
+
     values = []
     for x in numeric_strings:
         try:
@@ -320,6 +334,21 @@ def parse_ic50_um(raw_value: object) -> Dict[str, object]:
 
     return result
 
+def is_effectively_empty_row(row: Dict[str, Optional[str]]) -> bool:
+    """
+    过滤掉导出 TSV 中偶发的空白/异常行。
+    只要核心字段几乎全空，就不进入主表。
+    """
+    core_fields = [
+        row.get("Protein ID"),
+        row.get("Peptide"),
+        row.get("Function"),
+        row.get("IC50 (μM)"),
+        row.get("Title"),
+        row.get("Authors"),
+        row.get("DOI"),
+    ]
+    return all(clean_text(x) is None for x in core_fields)
 
 def build_notes(row: Dict[str, Optional[str]], sequence: Optional[str], ic50_info: Dict[str, object]) -> Optional[str]:
     notes = []
@@ -459,10 +488,16 @@ def build_species_rows(master_rows: List[Dict[str, object]]) -> List[Dict[str, o
     return build_counter_rows(counter, "species_raw", "count")
 
 
-def build_summary_rows(input_path: Path, input_rows: List[Dict[str, Optional[str]]], master_rows: List[Dict[str, object]]) -> List[Dict[str, object]]:
+def build_summary_rows(
+    input_path: Path,
+    input_rows: List[Dict[str, Optional[str]]],
+    master_rows: List[Dict[str, object]],
+    skipped_empty_rows: int,
+) -> List[Dict[str, object]]:
     summary = [
         {"metric": "input_filename", "value": input_path.name},
         {"metric": "input_rows", "value": len(input_rows)},
+        {"metric": "skipped_empty_rows", "value": skipped_empty_rows},
         {"metric": "master_rows", "value": len(master_rows)},
     ]
 
@@ -534,7 +569,14 @@ def main() -> int:
     master_rows: List[Dict[str, object]] = []
     parse_logs: List[Dict[str, object]] = []
 
-    for idx, row in enumerate(input_rows, start=1):
+    skipped_empty_rows = 0
+
+    for row in input_rows:
+        if is_effectively_empty_row(row):
+            skipped_empty_rows += 1
+            continue
+
+        idx = len(master_rows) + 1
         master_row, parse_log = build_master_row(row, idx)
         master_rows.append(master_row)
         parse_logs.append(parse_log)
@@ -563,7 +605,7 @@ def main() -> int:
         species_rows = [{"species_raw": "", "count": 0}]
     write_csv(species_stats_path, species_rows, ["species_raw", "count"])
 
-    summary_rows = build_summary_rows(input_path, input_rows, master_rows)
+    summary_rows = build_summary_rows(input_path, input_rows, master_rows, skipped_empty_rows)
     write_csv(summary_path, summary_rows, ["metric", "value"])
 
     print("=" * 80)
