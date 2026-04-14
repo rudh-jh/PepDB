@@ -1,0 +1,8 @@
+﻿metric,value
+list_rows,837
+detail_rows,837
+master_rows,837
+merge_source::list+detail,837
+ic50_parse_status::numeric_no_unit,837
+length_consistency::consistent,832
+length_consistency::conflict,5
