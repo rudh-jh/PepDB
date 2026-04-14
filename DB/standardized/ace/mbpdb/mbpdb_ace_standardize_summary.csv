@@ -1,0 +1,16 @@
+﻿metric,value
+input_filename,mbpdb_ace_inhibitory_export_2026-04-14.tsv
+input_rows,364
+master_rows,364
+ic50_parse_status::exact_molar,334
+ic50_parse_status::missing,30
+rows_with_multiple_ic50_values_in_single_cell,45
+rows_with_noncanonical_sequence,0
+species::Bos taurus,240
+species::Homo sapiens,71
+species::Ovis aries,27
+species::Capra hircus,18
+species::Bos mutus,2
+species::Bubalus bubalis,2
+species::Camelus dromedarius,2
+species::Equus asinus,1
