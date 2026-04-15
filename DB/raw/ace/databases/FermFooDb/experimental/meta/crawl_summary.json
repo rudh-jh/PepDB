@@ -7,8 +7,8 @@
   "list_rows_parsed_after_dedup": 859,
   "total_entries_reported_on_site": 859,
   "warnings": [],
-  "detail_targets": 30,
-  "detail_rows_parsed": 30,
+  "detail_targets": 859,
+  "detail_rows_parsed": 859,
   "failed_detail_count": 0,
   "list_csv_path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\FermFooDb\\experimental\\raw_tables_csv\\fermfoodb_ace_list.csv",
   "detail_csv_path": "E:\\MYS\\PepDB\\DB\\raw\\ace\\databases\\FermFooDb\\experimental\\raw_tables_csv\\fermfoodb_ace_detail.csv"
