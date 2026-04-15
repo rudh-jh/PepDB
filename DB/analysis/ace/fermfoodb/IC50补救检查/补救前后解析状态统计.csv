@@ -1,0 +1,7 @@
+﻿ic50_parse_status,before_count,after_count,delta
+exact_molar,285,306,21
+mass_concentration_needs_mass,21,0,-21
+missing,393,393,0
+molar_threshold,13,13,0
+numeric_no_unit,147,91,-56
+rescued_numeric_no_unit,0,56,56

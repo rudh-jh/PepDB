@@ -1,0 +1,32 @@
+﻿metric,value
+input_master_rows,859
+raw_list_rows,859
+raw_detail_rows,859
+rescued_master_rows,859
+before_parse_status::exact_molar,285
+before_parse_status::missing,393
+before_parse_status::molar_threshold,13
+before_parse_status::mass_concentration_needs_mass,21
+before_parse_status::numeric_no_unit,147
+after_parse_status::exact_molar,306
+after_parse_status::missing,393
+after_parse_status::molar_threshold,13
+after_parse_status::numeric_no_unit,91
+after_parse_status::rescued_numeric_no_unit,56
+rescue_action::mass_da_estimated_from_sequence,257
+rescue_action::no_action,521
+rescue_action::reparsed_ic50_with_improved_rules; mass_da_estimated_from_sequence,25
+rescue_action::rescued_numeric_no_unit_from_sequence_context,54
+rescue_action::rescued_numeric_no_unit_from_sequence_context; mass_da_estimated_from_sequence,2
+backfill::pubmed_id_raw,0
+backfill::title_raw,0
+backfill::protein_raw,0
+backfill::food_matrix_raw,0
+backfill::culture_raw,0
+backfill::hydrolysis_raw,0
+backfill::experiment_raw,0
+backfill::model_raw,0
+backfill::assay_raw,0
+backfill::method_of_analysis_raw,0
+backfill::mz_ratio_raw,0
+backfill::mass_raw,0

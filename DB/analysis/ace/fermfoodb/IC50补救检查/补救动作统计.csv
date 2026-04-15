@@ -1,0 +1,6 @@
+﻿rescue_action,count
+no_action,521
+mass_da_estimated_from_sequence,257
+rescued_numeric_no_unit_from_sequence_context,54
+reparsed_ic50_with_improved_rules; mass_da_estimated_from_sequence,25
+rescued_numeric_no_unit_from_sequence_context; mass_da_estimated_from_sequence,2
