@@ -1,16 +1,27 @@
 ﻿metric,value
 input_rows_total,575
-benchmark_bucket::conflict_review_pool,575
-refined_tier::Tier_E_insufficient,575
+benchmark_bucket::high_confidence_core,88
+benchmark_bucket::single_source_candidates,313
+benchmark_bucket::conflict_review_pool,174
+refined_tier::Tier_A,12
+refined_tier::Tier_B,76
+refined_tier::Tier_C_single_source,313
+refined_tier::Tier_D_conflicting,159
+refined_tier::Tier_E_insufficient,15
+consensus_tier::Tier A,12
+consensus_tier::Tier B,76
+consensus_tier::Tier C,313
+consensus_tier::Tier D,159
+consensus_tier::Tier E,15
 stability_flag::cross_source_consistent,88
-stability_flag::conflicting,211
-stability_flag::unknown,15
 stability_flag::within_range_consistent,41
 stability_flag::singleton,220
+stability_flag::conflicting,211
+stability_flag::unknown,15
 source_count::1,313
 source_count::2,214
 source_count::3,38
 source_count::4,10
-high_confidence_core_rows,0
-single_source_candidates_rows,0
-conflict_review_pool_rows,575
+high_confidence_core_rows,88
+single_source_candidates_rows,313
+conflict_review_pool_rows,174

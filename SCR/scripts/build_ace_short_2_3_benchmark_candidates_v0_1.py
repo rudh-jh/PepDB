@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ACE short 2/3 benchmark candidates v0.1（纯标准库版）
-==================================================
+ACE short 2/3 benchmark candidates v0.1（纯标准库版，修正版）
+==========================================================
 
 输入
 ----
@@ -20,20 +20,18 @@ DB/worksets/ace/merged/
 用途
 ----
 - 把共识分层结果整理成更适合 benchmark / 论文 / 工作集使用的三层结构
-- 对原来的 Tier_X 进一步拆分为：
+- 对原来的 Tier D / Tier E 分别映射到：
   * Tier_D_conflicting
   * Tier_E_insufficient
 
 规则
 ----
 1) high_confidence_core
-   - 原 Tier_A / Tier_B
+   - 原 Tier A / Tier B
 2) single_source_candidates
-   - 原 Tier_C
+   - 原 Tier C
 3) conflict_review_pool
-   - 原 Tier_X 中：
-       * stability_flag == conflicting  -> Tier_D_conflicting
-       * 其他                           -> Tier_E_insufficient
+   - 原 Tier D / Tier E
 """
 
 from __future__ import annotations
@@ -198,29 +196,29 @@ def assign_benchmark_bucket(row: Dict[str, str]) -> Dict[str, object]:
     priority = 0
     note = ""
 
-    if tier in {"Tier_A", "Tier_B"}:
-        refined_tier = tier
+    if tier in {"Tier A", "Tier B"}:
+        refined_tier = tier.replace(" ", "_")
         bucket = "high_confidence_core"
-        priority = 1 if tier == "Tier_A" else 2
+        priority = 1 if tier == "Tier A" else 2
         note = "high-consensus short peptide candidate"
 
-    elif tier == "Tier_C":
+    elif tier == "Tier C":
         refined_tier = "Tier_C_single_source"
         bucket = "single_source_candidates"
         priority = 3
         note = "single-source usable IC50 candidate"
 
-    elif tier == "Tier_X":
-        if stability_flag == "conflicting":
-            refined_tier = "Tier_D_conflicting"
-            bucket = "conflict_review_pool"
-            priority = 4
-            note = "multi-source conflicting short peptide; requires review"
-        else:
-            refined_tier = "Tier_E_insufficient"
-            bucket = "conflict_review_pool"
-            priority = 5
-            note = "insufficient or unclear evidence pattern"
+    elif tier == "Tier D":
+        refined_tier = "Tier_D_conflicting"
+        bucket = "conflict_review_pool"
+        priority = 4
+        note = "multi-source conflicting short peptide; requires review"
+
+    elif tier == "Tier E":
+        refined_tier = "Tier_E_insufficient"
+        bucket = "conflict_review_pool"
+        priority = 5
+        note = "insufficient or unclear evidence pattern"
 
     else:
         refined_tier = "Tier_E_insufficient"
@@ -228,7 +226,6 @@ def assign_benchmark_bucket(row: Dict[str, str]) -> Dict[str, object]:
         priority = 5
         note = "fallback bucket for unknown tier"
 
-    # 补一点解释性 note
     if spread_ratio is not None:
         note = f"{note}; spread_ratio={spread_ratio:.4f}; source_count={source_count}; score={score}"
     else:
@@ -253,6 +250,10 @@ def build_summary_rows(rows: List[Dict[str, object]]) -> List[Dict[str, object]]
     refined_counter = Counter(clean_text(r.get("refined_tier")) or "" for r in rows)
     for k, v in refined_counter.items():
         summary.append({"metric": f"refined_tier::{k}", "value": v})
+
+    consensus_counter = Counter(clean_text(r.get("consensus_tier")) or "" for r in rows)
+    for k, v in consensus_counter.items():
+        summary.append({"metric": f"consensus_tier::{k}", "value": v})
 
     stability_counter = Counter(clean_text(r.get("stability_flag")) or "" for r in rows)
     for k, v in stability_counter.items():
@@ -283,7 +284,7 @@ def build_summary_rows(rows: List[Dict[str, object]]) -> List[Dict[str, object]]
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="构建 ACE short 2/3 benchmark candidates v0.1（纯标准库版）")
+    parser = argparse.ArgumentParser(description="构建 ACE short 2/3 benchmark candidates v0.1（纯标准库版，修正版）")
     parser.add_argument(
         "--project-root",
         type=str,
@@ -350,7 +351,7 @@ def main() -> int:
     write_csv(output_dir / SUMMARY_OUTPUT, summary_rows, ["metric", "value"])
 
     print("=" * 80)
-    print("ACE short 2/3 benchmark candidates v0.1 构建完成")
+    print("ACE short 2/3 benchmark candidates v0.1 构建完成（修正版）")
     print(f"项目根目录：{project_root}")
     print(f"输入文件：{input_path}")
     print(f"总记录数：{len(benchmark_rows)}")
