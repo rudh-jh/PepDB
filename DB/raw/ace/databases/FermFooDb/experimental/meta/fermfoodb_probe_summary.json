@@ -1,0 +1,59 @@
+{
+  "probe_ok": true,
+  "base_url_candidates": [
+    "https://webs.iiitd.edu.in/raghava/fermfoodb/",
+    "http://webs.iiitd.edu.in/raghava/fermfoodb/"
+  ],
+  "start_trials": [
+    {
+      "candidate_url": "https://webs.iiitd.edu.in/raghava/fermfoodb/",
+      "ok": true,
+      "status": 200,
+      "final_url": "https://webs.iiitd.edu.in/raghava/fermfoodb/",
+      "content_type": "text/html; charset=UTF-8",
+      "error_type": "",
+      "error_message": "",
+      "elapsed_sec": 2.0032
+    }
+  ],
+  "selected_start_url": "https://webs.iiitd.edu.in/raghava/fermfoodb/",
+  "allowed_hosts": [
+    "webs.iiitd.edu.in"
+  ],
+  "max_pages": 20,
+  "max_depth": 1,
+  "timeout": 20,
+  "sleep_sec": 0.3,
+  "save_limit": 12,
+  "total_requests": 20,
+  "visited_pages": 17,
+  "saved_sample_pages": 12,
+  "keyword_hit_pages": 7,
+  "page_type_counter": {
+    "detail_like": 3,
+    "list_like": 14
+  },
+  "error_count": 3,
+  "ace_keywords": [
+    "ace",
+    "ace inhibitory",
+    "ace-inhibitory",
+    "angiotensin",
+    "angiotensin converting enzyme",
+    "angiotensin-converting enzyme",
+    "antihypertensive",
+    "hypertension",
+    "blood pressure"
+  ],
+  "page_keywords": [
+    "peptide",
+    "activity",
+    "ic50",
+    "function",
+    "matrix",
+    "culture",
+    "protein",
+    "fermentation",
+    "hydrolysis"
+  ]
+}

@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<!--
+Template Name: Lolwork
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="r.css" rel="stylesheet" type="text/css" media="all">
+<!--link rel="stylesheet" href="tablesaw-master/dist/tablesaw.css">
+<script src="tablesaw-master/dist/dependencies/jquery.js"></script>
+<script src="tablesaw-master/dist/tablesaw.js"></script>
+<script src="//filamentgroup.github.io/demo-head/loadfont.js"></script-->
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row0">
+  <div id="topbar" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="fl_left">
+    </div>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <h1><a href="index.html">FermFooDb</a></h1>
+	<p>Fermented Food Database</p>
+      <!--p>Endogenous peptides as biomarkers</p-->
+    </div>
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_right">
+      <ul class="clear">
+
+        <li class="active"><a href="index.php">Home</a></li>
+
+
+
+        <li><a class="drop" href="#">Search</a>
+          <ul>
+            <li><a href="keyword.php">Keywords</a></li>
+            <li><a href="peptide.php">Peptide</a></li>
+            <li><a href="a1dv.php">Advance</a></li>
+            
+          </ul>
+        </li>
+        <li><a class="drop" href="#">Browse</a>
+          <ul>
+            <li><a href="food_matrix.php">Food_Matrix</a></li>
+            <li><a  href="activity.php">Activity</a>
+	    <li><a  href="culture.php">Culture</a>
+	<li><a  href="hydrolysis.php">Hydrolysis</a>
+	<li><a  href="experiment.php">Experiment</a> </li>
+	<li><a  href="prot_1.php">Protein</a> </li>
+            <!--li><a href="#">Level 2</a></li-->
+        </li></ul>
+
+        <li><a class="drop" href="#">Similarity</a>
+<ul>
+            <li><a href="blast.php">BLAST Search</a></li>
+            <li><a  href="smith.php">Smith-Waterman</a>
+<li><a href="align.php">Multiple alignment</a></li>
+	 <li><a  href="pep.php">Peptide Mapping</a>
+            <!--li><a  href="#">2D similarity</a>
+<li><a href="#">3D similarity</a></li--> 
+</ul></li>
+        <li><a class="drop" href="#">General</a>
+          <ul>
+            <li><a href="help.php">Help</a></li>
+            <li><a href="submit.php">Data Submission</a></li>
+
+          </ul>    
+         </li>      
+        <li><a href="contact.php">Contact</a></li>
+	<li><a href="team.php">Developers</a></li>     
+ </ul>
+    </nav>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear">
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content">
+<title>Keyword Search</title>
+<script type="text/javascript">
+function chkcontrol(j){
+        var total=0;
+        for(var i=0; i < document.forms["myForm"].elements.length; i++){
+                var e=document.forms["myForm"].elements[i];
+                //if((document.forms["myForm"].elements[i].checked)&&(e.name !='pepnam')){
+                if((document.forms["myForm"].elements[i].checked)&&(e.name !='pmid')&&(e.name !='peptide')&&(e.name !='seq')&&(e.name !='proteinname')&&(e.name !='uniprot')&&(e.name !='fluid')&&(e.name !='mass')&&(e.name !='ptech')&&(e.name !='cancer')&&(e.name !='mod')&&(e.name !='regulation')&&(e.name !='validation')&&(e.name !='accuracy')&&(e.name !='pep_atlas')&&(e.name !='iedb')){
+			
+                        total =total +1;}
+                if(total > 7){
+			jQuery(function(){
+    			var max = 7;
+			//var checkboxes = $('input[type="checkbox"]');                
+			var checkboxes = $('input:checkbox[id^="dkkd"]');                
+    			checkboxes.change(function(){
+        			var current = checkboxes.filter(':checked').length;
+        			checkboxes.filter(':not(:checked)').prop('disabled', current >= max);
+    			});
+			});
+
+			//if(total > 6){
+                        alert("Please Select only Seven Fields")
+        		document.forms["myForm"].elements[j].checked = false ;
+        		return false;
+                }
+        }
+} 
+</script>
+<script type="text/javascript">
+	function validateForm(){
+		var x=document.forms["myForm"]["txt"].value
+		if (x==null || x=="" || x=="*"){
+			alert("Pleasee enter a keyword");
+			return false;
+		}
+	}
+</script>
+<script type="text/javascript">
+function validateForm(){
+        var x=document.forms["myForm"]["txt"].value
+                if (x==null || x=="" || x=="*"){
+                        alert("Pleas enter a keyword");
+                        return false;
+                }
+}
+
+function paste_example1(){document.myForm.txt.value = "8201050";}
+function paste_example2(){document.myForm.txt.value = "SKVLPVPQ";}
+function paste_example3(){document.myForm.txt.value = "Marine Protein";}
+function paste_example4(){document.myForm.txt.value = "Milk";}
+function paste_example5(){document.myForm.txt.value = "3";}
+function paste_example6(){document.myForm.txt.value = "4.5";}
+function paste_example7(){document.myForm.txt.value = "SHR";}
+function paste_example8(){document.myForm.txt.value = "Lactobacillus helveticus";}
+function paste_example9(){document.myForm.txt.value = "Ace-inhibitory"}
+function paste_example10(){document.myForm.txt.value = "LC-MS";}
+function paste_example11(){document.myForm.txt.value = "Proteases";}
+function paste_example12(){document.myForm.txt.value = "bioactive peptides";}
+//function paste_example14(){document.myForm.txt.value = "High uptake efficiency";}
+//function paste_example15(){document.myForm.txt.value = "Endocytic pathway";}
+//function paste_example16(){document.myForm.txt.value = "In vitro";}
+//function paste_example17(){document.myForm.txt.value = "HeLa";}
+//function paste_example18(){document.myForm.txt.value = "BALB/c mice";}
+//function paste_example19(){document.myForm.txt.value = "Biotin";}
+//function jj(){document.getElementById("check10").checked=true;}
+//function kk(){document.getElementById("check11").checked=true;}
+function bb(){document.getElementById("check2").checked=true;}
+function rr(){document.getElementById("check4").checked=true;}
+function qq(){document.getElementById("check17").checked=true;}
+function dd(){document.getElementById("check14").checked=true;}
+function jj(){document.getElementById("check10").checked=true;}
+function kk(){document.getElementById("check11").checked=true;}
+function ll(){document.getElementById("check12").checked=true;}
+function oo(){document.getElementById("check15").checked=true;}
+function ff(){document.getElementById("check6").checked=true;}
+function mm(){document.getElementById("check13").checked=true;}
+function nn(){document.getElementById("check14").checked=true;}
+function ss(){document.getElementById("check19").checked=true;}
+
+
+//function ll(){document.getElementById("check5").checked=true;}
+//function oo(){document.getElementById("check15").checked=true;}
+//function ff(){document.getElementById("check6").checked=true;}
+//function mm(){document.getElementById("check13").checked=true;}
+//function nn(){document.getElementById("check14").checked=true;}
+function a()
+{
+        document.getElementById("check1").checked=true;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+	document.getElementById("check20").checked=false;
+	document.getElementById("check21").checked=false;
+
+}
+
+function b()
+{
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=true;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+
+
+}
+function c()
+{
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=true;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function d()
+{
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=true;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+}
+function e()
+{
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=true;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function f(){
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=true;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function g(){
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=true;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function h(){
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=true;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+}
+function i(){
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=true;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;                       
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function j()
+{ 
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=true;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;                       
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+
+function k()
+{ 
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=true;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;                       
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function l()
+{ 
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=true;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;                       
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function m()
+{ 
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=true;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;                       
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function n()
+{ 
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=true;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;                       
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function o()
+{ 
+        document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=true;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+}
+
+
+function p()
+{ 
+ document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=true;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+}
+
+
+function q()
+{ 
+ document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=true;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=false;
+
+
+}
+function r()
+{ 
+ document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=true;
+        document.getElementById("check19").checked=false;
+
+
+}
+function s()
+{ 
+ document.getElementById("check1").checked=false;
+        document.getElementById("check2").checked=false;
+        document.getElementById("check3").checked=false;
+        document.getElementById("check4").checked=false;
+        document.getElementById("check5").checked=false;
+        document.getElementById("check6").checked=false;
+        document.getElementById("check7").checked=false;
+        document.getElementById("check8").checked=false;
+        document.getElementById("check9").checked=false;
+        document.getElementById("check10").checked=false;
+        document.getElementById("check11").checked=false;
+        document.getElementById("check12").checked=false;
+        document.getElementById("check13").checked=false;
+        document.getElementById("check14").checked=false;
+        document.getElementById("check15").checked=false;
+        document.getElementById("check16").checked=false;
+        document.getElementById("check17").checked=false;
+        document.getElementById("check18").checked=false;
+        document.getElementById("check19").checked=true;
+
+
+}
+</script>
+
+<!--script language="javascript">
+function checkAll(){
+        for (var i=0;i<document.forms[0].elements.length;i++){
+                var e=document.forms[0].elements[i];
+                if ((e.name != 'allbox') &&(e.type=='checkbox') && (e.name!='pid')&& (e.name!='pepseq')&& (e.name!='pepnam')&& (e.name!='chiral')&&(e.name!='source')&& (e.name!='cat') && (e.name!='subcellocal')&& (e.name!='ntermod')&& (e.name!='ctermod') && (e.name!='cellline') && (e.name!='ivmodel') && (e.name!='cargo')){
+                        e.checked=document.forms[0].allbox.checked;
+                }
+        }
+}
+</script-->
+
+
+
+<!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<h1 align="center"><strong>Keyword Search Module of  FermFooDb Database</strong></h1>
+<p align=justify>  This page is designed for performing extensive search against FermFooDb Database. It allows the user to search in any field or against multiple fields. By default, it searches against major fields. It also allows the user to DISPLAY desired fields of the database. If you need any help, please visit <a href="http://webs.iiitd.edu.in/raghava/cancerpdf/help.php#ks">HELP</a> page.
+</p>
+<H1 align=center>Query Submission Form</H1>
+<font color="black">
+<form name="myForm" action="search_kw.php" method="POST" enctype="multipart/form-data" onSubmit="return validateForm()">
+<fieldset name=KEYWORD>
+
+Please paste/insert/type your query to be searched: </b><input type="text" name="txt" size="30" placeholder="Enter Keyword ...." pattern="^[a-zA-Z0-9\s\.]+">&nbsp;&nbsp;&nbsp;&nbsp;<INPUT TYPE = "SUBMIT" VALUE = "Search"><br></center>
+<!-- main body --> 
+<p align=left><b>Select Fields to be Searched</b> </p>
+<!-- ################################################################################################ -->
+<div class="group btmspace-30"> 
+<!-- Left Column -->
+<div class="one_half first">
+<!-- ################################################################################################ -->
+
+<font><input type=checkbox id="check1" name=pmid value='pmid'  > </font>
+<font>Pubmed Id&nbsp;[<input type="button"  value= "8201050" onClick="paste_example1();a()" >]</font><br/>
+
+<font><input type=checkbox id="check2" name=seq value='seq'  ></font>
+<font>&nbsp;Peptide Sequence &nbsp;[<input type="button"  value="SKVLPVPQ" onClick="paste_example2();b()">] </font></br>
+
+<font><input type=checkbox id="check3" name=proteinname value='proteinname'   ></font>
+<font>&nbsp;Protein name &nbsp;[<input type="button"  value= "Marine Protein" onClick="paste_example3();c()">] </font></br>
+
+<font><input type=checkbox id="check4" name=matrix value='matrix' checked ></font>
+<font>&nbsp;Food Matrix &nbsp;[<input type="button"  value= "Milk" onClick="paste_example4();d()">] </font></br>
+
+<font><input type=checkbox id="check5" name=len value='len'   ></font>
+<font>&nbsp;Length of Protein &nbsp;[<input type="button"  value= "3" onClick="paste_example5();e()">] </font></br>
+
+<font><input type=checkbox id="check6" name=ph value='ph'  ></font>
+<font>&nbsp;pH&nbsp;[<input type="button"  value="4.5" onClick="paste_example6();f()">] </font></br>
+
+<font><input type=checkbox id="check7" name=model value='model' ></font>
+<!--font>&nbsp;Profiling Technique &nbsp;[<input type="button"  value= "MALDI-TOF" onClick="paste_example7();dd()">] </font></br-->
+<font>&nbsp;Model &nbsp;[<input type="button"  value= "SHR" onClick="paste_example7();g()">] </font></br>
+
+
+<!-- ################################################################################################ --> 
+</div>
+<!-- / Left Column --> 
+<!-- Middle Column -->
+<font color="black">
+<div class="one_half" last>
+</br>
+
+<font><input type=checkbox id="check8" name=starter_culture value='starter_culture'  ></font>
+<font>&nbsp;Starter Culture &nbsp;[<input type="button"  value= "Lactobacillus helveticus" onClick="paste_example8();h()">] </font></br>
+
+<font><input type=checkbox id="check9" name=activity value='activity'  ></font>
+<font>&nbsp;Activity &nbsp;[<input type="button"  value= "ACE inhibitory" onClick="paste_example9();i()">] </font></br
+
+<font><input type=checkbox id="check10" name=method value='method'  ></font>
+<font>&nbsp;Method of Analysis &nbsp;[<input type="button"  value= "LC-MS" onClick="paste_example10();j()">] </font></br>
+
+<font><input type=checkbox id="check11" name=hydrolysis value='hydrolysis'  ></font>
+<font>&nbsp;hydrolysis &nbsp;[<input type="button"  value= "Proteases" onClick="paste_example11();k()">] </font></br>
+
+<font><input type=checkbox id="check12" name=body_search value='body_search'  ></font>
+<font>&nbsp;Body Search &nbsp;[<input type="button"  value= "All Fields" onClick="paste_example12();l()">] </font></br>
+
+<!--font><input type=checkbox id="check12" name=accuracy value='patent'  ></font>
+<font>&nbsp;Patent &nbsp;[<input type="button"  value= "US8865155B2" onClick="paste_example12();ll()">] </font></br-->
+
+</div>
+<!-- / Middle Column --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+
+<!-- ################################################################################################ --> 
+<!-- / main body -->
+<div class="clear"></div>
+<!-- main body --> 
+<p align=left><b>Select fields to be Displayed </b>(Maximum five fields at a time)</p>
+<!-- ################################################################################################ -->
+<div class="group btmspace-30"> 
+<!-- Left Column -->
+<div class="one_half first"> 
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ --> 
+<font color="black">
+<font><input id="dkkd" type=checkbox name=seq_plain1 value='seq_plain1' checked onclick='chkcontrol(5)';>&nbsp;Peptide Sequence</font></br>
+<font><input id="dkkd" type=checkbox name=protein1 value='protein1'checked onclick='chkcontrol(6)';>&nbsp;Protein Name</font></br>
+<font><input id="dkkd" type=checkbox name=len1 value='len1' onclick='chkcontrol(6)';>&nbsp;Length of peptide sequence</font></br>
+<font><input id="dkkd" type=checkbox name=ph1 value='ph1'  checked onclick='chkcontrol(7)';>&nbsp;pH</font></br>
+<font><input id="dkkd" type=checkbox name=temp1 value='temp1'   onclick='chkcontrol(8)';>&nbsp;Temperature<br /></font></ul>
+<font><input id="dkkd" type=checkbox name=incubation_time1 value='incubation_time1' onclick='chkcontrol(9)';>&nbsp;Incubation Time<br /></font></ul>
+<font><input id="dkkd" type=checkbox name=activity1 value='activity1' onclick='chkcontrol(9)';>&nbsp;Activity<br /></font></ul>
+<font><input id="dkkd" type=checkbox name=invitro_vivo1 value='invitro_vivo1' onclick='chkcontrol(9)';>&nbsp; In Vivo/In Vitro<br /></font></ul>
+</div>
+<!-- / Left Column --> 
+<!-- Middle Column -->
+
+<div class="one_half" last> 
+<font color="black">
+<font><input id="dkkd" type=checkbox name=model1 value='model1'  checked onclick='chkcontrol(4)';>&nbsp;Model</font></br>
+<font><input id="dkkd" type=checkbox name=assay1 value='assay1'  onclick='chkcontrol(4)';>&nbsp;Assay</font></br>
+<font><input id="dkkd" type=checkbox name=starter_culture1 value='starter_culture1' checked onclick='chkcontrol(4)';>&nbsp;Starter Culture</font></br>
+<font><input id="dkkd" type=checkbox name=hydrolysis1 value='hydrolysis1'  onclick='chkcontrol(4)';>&nbsp;Hydrolysis</font></br>
+<font><input id="dkkd" type=checkbox name=method1 value='method1'   onclick='chkcontrol(4)';>&nbsp;Method</font></br>
+<font><input id="dkkd" type=checkbox name=m_z1 value='m_z1'   onclick='chkcontrol(4)';>&nbsp;M/Z</font></br>
+<font><input id="dkkd" type=checkbox name=mass1 value='mass1'  onclick='chkcontrol(19)';>&nbsp;Mass<br /></font>
+<font><input id="dkkd" type=checkbox name=ic501 value='ic501'  onclick='chkcontrol(13)';>&nbsp;IC50<br /></font>
+<!--font><input id="dkkd" type=checkbox name=patent1 value='patent1' checked  onclick='chkcontrol(15)';>&nbsp;Patent<br /></font-->
+</ul>
+</div>
+
+
+
+
+
+<div><table border=0><tr><td align=center><INPUT TYPE = "RESET" VALUE = "Clear or Reset"> </td><td> 
+<INPUT TYPE = "SUBMIT" VALUE = "Search"></font></td></tr></table>
+<!-- ################################################################################################ --> 
+<!-- / main body -->
+</div>
+</div>
+</div>
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ --> 
+<!-- ################################################################################################ -->
+</div>
+</div>
+<body id="top">  
+
+
+  <!-- ################################################################################################ -->
+    <!-- / main body -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!--<div class="wrapper bgded overlay coloured" style="background-image:url('images/demo/backgrounds/02.png');">
+  <div class="hoc container clear"> 
+    <article class="center">
+      <h2 class="font-x3 uppercase">Sollicitudin aenean</h2>
+      <p class="btmspace-50 font-x2 capitalise">Pharetra nunc laoreet amet neque non quis condimentum</p>
+      <footer>
+        <ul class="nospace inline pushright">
+          <li><a class="btn inverse" href="#">Maecenas</a></li>
+          <li><a class="btn" href="#">Venenatis</a></li>
+        </ul>
+      </footer>
+    </article>
+  </div>
+<div> 
+--><!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+<div>
+<div class="wrapper row1">
+  <!--footer id="footer" class="hoc clear"-->
+<footer id="footer" class="hoc clear">
+    <!-- ################################################################################################ -->
+    <div id="" class="fl_center">
+      <!--p>Endogenous peptides as biomarkers</p-->
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_center">
+      <!--ul class="clear"-->
+<ul>
+<li><a href="http://webs.iiitd.edu.in/raghava/" target="_blank"><font color=white>Raghava's Group</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/" target="_blank"><font color=white>CRDD</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/" target="_blank"><font color=white>IMTECH</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancerdr/" target="_blank"><font color=white>CancerDR</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancercsp/" target="_blank"><font color=white>CancerCSP</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancerppd/" target="_blank"><font color=white>CancerPPD</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/tumorhpd/" target="_blank"><font color=white>TumorHPD</font></a></li>
+<li><a href="http://www.csir.res.in/" target="_blank"><font color=white>CSIR</font></a></li>
+  </ul>
+</nav>
+    <!-- ################################################################################################ -->
+  </div>
+</div></div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="layout/scripts/jquery.placeholder.min.js"></script>
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>

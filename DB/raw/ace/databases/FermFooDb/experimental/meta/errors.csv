@@ -1,0 +1,4 @@
+﻿stage,url,status,error_type,error_message,elapsed_sec
+crawl,https://webs.iiitd.edu.in/raghava/fermfoodb/search.php,404,HTTPError,HTTP Error 404: Not Found,0.7115
+crawl,https://webs.iiitd.edu.in/raghava/fermfoodb/browse.php,404,HTTPError,HTTP Error 404: Not Found,0.605
+crawl,https://webs.iiitd.edu.in/raghava/fermfoodb/advance.php,404,HTTPError,HTTP Error 404: Not Found,0.7431

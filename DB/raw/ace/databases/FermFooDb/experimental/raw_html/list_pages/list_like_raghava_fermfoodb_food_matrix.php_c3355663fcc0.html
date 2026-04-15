@@ -1,0 +1,221 @@
+<html lang="en">
+<head>
+<title>Food_Matrix</title>
+
+	<script type="text/javascript">
+function popup1(){cuteLittleWindow = window.open("page1pie.html", "littleWindow", "location=no,width=1000,height=500"); }
+function getseq(t){
+document.getElementById('SEQUENCE').value = "";
+var myVal;
+myVal = document.getElementById('SEQUENCE').value;
+myVal += ''+ t;
+document.getElementById('SEQUENCE').value = myVal;
+
+}
+</script>
+
+</head>
+<!DOCTYPE html>
+<!--
+Template Name: Lolwork
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="r.css" rel="stylesheet" type="text/css" media="all">
+<!--link rel="stylesheet" href="tablesaw-master/dist/tablesaw.css">
+<script src="tablesaw-master/dist/dependencies/jquery.js"></script>
+<script src="tablesaw-master/dist/tablesaw.js"></script>
+<script src="//filamentgroup.github.io/demo-head/loadfont.js"></script-->
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row0">
+  <div id="topbar" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="fl_left">
+    </div>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <h1><a href="index.html">FermFooDb</a></h1>
+	<p>Fermented Food Database</p>
+      <!--p>Endogenous peptides as biomarkers</p-->
+    </div>
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_right">
+      <ul class="clear">
+
+        <li class="active"><a href="index.php">Home</a></li>
+
+
+
+        <li><a class="drop" href="#">Search</a>
+          <ul>
+            <li><a href="keyword.php">Keywords</a></li>
+            <li><a href="peptide.php">Peptide</a></li>
+            <li><a href="a1dv.php">Advance</a></li>
+            
+          </ul>
+        </li>
+        <li><a class="drop" href="#">Browse</a>
+          <ul>
+            <li><a href="food_matrix.php">Food_Matrix</a></li>
+            <li><a  href="activity.php">Activity</a>
+	    <li><a  href="culture.php">Culture</a>
+	<li><a  href="hydrolysis.php">Hydrolysis</a>
+	<li><a  href="experiment.php">Experiment</a> </li>
+	<li><a  href="prot_1.php">Protein</a> </li>
+            <!--li><a href="#">Level 2</a></li-->
+        </li></ul>
+
+        <li><a class="drop" href="#">Similarity</a>
+<ul>
+            <li><a href="blast.php">BLAST Search</a></li>
+            <li><a  href="smith.php">Smith-Waterman</a>
+<li><a href="align.php">Multiple alignment</a></li>
+	 <li><a  href="pep.php">Peptide Mapping</a>
+            <!--li><a  href="#">2D similarity</a>
+<li><a href="#">3D similarity</a></li--> 
+</ul></li>
+        <li><a class="drop" href="#">General</a>
+          <ul>
+            <li><a href="help.php">Help</a></li>
+            <li><a href="submit.php">Data Submission</a></li>
+
+          </ul>    
+         </li>      
+        <li><a href="contact.php">Contact</a></li>
+	<li><a href="team.php">Developers</a></li>     
+ </ul>
+    </nav>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear">
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content">
+
+<p><h1 align="center"><strong>Welcome to Browse by Food Matrix of FermFooDB</strong></h1></p>
+<p align="justify">
+This page provides the facility to browse peptides on the basis of food matrix from which the peptidome have been obtained. Click on the Number of Entries corresponding to the food matrix to get detailed information. For more information see <a href="http://webs.iiitd.edu.in/raghava/fermfoodb/help.php#food_matrix"><font color=blue>HELP</font></a> page.
+</font>
+</p>
+
+<!--h2 align=center><b> Grouping of Peptides in Tabular Format</b></h2-->
+
+<table  border=1 width=100% cellpadding=10>
+<tr><th align=center><h3><strong>Food Matrix</strong></h3></th><th align=center> <strong>No. of Entries</strong></th></tr>
+  <tr><td><h3><font color=black>Milk</font></h3></td><td align=right><a href="browse_sub4.php?token=Milk&col=7"><font color=blue><h3>1265</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Casein</font></h3></td><td align=right><a href="browse_sub4.php?token=Casein&col=7"><font color=blue><h3>484</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Cheese</font></h3></td><td align=right><a href="browse_sub4.php?token=cheese&col=7"><font color=blue><h3>205</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Yogurt</font></h3></td><td align=right><a href="browse_sub4.php?token=Yogurt&col=7"><font color=blue><h3>85<h3></font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Wheat</font></h3></td><td align=right><a href="browse_sub4.php?token=wheat&col=7"><font color=blue><h3>70</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Soyabean</font></h3></td><td align=right><a href="browse_sub4.php?token=soy&col=7"><font color=blue><h3>59</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Wine</font></h3></td><td align=right><a href="browse_sub4.php?token=wine&col=7"><font color=blue><h3>37</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Yeast</font></h3></td><td align=right><a href="browse_sub4.php?token=yeast&col=7"><font color=blue><h3>16</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Whey</font></h3></td><td align=right><a href="browse_sub4.php?token=Whey&col=7"><font color=blue><h3>14</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Natto</font></h3></td><td align=right><a href="browse_sub4.php?token=Natto&col=7"><font color=blue><h3>13</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Kamut</font></h3></td><td align=right><a href="browse_sub4.php?token=kamut&col=7"><font color=blue><h3>7</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Sauce</font></h3></td><td align=right><a href="browse_sub4.php?token=sauce&col=7"><font color=blue><h3>6</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Sprouts</font></h3></td><td align=right><a href="browse_sub4.php?token=sprouts&col=7"><font color=blue><h3>6</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Tofuyu</font></h3></td><td align=right><a href="browse_sub4.php?token=Tofuyo&col=7"><font color=blue><h3>4</font></h3></a></td></tr>
+  <tr><td><h3><font color=black>Acetes Chinensis</font></h3></td><td align=right><a href="browse_sub4.php?token=Acetes chinensis&col=7"><font color=blue><h3>3</font></h3></a></td></tr>
+</table>
+</div>
+</div>
+
+<body id="top">  
+
+
+  <!-- ################################################################################################ -->
+    <!-- / main body -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!--<div class="wrapper bgded overlay coloured" style="background-image:url('images/demo/backgrounds/02.png');">
+  <div class="hoc container clear"> 
+    <article class="center">
+      <h2 class="font-x3 uppercase">Sollicitudin aenean</h2>
+      <p class="btmspace-50 font-x2 capitalise">Pharetra nunc laoreet amet neque non quis condimentum</p>
+      <footer>
+        <ul class="nospace inline pushright">
+          <li><a class="btn inverse" href="#">Maecenas</a></li>
+          <li><a class="btn" href="#">Venenatis</a></li>
+        </ul>
+      </footer>
+    </article>
+  </div>
+<div> 
+--><!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+<div>
+<div class="wrapper row1">
+  <!--footer id="footer" class="hoc clear"-->
+<footer id="footer" class="hoc clear">
+    <!-- ################################################################################################ -->
+    <div id="" class="fl_center">
+      <!--p>Endogenous peptides as biomarkers</p-->
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_center">
+      <!--ul class="clear"-->
+<ul>
+<li><a href="http://webs.iiitd.edu.in/raghava/" target="_blank"><font color=white>Raghava's Group</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/" target="_blank"><font color=white>CRDD</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/" target="_blank"><font color=white>IMTECH</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancerdr/" target="_blank"><font color=white>CancerDR</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancercsp/" target="_blank"><font color=white>CancerCSP</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancerppd/" target="_blank"><font color=white>CancerPPD</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/tumorhpd/" target="_blank"><font color=white>TumorHPD</font></a></li>
+<li><a href="http://www.csir.res.in/" target="_blank"><font color=white>CSIR</font></a></li>
+  </ul>
+</nav>
+    <!-- ################################################################################################ -->
+  </div>
+</div></div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="layout/scripts/jquery.placeholder.min.js"></script>
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>
+<!--div class="wrapper row2">
+  <div class="rounded">
+    <nav id="mainav" class="clear">
+      <ul class="clear">
+<li><a href="http://osddlinux.osdd.net/" target="_blank"><font color=blue>OSDDlinux</font></a></li>
+<li><a href="/raghava/" target="_blank"><font color=blue>Raghava's Group</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/" target="_blank"><font color=blue>IMTECH</font></a></li>
+<li><a href="http://www.csir.res.in/" target="_blank"><font color=blue>CSIR</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/" target="_blank"><font color=blue>CRDD</font></a>
+<li><a href="http://webs.iiitd.edu.in/raghava/cppsite1/" target="_blank"><font color=blue>CPPSITE 1.0</font></a>
+</li>
+</ul>
+</nav>
+</div-->

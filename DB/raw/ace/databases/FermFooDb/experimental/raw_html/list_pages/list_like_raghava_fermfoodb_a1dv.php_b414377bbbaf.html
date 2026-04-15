@@ -1,0 +1,281 @@
+<html lang="en">
+<head>
+<title>Advance Search</title>
+<!DOCTYPE html>
+<!--
+Template Name: Lolwork
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="r.css" rel="stylesheet" type="text/css" media="all">
+<!--link rel="stylesheet" href="tablesaw-master/dist/tablesaw.css">
+<script src="tablesaw-master/dist/dependencies/jquery.js"></script>
+<script src="tablesaw-master/dist/tablesaw.js"></script>
+<script src="//filamentgroup.github.io/demo-head/loadfont.js"></script-->
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row0">
+  <div id="topbar" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="fl_left">
+    </div>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <h1><a href="index.html">FermFooDb</a></h1>
+	<p>Fermented Food Database</p>
+      <!--p>Endogenous peptides as biomarkers</p-->
+    </div>
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_right">
+      <ul class="clear">
+
+        <li class="active"><a href="index.php">Home</a></li>
+
+
+
+        <li><a class="drop" href="#">Search</a>
+          <ul>
+            <li><a href="keyword.php">Keywords</a></li>
+            <li><a href="peptide.php">Peptide</a></li>
+            <li><a href="a1dv.php">Advance</a></li>
+            
+          </ul>
+        </li>
+        <li><a class="drop" href="#">Browse</a>
+          <ul>
+            <li><a href="food_matrix.php">Food_Matrix</a></li>
+            <li><a  href="activity.php">Activity</a>
+	    <li><a  href="culture.php">Culture</a>
+	<li><a  href="hydrolysis.php">Hydrolysis</a>
+	<li><a  href="experiment.php">Experiment</a> </li>
+	<li><a  href="prot_1.php">Protein</a> </li>
+            <!--li><a href="#">Level 2</a></li-->
+        </li></ul>
+
+        <li><a class="drop" href="#">Similarity</a>
+<ul>
+            <li><a href="blast.php">BLAST Search</a></li>
+            <li><a  href="smith.php">Smith-Waterman</a>
+<li><a href="align.php">Multiple alignment</a></li>
+	 <li><a  href="pep.php">Peptide Mapping</a>
+            <!--li><a  href="#">2D similarity</a>
+<li><a href="#">3D similarity</a></li--> 
+</ul></li>
+        <li><a class="drop" href="#">General</a>
+          <ul>
+            <li><a href="help.php">Help</a></li>
+            <li><a href="submit.php">Data Submission</a></li>
+
+          </ul>    
+         </li>      
+        <li><a href="contact.php">Contact</a></li>
+	<li><a href="team.php">Developers</a></li>     
+ </ul>
+    </nav>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear">
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content">
+<script type="text/javascript">
+	function validateForm(){
+		var x=document.forms["myForm"]["txt"].value
+		if (x==null || x=="" || x=="*"){
+			alert("Please enter a keyword");
+			return false;
+		}
+	}
+
+</script>
+<script language="javascript">
+	function checkAll(){
+		for (var i=0;i<document.forms[0].elements.length;i++){
+			var e=document.forms[0].elements[i];
+			if ((e.name != 'allbox') && (e.type=='checkbox')){
+				e.checked=document.forms[0].allbox.checked;
+			}
+		}
+	}
+</script>
+
+
+<!--div class="container">
+<div id ="main"-->
+
+<style type="text/css">
+.dropv, .dropv ul {padding: 0; margin: 0; list-style: none;}
+.dropv a {display: inline; width: 600px;}
+.dropv li {float: left; padding: 0px 8px 2px 0px;}  /* all list items */
+.dropv li ul {position: absolute; background: #F5ECCE; 
+  padding: 0px 0px 0px 4px; width: 600px; left: -9999px;} /* second-level lists */
+.dropv li:hover ul {left: auto; } /* nest list under hovered list items */
+.dropv li ul li a {color: #ffffff; text-decoration: none; display: block;}
+.dropv li ul li a:hover {color: yellow; background:#663399;}
+</style>
+<script type="text/javascript" src="o1.js"></script>
+<div class="text_area" align="justify">
+<!--li> <g:plusone size=medium></g:plusone>
+<div class="fb-like" data-href="http://info.csir.res.in/" data-send="true" data-layout="button_count" data-width="100" data-show-faces="true" data-font="arial"></div></li-->
+                              
+
+<h1 align="center"><strong>Advance Search Module of FermFooDb Database</strong></h1>
+This page is designed for advanced level of searching in <b>FermFooDb Database</b>. It allows user to perform complex queries, where user can search two or more than two fields with conditions. It also allows user to display any field. If you need more help, please visit <a href="http://webs.iiitd.edu.in/raghava/fermfoodb/help.php#adv">HELP</a> page.<br><br>
+
+
+<div id="center">
+<table border ="0" width ="1000" >
+
+<font color="black">
+<table align=center border=0 width=960><tr><td width="830" bgcolor=""><form name="myForm" action="search_advance.php" method="POST" enctype="multipart/form-data" onSubmit="return validateForm()">
+	<fieldset name=KEYWORD>
+	<legend align=center><b>Search Options</b></legend><br>
+
+<style type="text/css">
+#table td, th { padding: 0.5em; }
+.classy0 { background-color: #ECECEC; color: #234567; }
+.classy1 { background-color: #ECECEC; color: #828282; }
+</style>
+
+<br>
+<table width =802 border=0 align=center>
+ <!--tr>
+  <td>
+   
+  </td-->
+  <td align=right width=300px>
+   <ul class="dropv">
+        <li><a href="#"><font color=RED>Explanation for Complex Search</font></a> 
+    <ul>
+        <li><table>
+        <tr><td>
+        <font color=black> Complex Search is quite helpful when user has predefined query in mind. For instance, User come up with the following questions in mind and wants to SEARCH<br/><br/>
+        <ol>
+        <li>Food Matrix by name e.g. <b>Milk </b></li>
+        <li>among the above selected peptides, select those having <b> ESIMS</b> profiling method</li>
+	<li>among the above selection criteria, show peptides with studied in<b>Rats</b> only</li>
+        <li>among the above selected peptides, select only those having atleast <b>4</b> IC50</li>
+        </ol><br/><br/>
+        By clicking <font color=red><b>Submit</b></font>; user can get desired output.<br/> In a similar way, query can be extended using "+" button and reduced using "-" button.<br/>
+        <pre>                   Enjoy Search by query building !!</pre>
+        </td></tr>
+
+        </table></li>
+     </ul>
+    </li>
+   </ul>                        
+  </td> 
+ </tr>
+</table>
+
+<table bgcolor="#C6BFC5" border="5" bordercolor="black" id="table" width=800 align=center>
+
+<thead>
+  <tr>
+    <th align=left>No.</th>
+    <th align=left>Field</th>
+    <th align=left>Condition</th>
+    <th align=left>Query</th>
+    <th align=left>Operator</th>
+    <th align=left>Add</th>
+    <th align=left>Remove</th>
+  </tr>
+</thead>
+<tbody></tbody>
+</table>
+<br>
+<table border=0 width=800><tr><td align="center">
+<font color="black">
+<br>
+<input type="submit" value="Submit" />
+</table>
+</form>
+</table></table></table>
+</table>
+</div>
+</div>
+</div>
+</div>
+<body id="top">  
+
+
+  <!-- ################################################################################################ -->
+    <!-- / main body -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!--<div class="wrapper bgded overlay coloured" style="background-image:url('images/demo/backgrounds/02.png');">
+  <div class="hoc container clear"> 
+    <article class="center">
+      <h2 class="font-x3 uppercase">Sollicitudin aenean</h2>
+      <p class="btmspace-50 font-x2 capitalise">Pharetra nunc laoreet amet neque non quis condimentum</p>
+      <footer>
+        <ul class="nospace inline pushright">
+          <li><a class="btn inverse" href="#">Maecenas</a></li>
+          <li><a class="btn" href="#">Venenatis</a></li>
+        </ul>
+      </footer>
+    </article>
+  </div>
+<div> 
+--><!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+<div>
+<div class="wrapper row1">
+  <!--footer id="footer" class="hoc clear"-->
+<footer id="footer" class="hoc clear">
+    <!-- ################################################################################################ -->
+    <div id="" class="fl_center">
+      <!--p>Endogenous peptides as biomarkers</p-->
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_center">
+      <!--ul class="clear"-->
+<ul>
+<li><a href="http://webs.iiitd.edu.in/raghava/" target="_blank"><font color=white>Raghava's Group</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/" target="_blank"><font color=white>CRDD</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/" target="_blank"><font color=white>IMTECH</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancerdr/" target="_blank"><font color=white>CancerDR</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancercsp/" target="_blank"><font color=white>CancerCSP</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/cancerppd/" target="_blank"><font color=white>CancerPPD</font></a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/tumorhpd/" target="_blank"><font color=white>TumorHPD</font></a></li>
+<li><a href="http://www.csir.res.in/" target="_blank"><font color=white>CSIR</font></a></li>
+  </ul>
+</nav>
+    <!-- ################################################################################################ -->
+  </div>
+</div></div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="layout/scripts/jquery.placeholder.min.js"></script>
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>
