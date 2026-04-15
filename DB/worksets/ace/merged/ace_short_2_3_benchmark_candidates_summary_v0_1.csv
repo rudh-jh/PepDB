@@ -1,0 +1,16 @@
+﻿metric,value
+input_rows_total,575
+benchmark_bucket::conflict_review_pool,575
+refined_tier::Tier_E_insufficient,575
+stability_flag::cross_source_consistent,88
+stability_flag::conflicting,211
+stability_flag::unknown,15
+stability_flag::within_range_consistent,41
+stability_flag::singleton,220
+source_count::1,313
+source_count::2,214
+source_count::3,38
+source_count::4,10
+high_confidence_core_rows,0
+single_source_candidates_rows,0
+conflict_review_pool_rows,575
